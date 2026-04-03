@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:01:59.968819+09:00",
+  "generated_at": "2026-04-04T04:14:58.570135+09:00",
   "latest_date": "2026-04-04",
   "oldest_date": "2026-03-06",
   "sources": [
@@ -29,14 +29,14 @@
       "name": "pon.icu @health (archived)",
       "short_name": "pon.icu",
       "type": "misskey",
-      "favicon": "pon.webp"
+      "favicon": "misskey.webp"
     },
     {
       "id": 16,
       "name": "groundpolis.app @healthcare (archived)",
       "short_name": "g.app",
       "type": "misskey",
-      "favicon": "groundpolis.webp"
+      "favicon": "misskey.webp"
     },
     {
       "id": 12,
@@ -71,7 +71,7 @@
       "name": "yuinoid.neocities.org RSS",
       "short_name": "100%health",
       "type": "rss",
-      "favicon": "rss_5.webp"
+      "favicon": "/icon.webp"
     },
     {
       "id": 8,
@@ -85,14 +85,14 @@
       "name": "OpenWeatherMap",
       "short_name": "weather",
       "type": "weather",
-      "favicon": "weather.webp"
+      "icon_emoji": "🌤️"
     },
     {
       "id": 4,
       "name": "Last.fm objtus",
       "short_name": "last.fm",
       "type": "lastfm",
-      "favicon": "lastfm.webp"
+      "favicon": "lastfm.svg"
     },
     {
       "id": 9,
@@ -415,7 +415,7 @@
     },
     "2026-04-04": {
       "posts": 4,
-      "plays": 35
+      "plays": 45
     }
   }
 }
