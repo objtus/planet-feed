@@ -1,0 +1,7 @@
+/planet-data.json
+  Access-Control-Allow-Origin: https://yuinoid.neocities.org
+  Cache-Control: max-age=3600
+
+/planet-meta.json
+  Access-Control-Allow-Origin: https://yuinoid.neocities.org
+  Cache-Control: max-age=3600
