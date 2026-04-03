@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:58:51.554291+09:00",
+  "generated_at": "2026-04-04T05:08:48.113104+09:00",
   "latest_date": "2026-04-04",
   "oldest_date": "2026-03-06",
   "sources": [
@@ -414,8 +414,14 @@
       }
     },
     "2026-04-04": {
-      "posts": 4,
+      "posts": 6,
       "plays": 45
     }
+  },
+  "timeline_collapse": {
+    "types": [
+      "lastfm"
+    ],
+    "min_run": 3
   }
 }
