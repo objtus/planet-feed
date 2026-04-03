@@ -1,0 +1,421 @@
+{
+  "generated_at": "2026-04-04T02:56:51.389815+09:00",
+  "latest_date": "2026-04-04",
+  "oldest_date": "2026-03-06",
+  "sources": [
+    {
+      "id": 2,
+      "name": "tanoshii.site @health",
+      "short_name": "tanoshii",
+      "type": "misskey",
+      "favicon": "tanoshii.webp"
+    },
+    {
+      "id": 1,
+      "name": "misskey.io @yuinoid",
+      "short_name": "yuinoid@misskey.io",
+      "type": "misskey",
+      "favicon": "misskeyio.webp"
+    },
+    {
+      "id": 13,
+      "name": "sushi.ski @idoko",
+      "short_name": "idoko@sushi.ski",
+      "type": "misskey",
+      "favicon": "sushi.webp"
+    },
+    {
+      "id": 15,
+      "name": "pon.icu @health (archived)",
+      "short_name": "pon.icu",
+      "type": "misskey",
+      "favicon": "pon.webp"
+    },
+    {
+      "id": 16,
+      "name": "groundpolis.app @healthcare (archived)",
+      "short_name": "g.app",
+      "type": "misskey",
+      "favicon": "groundpolis.webp"
+    },
+    {
+      "id": 12,
+      "name": "msk.ilnk.info @google",
+      "short_name": "google@msk.ilnk.info",
+      "type": "misskey",
+      "favicon": "ilnk.webp"
+    },
+    {
+      "id": 11,
+      "name": "misskey.io @vknsq",
+      "short_name": "vknsq@misskey.io",
+      "type": "misskey",
+      "favicon": "misskeyio.webp"
+    },
+    {
+      "id": 3,
+      "name": "mistodon.cloud @healthcare",
+      "short_name": "mistodon",
+      "type": "mastodon",
+      "favicon": "mistodon.webp"
+    },
+    {
+      "id": 14,
+      "name": "mastodon.cloud @objtus",
+      "short_name": "masto.cloud",
+      "type": "mastodon",
+      "favicon": "mastocloud.webp"
+    },
+    {
+      "id": 5,
+      "name": "yuinoid.neocities.org RSS",
+      "short_name": "100%health",
+      "type": "rss",
+      "favicon": "rss_5.webp"
+    },
+    {
+      "id": 8,
+      "name": "GitHub",
+      "short_name": "github",
+      "type": "github",
+      "favicon": "github.webp"
+    },
+    {
+      "id": 7,
+      "name": "OpenWeatherMap",
+      "short_name": "weather",
+      "type": "weather",
+      "favicon": "weather.webp"
+    },
+    {
+      "id": 4,
+      "name": "Last.fm objtus",
+      "short_name": "last.fm",
+      "type": "lastfm",
+      "favicon": "lastfm.webp"
+    },
+    {
+      "id": 9,
+      "name": "iPhone ヘルス",
+      "short_name": "health",
+      "type": "health",
+      "favicon": "health.webp"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 写真",
+      "short_name": "photo",
+      "type": "photo",
+      "favicon": "photo.webp"
+    },
+    {
+      "id": 6,
+      "name": "YouTube",
+      "short_name": "youtube",
+      "type": "youtube",
+      "favicon": "youtube.webp"
+    },
+    {
+      "id": 17,
+      "name": "Cosense stall",
+      "short_name": "scrapbox",
+      "type": "scrapbox",
+      "favicon": "scrapbox.webp"
+    },
+    {
+      "id": 18,
+      "name": "Jomo スクリーンタイム",
+      "short_name": "screentime",
+      "type": "screen_time",
+      "favicon": "screen_time.webp"
+    },
+    {
+      "id": 19,
+      "name": "Netflix",
+      "short_name": "netflix",
+      "type": "netflix",
+      "favicon": "netflix.webp"
+    },
+    {
+      "id": 20,
+      "name": "Amazon Prime Video",
+      "short_name": "prime",
+      "type": "prime",
+      "favicon": "prime.webp"
+    }
+  ],
+  "days": {
+    "2026-03-06": {
+      "posts": 12,
+      "plays": 0,
+      "weather": {
+        "icon": "🌧",
+        "desc": "小雨",
+        "temp_max": 13.6
+      }
+    },
+    "2026-03-07": {
+      "posts": 6,
+      "plays": 0,
+      "weather": {
+        "icon": "🌧",
+        "desc": "雨",
+        "temp_max": 11.6
+      }
+    },
+    "2026-03-08": {
+      "posts": 3,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 8.6
+      }
+    },
+    "2026-03-09": {
+      "posts": 2,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 11.1
+      }
+    },
+    "2026-03-10": {
+      "posts": 3,
+      "plays": 0,
+      "weather": {
+        "icon": "🌤",
+        "desc": "晴れ時々曇り",
+        "temp_max": 9.9
+      }
+    },
+    "2026-03-11": {
+      "posts": 4,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 11.6
+      }
+    },
+    "2026-03-12": {
+      "posts": 16,
+      "plays": 0,
+      "weather": {
+        "icon": "☀️",
+        "desc": "ほぼ晴れ",
+        "temp_max": 13.8
+      }
+    },
+    "2026-03-13": {
+      "posts": 10,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 12.2
+      }
+    },
+    "2026-03-14": {
+      "posts": 12,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 17
+      }
+    },
+    "2026-03-15": {
+      "posts": 12,
+      "plays": 0,
+      "weather": {
+        "icon": "☀️",
+        "desc": "ほぼ晴れ",
+        "temp_max": 15.8
+      }
+    },
+    "2026-03-16": {
+      "posts": 0,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 16.6
+      }
+    },
+    "2026-03-17": {
+      "posts": 3,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 17.5
+      }
+    },
+    "2026-03-18": {
+      "posts": 5,
+      "plays": 0,
+      "weather": {
+        "icon": "🌧",
+        "desc": "雨",
+        "temp_max": 16
+      }
+    },
+    "2026-03-19": {
+      "posts": 1,
+      "plays": 0,
+      "weather": {
+        "icon": "🌧",
+        "desc": "雨",
+        "temp_max": 15.9
+      }
+    },
+    "2026-03-20": {
+      "posts": 10,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 14.9
+      }
+    },
+    "2026-03-21": {
+      "posts": 3,
+      "plays": 0,
+      "weather": {
+        "icon": "🌤",
+        "desc": "晴れ時々曇り",
+        "temp_max": 16.1
+      }
+    },
+    "2026-03-22": {
+      "posts": 9,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇り",
+        "temp_max": 15.6
+      }
+    },
+    "2026-03-23": {
+      "posts": 12,
+      "plays": 33,
+      "steps": 31,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇りがち",
+        "temp_max": 16.6
+      }
+    },
+    "2026-03-24": {
+      "posts": 1,
+      "plays": 17,
+      "steps": 16,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇りがち",
+        "temp_max": 18.6
+      }
+    },
+    "2026-03-25": {
+      "posts": 5,
+      "plays": 0,
+      "steps": 128,
+      "weather": {
+        "icon": "🌧",
+        "desc": "適度な雨",
+        "temp_max": 12.7
+      }
+    },
+    "2026-03-26": {
+      "posts": 14,
+      "plays": 94,
+      "steps": 7277,
+      "weather": {
+        "icon": "☁️",
+        "desc": "厚い雲",
+        "temp_max": 12.1
+      }
+    },
+    "2026-03-27": {
+      "posts": 7,
+      "plays": 12,
+      "weather": {
+        "icon": "☀️",
+        "desc": "晴天",
+        "temp_max": 21.1
+      }
+    },
+    "2026-03-28": {
+      "posts": 3,
+      "plays": 2,
+      "weather": {
+        "icon": "☁️",
+        "desc": "雲",
+        "temp_max": 22.2
+      }
+    },
+    "2026-03-29": {
+      "posts": 5,
+      "plays": 9,
+      "steps": 3267,
+      "weather": {
+        "icon": "☁️",
+        "desc": "曇りがち",
+        "temp_max": 23.3
+      }
+    },
+    "2026-03-30": {
+      "posts": 22,
+      "plays": 1,
+      "weather": {
+        "icon": "☁️",
+        "desc": "厚い雲",
+        "temp_max": 22.2
+      }
+    },
+    "2026-03-31": {
+      "posts": 15,
+      "plays": 35,
+      "steps": 8,
+      "weather": {
+        "icon": "🌧",
+        "desc": "小雨",
+        "temp_max": 18.9
+      }
+    },
+    "2026-04-01": {
+      "posts": 18,
+      "plays": 41,
+      "steps": 6512,
+      "weather": {
+        "icon": "🌧",
+        "desc": "強い雨",
+        "temp_max": 14.4
+      }
+    },
+    "2026-04-02": {
+      "posts": 16,
+      "plays": 15,
+      "weather": {
+        "icon": "☁️",
+        "desc": "薄い雲",
+        "temp_max": 17.2
+      }
+    },
+    "2026-04-03": {
+      "posts": 26,
+      "plays": 90,
+      "weather": {
+        "icon": "☁️",
+        "desc": "雲",
+        "temp_max": 21.1
+      }
+    },
+    "2026-04-04": {
+      "posts": 0,
+      "plays": 24
+    }
+  }
+}
