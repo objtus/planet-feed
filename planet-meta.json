@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T05:08:48.113104+09:00",
+  "generated_at": "2026-04-04T16:00:01.305109+09:00",
   "latest_date": "2026-04-04",
   "oldest_date": "2026-03-06",
   "sources": [
@@ -414,8 +414,14 @@
       }
     },
     "2026-04-04": {
-      "posts": 6,
-      "plays": 45
+      "posts": 8,
+      "plays": 47,
+      "steps": 0,
+      "weather": {
+        "icon": "🌧",
+        "desc": "適度な雨",
+        "temp_max": 17.2
+      }
     }
   },
   "timeline_collapse": {
