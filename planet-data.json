@@ -1,6 +1,153 @@
 {
-  "generated_at": "2026-04-06T23:00:01.673175+09:00",
+  "generated_at": "2026-04-07T07:00:01.256900+09:00",
   "timeline": [
+    {
+      "date": "2026-04-07",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-07 適度な雨 18.1℃ (17.8〜18.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "00:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おなかいたいっす",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqx04z560pz0zqo"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TIelsie - Huewave",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TIelsie/_/Huewave"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 6時間40分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VOCALOID2: Hatsune Miku - Unfragment",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VOCALOID2:+Hatsune+Miku/_/Unfragment"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ぱにっく!! けろけろ王国 - UNDER17 ( 桃井はるこ )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%B1%E3%81%AB%E3%81%A3%E3%81%8F!!+%E3%81%91%E3%82%8D%E3%81%91%E3%82%8D%E7%8E%8B%E5%9B%BD/_/UNDER17+(+%E6%A1%83%E4%BA%95%E3%81%AF%E3%82%8B%E3%81%93+)"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-06 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boiler Room - TOXE Boiler Room Berlin Studio Dj Set",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boiler+Room/_/TOXE+Boiler+Room+Berlin+Studio+Dj+Set"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tchitchouan - Flying Fumo Aya",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tchitchouan/_/Flying+Fumo+Aya"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DGClover - 午前0時はハッピースタート! 新谷良子, 田村ゆかり, 真田アサミ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DGClover/_/%E5%8D%88%E5%89%8D0%E6%99%82%E3%81%AF%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88!+%E6%96%B0%E8%B0%B7%E8%89%AF%E5%AD%90,+%E7%94%B0%E6%9D%91%E3%82%86%E3%81%8B%E3%82%8A,+%E7%9C%9F%E7%94%B0%E3%82%A2%E3%82%B5%E3%83%9F"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ポカリスエットCM｜ - 踊る始業式",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9D%E3%82%AB%E3%83%AA%E3%82%B9%E3%82%A8%E3%83%83%E3%83%88CM%EF%BD%9C/_/%E8%B8%8A%E3%82%8B%E5%A7%8B%E6%A5%AD%E5%BC%8F"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "1 - 6の夢旅人2002",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/1/_/6%E3%81%AE%E5%A4%A2%E6%97%85%E4%BA%BA2002"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:14",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=FfxQrr7TB-A　「若者の広場と広場にかける橋-古い船をいま動かせるのは古い水夫じゃないだろう」版の吉田拓郎の『イメージの詩』を聴いたら、最後にインターナショナルがサンプリング（？）されててよかった　アルバムの曲間に、1969年10.21の新宿フォークゲリラ集会の様子の録音をはさんでいるらしい　正直知らなかったんだけど、この曲は明石家さんま最愛の曲らしくて、『漁港の肉子ちゃん』主題歌にカバーされているという小話を念頭に置いて聴くと味わい深く感じる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqs0nox60pz0zi9"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "22:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "よしだたくろう/Takuro Yoshida - イメージの詩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%88%E3%81%97%E3%81%A0%E3%81%9F%E3%81%8F%E3%82%8D%E3%81%86%2FTakuro+Yoshida/_/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A9"
+    },
     {
       "date": "2026-04-06",
       "time": "21:55",
@@ -10,6 +157,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%81%84%E3%81%A1%E3%81%94%E3%81%AE%E6%9C%A8/_/%E3%82%8C%E3%82%93%E3%81%92%E3%81%AE%E5%94%84"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "21:54",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-06 21:54 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-06",
@@ -30,6 +187,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%88%E3%81%97%E3%81%A0%E3%81%9F%E3%81%8F%E3%82%8D%E3%81%86%2FTakuro+Yoshida/_/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A9"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "21:31",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-06 21:31 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-06",
@@ -419,6 +586,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/akptacm560pz0yev"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ほぼ無と思われる\n夕方公園に散歩に行きました　葉桜だった\n吉田拓郎聴いてた\nみかんピールにグラニュー糖をまぶしてジップロックに入れた\n　・農薬（ワックス）を落とすのがめんどくさくてみかんを食器用洗剤で洗った（身体にいいのか悪いのか不明）\n　・3回煮たのだが皮が柔らかくなりすぎた　グミみたいな食感\n　・手間がかかるといえばかかるが意外と簡単だった　レシピ的にはジャムっぽい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F04%2F06"
     },
     {
       "date": "2026-04-05",
@@ -1216,6 +1393,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Ecco2K/_/Peroxide"
+    },
+    {
+      "date": "2026-04-05",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F04%2F05"
     },
     {
       "date": "2026-04-04",
@@ -2750,6 +2937,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/_/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%82%93%E3%81%A0%E3%81%9C"
+    },
+    {
+      "date": "2026-04-04",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "屋台にページを作った\n　・制服スカートとシュミーズ\n　・制服スカートとペチコート\n　・女子スラックス\n　・など......趣味です\nらくがきした\nみかんの皮の砂糖漬け（みかんピール）を作った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F04%2F04"
     },
     {
       "date": "2026-04-03",
@@ -10529,77 +10726,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F09"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "13:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "フレドリック・ブレンナンことし1月に亡くなってたのか 謎にツイッターで相互フォローしてた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajktdftky8vf5d68"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "10:59",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "バイブコーディングでつくった配信用2Dアバター表示ソフト、リップシンクの次にどんな機能があるといいだろう　どう思いますか？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajko4izcy8vf5d49"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-08 曇り 4.7℃ (1.8〜8.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-08",
-      "time": "06:13",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "MMORPGは好きなんだけど、特に見下ろし型のやつは好きで、逆に3Dでなんかリッチな感じのMMORPGが苦手なのは、結局カメラ動かさなきゃいけないからなんだよね 疲れる 疲れないほうがいい VRも一緒で重いのつけて頭動かさないといけないのはそもそも単に疲れる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajkdxjt1y8vf5d2n",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "06:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "疲れなくなったらVR好きになるかも",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajkdtniiy8vf5d2f",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "01:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "VRが苦手なのって単に疲れるからな気がした",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajk3y7qny8vf5cxa"
-    },
-    {
-      "date": "2026-03-08",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無\n　・と思ったけど無じゃなかったわ。ダムと滝を見に行きました。\n　・滝を見に行ったらその近くにおばさんの二人組がいて、話しかけられた。話を聞いてみると、すごいスピリチュアルな感じだった。スピリチュアルおばさんそのもののインパクトがすごくて話を全く聞いてなかった。しかし確かにすごいスピリチュアルだった。\n　・話の流れで、おばさんが手を差し出して、ここにあなたの手を近づけて、と言われた。手を近づけると、パワーを感じるか聞かれた。なにか感じる？と聞いてくるので、「感じます、あったかい、体温を感じます」と答えたら、「体温ね……」と残念そうな顔をされました。宇宙の波動が身体を通じてここ（手）を抜けるとかなんとか。疲れていたのですぐにその場を離れました。\n　・このやりとりだけでも疲れて、無駄にパワーを使った気がする。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F08"
     }
   ]
 }
