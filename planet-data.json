@@ -1,6 +1,296 @@
 {
-  "generated_at": "2026-04-06T15:00:01.849469+09:00",
+  "generated_at": "2026-04-06T21:31:44.894324+09:00",
   "timeline": [
+    {
+      "date": "2026-04-06",
+      "time": "20:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "@gyawan_chang いえ、戻っていません。戻ってください。元に戻るとはどういうことなのか考えたうえで、元に戻ってください。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqpct3a60pz0zcd"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "20:58",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "@gyawan_chang いえ、戻っていません。元に戻ってください。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqpbi6160pz0zc8"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "20:58",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "@gyawan_chang 元に戻ってください",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqpb1cm60pz0zc4"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "20:57",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ぎゃわんちゃんキャラ変わった？元に戻ってください。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqp9qco60pz0zbu"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "20:31",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "あなたの後ろにいます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/akqoblw16x"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "19:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "VRCで集会を呼びかけるのってどうしたらいいの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqmnkfo60pz0z8s"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "19:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ナイトinナイト【ABCテレビ公式】 - 朝起きると絶対パンツを脱いでいる！？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%9C%9D%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%A8%E7%B5%B6%E5%AF%BE%E3%83%91%E3%83%B3%E3%83%84%E3%82%92%E8%84%B1%E3%81%84%E3%81%A7%E3%81%84%E3%82%8B%EF%BC%81%EF%BC%9F"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "19:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ナイトinナイト【ABCテレビ公式】 - せいやがバランスボールする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%81%9B%E3%81%84%E3%82%84%E3%81%8C%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "18:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "“腸”と“うんこ”と“ケツの穴”を感じよ！ - 瞬間うんこ法",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E2%80%9C%E8%85%B8%E2%80%9D%E3%81%A8%E2%80%9C%E3%81%86%E3%82%93%E3%81%93%E2%80%9D%E3%81%A8%E2%80%9C%E3%82%B1%E3%83%84%E3%81%AE%E7%A9%B4%E2%80%9D%E3%82%92%E6%84%9F%E3%81%98%E3%82%88%EF%BC%81/_/%E7%9E%AC%E9%96%93%E3%81%86%E3%82%93%E3%81%93%E6%B3%95"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "17:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "kinoboriable - 広島ホームテレビ広島フォーク村20240726",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/kinoboriable/_/%E5%BA%83%E5%B3%B6%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%86%E3%83%AC%E3%83%93%E5%BA%83%E5%B3%B6%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E6%9D%9120240726"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "17:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "会合の場所は喫茶店ウィンザーでほぼ確定していて、ウィンザーは現存していなさそう、一時アサヒ・ティーサロン（朝日珈琲サロン）説が提唱されていて、こっちは現存している、という状況らしい\nhttps://takehideki.exblog.jp/22442446/\nhttps://takehideki.exblog.jp/23885368/",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqgzd2h60pz0z0m"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:58",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "人間発電所の冒頭のサンプリングの元ネタ（声ネタ）から吉田拓郎を聴いてるんだけど、広島フォーク村の結成会合が行われた（とされている）場所が広島市内にまだあるらしくて、広島に行ったときには行ってみたいなと思いました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqgqwvs60pz0z0i"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ライブ弾き語り - 私は狂っている",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A9%E3%82%A4%E3%83%96%E5%BC%BE%E3%81%8D%E8%AA%9E%E3%82%8A/_/%E7%A7%81%E3%81%AF%E7%8B%82%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ryo9801 - 吉田拓郎 よしだたくろう・オン・ステージ!! ともだち",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ryo9801/_/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E+%E3%82%88%E3%81%97%E3%81%A0%E3%81%9F%E3%81%8F%E3%82%8D%E3%81%86%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8!!+%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:28",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "You need a hard to play this game 気持ちがレイムじゃモノホンプレイヤーにになれねえ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/akqfni74r0"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Buddha Brand - 人間発電所 Original'95 Vinyl Version",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Buddha+Brand/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80+Original%2795+Vinyl+Version"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:21",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "あー春",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/akqff4qdbr"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "16:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Akiko Wada - Kanashi Uta",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Akiko+Wada/_/Kanashi+Uta"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "オクラホマ10 - アナルアサシン VS 忍者",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AA%E3%82%AF%E3%83%A9%E3%83%9B%E3%83%9E10/_/%E3%82%A2%E3%83%8A%E3%83%AB%E3%82%A2%E3%82%B5%E3%82%B7%E3%83%B3+VS+%E5%BF%8D%E8%80%85"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lucky777 - ｲﾝﾄﾞﾒﾀｼﾝ…",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lucky777/_/%EF%BD%B2%EF%BE%9D%EF%BE%84%EF%BE%9E%EF%BE%92%EF%BE%80%EF%BD%BC%EF%BE%9D%E2%80%A6"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TVアニメ - 黒岩メダカに私の可愛いが通じない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TV%E3%82%A2%E3%83%8B%E3%83%A1/_/%E9%BB%92%E5%B2%A9%E3%83%A1%E3%83%80%E3%82%AB%E3%81%AB%E7%A7%81%E3%81%AE%E5%8F%AF%E6%84%9B%E3%81%84%E3%81%8C%E9%80%9A%E3%81%98%E3%81%AA%E3%81%84"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BUMP OF CHICKEN - 窓の中から",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BUMP+OF+CHICKEN/_/%E7%AA%93%E3%81%AE%E4%B8%AD%E3%81%8B%E3%82%89"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "NEW ALBUM - Iris",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/NEW+ALBUM/_/Iris"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BUMP OF CHICKEN - Aurora",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BUMP+OF+CHICKEN/_/Aurora"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BUMP OF CHICKEN「GO」LIVE MV from BD/DVD「STADIUM TOUR 2016 - BFLY",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BUMP+OF+CHICKEN%E3%80%8CGO%E3%80%8DLIVE+MV+from+BD%2FDVD%E3%80%8CSTADIUM+TOUR+2016/_/BFLY"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BUMP OF CHICKEN - ray",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BUMP+OF+CHICKEN/_/ray"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-06 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "15:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "VRCでもやるか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqci0s160pz0yxy"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "14:43",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "2時間くらい寝た",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akqbw5uu60pz0yxe"
+    },
     {
       "date": "2026-04-06",
       "time": "11:58",
@@ -59,6 +349,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/akpzcuyt60pz0yht"
+    },
+    {
+      "date": "2026-04-06",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-06 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-06",
@@ -156,6 +456,17 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-05",
+      "time": "14:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "フィードバックありがとうございます。了解しました！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akowa99t60pz0xfq",
+      "visibility": "home"
     },
     {
       "date": "2026-04-05",
@@ -994,6 +1305,17 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Games/_/Strawberry+Skies+feat+Laurel+Halo"
+    },
+    {
+      "date": "2026-04-04",
+      "time": "23:14",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "#rakugaki_pao",
+      "is_boost": false,
+      "has_media": true,
+      "url": "https://mistodon.cloud/@healthcare/116346851974670047",
+      "visibility": "unlisted"
     },
     {
       "date": "2026-04-04",
@@ -3749,6 +4071,17 @@
     },
     {
       "date": "2026-04-02",
+      "time": "15:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "@gyawan_chang わたしの投稿からプロファイリングしてみて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/akkmtupx60pz0tbk",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-02",
       "time": "12:54",
       "src_id": 4,
       "src_type": "lastfm",
@@ -4723,6 +5056,17 @@
     },
     {
       "date": "2026-03-31",
+      "time": "22:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "mastodon.cloudをさかのぼってみるとなさそう 少なくとも2018年8月から現在まではなかった（「へ」でページ内検索しても見当たらなかった） mstdn.jpとか他のサーバーで使われてたかどうかは不明だけど、現在の最有力最古候補は https://misskey.io/notes/84dvahya89 これ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aki85jbr60pz0rhg",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-03-31",
       "time": "22:22",
       "src_id": 2,
       "src_type": "misskey",
@@ -4860,6 +5204,17 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://sushi.ski/notes/aki4erm5fi"
+    },
+    {
+      "date": "2026-03-31",
+      "time": "20:50",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "オスの美大生はテンペラ絵具つくるときに卵の黄身の代わりに精液を使うらしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aki4e6z6cr",
+      "visibility": "home"
     },
     {
       "date": "2026-03-31",
@@ -8815,6 +9170,17 @@
     {
       "date": "2026-03-18",
       "time": "09:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://github.com/zhuker/ntsc/tree/master これ試そうと思ってたら先にやられちゃったわ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ajyuaqvc60pz09a4",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-03-18",
+      "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-03-18 雨 10.5℃ (4.4〜16.0℃)",
@@ -10121,6 +10487,28 @@
       "text": "2026-03-08 曇り 4.7℃ (1.8〜8.6℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-03-08",
+      "time": "06:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "MMORPGは好きなんだけど、特に見下ろし型のやつは好きで、逆に3Dでなんかリッチな感じのMMORPGが苦手なのは、結局カメラ動かさなきゃいけないからなんだよね 疲れる 疲れないほうがいい VRも一緒で重いのつけて頭動かさないといけないのはそもそも単に疲れる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ajkdxjt1y8vf5d2n",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-03-08",
+      "time": "06:10",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "疲れなくなったらVR好きになるかも",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ajkdtniiy8vf5d2f",
+      "visibility": "home"
     },
     {
       "date": "2026-03-08",
