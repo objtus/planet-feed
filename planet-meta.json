@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T15:00:01.115374+09:00",
+  "generated_at": "2026-04-07T23:00:01.350829+09:00",
   "latest_date": "2026-04-07",
   "oldest_date": "2026-03-09",
   "sources": [
@@ -148,6 +148,7 @@
     "2026-03-09": {
       "posts": 2,
       "plays": 0,
+      "steps": 0,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -157,6 +158,7 @@
     "2026-03-10": {
       "posts": 3,
       "plays": 0,
+      "steps": 5867,
       "weather": {
         "icon": "🌤",
         "desc": "晴れ時々曇り",
@@ -166,6 +168,7 @@
     "2026-03-11": {
       "posts": 4,
       "plays": 0,
+      "steps": 5715,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -175,6 +178,7 @@
     "2026-03-12": {
       "posts": 16,
       "plays": 0,
+      "steps": 0,
       "weather": {
         "icon": "☀️",
         "desc": "ほぼ晴れ",
@@ -184,6 +188,7 @@
     "2026-03-13": {
       "posts": 10,
       "plays": 0,
+      "steps": 1172,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -193,6 +198,7 @@
     "2026-03-14": {
       "posts": 12,
       "plays": 0,
+      "steps": 1336,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -202,6 +208,7 @@
     "2026-03-15": {
       "posts": 12,
       "plays": 0,
+      "steps": 7770,
       "weather": {
         "icon": "☀️",
         "desc": "ほぼ晴れ",
@@ -211,6 +218,7 @@
     "2026-03-16": {
       "posts": 0,
       "plays": 0,
+      "steps": 3618,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -220,6 +228,7 @@
     "2026-03-17": {
       "posts": 3,
       "plays": 0,
+      "steps": 4782,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -229,6 +238,7 @@
     "2026-03-18": {
       "posts": 6,
       "plays": 0,
+      "steps": 0,
       "weather": {
         "icon": "🌧",
         "desc": "雨",
@@ -238,6 +248,7 @@
     "2026-03-19": {
       "posts": 1,
       "plays": 0,
+      "steps": 3772,
       "weather": {
         "icon": "🌧",
         "desc": "雨",
@@ -247,6 +258,7 @@
     "2026-03-20": {
       "posts": 10,
       "plays": 0,
+      "steps": 6611,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -256,6 +268,7 @@
     "2026-03-21": {
       "posts": 3,
       "plays": 0,
+      "steps": 4110,
       "weather": {
         "icon": "🌤",
         "desc": "晴れ時々曇り",
@@ -265,6 +278,7 @@
     "2026-03-22": {
       "posts": 9,
       "plays": 0,
+      "steps": 13551,
       "weather": {
         "icon": "☁️",
         "desc": "曇り",
@@ -274,7 +288,7 @@
     "2026-03-23": {
       "posts": 12,
       "plays": 33,
-      "steps": 31,
+      "steps": 1629,
       "weather": {
         "icon": "☁️",
         "desc": "曇りがち",
@@ -284,7 +298,7 @@
     "2026-03-24": {
       "posts": 1,
       "plays": 17,
-      "steps": 16,
+      "steps": 3905,
       "weather": {
         "icon": "☁️",
         "desc": "曇りがち",
@@ -294,7 +308,7 @@
     "2026-03-25": {
       "posts": 5,
       "plays": 0,
-      "steps": 128,
+      "steps": 6274,
       "weather": {
         "icon": "🌧",
         "desc": "適度な雨",
@@ -314,6 +328,7 @@
     "2026-03-27": {
       "posts": 7,
       "plays": 12,
+      "steps": 3711,
       "weather": {
         "icon": "☀️",
         "desc": "晴天",
@@ -323,6 +338,7 @@
     "2026-03-28": {
       "posts": 3,
       "plays": 0,
+      "steps": 3520,
       "weather": {
         "icon": "☁️",
         "desc": "雲",
@@ -342,6 +358,7 @@
     "2026-03-30": {
       "posts": 22,
       "plays": 1,
+      "steps": 7551,
       "weather": {
         "icon": "☁️",
         "desc": "厚い雲",
@@ -371,6 +388,7 @@
     "2026-04-02": {
       "posts": 17,
       "plays": 15,
+      "steps": 6273,
       "weather": {
         "icon": "☁️",
         "desc": "薄い雲",
@@ -380,6 +398,7 @@
     "2026-04-03": {
       "posts": 26,
       "plays": 90,
+      "steps": 740,
       "weather": {
         "icon": "☁️",
         "desc": "雲",
@@ -389,7 +408,7 @@
     "2026-04-04": {
       "posts": 21,
       "plays": 117,
-      "steps": 0,
+      "steps": 898,
       "weather": {
         "icon": "🌧",
         "desc": "適度な雨",
@@ -409,6 +428,7 @@
     "2026-04-06": {
       "posts": 21,
       "plays": 28,
+      "steps": 8196,
       "weather": {
         "icon": "☀️",
         "desc": "晴天",
@@ -416,8 +436,9 @@
       }
     },
     "2026-04-07": {
-      "posts": 1,
-      "plays": 0,
+      "posts": 6,
+      "plays": 43,
+      "steps": 38,
       "weather": {
         "icon": "🌧",
         "desc": "適度な雨",
