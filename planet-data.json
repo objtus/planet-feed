@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-04-08T23:00:01.881119+09:00",
+  "generated_at": "2026-04-09T07:00:01.440451+09:00",
   "timeline": [
+    {
+      "date": "2026-04-09",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-09 晴天 9.4℃ (9.4〜9.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-09",
+      "time": "01:16",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "始祖鳥の化石がロゴマークのブランドってズルすぎると思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aktte1n160pz12b4"
+    },
+    {
+      "date": "2026-04-09",
+      "time": "00:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "スマホから編集しづらい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aktsert860pz1296"
+    },
+    {
+      "date": "2026-04-09",
+      "time": "00:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "男は陸",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aktsbftz60pz128z"
+    },
+    {
+      "date": "2026-04-09",
+      "time": "00:45",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "俺の屋台の無のようなページ作成がバレるから復帰しないでほしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aktsaw5c60pz128y"
+    },
+    {
+      "date": "2026-04-08",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 6時間40分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-08",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 4kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-08",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 4,506歩 / 心拍数: 70bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-08",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-08",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-08 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-04-08",
       "time": "20:13",
@@ -23,6 +118,16 @@
     },
     {
       "date": "2026-04-08",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-08 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-08",
       "time": "11:55",
       "src_id": 2,
       "src_type": "misskey",
@@ -39,6 +144,16 @@
       "text": "2026-04-08 晴天 7.2℃ (6.7〜7.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-04-08",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-08 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-08",
@@ -199,15 +314,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AC%E3%83%A9/_/LMK"
-    },
-    {
-      "date": "2026-04-08",
-      "time": "00:57",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 0歩 / 心拍数: 0bpm",
-      "is_boost": false,
-      "has_media": false
     },
     {
       "date": "2026-04-08",
@@ -967,7 +1073,7 @@
       "time": "00:00",
       "src_id": 17,
       "src_type": "scrapbox",
-      "text": "インフォグラフィックの歴史が知りたくて本を買った\n　・『インフォグラフィックスの潮流』永原康史著　が届いた\n　・数日前に家にある雑誌『アイデア』のバックナンバーを読み返してたら、この本の連載が載っていて、これ本になってないのかなと思って調べたら本になってた　2016年に\n勝手にsettingsを変更してredditとnoteのリンクアイコンを表示させるようにしてしまいました\n　・ニコ百とpixiv大百科のアイコンも表示させるようにしたいが合意形成が必要かと思ってやめといた\n　・trotsuki.iconへ：ダメだったらロールバックします。よかったら他のも追加しちゃう。\n　　　・バグったりしなかったらオッケーtrotsuki.icon",
+      "text": "インフォグラフィックの歴史が知りたくて本を買った\n　・『インフォグラフィックスの潮流』永原康史著　が届いた\n　・数日前に家にある雑誌『アイデア』のバックナンバーを読み返してたら、この本の連載が載っていて、これ本になってないのかなと思って調べたら本になってた　2016年に\n勝手にsettingsを変更してredditとnoteのリンクアイコンを表示させるようにしてしまいました\n　・ニコ百とpixiv大百科のアイコンも表示させるようにしたいが合意形成が必要かと思ってやめといた\n　・trotsuki.iconへ：ダメだったらロールバックします。よかったら他のも追加しちゃう。\n　　　・バグったりしなかったらオッケーtrotsuki.icon\nアニメ『暗殺者である俺のステータスが勇者よりも明らかに強いのだが』を最終話まで見る",
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F04%2F07"
@@ -11692,120 +11798,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F11"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 5,867歩 / 心拍数: 148bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "23:36",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "メールト〜溶けてしまいそう〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajoa1ygp60pz01ok"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "23:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "風呂入って寝る",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajo9z3lh60pz01o7"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "23:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ウォッチパーティーってはじめてみたわ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ajo9ylak60pz01o6"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "11:59",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 超かぐや姫！",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "11:09",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: White Magician Exiled from the Hero's Party, Picked up by S-Rank Adventurer: Season 1_hook_primary",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "10:47",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 勇者パーティを追い出された器用貧乏: シーズン1: 訓練させる器用貧乏 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿10﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "10:46",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 転生したらドラゴンの卵だった～最強以外目指さねぇ～ — エピソード9: 村に行ったら修羅場だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-10 晴れ時々曇り 5.7℃ (2.4〜9.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-10",
-      "time": "02:17",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gifvtbr: Push 2件: Enhance variant management with new unset parameter support / Update toast notification styling and structure in index.html and style.css",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gifvtbr"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "01:15",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gifvtbr: Push 1件: Enhance variant and action management with new accessory support",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gifvtbr"
-    },
-    {
-      "date": "2026-03-10",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ウォッチパーティっていうのではじめて映像作品をみた 超かぐや姫！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F10"
     }
   ]
 }
