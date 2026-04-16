@@ -1,6 +1,417 @@
 {
-  "generated_at": "2026-04-16T15:00:01.325331+09:00",
+  "generated_at": "2026-04-16T23:00:01.411659+09:00",
   "timeline": [
+    {
+      "date": "2026-04-16",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - The One With the Wurlitzer",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/The+One+With+the+Wurlitzer"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "21:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - Stay Home",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/Stay+Home"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "21:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - I'll See You When We're Both Not So Emotional",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/I%27ll+See+You+When+We%27re+Both+Not+So+Emotional"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "21:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - But the Regrets Are Killing Me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/But+the+Regrets+Are+Killing+Me"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - You Know I Should Be Leaving",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/You+Know+I+Should+Be+Leaving"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "21:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - For Sure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/For+Sure"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "20:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - Honestly?",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/Honestly%3F"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "20:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - The Summer Ends",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/The+Summer+Ends"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "20:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "American Football - Never Meant",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/American+Football/_/Never+Meant"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "20:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "石野卓球 - Bruce and Rhythm",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%B3%E9%87%8E%E5%8D%93%E7%90%83/_/Bruce+and+Rhythm"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "20:39",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "お姉さんになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al4z0x98oe7704uc"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "18:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "竹本チエさんが、好きだ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al4uh1wloe7704or"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "18:29",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ロリロリした声質の声優が演じるロリより、そうじゃないタイプの声質の声優が演技力でねじ伏せて演じるロリが好きや",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al4udzl2oe7704ol",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "18:27",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://music.apple.com/jp/album/%E3%81%82%E3%82%81/1674688479?i=1674688483 竹本チエさん的アトモスフィアを感じて萌える しかし中山千夏は演技はうまいし歌はうまいし文章も書けるし参議院議員もできるしでほんと多才だなと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al4ub63foe7704ok"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "18:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://music.apple.com/jp/album/muttsu-no-kokoromi/1674690622 なんか……すごいな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al4tku6ioe7704o1"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Random 35 Tracks Tape (2026 HQ Remaster)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Random+35+Tracks+Tape+(2026+HQ+Remaster)"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - A08",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/A08"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - A07",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/A07"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A06 - 5D",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A06/_/5D"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A05 - Finity",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A05/_/Finity"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "16:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - A04",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/A04"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - A03",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/A03"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A02 - She Is P",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A02/_/She+Is+P"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - a01",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/a01"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - For Residue (Extended)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue+(Extended)"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Dim Stars",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Dim+Stars"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ナイトinナイト【ABCテレビ公式】 - 2才の娘がやっちゃった！1㎜の隙間に入ったおもちゃを救い出せ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/2%E6%89%8D%E3%81%AE%E5%A8%98%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%EF%BC%811%E3%8E%9C%E3%81%AE%E9%9A%99%E9%96%93%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%9F%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%82%92%E6%95%91%E3%81%84%E5%87%BA%E3%81%9B"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ナイトinナイト【ABCテレビ公式】 - 妹の家に暮らす46歳男性…ペットのヤモリを酔っ払って逃がしてしまった！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E5%A6%B9%E3%81%AE%E5%AE%B6%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%9946%E6%AD%B3%E7%94%B7%E6%80%A7%E2%80%A6%E3%83%9A%E3%83%83%E3%83%88%E3%81%AE%E3%83%A4%E3%83%A2%E3%83%AA%E3%82%92%E9%85%94%E3%81%A3%E6%89%95%E3%81%A3%E3%81%A6%E9%80%83%E3%81%8C%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%EF%BC%81"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - マークII",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%83%9E%E3%83%BC%E3%82%AFII"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "15:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - おろかなるひとり言",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%81%8A%E3%82%8D%E3%81%8B%E3%81%AA%E3%82%8B%E3%81%B2%E3%81%A8%E3%82%8A%E8%A8%80"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - やっと気づいて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%82%84%E3%81%A3%E3%81%A8%E6%B0%97%E3%81%A5%E3%81%84%E3%81%A6"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - 笑えさとりし人ョ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E7%AC%91%E3%81%88%E3%81%95%E3%81%A8%E3%82%8A%E3%81%97%E4%BA%BA%E3%83%A7"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - どうしてこんなに悲しいんだろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB%E6%82%B2%E3%81%97%E3%81%84%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - たくろうチャン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%81%9F%E3%81%8F%E3%82%8D%E3%81%86%E3%83%81%E3%83%A3%E3%83%B3"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - 花嫁になる君に",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E8%8A%B1%E5%AB%81%E3%81%AB%E3%81%AA%E3%82%8B%E5%90%9B%E3%81%AB"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - 自殺の詩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E8%87%AA%E6%AE%BA%E3%81%AE%E8%A9%A9"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - わしらのフォーク村",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%82%8F%E3%81%97%E3%82%89%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E6%9D%91"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - ある雨の日の情景",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%81%82%E3%82%8B%E9%9B%A8%E3%81%AE%E6%97%A5%E3%81%AE%E6%83%85%E6%99%AF"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - 結婚しようよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E7%B5%90%E5%A9%9A%E3%81%97%E3%82%88%E3%81%86%E3%82%88"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - 人間なんて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E4%BA%BA%E9%96%93%E3%81%AA%E3%82%93%E3%81%A6"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "14:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - イメージの詩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A9"
+    },
     {
       "date": "2026-04-16",
       "time": "14:06",
@@ -2420,25 +2831,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -2448,33 +2841,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -2501,6 +2867,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
       "is_boost": false,
       "has_media": false
@@ -2510,7 +2894,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
       "is_boost": false,
       "has_media": false
     },
@@ -5606,7 +6017,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -5616,6 +6027,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -5634,15 +6054,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -6187,7 +6598,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -6196,7 +6607,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -6214,7 +6625,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -6223,7 +6634,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
     },
@@ -6419,6 +6830,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-05",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
@@ -6429,15 +6849,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-05",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
