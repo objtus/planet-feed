@@ -1,6 +1,444 @@
 {
-  "generated_at": "2026-04-17T23:00:01.415702+09:00",
+  "generated_at": "2026-04-18T07:00:01.231691+09:00",
   "timeline": [
+    {
+      "date": "2026-04-18",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-18 厚い雲 15.6℃ (15.0〜16.1℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-18",
+      "time": "05:05",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet: Push 1件: Enhance summarization features with topic-based pipeline and dashboard improvements",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "04:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet: Push 2件: Enhance summarization capabilities with media topic integration / Add Last.fm digest fetching for daily music summaries",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "03:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet: Push 1件: Implement forced regeneration feature and enhance dashboard UI",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "03:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet: Push 1件: Implement topic-based summary generation and enhance dashboard settings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:53",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "『興亡の世界史　大日本・満州帝国の遺産』読んだことないけど面白そうだな　統一教会でてきそう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116421088454094446",
+      "visibility": "unlisted"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:50",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "タクシー運転手とか1987、ある闘いの真実とか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116421075252870291"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hannah Diamond - Fade Away",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hannah+Diamond/_/Fade+Away"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MGMT - Little Dark Age",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MGMT/_/Little+Dark+Age"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "絵がうまくなりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al6ny6opoe77061r"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "つかれました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al6nxvs5oe77061q"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "01:04",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "雑談配信をしました　疲れた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/al6nxjoicaca08vu"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "zardofficial - 「負けないで」Music Video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/zardofficial/_/%E3%80%8C%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84%E3%81%A7%E3%80%8DMusic+Video"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:56",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "韓国現代史は映画を見るのがおすすめ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116420861964710356"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kan - Aiwa Katsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "それが大事～完全版～ - 大事MANブラザーズオーケストラ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%9D%E3%82%8C%E3%81%8C%E5%A4%A7%E4%BA%8B%EF%BD%9E%E5%AE%8C%E5%85%A8%E7%89%88%EF%BD%9E/_/%E5%A4%A7%E4%BA%8BMAN%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "中島みゆき公式チャンネル - 悪女",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E6%82%AA%E5%A5%B3"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lynyrd Skynyrd - Free Bird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lynyrd+Skynyrd/_/Free+Bird"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Limousines - The Future",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Limousines/_/The+Future"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Limousines - Internet Killed The Video Star",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Limousines/_/Internet+Killed+The+Video+Star"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TVTBC - 夢見るシャンソン人形　Poupée de cire, poupée de son",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TVTBC/_/%E5%A4%A2%E8%A6%8B%E3%82%8B%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BD%E3%83%B3%E4%BA%BA%E5%BD%A2%E3%80%80Poup%C3%A9e+de+cire,+poup%C3%A9e+de+son"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Raffaella Carrà - Pedro",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Raffaella+Carr%C3%A0/_/Pedro"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Will - 拡大プーチン大統領の歩き",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Will/_/%E6%8B%A1%E5%A4%A7%E3%83%97%E3%83%BC%E3%83%81%E3%83%B3%E5%A4%A7%E7%B5%B1%E9%A0%98%E3%81%AE%E6%AD%A9%E3%81%8D"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vladimir Putin - Putin, Putout (The Unofficial Russian Anthem) by Klemen Slakonja",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vladimir+Putin/_/Putin,+Putout+(The+Unofficial+Russian+Anthem)+by+Klemen+Slakonja"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "00:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nintendo 公式チャンネル - トモダチコレクション わくわく生活",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nintendo+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%83%88%E3%83%A2%E3%83%80%E3%83%81%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E7%94%9F%E6%B4%BB"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 35分0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本大衆文化倉庫 - 走れコウタロー　昭和45年　　作詞　池田謙吉　　作曲　池田謙吉、前田伸夫",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A1%86%E6%96%87%E5%8C%96%E5%80%89%E5%BA%AB/_/%E8%B5%B0%E3%82%8C%E3%82%B3%E3%82%A6%E3%82%BF%E3%83%AD%E3%83%BC%E3%80%80%E6%98%AD%E5%92%8C45%E5%B9%B4%E3%80%80%E3%80%80%E4%BD%9C%E8%A9%9E%E3%80%80%E6%B1%A0%E7%94%B0%E8%AC%99%E5%90%89%E3%80%80%E3%80%80%E4%BD%9C%E6%9B%B2%E3%80%80%E6%B1%A0%E7%94%B0%E8%AC%99%E5%90%89%E3%80%81%E5%89%8D%E7%94%B0%E4%BC%B8%E5%A4%AB"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "アダルト音楽 - 吉田拓郎　結婚しようよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E9%9F%B3%E6%A5%BD/_/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E%E3%80%80%E7%B5%90%E5%A9%9A%E3%81%97%E3%82%88%E3%81%86%E3%82%88"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田拓郎 - イメージの詩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E/_/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%81%AE%E8%A9%A9"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Selection - 友よ　岡林信康",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Selection/_/%E5%8F%8B%E3%82%88%E3%80%80%E5%B2%A1%E6%9E%97%E4%BF%A1%E5%BA%B7"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-17 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "小田和正 YouTube Official Channel - ラブ・ストーリーは突然に",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B0%8F%E7%94%B0%E5%92%8C%E6%AD%A3+YouTube+Official+Channel/_/%E3%83%A9%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AF%E7%AA%81%E7%84%B6%E3%81%AB"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "JUDY AND MARY - トピック - そばかす",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/JUDY+AND+MARY+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%81%9D%E3%81%B0%E3%81%8B%E3%81%99"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "広瀬 香美 Official YouTube channel - ロマンスの神様",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%BA%83%E7%80%AC+%E9%A6%99%E7%BE%8E+Official+YouTube+channel/_/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E7%A5%9E%E6%A7%98"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GODIEGO - トピック - 銀河鉄道999",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GODIEGO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93999"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mrs. GREEN APPLE - ライラック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aiscream - 愛♡スクリ～ム！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aiscream/_/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "灰くんの日常 - ドン・キホーテ ♪ 曲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%81%B0%E3%81%8F%E3%82%93%E3%81%AE%E6%97%A5%E5%B8%B8/_/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86+%E2%99%AA+%E6%9B%B2"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめたよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al6i1yccoe7705sf"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:19",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた みてね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/al6i1p6ute"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:19",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた　みてね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116420244543326807"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:18",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "はじめた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/al6i0t1f69oq0a3i"
+    },
+    {
+      "date": "2026-04-17",
+      "time": "22:17",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid 雑談配信",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/al6hzhp869oq0a16"
+    },
     {
       "date": "2026-04-17",
       "time": "21:30",
@@ -123,12 +561,32 @@
     },
     {
       "date": "2026-04-17",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-17 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-17",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-04-17 厚い雲 16.9℃ (16.6〜17.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-04-17",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-17 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-16",
@@ -3068,7 +3526,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3077,25 +3535,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3113,7 +3553,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
       "is_boost": false,
       "has_media": false
     },
@@ -3123,6 +3581,24 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3149,25 +3625,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -6263,7 +6721,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
     },
@@ -6281,7 +6739,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -6835,7 +7293,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -6844,7 +7302,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
     },
@@ -6871,7 +7329,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -7067,7 +7525,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
@@ -7076,7 +7534,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -15896,71 +16354,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F20"
-    },
-    {
-      "date": "2026-03-19",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,772歩 / 心拍数: 88bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-19",
-      "time": "21:21",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ — エピソード10: 貴族の務め",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-19",
-      "time": "20:57",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 勇者パーティを追い出された器用貧乏 — エピソード1: 第01話 剣士に戻った器用貧乏",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-19",
-      "time": "20:57",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～ — エピソード11: 第１１話 最強部隊の気高い形勢逆転",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-19",
-      "time": "13:35",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "qwen3.5のthink時間が長いやつredditに書いてあったパラメータを試したら短くなったわ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak0jjzns60pz0aea"
-    },
-    {
-      "date": "2026-03-19",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-19 雨 11.4℃ (6.6〜15.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-19",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F19"
     }
   ]
 }
