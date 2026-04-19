@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-04-19T07:00:02.045140+09:00",
+  "generated_at": "2026-04-19T15:00:01.220660+09:00",
   "timeline": [
+    {
+      "date": "2026-04-19",
+      "time": "13:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "中学1年生くらいで虐殺器官とか円城塔とかよんで、中学3年生か高1くらいでらきすたとあずまんが大王を見て目覚めた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8v295moe7708bz"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "小5くらいに攻殻機動隊シリーズとかアキラとか、昔のSFっぽいアニメを急に見るようになって、萌えアニメより大人っぽいアニメのほうがいいんだということになっていた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8uym3roe7708bf"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "そして、孤立していた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8uw3a2oe7708at"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "中学生の時はラノベ読んでるオタクと萌えアニメ見てるオタクを馬鹿にしてたなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8uvpzzoe7708ao"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:53",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "授業中落書きしかしてなかった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8uu95woe7708a8"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:52",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "自分の絵はどこからなんやろ？小学生の時に迷路とかカービィの絵を描いてた記憶しかない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8utoitoe7708a3"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "13:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "俺がやっていた（い）のは男子校の会話なのかもしれない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8ub1cboe77087x"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "10:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "お絵かき知識共有したい気持ちはあるんだがなんかしちゃいけない気がするよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8nmkluoe7707re"
+    },
     {
       "date": "2026-04-19",
       "time": "09:00",
@@ -3740,7 +3820,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
     },
@@ -3749,7 +3829,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3767,15 +3847,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
@@ -3785,25 +3856,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3821,7 +3874,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
       "is_boost": false,
       "has_media": false
     },
@@ -3830,7 +3883,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -6935,7 +7015,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -6944,7 +7024,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
       "is_boost": false,
       "has_media": false
     },
@@ -7498,7 +7578,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -7525,7 +7605,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -7534,7 +7614,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -7730,15 +7810,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-05",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
@@ -7749,6 +7820,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-05",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
@@ -11847,7 +11927,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
       "is_boost": false,
       "has_media": false
     },
@@ -11856,7 +11936,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
       "is_boost": false,
       "has_media": false
     },
