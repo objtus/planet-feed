@@ -1,6 +1,330 @@
 {
-  "generated_at": "2026-04-19T15:00:01.220660+09:00",
+  "generated_at": "2026-04-19T23:00:01.488593+09:00",
   "timeline": [
+    {
+      "date": "2026-04-19",
+      "time": "18:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Danny L Harle - In My Dreams",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Danny+L+Harle/_/In+My+Dreams"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Drop FM feat. Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Drop+FM+feat.+Hannah+Diamond"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - 9",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/9"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - GuardianAngels((NATU))",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/GuardianAngels((NATU))"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Silver",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Silver"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee & Mechatok - Rainbow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee+&+Mechatok/_/Rainbow"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Danny L Harle - 1UL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Danny+L+Harle/_/1UL"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Finn Keane - Monopoly feat. Noonie Bao",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Finn+Keane/_/Monopoly+feat.+Noonie+Bao"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caroline Polachek - Ocean of Tears",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/Ocean+of+Tears"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - BOOM CLAP (QT EDIT)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/BOOM+CLAP+(QT+EDIT)"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - No Nightmares",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/No+Nightmares"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Finn Keane - Be Your USA feat. Iiris",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Finn+Keane/_/Be+Your+USA+feat.+Iiris"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "無理して批評っぽい感じにしなくていいのにって思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al93yx35oe7708wy"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Beautiful Superstar (Finn Keane Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Beautiful+Superstar+(Finn+Keane+Remix)"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pon pon pon - A.G. Cook remix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pon+pon+pon/_/A.G.+Cook+remix"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "18:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "重吉ちゃんねる - 椿風呂 2026 今年も入れました☺️重吉87歳 夏子88歳 2026.3.27",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%87%8D%E5%90%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B/_/%E6%A4%BF%E9%A2%A8%E5%91%82+2026+%E4%BB%8A%E5%B9%B4%E3%82%82%E5%85%A5%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E2%98%BA%EF%B8%8F%E9%87%8D%E5%90%8987%E6%AD%B3+%E5%A4%8F%E5%AD%9088%E6%AD%B3+2026.3.27"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "17:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "重吉ちゃんねる - ゆず風呂 2025 冬至 重吉86歳 2025.12.22",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%87%8D%E5%90%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B/_/%E3%82%86%E3%81%9A%E9%A2%A8%E5%91%82+2025+%E5%86%AC%E8%87%B3+%E9%87%8D%E5%90%8986%E6%AD%B3+2025.12.22"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "17:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "当たりが出たらもう一本",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al93gqnfoe7708vo"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "17:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アタリについて考えたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al93fvqyoe7708vk"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "17:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "まず、パソコンを棒にします",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al937ogeoe7708us"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "16:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "薄目とかジト目とかにらんでる感じの目で頬が紅潮してたらだいたいエロいと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al90ovphoe7708sk"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "16:35",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "エロくなってゆく",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al90mtksoe7708si"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "16:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kommander Karl - NPCコンピレーション",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kommander+Karl/_/NPC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "objtus - douga",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/objtus/_/douga"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:24",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アズペインター2は偉大だ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8vxx82oe7708i3"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:23",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "いつも場当たり的なんだよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8vwqizoe7708hp",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "頭部全部消して最初からにしたり、上半分全部消したり下半分全部消したり、全部消したり、というのを繰り返してるから、最初にアタリを描いたとしても痕跡が序盤の序盤でなくなる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8vvb7soe7708he",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:18",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アタリ描いてない（丸かいて、場当たり的にちょっと描き込んで、半透明の消しゴムで一部消して、描き込んで、半透明の消しゴムで消して、描き込んで、というのを繰り返してるから パターンがない）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8vqz80oe7708gn",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんでこの時期急に虐殺器官とか読み始めたのかといえば、ピーエスピーなるゲームでメタルギアーソリッドポータブルオプスとかピースウォーカーなるゲームソフトが存在し、それプレイしており、同じ時期にネット上のSFオタクのブログとかツイッターアカウントを見るようになったりなどして、この人たちの小説がアツいというのを知ったからだった\nというか最初に読んだ伊藤計劃がMGS4のノベライズ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8vibmwoe7708fo",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "成実ゆいさんです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8v8bi7oe7708da"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:03",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "最初にアップしたイラストはらきすたの成美ゆいさんの絵、次は日下部みさお",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8v76k3oe7708d1"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "14:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "で、そのころマウスでアズペインター2で絵を描いたりして、ペンタブレットを買って、アズペインター2でらきすたの絵を描いて、ツイッターにアップした……のが最初にネットにアップしたイラストです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/al8v5jsxoe7708cf"
+    },
     {
       "date": "2026-04-19",
       "time": "13:59",
@@ -3811,7 +4135,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
     },
@@ -3829,7 +4153,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -3847,34 +4171,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
       "is_boost": false,
       "has_media": false
     },
@@ -3892,6 +4189,42 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
@@ -3901,16 +4234,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
       "is_boost": false,
       "has_media": false
     },
@@ -6997,7 +7321,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
     },
@@ -7015,15 +7339,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
       "is_boost": false,
       "has_media": false
@@ -7033,7 +7348,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -7578,6 +7902,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
@@ -7587,7 +7920,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -7605,16 +7938,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -7810,7 +8134,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
@@ -7828,7 +8152,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
