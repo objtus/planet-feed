@@ -1,6 +1,53 @@
 {
-  "generated_at": "2026-04-19T23:00:01.488593+09:00",
+  "generated_at": "2026-04-20T07:00:01.824103+09:00",
   "timeline": [
+    {
+      "date": "2026-04-20",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-20 厚い雲 18.1℃ (17.8〜18.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-20",
+      "time": "05:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Danny L Harle - Me4U feat. Morrie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Danny+L+Harle/_/Me4U+feat.+Morrie"
+    },
+    {
+      "date": "2026-04-19",
+      "time": "23:51",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 2時間15分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-19",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 10枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-19",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-19 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-04-19",
       "time": "18:45",
@@ -233,6 +280,16 @@
     },
     {
       "date": "2026-04-19",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-19 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-19",
       "time": "14:31",
       "src_id": 4,
       "src_type": "lastfm",
@@ -413,6 +470,16 @@
       "text": "2026-04-19 厚い雲 16.4℃ (16.1〜16.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-04-19",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-19 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-18",
@@ -4144,7 +4211,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -4153,7 +4220,43 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
     },
@@ -4180,43 +4283,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7321,25 +7388,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -7357,7 +7415,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -7902,7 +7969,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -7911,7 +7978,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
     },
@@ -7929,7 +7996,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -8134,7 +8201,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -8152,7 +8219,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
@@ -16777,64 +16844,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F22"
-    },
-    {
-      "date": "2026-03-21",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 4,110歩 / 心拍数: 84bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-21",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-21 晴れ時々曇り 8.5℃ (2.4〜16.1℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-21",
-      "time": "01:55",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "調子乗って適当なこと喋ってて申し訳ございません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/ak2pf4g7fgbc04jd"
-    },
-    {
-      "date": "2026-03-21",
-      "time": "01:41",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "雑談配信終了しました　みなさんありがとうございました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/ak2owvtngh6p08hu"
-    },
-    {
-      "date": "2026-03-21",
-      "time": "01:22",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "今日卒業でした。中学3年間、みんなと過ごせてよかった。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak2o8xsc60pz0cew"
-    },
-    {
-      "date": "2026-03-21",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ガチの無　ガチ無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F21"
     }
   ]
 }
