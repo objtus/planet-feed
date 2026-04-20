@@ -1,6 +1,367 @@
 {
-  "generated_at": "2026-04-20T23:00:01.464538+09:00",
+  "generated_at": "2026-04-21T07:00:01.296208+09:00",
   "timeline": [
+    {
+      "date": "2026-04-21",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-21 小雨 17.2℃ (17.2〜17.2℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パランティアは世界征服を目指すのか！？　——東浩紀が - テクノロジカル・リパブリック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%81%AF%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F%E3%80%80%E2%80%94%E2%80%94%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%8C/_/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パランティアは世界征服を目指すのか！？　——東浩紀が - テクノロジカル・リパブリック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%81%AF%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F%E3%80%80%E2%80%94%E2%80%94%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%8C/_/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "Qアノンの親玉（かもしれない）といわれているロン・ワトキンスは2015年くらいから2021年まで札幌にいた（Q出現は2017年末）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alawr7proe770b07"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:15",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こういう日本の変な情報どんどん知りたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alawi31eoe770ayx"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:14",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "claude code作者のboris chernyはanthropicに入る前は奈良で味噌を作っていた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alawgetaoe770ayo"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:09",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "不正確な情報でした　いまは栃木にいるらしい https://x.com/obenkarp",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alawat66oe770ay5"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "パランティアCEOのアレックス・カープの弟（ベン・カープ）は東京で英会話教室をやっているらしい https://www.ikesen.net/school/miryoeducation/index.html",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alaw8d56oe770ay0"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:02",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "西松屋のうさぎ（ミミちゃん）すき",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116437638232290016"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "00:02",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "マナンちゃんすき",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116437635791257994"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "はずかしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavy598oe770ax5"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:58",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "プロのヘメ撮り",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavwm5ooe770ax0"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:53",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "一番好きなポケモンってヌメルゴンかもしれん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavqi79oe770awr"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:52",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "明日プロジェクトヘイルメアリーみにいくか悩んでる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavp8mioe770awd"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:51",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ファルス",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavnre6oe770aw7"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 5時間10分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:49",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "抽挿",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alavl88noe770avq"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "見えそうで見えないには無論興奮するのだが、それと同じくらい、いやそれ以上に、見えなさそうなのに見えているに興奮する",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alav0ckxoe770at9"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パランティアは世界征服を目指すのか！？　——東浩紀が - テクノロジカル・リパブリック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%81%AF%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F%E3%80%80%E2%80%94%E2%80%94%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%8C/_/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live / huez presents - ENTERTAINMENT",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+%2F+huez+presents/_/ENTERTAINMENT"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:06",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "書道#rakugaki_pao",
+      "is_boost": false,
+      "has_media": true,
+      "url": "https://mistodon.cloud/@healthcare/116437417804255258",
+      "visibility": "unlisted",
+      "media": [
+        {
+          "url": "https://media.mistodon.cloud/media_attachments/files/116/437/417/758/683/096/original/30d24662a89c8854.png",
+          "thumb": "https://media.mistodon.cloud/media_attachments/files/116/437/417/758/683/096/small/30d24662a89c8854.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-20 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:54",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "#rakugaki_pao",
+      "is_boost": false,
+      "has_media": true,
+      "url": "https://mistodon.cloud/@healthcare/116437370776036234",
+      "visibility": "unlisted",
+      "media": [
+        {
+          "url": "https://media.mistodon.cloud/media_attachments/files/116/437/370/727/163/449/original/1f05d8ac3707ab76.png",
+          "thumb": "https://media.mistodon.cloud/media_attachments/files/116/437/370/727/163/449/small/1f05d8ac3707ab76.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:52",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "寝てた#rakugaki_pao",
+      "is_boost": false,
+      "has_media": true,
+      "url": "https://mistodon.cloud/@healthcare/116437362762297875",
+      "visibility": "unlisted",
+      "media": [
+        {
+          "url": "https://media.mistodon.cloud/media_attachments/files/116/437/362/709/774/987/original/746aa1fb78864c10.png",
+          "thumb": "https://media.mistodon.cloud/media_attachments/files/116/437/362/709/774/987/small/746aa1fb78864c10.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - WWW presents tofubeats × lilbesh ramko 20260129",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/WWW+presents+tofubeats+%C3%97+lilbesh+ramko+20260129"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - ON & ON",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/ON+&+ON"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - LONELY NIGHTS TB & HI VIP Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/LONELY+NIGHTS+TB+&+HI+VIP+Mix"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - LONELY NIGHTS TB & HI VIP Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/LONELY+NIGHTS+TB+&+HI+VIP+Mix"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - VIBRATION TB DJ REMIX",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/VIBRATION+TB+DJ+REMIX"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - letmetellu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/letmetellu"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - I CAN FEEL IT (Single Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/I+CAN+FEEL+IT+(Single+Mix)"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - I CAN FEEL IT (DJ WILD PARTY BOOTLEG)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/I+CAN+FEEL+IT+(DJ+WILD+PARTY+BOOTLEG)"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats live set at WWWX - PEAK TIME TB DJ REMIX",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats+live+set+at+WWWX/_/PEAK+TIME+TB+DJ+REMIX"
+    },
     {
       "date": "2026-04-20",
       "time": "22:09",
@@ -10,6 +371,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Intro/_/HARDCORE+&+I+Believe+In+You"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "テスト勉強してねえわ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alarvwaboe770ann"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "22:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "まじだりー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alarvf9ioe770anj"
     },
     {
       "date": "2026-04-20",
@@ -223,6 +604,16 @@
     },
     {
       "date": "2026-04-20",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-20 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-20",
       "time": "13:59",
       "src_id": 4,
       "src_type": "lastfm",
@@ -319,6 +710,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/ZEN%E6%95%B0%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/_/LANA"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-20 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-20",
@@ -4512,60 +4913,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
@@ -4584,24 +4931,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
@@ -4611,7 +4940,79 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7698,15 +8099,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
@@ -7717,6 +8109,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -8279,15 +8680,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
@@ -8297,7 +8689,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -8306,7 +8698,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -12628,7 +13029,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
       "is_boost": false,
       "has_media": false
     },
@@ -12637,7 +13038,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
       "is_boost": false,
       "has_media": false
     },
@@ -16982,178 +17383,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F23"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 13,551歩 / 心拍数: 79bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "12:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "高いんだろうな～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4sau3h60pz0dss"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "12:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "高崎行きたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4sanq660pz0dsr"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "12:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "チャンネルトレーラーで仁義を切ろうと思ってAIに口上を考えてもらおうとしたんだけど、ネット上に口上の情報が全然ないのか、うまくできませんでした",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4s8rqp60pz0dso"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "12:39",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.ne.jp/asahi/hashimoto/seikendai/index.htm　味わい深いデザインのサイトみつけた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4rvavp60pz0dsa"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "11:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "一瞬散歩した",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4qdtv160pz0dp9"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "09:18",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "チャンネルトレーラーのためにgifアニメで名刺を作りたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4koyet60pz0dl7"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "09:13",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "深いことを言いたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4kispm60pz0dkp"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "09:13",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "昔の科学映画とか記録映画のBGMがかっこいいと思う 前衛が生きていた時代を感じる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4kihb960pz0dkk"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "09:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ため息",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak4kdd2660pz0dkb"
-    },
-    {
-      "date": "2026-03-22",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-22 曇り 9.0℃ (0.9〜15.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "06:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 1st STAGE (クリップ): スティール・ボール・ラン ジョジョの奇妙な冒険",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "06:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Frieren: Beyond Journey's End: Season 1_hook_02_16x9_backfill",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "05:14",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 1st STAGE: スティール・ボール・ラン (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿1﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "04:47",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Frieren: Beyond Journey's End: Season 1_hook_02_16x9_backfill",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "04:47",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿37﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "04:46",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 転生したらドラゴンの卵だった～最強以外目指さねぇ～ — エピソード11: 見かけたら黒幕だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-22",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "twitchのチャンネルトレーラーについて考える\n　・仁義について考えた https://ja.wikipedia.org/wiki/仁義を切る\n　・例文をいろいろと読んで台本を作りました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F22"
     }
   ]
 }
