@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-04-20T07:00:01.824103+09:00",
+  "generated_at": "2026-04-20T15:00:01.776382+09:00",
   "timeline": [
+    {
+      "date": "2026-04-20",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 今週の人文ウォッチ#71 工学部は男性中心主義なのか論争から、HIKAKINの炎上まで",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E4%BB%8A%E9%80%B1%E3%81%AE%E4%BA%BA%E6%96%87%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%2371+%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%AF%E7%94%B7%E6%80%A7%E4%B8%AD%E5%BF%83%E4%B8%BB%E7%BE%A9%E3%81%AA%E3%81%AE%E3%81%8B%E8%AB%96%E4%BA%89%E3%81%8B%E3%82%89%E3%80%81HIKAKIN%E3%81%AE%E7%82%8E%E4%B8%8A%E3%81%BE%E3%81%A7"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The 5th Dimension - Aquarius / Let the Sunshine In (The Flesh Failures)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+5th+Dimension/_/Aquarius+%2F+Let+the+Sunshine+In+(The+Flesh+Failures)"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Take Me Back To LA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Take+Me+Back+To+LA"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Save Your Tears",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Out of Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Out+of+Time"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Alone Again (Official Live Performance)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Alone+Again+(Official+Live+Performance)"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Faith (Official Live Performance)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Faith+(Official+Live+Performance)"
+    },
+    {
+      "date": "2026-04-20",
+      "time": "10:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Scared to Live",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Scared+to+Live"
+    },
     {
       "date": "2026-04-20",
       "time": "09:00",
@@ -9,6 +89,16 @@
       "text": "2026-04-20 厚い雲 18.1℃ (17.8〜18.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-04-20",
+      "time": "08:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ZEN数学センター・新プロジェクト - LANA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ZEN%E6%95%B0%E5%AD%A6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E6%96%B0%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88/_/LANA"
     },
     {
       "date": "2026-04-20",
@@ -4202,7 +4292,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -4220,16 +4310,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
       "is_boost": false,
       "has_media": false
     },
@@ -4256,42 +4337,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
@@ -4301,7 +4346,52 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7388,7 +7478,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -7406,7 +7505,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
       "is_boost": false,
       "has_media": false
     },
@@ -7416,15 +7515,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -7969,7 +8059,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -7978,7 +8068,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -7996,7 +8086,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
     },
@@ -8005,7 +8095,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -8210,7 +8300,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
@@ -8219,7 +8309,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
     },
@@ -12318,7 +12408,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
       "is_boost": false,
       "has_media": false
     },
@@ -12327,7 +12417,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
       "is_boost": false,
       "has_media": false
     },
