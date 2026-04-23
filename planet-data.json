@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-04-23T15:00:01.415967+09:00",
+  "generated_at": "2026-04-23T23:00:01.363243+09:00",
   "timeline": [
+    {
+      "date": "2026-04-23",
+      "time": "21:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "仲山ひふみ - あなたはすでに死んでいる──レイ・ブラシエ『解き放たれた無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BB%B2%E5%B1%B1%E3%81%B2%E3%81%B5%E3%81%BF/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E3%81%99%E3%81%A7%E3%81%AB%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B%E2%94%80%E2%94%80%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%82%B7%E3%82%A8%E3%80%8E%E8%A7%A3%E3%81%8D%E6%94%BE%E3%81%9F%E3%82%8C%E3%81%9F%E7%84%A1"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bob Dylan - Gotta Serve Somebody",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bob+Dylan/_/Gotta+Serve+Somebody"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "19:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "賞賛されたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alexkhaeoe770dvg"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "19:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "IQ測ったことない 多分95から100くらいだと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alewx2kfoe770duf",
+      "visibility": "home"
+    },
     {
       "date": "2026-04-23",
       "time": "09:30",
@@ -7189,24 +7230,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
@@ -7216,7 +7239,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7234,7 +7257,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7252,7 +7275,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7280,15 +7330,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10375,7 +10416,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
     },
@@ -10384,7 +10425,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -10402,7 +10443,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
       "is_boost": false,
       "has_media": false
     },
@@ -10411,7 +10452,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
       "is_boost": false,
       "has_media": false
     },
@@ -10956,6 +10997,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
@@ -10974,15 +11024,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
@@ -10992,7 +11033,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -11197,7 +11238,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -11206,7 +11247,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
     },
