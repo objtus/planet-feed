@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-04-23T23:00:01.363243+09:00",
+  "generated_at": "2026-04-24T07:00:01.432343+09:00",
   "timeline": [
+    {
+      "date": "2026-04-24",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-04-24 厚い雲 14.2℃ (13.9〜14.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-23",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 2時間15分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-23",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-23",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-23 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-04-23",
       "time": "21:24",
@@ -44,6 +81,16 @@
     },
     {
       "date": "2026-04-23",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-23 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-23",
       "time": "09:30",
       "src_id": 4,
       "src_type": "lastfm",
@@ -80,6 +127,16 @@
       "text": "2026-04-23 厚い雲 16.9℃ (16.6〜17.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-04-23",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-23 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-04-23",
@@ -7230,52 +7287,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
     },
@@ -7293,7 +7305,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
     },
@@ -7311,7 +7332,43 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7329,7 +7386,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
     },
@@ -10416,6 +10473,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
@@ -10425,16 +10491,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
       "is_boost": false,
       "has_media": false
     },
@@ -10452,7 +10509,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -10997,7 +11054,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
       "is_boost": false,
       "has_media": false
     },
@@ -11006,7 +11063,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -11024,7 +11081,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -11033,7 +11090,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -11229,15 +11286,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-05",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
@@ -11248,6 +11296,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-05",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
     },
@@ -18724,147 +18781,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F26"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 6,274歩 / 心拍数: 88bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "13:47",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "「『人生が変わる1分間の深イイ話』実物大・心のレバー」（4179円）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak94mvrh60pz0i7i"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "11:08",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 勇者刑に処す 懲罰勇者9004隊刑務記録: シーズン1: 刑罰: ゼワン=ガン坑道制圧先導 2 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿3﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "10:43",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 勇者刑に処す 懲罰勇者9004隊刑務記録: シーズン1: 刑罰: ゼワン=ガン坑道制圧先導 1 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿2﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "10:40",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Sentenced To Be a Hero: Season 1_hook_primary",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "09:16",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ファンなら誰でも知ってるような劇パト小話がツイッターでいくつもバズっていて、ムカつく",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak8uxfu560pz0i1s"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-25 適度な雨 11.8℃ (10.8〜12.7℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "05:48",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 勇者刑に処す 懲罰勇者9004隊刑務記録: シーズン1: 刑罰: ゼワン=ガン坑道制圧先導 1 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿2﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "04:36",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 勇者刑に処す 懲罰勇者9004隊刑務記録: シーズン1: 刑罰: クヴンジ森林撤退支援 (﻿エ﻿ピ﻿ソ﻿ー﻿ド﻿1﻿)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "04:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "自分の意思で投稿してほしいです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak8kmsmu60pz0hzy"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "04:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "受動的なところとか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak8km24n60pz0hzx"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "04:23",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ぎゃわんちゃんって俺みたいだな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ak8khe2260pz0hzu"
-    },
-    {
-      "date": "2026-03-25",
-      "time": "00:54",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 128歩 / 消費カロリー: 0kcal / 心拍数: 68bpm / 運動: 0分 / スタンド: 1時間",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "00:28",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-25",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "超寝た\n他人事ラジオの動画をyoutubeにアップした",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F25"
     }
   ]
 }
