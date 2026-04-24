@@ -1,6 +1,226 @@
 {
-  "generated_at": "2026-04-24T15:00:01.618932+09:00",
+  "generated_at": "2026-04-24T23:00:01.298598+09:00",
   "timeline": [
+    {
+      "date": "2026-04-24",
+      "time": "21:26",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "まじでだるい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/algg8g46oe770f89"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - party 4 u",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/party+4+u"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - Boom Clap (The Fault In Our Stars Soundtrack)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/Boom+Clap+(The+Fault+In+Our+Stars+Soundtrack)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Magdalena Bay - Killshot",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Magdalena+Bay/_/Killshot"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Britpop",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Britpop"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - Von dutch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/Von+dutch"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "21:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ninajirachi - iPod Touch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ninajirachi/_/iPod+Touch"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Capsule - the Time is Now",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Capsule/_/the+Time+is+Now"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "xd reboot - Charli xcx 360+5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/xd+reboot/_/Charli+xcx+360%252B5"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BRAT Megamix - Apple",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BRAT+Megamix/_/Apple"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BRAT Megamix - Von dutch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BRAT+Megamix/_/Von+dutch"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BRAT Megamix - Club classics",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BRAT+Megamix/_/Club+classics"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BRAT Megamix - 365",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BRAT+Megamix/_/365"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - B2b (Extended)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/B2b+(Extended)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KYT_fever - Charli XCX (360 x 365 x apple transition) Audio Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KYT_fever/_/Charli+XCX+(360+x+365+x+apple+transition)+Audio+Mix"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "メガネなしで見る方法 - How to See Without Glasses  *Audio in EN / DE / FR / PT / ES",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%AA%E3%81%97%E3%81%A7%E8%A6%8B%E3%82%8B%E6%96%B9%E6%B3%95/_/How+to+See+Without+Glasses++*Audio+in+EN+%2F+DE+%2F+FR+%2F+PT+%2F+ES"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - スポーツ報知_ヒグチ記者 (Mythosの今後の対応は)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%A0%B1%E7%9F%A5_%E3%83%92%E3%82%B0%E3%83%81%E8%A8%98%E8%80%85+(Mythos%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%AF%BE%E5%BF%9C%E3%81%AF)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - NHK_ニシザワ記者 (国家情報局の採決について )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/NHK_%E3%83%8B%E3%82%B7%E3%82%B6%E3%83%AF%E8%A8%98%E8%80%85+(%E5%9B%BD%E5%AE%B6%E6%83%85%E5%A0%B1%E5%B1%80%E3%81%AE%E6%8E%A1%E6%B1%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6+)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "20:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - 共同通信_ハシモト記者( 国会活動・党運営の現状は )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/%E5%85%B1%E5%90%8C%E9%80%9A%E4%BF%A1_%E3%83%8F%E3%82%B7%E3%83%A2%E3%83%88%E8%A8%98%E8%80%85(+%E5%9B%BD%E4%BC%9A%E6%B4%BB%E5%8B%95%E3%83%BB%E5%85%9A%E9%81%8B%E5%96%B6%E3%81%AE%E7%8F%BE%E7%8A%B6%E3%81%AF+)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "19:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - 読売新聞_シゲマツ記者 (共同提出の理由と背景など)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/%E8%AA%AD%E5%A3%B2%E6%96%B0%E8%81%9E_%E3%82%B7%E3%82%B2%E3%83%9E%E3%83%84%E8%A8%98%E8%80%85+(%E5%85%B1%E5%90%8C%E6%8F%90%E5%87%BA%E3%81%AE%E7%90%86%E7%94%B1%E3%81%A8%E8%83%8C%E6%99%AF%E3%81%AA%E3%81%A9)"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "19:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - 党首会見パート 高額療養費制度の共同提出",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%83%91%E3%83%BC%E3%83%88+%E9%AB%98%E9%A1%8D%E7%99%82%E9%A4%8A%E8%B2%BB%E5%88%B6%E5%BA%A6%E3%81%AE%E5%85%B1%E5%90%8C%E6%8F%90%E5%87%BA"
+    },
+    {
+      "date": "2026-04-24",
+      "time": "19:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "党首会見終了!?話題のキャンドルジュン方式が最後かも。でも明らかに記者質疑が濃密で面白かった党首会見をまとめました!!mythosの件がガチ過ぎますね【安野貴博 - OP&ダイジェスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E7%B5%82%E4%BA%86!%3F%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E6%96%B9%E5%BC%8F%E3%81%8C%E6%9C%80%E5%BE%8C%E3%81%8B%E3%82%82%E3%80%82%E3%81%A7%E3%82%82%E6%98%8E%E3%82%89%E3%81%8B%E3%81%AB%E8%A8%98%E8%80%85%E8%B3%AA%E7%96%91%E3%81%8C%E6%BF%83%E5%AF%86%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%8B%E3%81%A3%E3%81%9F%E5%85%9A%E9%A6%96%E4%BC%9A%E8%A6%8B%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F!!mythos%E3%81%AE%E4%BB%B6%E3%81%8C%E3%82%AC%E3%83%81%E9%81%8E%E3%81%8E%E3%81%BE%E3%81%99%E3%81%AD%E3%80%90%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/OP&%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88"
+    },
     {
       "date": "2026-04-24",
       "time": "09:24",
@@ -7307,16 +7527,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7334,24 +7545,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
@@ -7361,25 +7554,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -7397,6 +7572,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
       "is_boost": false,
       "has_media": false
@@ -7406,7 +7599,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10493,25 +10713,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -10529,7 +10731,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -11074,7 +11294,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
       "is_boost": false,
       "has_media": false
     },
@@ -11083,7 +11303,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -11110,7 +11330,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -11315,7 +11535,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
     },
@@ -11324,7 +11544,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
