@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T23:00:01.726217+09:00",
-  "latest_date": "2026-04-26",
-  "oldest_date": "2026-03-28",
+  "generated_at": "2026-04-27T07:00:01.317024+09:00",
+  "latest_date": "2026-04-27",
+  "oldest_date": "2026-03-29",
   "sources": [
     {
       "id": 2,
@@ -145,16 +145,6 @@
     }
   ],
   "days": {
-    "2026-03-28": {
-      "posts": 3,
-      "plays": 0,
-      "steps": 3520,
-      "weather": {
-        "icon": "☁️",
-        "desc": "雲",
-        "temp_max": 22.2
-      }
-    },
     "2026-03-29": {
       "posts": 5,
       "plays": 9,
@@ -437,6 +427,10 @@
         "desc": "晴天",
         "temp_max": 16.7
       }
+    },
+    "2026-04-27": {
+      "posts": 0,
+      "plays": 0
     }
   },
   "timeline_collapse": {
