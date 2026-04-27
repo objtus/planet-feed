@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T23:00:01.277609+09:00",
+  "generated_at": "2026-04-28T07:00:01.259942+09:00",
   "timeline": [
     {
       "date": "2026-04-26",
@@ -8988,70 +8988,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -9078,6 +9015,60 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
@@ -9088,6 +9079,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
     },
@@ -12174,7 +12174,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
       "is_boost": false,
       "has_media": false
     },
@@ -12183,7 +12183,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
     },
@@ -12201,7 +12201,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -12210,7 +12210,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 織田晶は暗殺者になる",
       "is_boost": false,
       "has_media": false
     },
@@ -12755,16 +12755,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
     },
@@ -12782,6 +12773,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
@@ -12791,7 +12791,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -12987,7 +12987,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -13005,7 +13005,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
     },
@@ -18569,253 +18569,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F30"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "23:05",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 3枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-29",
-      "time": "23:00",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,267歩 / 消費カロリー: 0kcal / 心拍数: 65bpm / 運動: 0分 / スタンド: 1時間",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-29",
-      "time": "21:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "そういえばYoutubeで過去のナイトスクープを見てたら識者として下川耿史が出ていて良かった　https://youtu.be/cDWz16Jivik?si=Qx9__PX6gZTe1wUe　俺が推してる昭和平成家庭史年表の編者ですよ！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akfb0m4l60pz0oiz"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "21:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "戦場帰りの父が遺したエ●写真！？ 隠された - 衝撃の真実",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%88%A6%E5%A0%B4%E5%B8%B0%E3%82%8A%E3%81%AE%E7%88%B6%E3%81%8C%E9%81%BA%E3%81%97%E3%81%9F%E3%82%A8%E2%97%8F%E5%86%99%E7%9C%9F%EF%BC%81%EF%BC%9F+%E9%9A%A0%E3%81%95%E3%82%8C%E3%81%9F/_/%E8%A1%9D%E6%92%83%E3%81%AE%E7%9C%9F%E5%AE%9F"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "21:08",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "しかしiphoneのショートカットで歩数とかを送信するやつがうまく動いていない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akfa5d2c60pz0ohs"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "21:06",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "scrapboxで書いてる日記をplanetから取得できるようにしてもらった！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akfa2uyt60pz0ohr"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:53",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Add Scrapbox diary note to daily summary prompt",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Skip empty Scrapbox diary entries; delete if content removed",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:42",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Preserve Scrapbox list structure and fix newline display in dashboard",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Add Scrapbox (Cosense) diary collector and summary integration",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:24",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Document Scrapbox integration plan and fix stale links",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:19",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Add Scrapbox (Cosense) API docs with verified specs",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "20:03",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Reorganize docs: consolidate next_tasks into current_state, remove stale plan docs",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "14:15",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.youtube.com/watch?v=MTKZ24Fz6r4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akevdyvi60pz0nvd"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "14:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Buddha Brand - ブッダの休日",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Buddha+Brand/_/%E3%83%96%E3%83%83%E3%83%80%E3%81%AE%E4%BC%91%E6%97%A5"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "14:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Buddha Brand - 人間発電所 Original'95 Vinyl Version",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Buddha+Brand/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80+Original%2795+Vinyl+Version"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "13:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "投稿適当に - 映画ドラえもんワンニャン時空伝主題歌",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%8A%95%E7%A8%BF%E9%81%A9%E5%BD%93%E3%81%AB/_/%E6%98%A0%E7%94%BB%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E3%83%AF%E3%83%B3%E3%83%8B%E3%83%A3%E3%83%B3%E6%99%82%E7%A9%BA%E4%BC%9D%E4%B8%BB%E9%A1%8C%E6%AD%8C"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "13:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ハチ - ワンニャン時空伝 予告編",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%8F%E3%83%81/_/%E3%83%AF%E3%83%B3%E3%83%8B%E3%83%A3%E3%83%B3%E6%99%82%E7%A9%BA%E4%BC%9D+%E4%BA%88%E5%91%8A%E7%B7%A8"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "12:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ニューズウィーク日本版 - 東浩紀が考える戦争頻発時代の哲学／イラン攻撃容認は日本にリスク／ポケモンバトル化する国際政治／平和国家と核武装の両立？／正義・悪・戦争という袋小路／日本外交の潜在力／広野真嗣が聞く",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF%E6%97%A5%E6%9C%AC%E7%89%88/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%8C%E8%80%83%E3%81%88%E3%82%8B%E6%88%A6%E4%BA%89%E9%A0%BB%E7%99%BA%E6%99%82%E4%BB%A3%E3%81%AE%E5%93%B2%E5%AD%A6%EF%BC%8F%E3%82%A4%E3%83%A9%E3%83%B3%E6%94%BB%E6%92%83%E5%AE%B9%E8%AA%8D%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AB%E3%83%AA%E3%82%B9%E3%82%AF%EF%BC%8F%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB%E5%8C%96%E3%81%99%E3%82%8B%E5%9B%BD%E9%9A%9B%E6%94%BF%E6%B2%BB%EF%BC%8F%E5%B9%B3%E5%92%8C%E5%9B%BD%E5%AE%B6%E3%81%A8%E6%A0%B8%E6%AD%A6%E8%A3%85%E3%81%AE%E4%B8%A1%E7%AB%8B%EF%BC%9F%EF%BC%8F%E6%AD%A3%E7%BE%A9%E3%83%BB%E6%82%AA%E3%83%BB%E6%88%A6%E4%BA%89%E3%81%A8%E3%81%84%E3%81%86%E8%A2%8B%E5%B0%8F%E8%B7%AF%EF%BC%8F%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4%E3%81%AE%E6%BD%9C%E5%9C%A8%E5%8A%9B%EF%BC%8F%E5%BA%83%E9%87%8E%E7%9C%9F%E5%97%A3%E3%81%8C%E8%81%9E%E3%81%8F"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "12:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "衝撃の概念 - ゴママヨ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A1%9D%E6%92%83%E3%81%AE%E6%A6%82%E5%BF%B5/_/%E3%82%B4%E3%83%9E%E3%83%9E%E3%83%A8"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "12:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "シーフードドリアの - ドド",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%BC%E3%83%95%E3%83%BC%E3%83%89%E3%83%89%E3%83%AA%E3%82%A2%E3%81%AE/_/%E3%83%89%E3%83%89"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "12:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "How long can a McDonald's paper cup hold liquid? - 4K Time Lapse",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/How+long+can+a+McDonald%27s+paper+cup+hold+liquid%3F/_/4K+Time+Lapse"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "12:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "昨日はめっちゃ寝てたのでウォッチパーティに参加できませんでした",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akerxe3160pz0ns0"
-    },
-    {
-      "date": "2026-03-29",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-29 曇りがち 23.1℃ (22.8〜23.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-29",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "バイブコーディング\n　・scrapboxの日記（つまりこれ）をフィード経由で取得できるようにした。\n　・LLM生成日記の精度が上がって良い\n　・ここの日記を書くモチベーションにもつながるのでよいなと思った。\n　・出先からtailscale経由でsshを使ってclaude codeでバイブコーディングしてたんだけど、全然これでもできるなと思った\n　　・結局やっていることはclaudeに適当に指示を出してるだけなので\n勇者刑に処すなどの2026年冬アニメをみていってる\n　・もう冬アニメも終わりやね\nmisskey.ioがなんか調子悪いらしいけど全然チェックしてない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F29"
     }
   ]
 }
