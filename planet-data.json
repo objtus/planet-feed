@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:00:01.788860+09:00",
+  "generated_at": "2026-04-29T07:00:01.392826+09:00",
   "timeline": [
     {
       "date": "2026-04-26",
@@ -8988,34 +8988,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -9033,43 +9006,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
       "is_boost": false,
       "has_media": false
     },
@@ -9087,7 +9024,70 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -12174,7 +12174,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
     },
@@ -12192,16 +12201,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は見蕩れる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
       "is_boost": false,
       "has_media": false
     },
@@ -12755,6 +12755,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は魔族と戦う",
       "is_boost": false,
       "has_media": false
@@ -12773,25 +12791,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は名前を呼ぶ",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
     },
@@ -12987,15 +12987,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-05",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
       "is_boost": false,
       "has_media": false
@@ -13006,6 +12997,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-05",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -18214,361 +18214,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F03%2F31"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 7,551歩 / 心拍数: 72bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-30",
-      "time": "23:05",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-30",
-      "time": "20:29",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "リアクション機能っていらないと思う",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akgo71jh60pz0pum"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "20:28",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ネガティブな気持ちです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akgo51yp60pz0pty"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:50",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "みなさんと話がしたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgms95xk3"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:44",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "今日桜見たけど七分咲きくらいだったよ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgmkat2tb"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:41",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "尊敬されたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgmhhyyia"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:41",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "浜名湖パルパル",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgmgcytek"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:38",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "すみません よくわかりません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgmcn0qz7"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:37",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "みんな最近なにしてる？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/akgmb9test"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "19:35",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ガチだるい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akgm9m7p60pz0plt"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "17:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Refactor collect_all.py to use a registry-driven loop for collectors, reducing code from 72 to 53 lines. Introduced COLLECTORS dictionary for managing collector classes and GROUPS for defining aliases. Updated documentation to reflect these changes.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "17:36",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Update layout alignment in links_main.html to improve visual consistency by changing justify-content from space-between to flex-start.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "17:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Update HTML files for crosslinks, favlinks, and main links pages with enhanced metadata and structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "17:24",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 3件: Enhance CSS styles for improved layout and performance / Enhance site content and structure with new features and updates / Add character creation editor with initial files and structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "13:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://yuinoid.neocities.org/links/links_main　リンクページに、でむごぜちゃんさん、えのきのこさん、西村透さんのサイトのリンクを追加しました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akga4gxx60pz0pda"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "13:42",
-      "src_id": 5,
-      "src_type": "rss",
-      "text": "リンクページに、でむごぜちゃんさん、えのきのこさん、西村透さんのサイトのリンクを追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://yuinoid.neocities.org/links/links_main.html#favlinks_header"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "地味な子が好きです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg81iv060pz0paw"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:56",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "何が好きなのか、わたしはわたしがわかりません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg80ca660pz0pav"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしはつがいじめが好きです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7yb2660pz0par"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:52",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "悪堕ちってよくわからん　性癖が即物的なので、悪堕ちしてピチピチなスーツを着用してはじめて興奮できる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7vi9060pz0paq"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "あなた達にはついていけません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7s8lx60pz0pah"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:48",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: シーズン1 (クリップ): サイバーパンク: エッジランナーズ",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:45",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 転生したらドラゴンの卵だった～最強以外目指さねぇ～ — エピソード12: 空を見上げたら勇者だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:42",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ナ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7hqjq60pz0p9m"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:42",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "確定",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7hlo460pz0p9l"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ケツナアナ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg7gjbl60pz0p9i"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "12:22",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "「わたしは義理と人情を大切にします」っていう意思表示の義理と人情マークを作りたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg6ssgr60pz0p7w"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "11:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Clark - Ted",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Clark/_/Ted"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "10:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "めっちゃ桜咲いてることない？花見に行きたいわ～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akg2g30c60pz0p0m"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-03-30 厚い雲 21.9℃ (21.6〜22.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-03-30",
-      "time": "05:05",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 2件: Add comprehensive CLAUDE.md for AI assistant onboarding / Merge pull request #1 from objtus/claude/add-claude-documentation-32Q7P",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "04:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: branch claude/add-claude-documentation-32Q7P を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "04:14",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Improve timeline link UX: linkify post body URLs and use timestamp as permalink",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "03:52",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "最近絵描いてません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akfok2dx60pz0oyc"
-    },
-    {
-      "date": "2026-03-30",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無ですね\n散歩で桜を見に行った\nいろいろページを作った\n　・家庭科のドラゴン\n　・お土産屋さんで売ってる龍が巻き付いた剣のキーホルダー\n　・オタクっぽいデザイン\n　・incel-modernism\n　・unixporn\n　・Compressionism\n　・Globohomo\n　・Alegria\n　・corporate memphis",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F03%2F30"
     }
   ]
 }
