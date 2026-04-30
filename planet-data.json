@@ -1,6 +1,336 @@
 {
-  "generated_at": "2026-04-30T15:00:01.077365+09:00",
+  "generated_at": "2026-04-30T23:00:01.751771+09:00",
   "timeline": [
+    {
+      "date": "2026-04-30",
+      "time": "20:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 光 (PLANITb Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E5%85%89+(PLANITb+Remix)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 光",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E5%85%89"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Face My Fears (A. G. Cook Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Face+My+Fears+(A.+G.+Cook+Remix)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル & スクリレックス - Face My Fears (English Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB+&+%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9/_/Face+My+Fears+(English+Version)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - キレイな人 (Find Love)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%82%AD%E3%83%AC%E3%82%A4%E3%81%AA%E4%BA%BA+(Find+Love)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Beautiful World (Da Capo Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Beautiful+World+(Da+Capo+Version)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Somewhere Near Marseilles ーマルセイユ辺りー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Somewhere+Near+Marseilles+%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%A6%E8%BE%BA%E3%82%8A%E3%83%BC"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル & スクリレックス - Face My Fears (Japanese Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB+&+%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9/_/Face+My+Fears+(Japanese+Version)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Find Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Find+Love"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "20:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 誰にも言わない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E8%AA%B0%E3%81%AB%E3%82%82%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 気分じゃないの (Not In The Mood)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E6%B0%97%E5%88%86%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE+(Not+In+The+Mood)"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Time"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - PINK BLOOD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/PINK+BLOOD"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - One Last Kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 君に夢中",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E5%90%9B%E3%81%AB%E5%A4%A2%E4%B8%AD"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - BADモード",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/BAD%E3%83%A2%E3%83%BC%E3%83%89"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nobukazu Takemura - Honey Comb",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nobukazu+Takemura/_/Honey+Comb"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nobukazu Takemura - Anemometer",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nobukazu+Takemura/_/Anemometer"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "光田康典 - CHRONO CROSS ~時の傷痕~",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%85%89%E7%94%B0%E5%BA%B7%E5%85%B8/_/CHRONO+CROSS+~%E6%99%82%E3%81%AE%E5%82%B7%E7%97%95~"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "19:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "眠すぎてゲロゲロ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/alovvhigj29v013e"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "原マスミ - Camera",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8E%9F%E3%83%9E%E3%82%B9%E3%83%9F/_/Camera"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "原マスミ - Bubbles",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8E%9F%E3%83%9E%E3%82%B9%E3%83%9F/_/Bubbles"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "原マスミ - Eye Drops Administered from the Surface of the Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8E%9F%E3%83%9E%E3%82%B9%E3%83%9F/_/Eye+Drops+Administered+from+the+Surface+of+the+Moon"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "原マスミ - The Careless Moon and Stars",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8E%9F%E3%83%9E%E3%82%B9%E3%83%9F/_/The+Careless+Moon+and+Stars"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "原マスミ - Always Still",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8E%9F%E3%83%9E%E3%82%B9%E3%83%9F/_/Always+Still"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "久保田早紀 - ギター弾きを見ませんか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E3%82%AE%E3%82%BF%E3%83%BC%E5%BC%BE%E3%81%8D%E3%82%92%E8%A6%8B%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "久保田早紀 - 帰郷",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E5%B8%B0%E9%83%B7"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "久保田早紀 - 異邦人",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E7%95%B0%E9%82%A6%E4%BA%BA"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "久保田早紀 - 朝",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E6%9C%9D"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - Love a Riddle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/Love+a+Riddle"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "17:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - あの日の君へ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%B8"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "16:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - Shooting Star",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/Shooting+Star"
+    },
+    {
+      "date": "2026-04-30",
+      "time": "16:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - Shooting Star",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/Shooting+Star"
+    },
     {
       "date": "2026-04-30",
       "time": "13:37",
@@ -10032,7 +10362,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
     },
@@ -10050,7 +10380,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10059,7 +10389,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10077,7 +10407,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
       "is_boost": false,
       "has_media": false
     },
@@ -10086,7 +10416,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10113,7 +10452,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -10122,16 +10461,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -13218,6 +13548,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は川面を見つめる",
       "is_boost": false,
       "has_media": false
@@ -13228,15 +13567,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は立ち読みをする",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は観光する",
       "is_boost": false,
       "has_media": false
     },
@@ -13799,6 +14129,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は猫と触れ合う",
       "is_boost": false,
       "has_media": false
@@ -13818,15 +14157,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は誓う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はベッドで眠る",
       "is_boost": false,
       "has_media": false
     },
@@ -14031,6 +14361,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-05",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者は看病する",
       "is_boost": false,
       "has_media": false
@@ -14041,15 +14380,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが: 暗殺者はパンを食う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-05",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 新しい日々",
       "is_boost": false,
       "has_media": false
     },
@@ -18148,7 +18478,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
       "is_boost": false,
       "has_media": false
     },
@@ -18157,7 +18487,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: 美しい光景",
+      "text": "Netflix視聴: 葬送のフリーレン: シーズン2: ヒンメルの自伝",
       "is_boost": false,
       "has_media": false
     },
