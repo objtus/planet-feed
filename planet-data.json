@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-05-08T07:00:01.801657+09:00",
+  "generated_at": "2026-05-08T15:00:01.951162+09:00",
   "timeline": [
+    {
+      "date": "2026-05-08",
+      "time": "14:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VVV [Trippin'you], Erik Urano - Espadas en guadañas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VVV+%5BTrippin%27you%5D,+Erik+Urano/_/Espadas+en+guada%C3%B1as"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Boring Angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Boring+Angel"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "何やろうとしたか忘れた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am0248tuc3th09un"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Measuring Ruins",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Measuring+Ruins"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Cherry Blue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Cherry+Blue"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Introit / Prophecy At 1420 MHz",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit+%2F+Prophecy+At+1420+MHz"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "東山翔",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am01o3pxc3th09to"
+    },
+    {
+      "date": "2026-05-08",
+      "time": "14:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "だるいです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am01mwnzc3th09th"
+    },
     {
       "date": "2026-05-08",
       "time": "09:00",
@@ -9,6 +89,16 @@
       "text": "2026-05-08 雲 19.4℃ (19.4〜19.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-05-08",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-08 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-05-08",
@@ -129,6 +219,15 @@
     },
     {
       "date": "2026-05-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: シーモア・ハーシュ: 権力の闇に挑む男",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-07",
       "time": "11:49",
       "src_id": 4,
       "src_type": "lastfm",
@@ -214,6 +313,24 @@
     },
     {
       "date": "2026-05-06",
+      "time": "21:29",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 異世界のんびり農家 — エピソード1: 第一話 万能農具",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-06",
+      "time": "21:29",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２ — エピソード4: 暴虐王女は宣言する",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-06",
       "time": "15:00",
       "src_id": 8,
       "src_type": "github",
@@ -231,6 +348,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E6%88%A6%E4%BA%89%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%A0%EF%BC%9F%E8%80%83%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%AF%EF%BC%9F/_/%E5%B9%B3%E5%92%8C%E3%81%A8%E6%84%9A%E3%81%8B%E3%81%95"
+    },
+    {
+      "date": "2026-05-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: アインシュタインと原爆",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-05-06",
@@ -436,6 +562,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E5%88%86%E6%9E%90%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%A0/_/Right+Here,+Right+Now"
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:40",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 神の庭付き楠木邸 — エピソード1: 第1話　神の庭に山の神、来たる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-05",
+      "time": "13:39",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season — エピソード5: #5 騒乱再び",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-05-05",
@@ -734,6 +878,15 @@
     },
     {
       "date": "2026-05-04",
+      "time": "19:54",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード5: 第5話 異常に似合ってます",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-04",
       "time": "15:00",
       "src_id": 8,
       "src_type": "github",
@@ -741,6 +894,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-05-04",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-04",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-05-04",
@@ -1146,6 +1317,15 @@
     },
     {
       "date": "2026-05-02",
+      "time": "19:51",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード5: 第5章 自称悪役令嬢と初めての感情の観察記録。",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-02",
       "time": "15:00",
       "src_id": 8,
       "src_type": "github",
@@ -1153,6 +1333,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-05-02",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 箱庭をブッ壊せ 脱出! ブロックの国",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-05-02",
@@ -2006,6 +2195,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Seefeel/_/Brazen+Haze"
+    },
+    {
+      "date": "2026-05-01",
+      "time": "21:26",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２ — エピソード3: 第3話 暴虐王女と真実",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-05-01",
@@ -2976,6 +3174,15 @@
     },
     {
       "date": "2026-04-30",
+      "time": "21:25",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード5: 第5話 逃がした魚の里帰り",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-30",
       "time": "20:54",
       "src_id": 4,
       "src_type": "lastfm",
@@ -3773,6 +3980,15 @@
     },
     {
       "date": "2026-04-28",
+      "time": "21:17",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season — エピソード4: #4 苦難は続くよどこまでも",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-28",
       "time": "21:14",
       "src_id": 2,
       "src_type": "misskey",
@@ -3960,6 +4176,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E7%8C%AB+%E3%82%B7+Corp./_/Palm+Mall+Mars"
+    },
+    {
+      "date": "2026-04-28",
+      "time": "11:06",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～ — エピソード1: 第1話 瘴気漁り",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-28",
+      "time": "11:06",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード4: 第4話 特訓あるのみです",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-28",
@@ -4345,6 +4579,15 @@
     },
     {
       "date": "2026-04-26",
+      "time": "20:06",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 本好きの下剋上 領主の養女 — エピソード4: 第四章 寄付金の集め方",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
       "time": "15:00",
       "src_id": 8,
       "src_type": "github",
@@ -4352,6 +4595,51 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: デラとハナ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 招待状",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 右と左",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-26",
@@ -4777,6 +5065,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/r-906/_/%E6%A2%85%E3%81%AB%E9%B6%AF"
+    },
+    {
+      "date": "2026-04-25",
+      "time": "20:31",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード4: 第4章 自称悪役令嬢と恋のキューピッドの観察記録。",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-25",
@@ -6026,6 +6323,15 @@
     },
     {
       "date": "2026-04-24",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): コンピューターの夜明け",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-24",
       "time": "09:24",
       "src_id": 4,
       "src_type": "lastfm",
@@ -6122,6 +6428,15 @@
     },
     {
       "date": "2026-04-23",
+      "time": "21:01",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード4: 第4話 逃がした魚は悩まされる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-23",
       "time": "20:55",
       "src_id": 4,
       "src_type": "lastfm",
@@ -6129,6 +6444,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Bob+Dylan/_/Gotta+Serve+Somebody"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "20:32",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード3: 第3話 逃がした魚の淑女修行",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-23",
@@ -6160,6 +6484,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-23",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 謎の国の探索! 太陽神の秘密",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-23",
@@ -6296,6 +6629,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%81%B2%E3%81%BF%E3%81%A4%E3%81%AE%E5%B0%8F%E5%AD%A6%E7%94%9F"
+    },
+    {
+      "date": "2026-04-22",
+      "time": "19:44",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２ — エピソード2: 第2話 暴虐王女は口を開く",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-22",
@@ -7326,6 +7668,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Sasuke+Haraguchi/_/%E3%82%A4%E3%82%AC%E3%82%AF"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "19:48",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season — エピソード3: #3 敵地滞在",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-21",
@@ -8444,6 +8795,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Indeed/_/%E5%A0%82%E5%AE%89%E5%BE%8B%E3%81%AF%E3%80%81%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84"
+    },
+    {
+      "date": "2026-04-21",
+      "time": "08:18",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード3: 第3話 前代未聞です",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-21",
+      "time": "07:57",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード2: 第2話 単独戦闘はお勧めしません",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-21",
@@ -9744,6 +10113,33 @@
     },
     {
       "date": "2026-04-18",
+      "time": "21:21",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: スライム倒して300年、知らないうちにレベルMAXになってました — エピソード1: 第1話 レベルＭＡＸになっていた",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-18",
+      "time": "21:20",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード3: 第3章 自称悪役令嬢と入学の観察記録。",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-18",
+      "time": "20:59",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 本好きの下剋上 領主の養女 — エピソード3: 第三章 領主の城とイタリアンレストラン",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-18",
       "time": "20:42",
       "src_id": 2,
       "src_type": "misskey",
@@ -9831,6 +10227,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ナミ困惑! ブロックの国の冒険",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 仮魔体チーム結成",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-18",
@@ -10411,6 +10825,15 @@
     },
     {
       "date": "2026-04-17",
+      "time": "19:53",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: Dr.STONE SCIENCE FUTURE（第4期） — エピソード27: 第27話 宇宙は数学という言語で書かれている",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-17",
       "time": "16:58",
       "src_id": 2,
       "src_type": "misskey",
@@ -10534,6 +10957,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-04-16",
+      "time": "22:58",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード2: 第2話 逃がした魚は捕まっちゃう",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-04-16",
@@ -13415,51 +13847,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
@@ -13487,6 +13874,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
@@ -13496,7 +13892,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔術師、実は食わせ者につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -13514,7 +13937,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -13853,15 +14285,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/akyvaj1v60pz16fm"
-    },
-    {
-      "date": "2026-04-12",
-      "time": "13:32",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード2: 第2話 単独戦闘はお勧めしません",
-      "is_boost": false,
-      "has_media": false
     },
     {
       "date": "2026-04-12",
