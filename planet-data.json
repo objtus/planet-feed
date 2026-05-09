@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T07:00:01.786922+09:00",
+  "generated_at": "2026-05-09T15:00:01.579771+09:00",
   "timeline": [
     {
       "date": "2026-05-09",
@@ -9,6 +9,58 @@
       "text": "2026-05-09 雲 14.0℃ (14.0〜14.0℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-05-09",
+      "time": "06:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://music.apple.com/jp/album/notes-on-cinematography/1853298002 focus group所属？のw3bcamが最後の曲でコラボしていて知ったinstagram filter。w3bcamにせよアーティスト名がいい 曲はといえば、ラップがmumbleにも程がある",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am10v535c3th0b2n"
+    },
+    {
+      "date": "2026-05-09",
+      "time": "06:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ghost box recordsのほうのthe focus groupを聴こうとしてこれが出てきた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am109rg9c3th0b29",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-05-09",
+      "time": "06:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://music.apple.com/jp/album/fg-compilation-2018-2020-ep/1633690694 いい focus groupについて全然情報が出てこないけど、雰囲気がインターネットが楽しかったあの頃って感じで泣ける",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/am1081hec3th0b26",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-05-09",
+      "time": "06:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pim Sem Benjamin - Himera",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pim+Sem+Benjamin/_/Himera"
+    },
+    {
+      "date": "2026-05-09",
+      "time": "06:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pop Crypt - Cecile Believe",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pop+Crypt/_/Cecile+Believe"
     },
     {
       "date": "2026-05-09",
@@ -6019,6 +6071,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 招待状",
       "is_boost": false,
       "has_media": false
@@ -6028,7 +6089,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
+      "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
       "is_boost": false,
       "has_media": false
     },
@@ -6047,15 +6108,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 右と左",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
       "is_boost": false,
       "has_media": false
     },
@@ -15265,7 +15317,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
       "is_boost": false,
       "has_media": false
     },
@@ -15283,7 +15335,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15301,7 +15353,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
       "is_boost": false,
       "has_media": false
     },
@@ -15310,7 +15362,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15319,7 +15371,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その暴走、実は破滅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15337,24 +15398,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのクエスト、実は再起の糸口につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その師匠、実は弟子につき",
       "is_boost": false,
       "has_media": false
@@ -15364,7 +15407,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
     },
