@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-05-10T23:00:01.529796+09:00",
+  "generated_at": "2026-05-11T07:00:01.235234+09:00",
   "timeline": [
+    {
+      "date": "2026-05-11",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-05-11 曇りがち 15.9℃ (15.9〜15.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-10",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-10 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-05-10",
       "time": "21:23",
@@ -13,12 +32,32 @@
     },
     {
       "date": "2026-05-10",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-10 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-05-10",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-05-10 晴天 12.7℃ (12.7〜12.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-05-10",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-10 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-05-10",
@@ -2447,7 +2486,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
       "is_boost": false,
       "has_media": false
     },
@@ -2456,7 +2495,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
       "is_boost": false,
       "has_media": false
     },
@@ -6148,25 +6187,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: デラとハナ",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
+      "text": "Netflix視聴: 黄泉のツガイ: 右と左",
       "is_boost": false,
       "has_media": false
     },
@@ -6184,7 +6205,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 右と左",
+      "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: デラとハナ",
       "is_boost": false,
       "has_media": false
     },
@@ -11780,7 +11819,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: ナミ困惑! ブロックの国の冒険",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 仮魔体チーム結成",
       "is_boost": false,
       "has_media": false
     },
@@ -11789,7 +11828,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 仮魔体チーム結成",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ナミ困惑! ブロックの国の冒険",
       "is_boost": false,
       "has_media": false
     },
@@ -15394,16 +15433,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15421,7 +15451,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その教授、実は決別のためにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その男、実は昔なじみにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15430,7 +15460,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その追放、実は新たなる旅立ちにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15448,7 +15478,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -15475,6 +15514,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのおせっかい、実は不安の種につき",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その魔法使い、実は心優しいきひとにつき",
       "is_boost": false,
       "has_media": false
@@ -15484,16 +15532,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: そのすれ違い、実は巡り逢いにつき",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その出会い、実は再会につき",
+      "text": "Netflix視聴: パーティーから追放されたその治癒師、実は最強につき: その結末、実は新たな旅のはじまりにつき",
       "is_boost": false,
       "has_media": false
     },
@@ -16085,477 +16124,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F04%2F12"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 7時間35分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 2kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:35",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい — エピソード1: 第1話 はじまりとおわり",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:35",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 貴族転生 ～恵まれた生まれから最強の力を得る～ — エピソード12: 貴族",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,715歩 / 心拍数: 88bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:12",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 貴族転生 ～恵まれた生まれから最強の力を得る～ — エピソード11: 廃嫡",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-11 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "22:52",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 貴族転生 ～恵まれた生まれから最強の力を得る～ — エピソード10: 雷親王と賢親王",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "22:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "あたいも新しいことに挑戦していきたいのねん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akxxotnl60pz15sj"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "15:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - 今週の人文ウォッチ#69 日米バーベキュー交流、着任ツイート論争、そしてプロジェクト・ヘイル・メアリーへ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E4%BB%8A%E9%80%B1%E3%81%AE%E4%BA%BA%E6%96%87%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%2369+%E6%97%A5%E7%B1%B3%E3%83%90%E3%83%BC%E3%83%99%E3%82%AD%E3%83%A5%E3%83%BC%E4%BA%A4%E6%B5%81%E3%80%81%E7%9D%80%E4%BB%BB%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%E8%AB%96%E4%BA%89%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%83%98%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC%E3%81%B8"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "15:04",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "コーチェラとくにみたい人おらんなあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akxhuney60pz156r"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-11 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-04-11 雲 16.1℃ (16.1〜16.1℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-11",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-04-11 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "05:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "あとペイントアプリによってはアップルペンシルだけ描画できる（指では描画しない）モードがあって、それだと比較的手を付けられます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwwna3r60pz14r5"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "05:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "手をなるべく画面に触れないようにします",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwwld2260pz14r4"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "04:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ナイトinナイト【ABCテレビ公式】 - 妖怪と遊びたい3歳児と、妖怪になりたい35歳男性。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E5%A6%96%E6%80%AA%E3%81%A8%E9%81%8A%E3%81%B3%E3%81%9F%E3%81%843%E6%AD%B3%E5%85%90%E3%81%A8%E3%80%81%E5%A6%96%E6%80%AA%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%9F%E3%81%8435%E6%AD%B3%E7%94%B7%E6%80%A7%E3%80%82"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "04:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "小川美潮 - Four To Three",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B0%8F%E5%B7%9D%E7%BE%8E%E6%BD%AE/_/Four+To+Three"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "04:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Akiko Wada - Kanashi Uta",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Akiko+Wada/_/Kanashi+Uta"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "03:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "01 デンキ - 小川美潮",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/01+%E3%83%87%E3%83%B3%E3%82%AD/_/%E5%B0%8F%E5%B7%9D%E7%BE%8E%E6%BD%AE"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "03:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "風呂出た",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwtwp2y60pz14pq"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "03:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "最近暑い",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwtwl5860pz14pp"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - サンドボックスから自力で脱出 / 脆弱性を数千件発見 / 安全保障に影響？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%81%8B%E3%82%89%E8%87%AA%E5%8A%9B%E3%81%A7%E8%84%B1%E5%87%BA+%2F+%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%92%E6%95%B0%E5%8D%83%E4%BB%B6%E7%99%BA%E8%A6%8B+%2F+%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E3%81%AB%E5%BD%B1%E9%9F%BF%EF%BC%9F"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - プロジェクト・グラスウィング",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%B0%E3%83%A9%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%B0"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - AI牧歌的時代の終焉",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/AI%E7%89%A7%E6%AD%8C%E7%9A%84%E6%99%82%E4%BB%A3%E3%81%AE%E7%B5%82%E7%84%89"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - サンドイッチ事件",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A4%E3%83%83%E3%83%81%E4%BA%8B%E4%BB%B6"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - 数千件の未知の脆弱性を発見",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E6%95%B0%E5%8D%83%E4%BB%B6%E3%81%AE%E6%9C%AA%E7%9F%A5%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%92%E7%99%BA%E8%A6%8B"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - なぜ非公開？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E3%81%AA%E3%81%9C%E9%9D%9E%E5%85%AC%E9%96%8B%EF%BC%9F"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - 驚異の性能：Opus 4.6を凌駕",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E9%A9%9A%E7%95%B0%E3%81%AE%E6%80%A7%E8%83%BD%EF%BC%9AOpus+4.6%E3%82%92%E5%87%8C%E9%A7%95"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AnthropicがClaude Mythosを公開しない理由とは？Opus 4.6超え - 何が起きた？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anthropic%E3%81%8CClaude+Mythos%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%EF%BC%9FOpus+4.6%E8%B6%85%E3%81%88/_/%E4%BD%95%E3%81%8C%E8%B5%B7%E3%81%8D%E3%81%9F%EF%BC%9F"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Claude新モデル - Mythos",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Claude%E6%96%B0%E3%83%A2%E3%83%87%E3%83%AB/_/Mythos"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ナイトinナイト【ABCテレビ公式】 - 『おおきなかぶ』を愛する３才児…ドデカ桜島大根を絵本みたいにぶっこ抜きたい！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%80%8E%E3%81%8A%E3%81%8A%E3%81%8D%E3%81%AA%E3%81%8B%E3%81%B6%E3%80%8F%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%EF%BC%93%E6%89%8D%E5%85%90%E2%80%A6%E3%83%89%E3%83%87%E3%82%AB%E6%A1%9C%E5%B3%B6%E5%A4%A7%E6%A0%B9%E3%82%92%E7%B5%B5%E6%9C%AC%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AB%E3%81%B6%E3%81%A3%E3%81%93%E6%8A%9C%E3%81%8D%E3%81%9F%E3%81%84%EF%BC%81"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:11",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "風呂入るか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwo44xc60pz14ht"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "絵を描きたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/akwo2cbk60pz14hq"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:09",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "雑談配信終わりました　途中から声が載ってなかったみたいで、一生懸命に喋ってたのに一切配信されていなかったらしいです　くやしい　喋ってたのに",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/akwo180460q605yp"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "01:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kan - Aiwa Katsu",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - Whatever (Remastered)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/Whatever+(Remastered)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - Stand By Me (Remastered)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/Stand+By+Me+(Remastered)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - All Around The World (Remastered)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/All+Around+The+World+(Remastered)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - Champagne Supernova (Remastered)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/Champagne+Supernova+(Remastered)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - Don't Look Back In Anger (Remastered)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+(Remastered)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Suchmos - Stay Tune",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Suchmos/_/Stay+Tune"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Komm, süsser Tod／甘き死よ、来たれ (M - 10 Director's Edit. Version)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Komm,+s%C3%BCsser+Tod%EF%BC%8F%E7%94%98%E3%81%8D%E6%AD%BB%E3%82%88%E3%80%81%E6%9D%A5%E3%81%9F%E3%82%8C+(M/_/10+Director%27s+Edit.+Version)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Taso Tei - 鳥の詩 Tori no Uta",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Taso+Tei/_/%E9%B3%A5%E3%81%AE%E8%A9%A9+Tori+no+Uta"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Danmark - Scatman (Ski Ba Bop Ba Dop Bop)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Danmark/_/Scatman+(Ski+Ba+Bop+Ba+Dop+Bop)"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "核P-MODEL - Big Brother",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%A0%B8P-MODEL/_/Big+Brother"
-    },
-    {
-      "date": "2026-04-11",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "貴族転生見た",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F04%2F11"
     }
   ]
 }
