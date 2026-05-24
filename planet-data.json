@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-05-24T07:00:01.718570+09:00",
+  "generated_at": "2026-05-24T15:00:01.802398+09:00",
   "timeline": [
+    {
+      "date": "2026-05-24",
+      "time": "09:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "今週の人文ウォッチ#76 社会学、大騒乱！生活史論争から - 正気",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BB%8A%E9%80%B1%E3%81%AE%E4%BA%BA%E6%96%87%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%2376+%E7%A4%BE%E4%BC%9A%E5%AD%A6%E3%80%81%E5%A4%A7%E9%A8%92%E4%B9%B1%EF%BC%81%E7%94%9F%E6%B4%BB%E5%8F%B2%E8%AB%96%E4%BA%89%E3%81%8B%E3%82%89/_/%E6%AD%A3%E6%B0%97"
+    },
     {
       "date": "2026-05-24",
       "time": "09:00",
@@ -16097,6 +16107,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 右と左",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-04-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: アサとユル",
       "is_boost": false,
       "has_media": false
@@ -16106,7 +16125,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 招待状",
       "is_boost": false,
       "has_media": false
     },
@@ -16124,16 +16143,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 右と左",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-04-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 招待状",
+      "text": "Netflix視聴: 黄泉のツガイ: ジンとユル",
       "is_boost": false,
       "has_media": false
     },
