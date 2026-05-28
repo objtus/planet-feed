@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T07:00:01.878275+09:00",
+  "generated_at": "2026-05-28T15:00:01.387843+09:00",
   "timeline": [
     {
       "date": "2026-05-28",
@@ -9,6 +9,16 @@
       "text": "2026-05-28 厚い雲 22.8℃ (22.2〜23.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-05-28",
+      "time": "07:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://thewikion.neocities.org/wiki/timeline 年表あった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ams7me6tc3th12j2"
     },
     {
       "date": "2026-05-28",
@@ -14472,7 +14482,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
       "is_boost": false,
       "has_media": false
     },
@@ -14481,7 +14491,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
       "is_boost": false,
       "has_media": false
     },
