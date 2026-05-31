@@ -1,6 +1,172 @@
 {
-  "generated_at": "2026-05-31T23:00:01.931565+09:00",
+  "generated_at": "2026-06-01T07:00:01.520352+09:00",
   "timeline": [
+    {
+      "date": "2026-06-01",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-01 雲 21.6℃ (21.1〜22.2℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-01",
+      "time": "05:58",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-1：Spotify hyperpop 日付を2020年→2019年8月に訂正",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "05:55",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ3完了：第1・2章分割稿の差分リスト作成・更新方針確定",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "05:44",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ2完了：重複文修正・6c矛盾確認・Frutiger Aero整合確認",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "05:34",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks: フェーズ2 境界論文案反映済みに更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "05:34",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章 aesthetic節末尾に音楽ジャンル↔aesthetic境界論を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "04:32",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks・推敲メモを序文改稿・フェーズ1完了に合わせて更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "04:27",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 序文にモチベーション・見取り図・理論的概説を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-31",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 2,944歩 / 心拍数: 95bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-31",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-05-31",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-31 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "21:50",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 理論メモ修正：「ではなく」→「に関わらず」",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "21:38",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 理論メモ修正：意味の使用説の扱いを「仄めかす」に",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "21:37",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 推敲メモに補助理論メモを追加：美学・ジャンル・スタイルの区別",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "20:15",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ2-A/B：三枠分析を推敲メモに追加、デザイン記事候補を収集",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "20:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/readme-next-task-review-0kCsb を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-05-31",
       "time": "15:20",
@@ -13,12 +179,32 @@
     },
     {
       "date": "2026-05-31",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-31 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-05-31",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-05-31 強い雨 23.1℃ (22.8〜23.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-05-31",
+      "time": "07:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 3件: 第5章の内容を整理し、Frutiger AeroやCARIの起源に関する記述を明確化。美学の命名プロセスや制度化の過程についての考察を追加し、FairyPageの失望と追放に関する詳細を更新。Discordサーバーの役割と美学の承認プロセスについても言及。 / 新規ファイルを追加し、Seapunk、ハイパーポップ、草稿ファクト補強に関する詳細な調査ノートを作成。各章において、関連する文献や出典を明示し、音楽ジャンルの発生過程や美学の変遷を記録。特に、Seapunkの命名や初期リリースに関する情報を整理し、ハッシュタグの役割についても言及。 / 次のタスクを整理した新規ファイルを追加し、Seapunkに関する取り込み計画を作成。各フェーズの進捗サマリーや作業の型を明示し、音楽ジャンルやデザインスタイルとの関係を整理。Perpetuaの「aesthetic」使用に関する重要な文書を引用し、TumblrのReblorgについての情報を追加。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-05-31",
@@ -50,6 +236,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/DJ+Prom+Knight/_/All+Night"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-31 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-05-31",
@@ -16837,7 +17033,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
       "is_boost": false,
       "has_media": false
     },
@@ -16846,7 +17042,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
       "is_boost": false,
       "has_media": false
     },
@@ -17195,495 +17391,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F03"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 5時間30分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 5kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 7,612歩 / 心拍数: 93bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 5枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-02 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "20:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "山内さんがいなくなりました。ティム・クック退任から - 大学教員は暇",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B1%B1%E5%86%85%E3%81%95%E3%82%93%E3%81%8C%E3%81%84%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF%E9%80%80%E4%BB%BB%E3%81%8B%E3%82%89/_/%E5%A4%A7%E5%AD%A6%E6%95%99%E5%93%A1%E3%81%AF%E6%9A%87"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "19:51",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード5: 第5章 自称悪役令嬢と初めての感情の観察記録。",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-02 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 箱庭をブッ壊せ 脱出! ブロックの国",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-02 雲 13.0℃ (13.0〜13.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-02",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-02 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://blog.neocities.org/blog/2026/01/27/bing-block",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqpzuelj29v03kg",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:35",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "AGIの話ばかりしてるラショナリストは直観ポンプを乱用しすぎ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqp7xs6j29v03kb",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "TESCREAL bundle読んだらlesswrongにはハリーポッターと合理主義の方法を読んで参加した人たちが多かったって話が書いてあった あと、HPMORの記事がwikipedia日本語版に立項されてるのを今知った https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E5%90%88%E7%90%86%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%96%B9%E6%B3%95 ユドコウスキーってTESCREAL bundleだと悪の親玉みたいに書いてあるからなんか不思議だ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqp5aoaj29v03ka",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 地球儀",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E5%9C%B0%E7%90%83%E5%84%80"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - ナンバーナイン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 & 池田エライザ - fogbound ( + 池田エライザ )",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB+&+%E6%B1%A0%E7%94%B0%E3%82%A8%E3%83%A9%E3%82%A4%E3%82%B6/_/fogbound+(+%252B+%E6%B1%A0%E7%94%B0%E3%82%A8%E3%83%A9%E3%82%A4%E3%82%B6+)"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://youtu.be/bkAA_HrPrxA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqonuqjj29v03jr",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "デジタル人文学の研究基盤1 Vol.1 - イントロダクション",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E4%BA%BA%E6%96%87%E5%AD%A6%E3%81%AE%E7%A0%94%E7%A9%B6%E5%9F%BA%E7%9B%A41+Vol.1/_/%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - LENS FLARE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/LENS+FLARE"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - ミラージュソング",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%BD%E3%83%B3%E3%82%B0"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PIVOT 公式チャンネル - ダイジェスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PIVOT+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 & 初音ミク - 砂の惑星 ( + 初音ミク )",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB+&+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF/_/%E7%A0%82%E3%81%AE%E6%83%91%E6%98%9F+(+%252B+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+)"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:06",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ユドコウスキー、lesswrongとMIRIをつくったやばい人でかつハリポタ二次創作小説を書いてる人という認識でいたのだが、ラノベを書いているというのを今知った\n\nhttps://eliezeryudkowsky.gumroad.com/l/GirlCorrupted",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqo5x7rj29v03jk",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - Undercover",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/Undercover"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "01:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - YELLOW GHOST",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/YELLOW+GHOST"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - ホープランド",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%83%9B%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%89"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - カナリヤ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%82%AB%E3%83%8A%E3%83%AA%E3%83%A4"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "目標立てて2か月で忘れた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqnjrrwj29v03j8"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - Pale Blue",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/Pale+Blue"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:47",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "まだ5661ノートだった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqnhip8j29v03iw"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:46",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "今年の目標の達成度を定期的に振り返っててえらいと思う",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqngvfkj29v03iq"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:45",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "かっこいいかなと思って100*100pxのいど子アイコンつくったらbase64で原稿用紙4枚だった https://idoko.org/idoko-min.png",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alqnezbej29v03ik",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 雨の街路に夜光蟲",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E9%9B%A8%E3%81%AE%E8%A1%97%E8%B7%AF%E3%81%AB%E5%A4%9C%E5%85%89%E8%9F%B2"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 海の幽霊",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E6%B5%B7%E3%81%AE%E5%B9%BD%E9%9C%8A"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - RED OUT",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/RED+OUT"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:37",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: Add idoko-min.png image file to the repository",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 死神",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E6%AD%BB%E7%A5%9E"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 地球儀 - Spinning Globe",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E5%9C%B0%E7%90%83%E5%84%80+-+Spinning+Globe"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - Blue Jasmine",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/Blue+Jasmine"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - おはよう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - あたしはゆうれい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%81%82%E3%81%9F%E3%81%97%E3%81%AF%E3%82%86%E3%81%86%E3%82%8C%E3%81%84"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - Flowerwall",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/Flowerwall"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 毎日 - Every Day",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E6%AF%8E%E6%97%A5+-+Every+Day"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:08",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: Add idoko.png image file to the repository",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:07",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "アイコン描いて！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/alqm2mi6a2"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - 馬と鹿",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E9%A6%AC%E3%81%A8%E9%B9%BF"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "米津玄師 - パプリカ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%83%91%E3%83%97%E3%83%AA%E3%82%AB"
-    },
-    {
-      "date": "2026-05-02",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "風邪ひいた\n　・熱が出た\nほぼむと思われる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F02"
     }
   ]
 }
