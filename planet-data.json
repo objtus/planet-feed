@@ -1,6 +1,173 @@
 {
-  "generated_at": "2026-06-01T23:00:01.597577+09:00",
+  "generated_at": "2026-06-02T07:00:01.644903+09:00",
   "timeline": [
+    {
+      "date": "2026-06-02",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-02 厚い雲 23.0℃ (22.2〜23.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-02",
+      "time": "00:31",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: 新規ファイル追加：TumblrのFor Youタブに関する調査メモを作成し、関連する年表と本文修正方針を反映。既存のHTMLファイルを削除し、文書構成を整理。 / 次のタスクの更新：フェーズ6aの内容を明確化し、文案ファイルの作成手順を簡略化。フェーズ2の成果物を整理し、依存関係を更新。完了済み項目に序文改稿と新たな分析項目を追加。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 3枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - BM1999",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/BM1999"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - I think it's over",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/I+think+it%27s+over"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Who's Counting The Days",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Who%27s+Counting+The+Days"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Near Death Experience",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Near+Death+Experience"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - HOW TO VISUAL AESTHETIC part one",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/HOW+TO+VISUAL+AESTHETIC+part+one"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - Editing",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/Editing"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - My Aesthetic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/My+Aesthetic"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - HOW TO CLOUD RAP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/HOW+TO+CLOUD+RAP"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "XXYYXX - LAY DOWN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/XXYYXX/_/LAY+DOWN"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "HOW TO MAKE XXYYXX - FLUME",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/HOW+TO+MAKE+XXYYXX/_/FLUME"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - How to make CHILLWAVE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/How+to+make+CHILLWAVE"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "22:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - シーパンクの作り方",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/%E3%82%B7%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9"
+    },
     {
       "date": "2026-06-01",
       "time": "21:05",
@@ -203,6 +370,16 @@
     },
     {
       "date": "2026-06-01",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-01",
       "time": "13:54",
       "src_id": 2,
       "src_type": "misskey",
@@ -254,12 +431,102 @@
     },
     {
       "date": "2026-06-01",
+      "time": "09:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 20件: フェーズ1完了：ブロックD/F重複を解消 / フェーズ2-A/B：三枠分析を推敲メモに追加、デザイン記事候補を収集 / 推敲メモに補助理論メモを追加：美学・ジャンル・スタイルの区別 / 理論メモ修正：意味の使用説の扱いを「仄めかす」に / 理論メモ修正：「ではなく」→「に関わらず」",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "09:02",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 反映済み文案ファイルを削除：第1章_第2章_追記文案.md",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-06-01 雲 21.6℃ (21.1〜22.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-01",
+      "time": "08:57",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ5完了：第3〜5章分割稿同期・ドキュメント全体更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "08:53",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-6完了：cottagecore批判追加・8番出口タスク登録",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "08:50",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-6：liminal・Backrooms・Wiki節の補強4件",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "08:39",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-5：dark academia・Weirdcore・Dismiss Yourselfの補強",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "06:09",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-4：cottagecore節に森ガール・Hyggeのインターネット前史を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "06:05",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-2〜4-3：CARI年表・FairyPage・Discord精度補強",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-06-01",
@@ -7710,22 +7977,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
     },
     {
       "date": "2026-05-20",
@@ -17325,323 +17592,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F04"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 4時間10分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-03",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-03",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-03 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - End Of The Night",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/End+Of+The+Night"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Senegal",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Senegal"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:21",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: refactor: update verifyTurnstile function to accept secret as a parameter",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Sky High",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Sky+High"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Hit The Spot",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Hit+The+Spot"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Your Touch",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Your+Touch"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Moonlight",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Moonlight"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "22:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "S U R F I N G - Dal Boca Vista",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/S+U+R+F+I+N+G/_/Dal+Boca+Vista"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:58",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: fix: gb/index.html CSS内包版に差し替え",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:51",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: Update _redirects to remove specific domain reference for broader path matching",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「⁸」.Amu (Disk•Mod)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%E2%81%B8%E3%80%8D.Amu+(Disk%E2%80%A2Mod)"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:45",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: Add _redirects and .gitignore files to the repository",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「⁷」.Zones U Can’t See",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%E2%81%B7%E3%80%8D.Zones+U+Can%E2%80%99t+See"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「⁶」.UI Birth (ft. BABii)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%E2%81%B6%E3%80%8D.UI+Birth+(ft.+BABii)"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「⁵」.Big Protector",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%E2%81%B5%E3%80%8D.Big+Protector"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「⁴」.Light Gutter (ft. LOLA)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%E2%81%B4%E3%80%8D.Light+Gutter+(ft.+LOLA)"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「³」.Sylph Fossil",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%C2%B3%E3%80%8D.Sylph+Fossil"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:26",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: add guestbook",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「²」.Pure Grey Circle",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%C2%B2%E3%80%8D.Pure+Grey+Circle"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Iglooghost - Lei Line Eon - 「¹」.Eœ (Disk•Initiate)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Iglooghost+-+Lei+Line+Eon/_/%E3%80%8C%C2%B9%E3%80%8D.E%C5%93+(Disk%E2%80%A2Initiate)"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "東大TV / UTokyo TV - DWP2 30 16x9 Youtube 大ヒット上映中 260421 01",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9D%B1%E5%A4%A7TV+%2F+UTokyo+TV/_/DWP2+30+16x9+Youtube+%E5%A4%A7%E3%83%92%E3%83%83%E3%83%88%E4%B8%8A%E6%98%A0%E4%B8%AD+260421+01"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "21:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "納富信留 - 論理学とは何か？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%B4%8D%E5%AF%8C%E4%BF%A1%E7%95%99/_/%E8%AB%96%E7%90%86%E5%AD%A6%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "20:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇野重規 - 政治思想史と現代社会",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E9%87%8E%E9%87%8D%E8%A6%8F/_/%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "18:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "完全に風邪ひいた 熱ある",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alt5vz3zc3th00g8"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-03 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "09:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇野重規 - 政治思想史と現代社会",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E9%87%8E%E9%87%8D%E8%A6%8F/_/%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3%E5%8F%B2%E3%81%A8%E7%8F%BE%E4%BB%A3%E7%A4%BE%E4%BC%9A"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-03 厚い雲 16.3℃ (16.3〜16.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-03",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-03 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-03",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "風邪",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F03"
     }
   ]
 }
