@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-06-01T07:00:01.520352+09:00",
+  "generated_at": "2026-06-01T15:00:02.034549+09:00",
   "timeline": [
+    {
+      "date": "2026-06-01",
+      "time": "13:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amyaty0cc3th1aaw"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "13:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "未確認情報だが、the backroomsの映画のエンドクレジットの曲が、劇場公開と同日リリースでもあるboards of canadaの新譜の曲らしい（the word becomes flesh）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amy99zbkc3th1a9w"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "12:50",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "最近ツイッターでバズってる動物のアカウントで勝手に人の写真に映り込むやつ 嫌い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amy8jda4c3th1a93",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "12:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "漫画描けるようになりたいからかんたんエッセイ漫画みたいなのかきたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amy88x46c3th1a8o"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "12:24",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "だるいね〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amy7lw0gc3th1a6s"
+    },
     {
       "date": "2026-06-01",
       "time": "09:00",
@@ -7459,22 +7510,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-05-20",
@@ -17033,7 +17084,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
       "is_boost": false,
       "has_media": false
     },
@@ -17042,7 +17093,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
       "is_boost": false,
       "has_media": false
     },
