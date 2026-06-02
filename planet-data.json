@@ -1,6 +1,383 @@
 {
-  "generated_at": "2026-06-02T15:00:01.192231+09:00",
+  "generated_at": "2026-06-02T23:00:01.851275+09:00",
   "timeline": [
+    {
+      "date": "2026-06-02",
+      "time": "21:45",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ありがとうございます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an072v5xc3th1chb"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeblind - Bladee Bootleg",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeblind/_/Bladee+Bootleg"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yokai Jaki × OVER KILL (FUJI TRILL & KNUX) - ボケ死ね (Remix) Feat. Jin Dogg",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yokai+Jaki+%C3%97+OVER+KILL+(FUJI+TRILL+&+KNUX)/_/%E3%83%9C%E3%82%B1%E6%AD%BB%E3%81%AD+(Remix)+Feat.+Jin+Dogg"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Prophecy At 1420 MHz",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Prophecy+At+1420+MHz"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Introit",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Introit",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:21",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "Tim & Eric Awesome Show, Great Job! めちゃくちゃvaporwaveっぽい映像センスみたいなものを感じるし、めちゃくちゃおもしろい https://www.youtube.com/watch?v=xUEhkQtCius",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an067tn9c3th1ceq"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Underrated Moments - Tim & Eric Awesome Show, Great Job! (Season 1)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Underrated+Moments/_/Tim+&+Eric+Awesome+Show,+Great+Job!+(Season+1)"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "まろやかになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an05vxhxc3th1cdp"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:02",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "人生で初めてエッセイ漫画を書きました",
+      "is_boost": false,
+      "has_media": true,
+      "url": "https://misskey.io/notes/an05jbzt5hch02q8",
+      "media": [
+        {
+          "url": "https://media.misskeyusercontent.jp/io/webpublic-33730810-f29d-4a45-a79d-aecca2c44352.png",
+          "thumb": "https://media.misskeyusercontent.jp/io/thumbnail-eba086af-b236-40e0-82a2-cf68472e85cf.webp",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "time": "20:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cashmere Cat - Pitchfork // MoMA PS1 Warm Up Mix: Cashmere Cat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cashmere+Cat/_/Pitchfork+%2F%2F+MoMA+PS1+Warm+Up+Mix:+Cashmere+Cat"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "19:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Trippy Turtle - Trippy Turtle's Diplo & Friends Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Trippy+Turtle/_/Trippy+Turtle%27s+Diplo+&+Friends+Mix"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "18:52",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "わたしがmisskeyにあまりいなくてもときどき思い出してくださいね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an00wq2uc3th1c3d"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "18:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cashmere Cat - Pitchfork // MoMA PS1 Warm Up Mix: Cashmere Cat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cashmere+Cat/_/Pitchfork+%2F%2F+MoMA+PS1+Warm+Up+Mix:+Cashmere+Cat"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS 3",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS+3"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Tego Typu - Liberty Vol. 4 Side A",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/Liberty+Vol.+4+Side+A"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Tego Typu - DISKO AWANTURA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/DISKO+AWANTURA"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chunky Cheese Vol. 9 - Wotsits",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chunky+Cheese+Vol.+9/_/Wotsits"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Trotters Independent Traders - Shake Your Body",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Trotters+Independent+Traders/_/Shake+Your+Body"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Dove - Illusions (NY Stomp Extended Tribute Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Dove/_/Illusions+(NY+Stomp+Extended+Tribute+Mix)"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "5th Circuit - Sexy Movemaker (Rebounds South Shore Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/5th+Circuit/_/Sexy+Movemaker+(Rebounds+South+Shore+Mix)"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "17:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Logic - Blues For You (Hard Dub Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Logic/_/Blues+For+You+(Hard+Dub+Mix)"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - bladee",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/bladee"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - JAWS",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/JAWS"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - CLOSE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/CLOSE"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - INSIDE OUT FT YUNG LEAN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/INSIDE+OUT+FT+YUNG+LEAN"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - FROSTY THE SNOWMAN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/FROSTY+THE+SNOWMAN"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - BE NICE TO ME",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/BE+NICE+TO+ME"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - MALLWHORE FREEESTYLE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/MALLWHORE+FREEESTYLE"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - OKK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/OKK"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ripsquad - SMARTWATER",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ripsquad/_/SMARTWATER"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "E - Cig",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/E/_/Cig"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "16:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ジェームズ・フェラーロ - トピック - Saint Prius",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AD+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Saint+Prius"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "15:57",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "オスロに行きたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/amzunvvdu6"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "15:51",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "SDGs",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/amzufnuhmp"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "15:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "国連カードケースと国連マグカップが届いた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/amztyb3xc3th1bw0"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "14:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "RE: ANALOG - Showa",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/RE:+ANALOG/_/Showa"
+    },
     {
       "date": "2026-06-02",
       "time": "14:04",
@@ -17561,7 +17938,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
       "is_boost": false,
       "has_media": false
     },
@@ -17570,7 +17947,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
+      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
       "is_boost": false,
       "has_media": false
     },
