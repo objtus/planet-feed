@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-06-02T07:00:01.644903+09:00",
+  "generated_at": "2026-06-02T15:00:01.192231+09:00",
   "timeline": [
+    {
+      "date": "2026-06-02",
+      "time": "14:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "I found JAPANESE Brilliants : Another 70 - 80's Kayokyoku, Funk & City Pop on VINYL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/I+found+JAPANESE+Brilliants+:+Another+70/_/80%27s+Kayokyoku,+Funk+&+City+Pop+on+VINYL"
+    },
     {
       "date": "2026-06-02",
       "time": "09:00",
@@ -7977,22 +7987,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-05-20",
