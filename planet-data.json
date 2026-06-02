@@ -1,6 +1,223 @@
 {
-  "generated_at": "2026-06-02T23:00:01.851275+09:00",
+  "generated_at": "2026-06-03T07:00:01.483180+09:00",
   "timeline": [
+    {
+      "date": "2026-06-03",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-03 激しい雨 19.4℃ (19.4〜19.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Russian Post - Punk Compilation Vol4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Russian+Post/_/Punk+Compilation+Vol4"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blind Seagull - save",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blind+Seagull/_/save"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Super Besse - Tak Slino",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Super+Besse/_/Tak+Slino"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Manicure - Солнца свет",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Manicure/_/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B0+%D1%81%D0%B2%D0%B5%D1%82"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "il mio campo - Уходи",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/il+mio+campo/_/%D0%A3%D1%85%D0%BE%D0%B4%D0%B8"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Corn Wave - not only earthlings dream of weed",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Corn+Wave/_/not+only+earthlings+dream+of+weed"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chernaya Rechka feat. Nürnberg - Сэрца",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chernaya+Rechka+feat.+N%C3%BCrnberg/_/%D0%A1%D1%8D%D1%80%D1%86%D0%B0"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blind Seagull - connections",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blind+Seagull/_/connections"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "05:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nürnberg - Rasplyvajecca",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/N%C3%BCrnberg/_/Rasplyvajecca"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "04:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "バチボコ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an0kgukrc3th1cwx"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "03:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - All s",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/All+s"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "03:58",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 9件: 次のタスクの更新：新規ファイル「Seapunk取込_6c_文案.md」を作成し、aesthetic節に関する文案を追加。PerpetuaとBebe Zevaの引用を反映し、H∆SHTAG$ ep5に関する内容を整理。文案作成手順を明確化し、反映チェックリストを更新。 / 次のタスクの更新：aesthetic節に関する文案を整理し、6c-1および6c-2を確定。6c-3の接続文は却下し、L254の現状維持を決定。Floral Shoppeコメント欄の\"aesthetic\"書き込み開始時期は不明であることを明記。反映チェックリストを更新。 / 次のタスクの更新：aesthetic節に関する手動調査を追加し、Floral Shoppeコメント欄の\"aesthetic\"書き込み開始時期に関する情報を補強。seapunkとaestheticの関連性についての調査結果を反映し、草稿への扱いを明確化。反映チェックリストを更新。 / 次のタスクの更新：フェーズ6cの文案を草稿に反映し、手動調査の結果を§9-manとして整理。aesthetic節に関する調査サマリーを追加し、反映チェックリストを更新。依存関係の整理を行い、文案作成手順を明確化。 / 次のタスクの更新：H∆SHTAG$ ep5に関する記述を追加し、BuzzFeed記事との関係性を明確化。Bebe Zevaのツイート引用を反映し、aestheticとseapunkの関連性を強調。文案の反映チェックリストを更新し、草稿作成手順を整理。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "02:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "シティポップ 人気曲 ヒットメドレー (レコード音源) - WIR",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97+%E4%BA%BA%E6%B0%97%E6%9B%B2+%E3%83%92%E3%83%83%E3%83%88%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+(%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E9%9F%B3%E6%BA%90)/_/WIR"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "00:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "I found JAPANESE Brilliants : Another 70 - 80's Kayokyoku, Funk & City Pop on VINYL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/I+found+JAPANESE+Brilliants+:+Another+70/_/80%27s+Kayokyoku,+Funk+&+City+Pop+on+VINYL"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cashmere Cat - Cashmere Cat for Diplo & Friends BBCR1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cashmere+Cat/_/Cashmere+Cat+for+Diplo+&+Friends+BBCR1"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Twnty4 - gttn2thaguap (prod @1cey)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Twnty4/_/gttn2thaguap+(prod+@1cey)"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 5枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-02",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "22:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Trippy Turtle - Trippy Turtle's Diplo & Friends Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Trippy+Turtle/_/Trippy+Turtle%27s+Diplo+&+Friends+Mix"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "21:49",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクの更新：Seapunk関連の文案ファイルを新規作成し、調査ノートの内容を反映。草稿への出典ルールを明確化し、文案作成手順を整理。新規ファイルとして「Seapunk取込_6b_文案.md」と「vice_seapunkwashesup.md」を追加。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-06-02",
       "time": "21:45",
@@ -370,6 +587,16 @@
     },
     {
       "date": "2026-06-02",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-02",
       "time": "14:53",
       "src_id": 4,
       "src_type": "lastfm",
@@ -399,6 +626,16 @@
     },
     {
       "date": "2026-06-02",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-02",
       "time": "00:31",
       "src_id": 8,
       "src_type": "github",
@@ -406,6 +643,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-02",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "国連オンラインストアで買った国連マグカップと国連カードケースが届いた\n　・マグカップはこれ https://shop.un.org/merch/un-emblem-glass-mug-26775\n　・結構耐熱ガラスが分厚くて、海外の人がテキーラみたいなのを入れるグラスっぽいって思った\n　・よくわからないけど悪の組織の偉い人が使ってるマグカップっぽい\n　・カードケースはこれ https://shop.un.org/merch/un-emblem-black-wallet-25183\n　　・ウォレットのはずが届いてみるとほぼカードケース\n　　　・結構うすいし作りがチープ\n　　　・小銭が入らないのは元から分かっていたけど、想像よりカードケースだった\n　　・国連ロゴはかっこいいが財布として普段使いするつもりだったんで悲しい気持ちに\nエッセイ漫画を人生で初めて描いた https://misskey.io/notes/an05jbzt5hch02q8\nシーランド公国の爵位がほしいなと思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F02"
     },
     {
       "date": "2026-06-01",
@@ -984,6 +1231,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-01",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ガチの無\n　・ガチ無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F01"
     },
     {
       "date": "2026-05-31",
@@ -1636,6 +1893,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E5%A4%A7%E6%B1%9F%E8%A3%95%E3%81%AE%E3%81%AA%E3%82%93%E3%81%8B%E4%B8%80%E4%B8%81%E9%AD%85%E3%81%9B%E3%81%9F%E3%82%8D%E3%81%8B%E3%81%84/_/%E9%A6%99%E6%B0%B4"
+    },
+    {
+      "date": "2026-05-31",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無ですねえ\n　・引き続きインターネット美学についてまとめる作業をしていた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F05%2F31"
     },
     {
       "date": "2026-05-30",
@@ -2603,6 +2870,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/amuokba3c3th1602"
+    },
+    {
+      "date": "2026-05-30",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "なにしたか覚えてない\n　・たしかインターネット美学についてまとめてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F05%2F30"
     },
     {
       "date": "2026-05-29",
@@ -8364,22 +8641,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
     },
     {
       "date": "2026-05-20",
@@ -17657,328 +17934,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F05"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 2時間35分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 2kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 5,715歩 / 心拍数: 64bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-04 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:54",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gb.idoko.org: Push 1件: Update index.html title for clarity",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gb.idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:51",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gb.idoko.org: Push 1件: Enhance styles.css with new design variables and layout adjustments",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gb.idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - What I Mean",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/What+I+Mean"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:48",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gb.idoko.org: Push 1件: Add initial project files with HTML structure and CSS styles",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gb.idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dux Content - Like You (Slow Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dux+Content/_/Like+You+(Slow+Mix)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Violets Are Blue",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Violets+Are+Blue"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "easyFun - Infinity Glisten (Edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/easyFun/_/Infinity+Glisten+(Edit)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dux Content - Moose (Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dux+Content/_/Moose+(Remix)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Princess Bambi - Less Love More Sex (Life Sim Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Princess+Bambi/_/Less+Love+More+Sex+(Life+Sim+Remix)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Danny L Harle - Aquarius (Luna Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Danny+L+Harle/_/Aquarius+(Luna+Remix)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:32",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/gb.idoko.org: branch main を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/gb.idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:31",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: chore: remove deprecated guestbook files and configurations, including API functions and HTML structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sophie - SOPHIE LIVESTREAM HEAV3N SUSPENDED",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sophie/_/SOPHIE+LIVESTREAM+HEAV3N+SUSPENDED"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:15",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/idoko.org: Push 1件: feat: enhance guestbook functionality with subject and reply features, add RSS feed support, and implement rate limiting",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/idoko.org"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - B2b (Extended)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/B2b+(Extended)"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "22:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "KYT_fever - Charli XCX (360 x 365 x apple transition) Audio Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/KYT_fever/_/Charli+XCX+(360+x+365+x+apple+transition)+Audio+Mix"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "21:58",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "おれたちのハイパーポップ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alurrw4oc3th02xo"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "21:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://x.com/yorakengo/status/2050822775817031910",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aluqo6zzc3th02ut"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "21:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i K - ポケモン セレビィ時を超えた遭遇 幻の劇場未公開没シーン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i+K/_/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3+%E3%82%BB%E3%83%AC%E3%83%93%E3%82%A3%E6%99%82%E3%82%92%E8%B6%85%E3%81%88%E3%81%9F%E9%81%AD%E9%81%87+%E5%B9%BB%E3%81%AE%E5%8A%87%E5%A0%B4%E6%9C%AA%E5%85%AC%E9%96%8B%E6%B2%A1%E3%82%B7%E3%83%BC%E3%83%B3"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "21:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "植田ウォッチ将暉ほか社員が文学フリマ東京42の戦利品を語りつくす番組。人文ウォッチ×噂のワイドショー感想戦、そしてゲンロンの未来について - 重大発表あり",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%A4%8D%E7%94%B0%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E5%B0%86%E6%9A%89%E3%81%BB%E3%81%8B%E7%A4%BE%E5%93%A1%E3%81%8C%E6%96%87%E5%AD%A6%E3%83%95%E3%83%AA%E3%83%9E%E6%9D%B1%E4%BA%AC42%E3%81%AE%E6%88%A6%E5%88%A9%E5%93%81%E3%82%92%E8%AA%9E%E3%82%8A%E3%81%A4%E3%81%8F%E3%81%99%E7%95%AA%E7%B5%84%E3%80%82%E4%BA%BA%E6%96%87%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%C3%97%E5%99%82%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC%E6%84%9F%E6%83%B3%E6%88%A6%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/_/%E9%87%8D%E5%A4%A7%E7%99%BA%E8%A1%A8%E3%81%82%E3%82%8A"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "20:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "橋本 麦（映像作家） - Vue.jsでつくる実験映像：Vue Fes Japan 2025",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%A9%8B%E6%9C%AC+%E9%BA%A6%EF%BC%88%E6%98%A0%E5%83%8F%E4%BD%9C%E5%AE%B6%EF%BC%89/_/Vue.js%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%AE%9F%E9%A8%93%E6%98%A0%E5%83%8F%EF%BC%9AVue+Fes+Japan+2025"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "19:54",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？ — エピソード5: 第5話 異常に似合ってます",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-04 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): ロケットの真相",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兎と亀",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-04 厚い雲 18.8℃ (18.8〜18.8℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-04",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-04 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-04",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "風邪",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F04"
     }
   ]
 }
