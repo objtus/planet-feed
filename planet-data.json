@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-06-03T23:00:01.792633+09:00",
+  "generated_at": "2026-06-04T07:00:01.175157+09:00",
   "timeline": [
+    {
+      "date": "2026-06-04",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-04 厚い雲 21.4℃ (21.1〜21.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "04:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Migas - RoMinimal Microhouse Deep Minimal House home dj set all vinyl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+Minimal+House+home+dj+set+all+vinyl"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "00:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Migas - RoMinimal Microhouse Deep House Tech Minimal House Dj set Vinyl only",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+House+Tech+Minimal+House+Dj+set+Vinyl+only"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "23:57",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-03",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-03",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-03 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-06-03",
       "time": "20:58",
@@ -10,6 +67,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+Minimal+House+home+dj+set+all+vinyl"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "20:51",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/draft-feedback-v2zSG を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-06-03",
@@ -103,6 +170,16 @@
     },
     {
       "date": "2026-06-03",
+      "time": "15:39",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 新規ファイル「Witch House：前史・影響関係・後継ジャンル調査メモ.md」を作成し、witch houseの音楽的ルーツや成立期、ビジュアル美学、後継ジャンルとの関係について詳細な調査メモを追加。目次を整備し、一次資料と二次資料の引用を明記。文献一覧も含め、今後の研究の基盤を構築。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-03",
       "time": "15:37",
       "src_id": 4,
       "src_type": "lastfm",
@@ -133,6 +210,16 @@
     },
     {
       "date": "2026-06-03",
+      "time": "15:28",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 3件: 次のタスクの更新：新規ファイル「Seapunk取込_6e_文案.md」を作成し、seapunkとvaporwaveの接続に関する文案を追加。BuzzFeed記事との関連性を明確化し、反映チェックリストを更新。文案の反映待ち状態を記録。 / 次のタスクの更新：6eの草稿を反映し、vaporwave接続に関する文案を確定。BuzzFeed記事との関連性を強調し、反映チェックリストを更新。次のステップとして6d（最小限）・6f（任意）を明記。 / 次のタスクの更新：6dの草稿を反映し、witch house小節の推敲を行うための文案を追加。6fの反映待ち状態を記録し、次のステップとして6d-reviewを明記。反映チェックリストを更新。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-03",
       "time": "15:21",
       "src_id": 4,
       "src_type": "lastfm",
@@ -150,6 +237,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E5%AE%B6%E6%97%8F%E3%81%AE%E3%81%BF%E3%82%93%E3%81%AA%E3%80%81%E8%A6%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8A%E3%81%8F%E3%82%8C%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%94%EF%BC%92%E9%99%90%E5%AE%9A"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-03 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-03",
@@ -279,6 +376,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Russian+Post/_/Punk+Collection+Vol3"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-03 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-03",
@@ -8911,22 +9018,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
     },
     {
       "date": "2026-05-20",
@@ -17981,229 +18088,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F06"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 1時間45分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 376歩 / 心拍数: 105bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-05 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "19:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - 昼間っからひとり酒飲んでるんで突発いくよう〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%98%BC%E9%96%93%E3%81%A3%E3%81%8B%E3%82%89%E3%81%B2%E3%81%A8%E3%82%8A%E9%85%92%E9%A3%B2%E3%82%93%E3%81%A7%E3%82%8B%E3%82%93%E3%81%A7%E7%AA%81%E7%99%BA%E3%81%84%E3%81%8F%E3%82%88%E3%81%86%E3%80%9C"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "19:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ずっと寝てる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alw17x9hc3th04h4"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-05 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - What do other animals think of human music?",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/What+do+other+animals+think+of+human+music%3F"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - orangutans & opera",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/orangutans+&+opera"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - tamarins & taste",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/tamarins+&+taste"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - incogni",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/incogni"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - pitch = rhythm",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/pitch+=+rhythm"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - what’s music?",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/what%E2%80%99s+music%3F"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - the fox",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/the+fox"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Howtown - the song",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Howtown/_/the+song"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "14:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "サンプル分析：ファットボーイ・スリム - Right Here, Right Now",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E5%88%86%E6%9E%90%EF%BC%9A%E3%83%95%E3%82%A1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%A0/_/Right+Here,+Right+Now"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "13:40",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 神の庭付き楠木邸 — エピソード1: 第1話　神の庭に山の神、来たる",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "13:39",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season — エピソード5: #5 騒乱再び",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "13:13",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "38℃なんやが",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alvog8ucc3th03qz"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-05 晴天 11.7℃ (11.7〜11.7℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-05",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-05 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-05",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "風邪で寝てた\n　・熱が続いている\n　・🍵t3.icon\n　　・🧊trotsuki.icon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F05"
     }
   ]
 }
