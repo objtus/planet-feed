@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-06-04T23:00:01.904274+09:00",
+  "generated_at": "2026-06-05T07:00:01.228494+09:00",
   "timeline": [
+    {
+      "date": "2026-06-05",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-05 厚い雲 20.3℃ (20.0〜20.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-04 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-06-04",
       "time": "16:29",
@@ -44,6 +81,46 @@
     },
     {
       "date": "2026-06-04",
+      "time": "15:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 5件: 草稿レビューで出た論点をまとめたメモを追加 / 論点メモにリポジトリ調査結果を追記 / 論点メモにウェブ調査結果を追記（2011年以前のTumblr画像文化） / 論点メモにRyder Ripps「Internet Archaeology」を追記 / Merge pull request #7 from objtus/claude/draft-feedback-v2zSG",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "15:44",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 論点メモにRyder Ripps「Internet Archaeology」を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "15:40",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 論点メモにウェブ調査結果を追記（2011年以前のTumblr画像文化）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "15:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 論点メモにリポジトリ調査結果を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-04",
       "time": "15:20",
       "src_id": 2,
       "src_type": "misskey",
@@ -51,6 +128,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/an2o75yrc3th1ek7"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-04 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-04",
@@ -210,6 +297,16 @@
       "text": "2026-06-04 厚い雲 21.4℃ (21.1〜21.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-04 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-04",
@@ -9229,22 +9326,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-05-20",
@@ -18157,148 +18254,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F07"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 1kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,114歩 / 心拍数: 121bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-06 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "21:29",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 異世界のんびり農家 — エピソード1: 第一話 万能農具",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "21:29",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２ — エピソード4: 暴虐王女は宣言する",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-06 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "14:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "戦争って何だ？考えることの意味は？ - 平和と愚かさ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%88%A6%E4%BA%89%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%A0%EF%BC%9F%E8%80%83%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AE%E6%84%8F%E5%91%B3%E3%81%AF%EF%BC%9F/_/%E5%B9%B3%E5%92%8C%E3%81%A8%E6%84%9A%E3%81%8B%E3%81%95"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: アインシュタインと原爆",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-06 厚い雲 16.0℃ (16.0〜16.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-06",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-06 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "00:02",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "病弱キャラで売っていこうかな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alwbnimac3th056h"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "00:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ninajirachi - iPod Touch - Live at Coachella 2026",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ninajirachi/_/iPod+Touch+-+Live+at+Coachella+2026"
-    },
-    {
-      "date": "2026-05-06",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無\n　・昼38.3度行った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F06"
     }
   ]
 }
