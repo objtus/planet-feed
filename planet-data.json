@@ -1,6 +1,156 @@
 {
-  "generated_at": "2026-06-04T07:00:01.175157+09:00",
+  "generated_at": "2026-06-04T15:00:01.530266+09:00",
   "timeline": [
+    {
+      "date": "2026-06-04",
+      "time": "12:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - PerfectlyStill",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/PerfectlyStill"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - Perfect Condition ((GENUINE))",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/Perfect+Condition+((GENUINE))"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "1sleep23 - _BLADEE_SUBARU_",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/1sleep23/_/_BLADEE_SUBARU_"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee - Like a Virgin",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee/_/Like+a+Virgin"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - Forever United / ICE-POP (prod. Whitearmor)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/Forever+United+%2F+ICE-POP+(prod.+Whitearmor)"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee - Beautiful",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee/_/Beautiful"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:36",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "わたしはどうしたらいいと思いますか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/an2icaj14h"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "バカどもがよ～",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an2i96rwc3th1egn"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:32",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "理由なくむしゃくしゃしています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/an2i7z9prp"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Migas - Minimal House Techno Techhouse Acid  100% Vinyl Dj Set",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Migas/_/Minimal+House+Techno+Techhouse+Acid++100%25+Vinyl+Dj+Set"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "11:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "芯が残ったごはんって、うまいよな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an2g088cc3th1edy"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "11:26",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なにをしたらたのしいのか考えよう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an2fv136c3th1edj"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "11:18",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "しかし100gecsが今何してるのかは気になる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an2fkn9sc3th1edf"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "10:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "はあって感じ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an2dw0alc3th1eaz"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "09:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Underground House - Techhouse Vinyl Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Underground+House/_/Techhouse+Vinyl+Mix"
+    },
     {
       "date": "2026-06-04",
       "time": "09:00",
@@ -9,6 +159,16 @@
       "text": "2026-06-04 厚い雲 21.4℃ (21.1〜21.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "06:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Migas - RoMinimal Microhouse Deep House Tech Minimal House Vinyl only Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+House+Tech+Minimal+House+Vinyl+only+Mix"
     },
     {
       "date": "2026-06-04",
