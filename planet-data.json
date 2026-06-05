@@ -1,6 +1,474 @@
 {
-  "generated_at": "2026-06-05T23:00:01.426265+09:00",
+  "generated_at": "2026-06-06T07:00:01.866448+09:00",
   "timeline": [
+    {
+      "date": "2026-06-06",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-06 厚い雲 20.0℃ (19.4〜20.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:54",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクを更新し、r/witchhouseの「Witch House Music History」スレッドを草稿に参照として追記。外部調査ノートに新たな接点を追加し、今後の作業計画を整理。各参照の背景と手順を明確化。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:41",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクを更新し、外部調査ノートを追加。`musicplusghost.md`と`supersuper.md`からの参考箇所を洗い出し、草稿への接点をマッピング。各調査ノートの背景と手順を明確化し、今後の作業計画を整理。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DISCONNECTED - no stress",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DISCONNECTED/_/no+stress"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:38",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: 次のタスクを更新し、草稿の改稿を反映。第1章のReblorg節を新設し、Tumblrの公式キュレーションについて詳述。Megazordの作風修正を行い、石膏像の記述を前向きに整理。GeoCitiesに関する応答を追加し、ポストインターネットの二つの流れを明確化。進捗を整理し、タスク管理を強化。 / リサフランク420の再生数推移に関する新しいHTMLファイルを追加し、関連するグラフを作成。草稿の進捗を更新し、次のタスクをrev-7（三読み・2016 政治化）に変更。aestheticの大仰さ総括を含む文書を整理し、各セクションの状態を明確化。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DISCONNECTED - dual vision",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DISCONNECTED/_/dual+vision"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DISCONNECTED - like me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DISCONNECTED/_/like+me"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Luxury Elite - s.w.a.k.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Luxury+Elite/_/s.w.a.k."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Love was really gone - makoto matsushita (slowed)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Love+was+really+gone/_/makoto+matsushita+(slowed)"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 楽園 (paradise)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%A5%BD%E5%9C%92+(paradise)"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "05:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - AFTER HOURS  ( s l o w e d   +   r e v e r b )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/AFTER+HOURS++(+s+l+o+w+e+d+++%252B+++r+e+v+e+r+b+)"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MADOKA - MACINTOSH PLUS · 420 (SLOWED)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MADOKA/_/MACINTOSH+PLUS+%C2%B7+420+(SLOWED)"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - 02 リサフランク420 - 現代のコンピュー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/02+%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420+-+%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 星間性交",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VECTOR GRAPHICS - MIDNIGHT LOVE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VECTOR+GRAPHICS/_/MIDNIGHT+LOVE"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - 待機.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E5%BE%85%E6%A9%9F."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "04:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - 数学.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E6%95%B0%E5%AD%A6."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - ECCOと悪寒ダイビング.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/ECCO%E3%81%A8%E6%82%AA%E5%AF%92%E3%83%80%E3%82%A4%E3%83%93%E3%83%B3%E3%82%B0."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - 地理.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E5%9C%B0%E7%90%86."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - ライブラリ.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - 花の専門店.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E8%8A%B1%E3%81%AE%E5%B0%82%E9%96%80%E5%BA%97."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "リサフランク420 - 現代のコンピュー.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420/_/%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - ブート.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E3%83%96%E3%83%BC%E3%83%88."
+    },
+    {
+      "date": "2026-06-06",
+      "time": "03:34",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 4件: 新規ファイル「6d-review：aesthetic 論点整理」と「6d-review：第2章 L125–160 周辺 構成案」を追加。前者はaestheticに関する草稿の再構成メモで、関連文書を整理。後者は第2章の構成案を示し、作業フェーズを明確化。各ファイルともに関連情報を参照し、今後の推敲に向けた基盤を整備。 / 新規ファイル「aesthetic 語法年表」を作成し、aestheticに関する包含関係の逆転を詳細に分析。Floral Shoppeのリリース日を訂正し、関連する文献や調査結果を反映。次のタスクとして§9-manの文案を草稿に統合し、進捗を更新。 / 次のタスクを更新し、草稿の改稿バックログを整理。§9・6d-reviewの進捗を反映し、各論点の状態を明確化。新たに草稿レビュー論点メモを作成し、未反映の内容や修正予定の項目を整理。今後の作業優先順位を示し、タスク管理を強化。 / 次のタスクを更新し、草稿バグの修正を反映。L564の未完成文とL512の検証要素を補完し、進捗を明確化。推奨着手順を整理し、タスク管理を強化。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "02:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "desert sand feels warm at night - 一生",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E4%B8%80%E7%94%9F"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "02:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "desert sand feels warm at night - 砂粒",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E7%A0%82%E7%B2%92"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "02:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "desert sand feels warm at night - 遺棄",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E9%81%BA%E6%A3%84"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "01:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "desert sand feels warm at night - 砂のクッション",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E7%A0%82%E3%81%AE%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "01:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "B1 - Skull Theft",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/B1/_/Skull+Theft"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "01:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A2 - Internal Compass",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A2/_/Internal+Compass"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "01:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A1 - Sheets of Face",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A1/_/Sheets+of+Face"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "00:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "80sきらめきとときめきの昭和アイドル歌謡選 - WIR",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:53",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:53",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "雑談配信終わりました　おつ～ https://www.youtube.com/watch?v=pQNmJddI1kA　動画",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/an4lytxiditx0c10"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ラララムネ - さわやか・EDM",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A9%E3%83%A9%E3%83%A9%E3%83%A0%E3%83%8D/_/%E3%81%95%E3%82%8F%E3%82%84%E3%81%8B%E3%83%BBEDM"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Summer Triangle - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Summer+Triangle/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ローファイ少女は今日も寝不足(Lo - fi girl always lacks sleep) / しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E5%B0%91%E5%A5%B3%E3%81%AF%E4%BB%8A%E6%97%A5%E3%82%82%E5%AF%9D%E4%B8%8D%E8%B6%B3(Lo/_/fi+girl+always+lacks+sleep)+%2F+%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-05 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:54",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=pQNmJddI1kA　https://www.twitch.tv/yuinoid　雑談配信開始いたしました　今回から、youtube liveでも縦型動画で配信をしています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/an4jvhcl3s"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "しゅわしゅわハニーレモン350ml (Fizzy Honey Lemon Soda 350ml) - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%97%E3%82%85%E3%82%8F%E3%81%97%E3%82%85%E3%82%8F%E3%83%8F%E3%83%8B%E3%83%BC%E3%83%AC%E3%83%A2%E3%83%B3350ml+(Fizzy+Honey+Lemon+Soda+350ml)/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "2 - 23 AM / しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/2/_/23+AM+%2F+%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:10",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=pQNmJddI1kA　https://www.twitch.tv/yuinoid　雑談配信開始いたしました　今回から、youtube liveでも縦型動画で配信をしています　コメントはtwitchのほうしか読み上げられませんが、よろしくお願いいたします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4iarpmc3th1gsb"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:09",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.youtube.com/watch?v=pQNmJddI1kA　https://www.twitch.tv/yuinoid　雑談配信開始いたしました　今回から、youtube liveでも縦型動画で配信をしています　コメントはtwitchのほうしか読み上げられませんが、よろしくお願いいたします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116697660775001346",
+      "visibility": "unlisted"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:09",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=pQNmJddI1kA　https://www.twitch.tv/yuinoid　雑談配信開始いたしました　今回から、youtube liveでも縦型動画で配信をしています　コメントはtwitchのほうしか読み上げられませんが、よろしくお願いいたします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/an4i93yv27"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:08",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=pQNmJddI1kA　https://www.twitch.tv/yuinoid　雑談配信開始いたしました　今回から、youtube liveでも縦型動画で配信をしています　コメントはtwitchのほうしか読み上げられませんが、よろしくお願いいたします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/an4i8orfqfz70c51"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "22:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "いど子 - いど子 のライブ配信",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%84%E3%81%A9%E5%AD%90/_/%E3%81%84%E3%81%A9%E5%AD%90+%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1"
+    },
     {
       "date": "2026-06-05",
       "time": "22:00",
@@ -342,6 +810,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/VOCALOID2:+Hatsune+Miku/_/Unfragment"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-05 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: 次のタスクの更新：6fの反映を完了し、6d-reviewの推敲を次のステップとして明記。MASSAGE 9の誌面構造を修正し、NYT記事のURLを更新。反映チェックリストを最新の状態に更新。 / 新規ファイル「SuperSuper! Magazine 調査ノート」と「Unveiling Tumblr's Unique Subcultures: Digital Tribes and Self-Expression」を追加。前者はSuperSuper!の歴史と文化的位置づけを記録し、後者はTumblrにおけるデジタル部族と自己表現の多様性を探求。両ファイルとも参照URLを明示し、検証可能な情報を提供。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-06-05",
@@ -863,6 +1351,16 @@
       "url": "https://www.last.fm/music/Ecco2K/_/PerfectlyStill"
     },
     {
+      "date": "2026-06-05",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-05 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
       "date": "2026-06-04",
       "time": "23:50",
       "src_id": 18,
@@ -1189,6 +1687,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+House+Tech+Minimal+House+Dj+set+Vinyl+only"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "虚無ですねえ2\n　・C5H4N4さんの日記を見てて思うのは、社交的な人の生活ってこんな感じなんだなあということだ\n　　　・😶C5H4N4.icon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F04"
     },
     {
       "date": "2026-06-03",
@@ -1686,6 +2194,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/I+found+JAPANESE+Brilliants+:+Another+70/_/80%27s+Kayokyoku,+Funk+&+City+Pop+on+VINYL"
+    },
+    {
+      "date": "2026-06-03",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "虚無ですねえ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F03"
     },
     {
       "date": "2026-06-02",
@@ -18961,151 +19479,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F08"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 2kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 6,088歩 / 心拍数: 91bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-07 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "22:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ペンギンブックス",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alz3hh87c3th08nq"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "21:22",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "人文ウォッチ同人誌インデックスはえらいと思うと同時にISDNがあるじゃんという気持ちにもなる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alz0sssbc3th08ia",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "20:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "BeReal投稿で情報漏洩／Claude Mythosの衝撃／クック退任でどうなるApple - 東浩紀と桂大介の #リベテク 5月号",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/BeReal%E6%8A%95%E7%A8%BF%E3%81%A7%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B4%A9%EF%BC%8FClaude+Mythos%E3%81%AE%E8%A1%9D%E6%92%83%EF%BC%8F%E3%82%AF%E3%83%83%E3%82%AF%E9%80%80%E4%BB%BB%E3%81%A7%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8BApple/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%A8%E6%A1%82%E5%A4%A7%E4%BB%8B%E3%81%AE+%23%E3%83%AA%E3%83%99%E3%83%86%E3%82%AF+5%E6%9C%88%E5%8F%B7"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-07 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: シーモア・ハーシュ: 権力の闇に挑む男",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "11:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "RGGスタジオ 公式 - 『STRANGER THAN HEAVEN』1stトレーラー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/RGG%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA+%E5%85%AC%E5%BC%8F/_/%E3%80%8ESTRANGER+THAN+HEAVEN%E3%80%8F1st%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "11:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "『STRANGER THAN HEAVEN』 - 5 つの時代 公開トレーラー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8ESTRANGER+THAN+HEAVEN%E3%80%8F/_/5+%E3%81%A4%E3%81%AE%E6%99%82%E4%BB%A3+%E5%85%AC%E9%96%8B%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-07 雲 17.2℃ (17.2〜17.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-07",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-07 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-07",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "風邪治った\n無\n個人サイトにゲストブック（掲示板みたいなやつ）を作りたくてAIに教えてもらってた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F07"
     }
   ]
 }
