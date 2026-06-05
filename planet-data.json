@@ -1,6 +1,418 @@
 {
-  "generated_at": "2026-06-05T15:00:01.711931+09:00",
+  "generated_at": "2026-06-05T23:00:01.426265+09:00",
   "timeline": [
+    {
+      "date": "2026-06-05",
+      "time": "22:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "SuperStar - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/SuperStar/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "それはそれとしてnew aglyって2000年代後半からあったんだって思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4hgk46c3th1gnj",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:39",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://ensala.fr/NewUgly.html 情報量が多いこの表紙のコンセプトについて、読者層が集中力のないADD Generationだからと作者が言ってたって書いてて、ドパガキ論じゃんって思った\n\nhttps://www.huffpost.com/entry/welcome-to-the-add-genera_b_76548　ADD世代のADDはようはADHDのことらしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4h6t2hc3th1gll"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vektordrum - Trinity",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vektordrum/_/Trinity"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=tzef2WLD5po　今ではリサフランク420 / 現代のコンピューの動画の印象が強いpolly goneだが、2011年にはwitch houseのMVに使われているのだった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4ghkzcc3th1gj2"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:15",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "supersuper magazineとかいう2012年くらいまで発行してた雑誌が重要そう......なのだがネットに情報があんまりない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4gcbarc3th1gii"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hudson Mohawke - 30",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hudson+Mohawke/_/30"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "インターネット美学の歴史を描くのにとりあえずtumblrの画像文化が重要だって話を書いていて、重要人物をmegazordってことにしているのだが、witch houseシーンにはmodern witchのmario zootsがいるしgatekeeperのmyspaceをみると2008年くらいからコメント欄の画像がもうtumblrっぽくて困った　どうまとめるかという話でしかないといえばそうだけど",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4g78hpc3th1gi2",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hudson Mohawke - Joy Fantastic (feat. Olivier Daysoul)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hudson+Mohawke/_/Joy+Fantastic+(feat.+Olivier+Daysoul)"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hudson Mohawke - Gluetooth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hudson+Mohawke/_/Gluetooth"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "21:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://web.archive.org/web/20091025001824/http://www.myspace.com/rustiebeetz rustieのmyspaceのアーカイブみてたら、2009年10月のアーカイブからbutterのジャケをアイコンにしたハドモがフレンド欄にいて、めちゃくちゃエモい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an4fzmfic3th1ghp"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "20:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PWIN ▲▲ TEAKS - I Will Always Love You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PWIN+%E2%96%B2%E2%96%B2+TEAKS/_/I+Will+Always+Love+You"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "19:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 現実を超えて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E7%8F%BE%E5%AE%9F%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "19:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictureplane - Gothstar , official video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictureplane/_/Gothstar+,+official+video"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "19:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "E+E - ☆ Original Works ☆ ♫ ☆",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/E%252BE/_/%E2%98%86+Original+Works+%E2%98%86+%E2%99%AB+%E2%98%86"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VintageCG - Polly Gone",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VintageCG/_/Polly+Gone"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "in your eyes - Modern Witch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/in+your+eyes/_/Modern+Witch"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "goth girls club - Old School Ambient Deep House & Garage Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/goth+girls+club/_/Old+School+Ambient+Deep+House+&+Garage+Mix"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimes - Vanessa",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimes/_/Vanessa"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Salem - King Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Salem/_/King+Night"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "井上 麻里奈 [Marina Inoue] - ビューティフル・ストーリー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%95%E4%B8%8A+%E9%BA%BB%E9%87%8C%E5%A5%88+%5BMarina+Inoue%5D/_/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ptn8107 - THE　NEUTRAL　－　日曜日の太陽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ptn8107/_/THE%E3%80%80NEUTRAL%E3%80%80%EF%BC%8D%E3%80%80%E6%97%A5%E6%9B%9C%E6%97%A5%E3%81%AE%E5%A4%AA%E9%99%BD"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨) - オレンジ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%80%A2%E5%9D%82%E5%A4%A7%E6%B2%B3%E3%83%BB%E6%AB%9B%E6%9E%9D%E5%AE%9F%E4%B9%83%E6%A2%A8%E3%83%BB%E5%B7%9D%E5%B6%8B%E4%BA%9C%E7%BE%8E(%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5%E3%80%81%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3%E3%80%81%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8)/_/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kalafina - Magia",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kalafina/_/Magia"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:09",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "楽しい気分になりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an49oyghc3th1g9s"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "18:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TM NETWORK - Beyond the Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TM+NETWORK/_/Beyond+the+Time"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "17:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "あ〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an47hwnbc3th1g7y"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercell - 君の知らない物語",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercell/_/%E5%90%9B%E3%81%AE%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E7%89%A9%E8%AA%9E"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Don't Say - Lazy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Don%27t+Say/_/Lazy"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "逢坂大河・櫛枝実乃梨・川嶋亜美　（CV：釘宮理恵・堀江由衣・喜多村英梨） - トピック - オレンジ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%80%A2%E5%9D%82%E5%A4%A7%E6%B2%B3%E3%83%BB%E6%AB%9B%E6%9E%9D%E5%AE%9F%E4%B9%83%E6%A2%A8%E3%83%BB%E5%B7%9D%E5%B6%8B%E4%BA%9C%E7%BE%8E%E3%80%80%EF%BC%88CV%EF%BC%9A%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5%E3%83%BB%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3%E3%83%BB%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8%EF%BC%89+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AKINO - トピック - 創聖のアクエリオン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AKINO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E5%89%B5%E8%81%96%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%B3"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "15:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VOCALOID2: Hatsune Miku - Unfragment",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VOCALOID2:+Hatsune+Miku/_/Unfragment"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "모콩 - 2000～2010年アニメ歌リスト3部",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%EB%AA%A8%EC%BD%A9/_/2000%EF%BD%9E2010%E5%B9%B4%E3%82%A2%E3%83%8B%E3%83%A1%E6%AD%8C%E3%83%AA%E3%82%B9%E3%83%883%E9%83%A8"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "バカとテストと召喚獣 OP - Perfect area complete!",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%90%E3%82%AB%E3%81%A8%E3%83%86%E3%82%B9%E3%83%88%E3%81%A8%E5%8F%AC%E5%96%9A%E7%8D%A3+OP/_/Perfect+area+complete!"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ハヤテのごとく! ED - Proof",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8F%E3%83%A4%E3%83%86%E3%81%AE%E3%81%94%E3%81%A8%E3%81%8F!+ED/_/Proof"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Canaan op - Mind as Judgment",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Canaan+op/_/Mind+as+Judgment"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Angel Beats! OP - My Soul, Your Beats!",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Angel+Beats!+OP/_/My+Soul,+Your+Beats!"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゼロの使い魔 OP - First kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%BC%E3%83%AD%E3%81%AE%E4%BD%BF%E3%81%84%E9%AD%94+OP/_/First+kiss"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "とある科学の超電磁砲 OP2 - Level5 judgelight",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%A8%E3%81%82%E3%82%8B%E7%A7%91%E5%AD%A6%E3%81%AE%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2+OP2/_/Level5+judgelight"
+    },
     {
       "date": "2026-06-05",
       "time": "14:08",
@@ -10,6 +422,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81+OP/_/Romantic+summer"
+    },
+    {
+      "date": "2026-06-05",
+      "time": "14:03",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アニソン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/an40wm9fc3th1g2z"
     },
     {
       "date": "2026-06-05",
