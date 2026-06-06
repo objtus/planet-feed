@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-06-06T23:00:01.465083+09:00",
+  "generated_at": "2026-06-07T07:00:01.850642+09:00",
   "timeline": [
+    {
+      "date": "2026-06-07",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-07 小雨 20.3℃ (20.0〜20.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-07",
+      "time": "06:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/current-state-review-P4Yxe を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 1kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 3,537歩 / 心拍数: 100bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-06 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "15:38",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 新規ファイル「No Music on a Dead Internet」と「There Is No Sound Of The 2020s. Yet.」を追加し、現代の電子音楽文化における課題と未来の展望を探求。デジタルアーカイブの重要性や新しい音楽の創出に関する考察を含む。各章での提案や問題提起を整理し、今後の作業計画を明確化。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-06-06",
       "time": "15:29",
@@ -23,12 +98,32 @@
     },
     {
       "date": "2026-06-06",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-06 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-06",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-06-06 厚い雲 20.0℃ (19.4〜20.6℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-06 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-06",
@@ -10716,22 +10811,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-05-20",
@@ -18632,873 +18727,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F09"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:58",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://suno.com/song/00e3a5a5-18af-4ef3-a3af-3ae922175990　ほんとうにすごい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/am0ltdmt1n5x0bhb"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "kennkyuudaisuki - いど子3周年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/kennkyuudaisuki/_/%E3%81%84%E3%81%A9%E5%AD%903%E5%91%A8%E5%B9%B4"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "kennkyuudaisuki - いど子3周年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/kennkyuudaisuki/_/%E3%81%84%E3%81%A9%E5%AD%903%E5%91%A8%E5%B9%B4"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:50",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://suno.com/s/yFhaOGxv6kQXHoBO　3周年ありがとうございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/am0lixrdzzgu04bh"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:49",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 2,340歩 / 心拍数: 73bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "kennkyuudaisuki - いど子三周年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/kennkyuudaisuki/_/%E3%81%84%E3%81%A9%E5%AD%90%E4%B8%89%E5%91%A8%E5%B9%B4"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MISIA - Everything",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MISIA/_/Everything"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "槇原敬之 - もう恋なんてしない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%A7%87%E5%8E%9F%E6%95%AC%E4%B9%8B/_/%E3%82%82%E3%81%86%E6%81%8B%E3%81%AA%E3%82%93%E3%81%A6%E3%81%97%E3%81%AA%E3%81%84"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "平井堅 - POP STAR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B9%B3%E4%BA%95%E5%A0%85/_/POP+STAR"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:19",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "discordだけじゃないってこと覚えておいてください",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0kg1b60f"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:19",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "忘れないでください",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0kfq7vzv"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:19",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "私の配信もありますよ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0kfm1fzi"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:19",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "twitchの配信もありますよ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0kff2fz2"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "平井 堅 - ソレデモシタイ MUSIC VIDEO (YouTube ver.)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B9%B3%E4%BA%95+%E5%A0%85/_/%E3%82%BD%E3%83%AC%E3%83%87%E3%83%A2%E3%82%B7%E3%82%BF%E3%82%A4+MUSIC+VIDEO+(YouTube+ver.)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 9枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oasis - Whatever",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oasis/_/Whatever"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "What I've Done  [4K Upgrade] - Linkin Park",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/What+I%27ve+Done++%5B4K+Upgrade%5D/_/Linkin+Park"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "yung kai - blue",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/yung+kai/_/blue"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-08 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Hump Back - 拝啓、少年よ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Hump+Back/_/%E6%8B%9D%E5%95%93%E3%80%81%E5%B0%91%E5%B9%B4%E3%82%88"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:57",
-      "src_id": 3,
-      "src_type": "mastodon",
-      "text": "https://www.twitch.tv/yuinoid　雑談配信してるのでみて",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://mistodon.cloud/@healthcare/116539305366967074"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:57",
-      "src_id": 3,
-      "src_type": "mastodon",
-      "text": "https://www.twitch.tv/yuinoid 雑談配信してるのだが",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://mistodon.cloud/@healthcare/116539304436687360",
-      "visibility": "unlisted"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:56",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/am0jm8kwc3th0ar1"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:56",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid　雑談配信やってるのでみなくてもいいのでチャットしてください",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0jm3pfup"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "片道きゃっちぼーる【23 - 08/11 Avatar Showcase MOSAIC.LIVE】",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%89%87%E9%81%93%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A1%E3%81%BC%E3%83%BC%E3%82%8B%E3%80%9023/_/08%2F11+Avatar+Showcase+MOSAIC.LIVE%E3%80%91"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aiscream - 愛♡スクリ～ム！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aiscream/_/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mrs. GREEN APPLE - ライラック",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "恋するフォーチュンクッキー - AKB48",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%81%8B%E3%81%99%E3%82%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC/_/AKB48"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Don Tacos - キミドリ　自己嫌悪",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Don+Tacos/_/%E3%82%AD%E3%83%9F%E3%83%89%E3%83%AA%E3%80%80%E8%87%AA%E5%B7%B1%E5%AB%8C%E6%82%AA"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "SOUL'd OUT - Tokyo通信 ～urbs Communication～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/SOUL%27d+OUT/_/Tokyo%E9%80%9A%E4%BF%A1+%EF%BD%9Eurbs+Communication%EF%BD%9E"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "SOUL'd OUT - COZMIC TRAVEL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/SOUL%27d+OUT/_/COZMIC+TRAVEL"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:21",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid 雑談配信はじめました！みてね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am0icrk5b0"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:21",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid 雑談配信はじめました！みてね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/am0icmw3nlig07xp"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "22:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "SOUL'd OUT - 1,000,000 MONSTERS ATTACK",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/SOUL%27d+OUT/_/1,000,000+MONSTERS+ATTACK"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "19:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Tranquilizer ( Visualiser)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Tranquilizer+(+Visualiser)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada ⬣ 55 - 55 (B Sides + Rarities Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada+%E2%AC%A3+55/_/55+(B+Sides+%252B+Rarities+Mix)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A10 - Random 35 Tracks Tape (1995?)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A10/_/Random+35+Tracks+Tape+(1995%3F)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "9.78 - A Few Old Tunes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/9.78/_/A+Few+Old+Tunes"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "5D - closes vol 1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/5D/_/closes+vol+1"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aphex Twin - 2",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aphex+Twin/_/2"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aphex Twin - 1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aphex+Twin/_/1"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Matthew Avery - GTBSG Compilation Mixtape  Gravity Boys",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Matthew+Avery/_/GTBSG+Compilation+Mixtape++Gravity+Boys"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Thaiboy Digital (feat. Black Kray) - Diamondz",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Thaiboy+Digital+(feat.+Black+Kray)/_/Diamondz"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - carwash",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/carwash"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - HOLD ME DOWN LIKE GRAVITY",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/HOLD+ME+DOWN+LIKE+GRAVITY"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee&Thaiboy Digital - Make You Bleed",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee&Thaiboy+Digital/_/Make+You+Bleed"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "18:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Bleach (feat. Ecco2k1)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Bleach+(feat.+Ecco2k1)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Thaiboy Digital - B with U",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Thaiboy+Digital/_/B+with+U"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee (feat. Yung Lean) - Bladeecity",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+(feat.+Yung+Lean)/_/Bladeecity"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Thaiboy Digital - Bankaccount (Intro)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Thaiboy+Digital/_/Bankaccount+(Intro)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - bladee",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/bladee"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - JAWS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/JAWS"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - CLOSE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/CLOSE"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - INSIDE OUT FT YUNG LEAN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/INSIDE+OUT+FT+YUNG+LEAN"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - FROSTY THE SNOWMAN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/FROSTY+THE+SNOWMAN"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - BE NICE TO ME",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/BE+NICE+TO+ME"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - MALLWHORE FREEESTYLE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/MALLWHORE+FREEESTYLE"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:13",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "机の上にインスタントコーヒーの粒が落ちてていもむしのウンチかと思った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/am07d9vqfl"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - OKK",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/OKK"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - SMARTWATER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/SMARTWATER"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Reality Surf",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Reality+Surf"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sewerslvt - Pretty Cvnt",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sewerslvt/_/Pretty+Cvnt"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Nami Shimada - Sun Shower (Larry Levan Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Nami+Shimada/_/Sun+Shower+(Larry+Levan+Mix)"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Soichi Terada & Manabu Nagayama - Low Tension",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Soichi+Terada+&+Manabu+Nagayama/_/Low+Tension"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Soichi Terada - CPM",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Soichi+Terada/_/CPM"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:40",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "交通事故を起こす人の気持ちがわかる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/am066tfcc3th0a8n"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Mechatok - Rainbow",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Mechatok/_/Rainbow"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "16:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kerri Chandler | Boiler Room - New York",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kerri+Chandler+%7C+Boiler+Room/_/New+York"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "RL Grime - RUSH MIX 001",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/RL+Grime/_/RUSH+MIX+001"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cport Cistema - Might Try",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cport+Cistema/_/Might+Try"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-08 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kcik - 29",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kcik/_/29"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "VVV [Trippin'you], Erik Urano - Espadas en guadañas",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/VVV+%5BTrippin%27you%5D,+Erik+Urano/_/Espadas+en+guada%C3%B1as"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Boring Angel",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Boring+Angel"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:46",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "何やろうとしたか忘れた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/am0248tuc3th09un"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Measuring Ruins",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Measuring+Ruins"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Cherry Blue",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Cherry+Blue"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Introit / Prophecy At 1420 MHz",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit+%2F+Prophecy+At+1420+MHz"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "東山翔",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/am01o3pxc3th09to"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "14:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "だるいです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/am01mwnzc3th09th"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-08 雲 19.4℃ (19.4〜19.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-08",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-08 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "03:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://note.com/hirayamakun/n/n4a108e05de08 勉強になる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alze2mt5c3th094z"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "03:12",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ジュリアンハウスについて",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alzdbfd1c3th094e"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "03:11",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ボーズオブカナダ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/alzdad5bc3th094a"
-    },
-    {
-      "date": "2026-05-08",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "雑談配信をした\n　・はじめて音楽生成AIをさわった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F08"
     }
   ]
 }
