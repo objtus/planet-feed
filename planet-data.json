@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-06-08T07:00:01.544802+09:00",
+  "generated_at": "2026-06-08T15:00:01.205873+09:00",
   "timeline": [
+    {
+      "date": "2026-06-08",
+      "time": "10:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "10:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Urban Blues Project & Jay Williams - Testify",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Urban+Blues+Project+&+Jay+Williams/_/Testify"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "10:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "P.I.A.N.O - Untitled (BB 002 White Label)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/P.I.A.N.O/_/Untitled+(BB+002+White+Label)"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "09:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kcik - 29",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kcik/_/29"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "09:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee - DRESDEN ER",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee/_/DRESDEN+ER"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "09:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee - Oh Well",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee/_/Oh+Well"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "09:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - Sugar & Diesel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/Sugar+&+Diesel"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "09:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Coral Records Internazionale - #Seapunk Volume 1 (SPLASH001)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Coral+Records+Internazionale/_/%23Seapunk+Volume+1+(SPLASH001)"
+    },
     {
       "date": "2026-06-08",
       "time": "09:00",
@@ -9,6 +89,56 @@
       "text": "2026-06-08 雲 18.9℃ (18.9〜18.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-08",
+      "time": "07:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "House and Disco Mix - Mittensさん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/House+and+Disco+Mix/_/Mittens%E3%81%95%E3%82%93"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "07:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rescue Me (feat. Yeo Hee) - DJ Kawasaki.to ]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rescue+Me+(feat.+Yeo+Hee)/_/DJ+Kawasaki.to+%5D"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "07:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bright Lights, Big City (feat. Aoki Karen) - Takeshi Nakatsuka.to ]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bright+Lights,+Big+City+(feat.+Aoki+Karen)/_/Takeshi+Nakatsuka.to+%5D"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "06:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "JOY (feat. Heather Johnson) - Jazzin'park.to ]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/JOY+(feat.+Heather+Johnson)/_/Jazzin%27park.to+%5D"
+    },
+    {
+      "date": "2026-06-08",
+      "time": "06:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Can't take my eyes off of you - Cargo.to ]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Can%27t+take+my+eyes+off+of+you/_/Cargo.to+%5D"
     },
     {
       "date": "2026-06-07",
@@ -11990,22 +12120,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-05-20",
