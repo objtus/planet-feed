@@ -1,6 +1,181 @@
 {
-  "generated_at": "2026-06-10T23:00:01.268174+09:00",
+  "generated_at": "2026-06-11T07:00:01.771050+09:00",
   "timeline": [
+    {
+      "date": "2026-06-11",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-11 曇りがち 20.8℃ (20.5〜21.1℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-11",
+      "time": "05:38",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 10件: src-6タスク追加: MP3ブログ/エクスペリメンタル・シーン調査ノートの仕分け / src-6にクロスカッティング・スレッド3本を追記 / スレッドAにTG/Genesis P-Orridgeの結節点メモを追加 / スレッドBに名義増殖（エイリアス連鎖）の観察を追加 / スレッドBにVektroidの大量リリース→シーン形成という仮説を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-11",
+      "time": "05:32",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 「New Ugly」関連の出典がすべて未確認（WebFetch 403/未取得）であることを明記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-11",
+      "time": "02:19",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: supersuper.mdに「New Ugly」(2007年Creative Review記事)に関する調査結果を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 3kcal / 運動: 2分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 2,914歩 / 心拍数: 96bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-10",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-10 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:55",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: SuperSuper!とPC Musicの接点に関するr/pcmusicソースの記述を慎重な表現に修正",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:16",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: src-6スレッドBの【要検証】項目をinv-vektroid調査タスクとして新設",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:10",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: スレッドBにVektroidの大量リリース→シーン形成という仮説を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:09",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: スレッドBに名義増殖（エイリアス連鎖）の観察を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:06",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: スレッドAにTG/Genesis P-Orridgeの結節点メモを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "19:02",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: src-6にクロスカッティング・スレッド3本を追記",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "18:50",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/mp3-experimental-notes-task-c82c4u を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:37",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Hippos In Tanks 調査ノートを更新し、設立・運営に関する詳細情報を追加。カタログ年表を新設し、2010年から2013年のリリース情報を整理。ファクト調査を完了し、引用・URLを含む内容を強化。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:17",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 新規ファイル「MP3ブログ時代とエクスペリメンタル・シーン調査ノート」を追加し、2007〜2012年の音楽ブログの定義、歴史、主要レーベルの関係を整理。調査内容を明確化し、関連する文献や事例を含む目次を作成。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-06-10",
       "time": "15:13",
@@ -20,6 +195,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Unknown+Caller/_/4AM"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-10 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-10",
@@ -59,6 +244,16 @@
       "text": "2026-06-10 厚い雲 18.9℃ (18.3〜19.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-10",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-10 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-09",
@@ -12888,22 +13083,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
     },
     {
       "date": "2026-05-20",
@@ -17176,461 +17371,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F13"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-12",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-12",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 5,446歩 / 心拍数: 79bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-12",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 3枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-12",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 2件: Update planet feed (2026-05-12 15:00 JST) / Update planet feed (2026-05-12 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "幾田りら - 百花繚乱",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B9%BE%E7%94%B0%E3%82%8A%E3%82%89/_/%E7%99%BE%E8%8A%B1%E7%B9%9A%E4%B9%B1"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "涼宮ハルヒ (CV.平野 綾) - God knows...",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%B6%BC%E5%AE%AE%E3%83%8F%E3%83%AB%E3%83%92+(CV.%E5%B9%B3%E9%87%8E+%E7%B6%BE)/_/God+knows..."
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kenshi Yonezu - Plazma",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kenshi+Yonezu/_/Plazma"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yorushika - 晴る",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yorushika/_/%E6%99%B4%E3%82%8B"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "RADWIMPS - 夢灯籠",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/RADWIMPS/_/%E5%A4%A2%E7%81%AF%E7%B1%A0"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "yuigot、月見ヤチヨ(cv.早見沙織) - Remember",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/yuigot%E3%80%81%E6%9C%88%E8%A6%8B%E3%83%A4%E3%83%81%E3%83%A8(cv.%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94)/_/Remember"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "40mP、かぐや(cv.夏吉ゆうこ) - 瞬間、シンフォニー。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/40mP%E3%80%81%E3%81%8B%E3%81%90%E3%82%84(cv.%E5%A4%8F%E5%90%89%E3%82%86%E3%81%86%E3%81%93)/_/%E7%9E%AC%E9%96%93%E3%80%81%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%E3%80%82"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "かぐや(CV.夏吉ゆうこ)、月見ヤチヨ(CV.早見沙織) - ray",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%8B%E3%81%90%E3%82%84(CV.%E5%A4%8F%E5%90%89%E3%82%86%E3%81%86%E3%81%93)%E3%80%81%E6%9C%88%E8%A6%8B%E3%83%A4%E3%83%81%E3%83%A8(CV.%E6%97%A9%E8%A6%8B%E6%B2%99%E7%B9%94)/_/ray"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ATLXS、DJ FKU - MONTAGEM REBOLA (Slowed)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ATLXS%E3%80%81DJ+FKU/_/MONTAGEM+REBOLA+(Slowed)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dj Samir、SEKIMANE、KVRXD - MONTAGEM PERIGOSA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dj+Samir%E3%80%81SEKIMANE%E3%80%81KVRXD/_/MONTAGEM+PERIGOSA"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ENTAO、Aeri - MONTAGEM AROMA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ENTAO%E3%80%81Aeri/_/MONTAGEM+AROMA"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MC ORSEN - WARNING (Sped Up)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MC+ORSEN/_/WARNING+(Sped+Up)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PXLWYSE - Eu Sento Gabu!",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PXLWYSE/_/Eu+Sento+Gabu!"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sayfalse、Scythermane、TRXSHBXY - ESSE CARA!",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sayfalse%E3%80%81Scythermane%E3%80%81TRXSHBXY/_/ESSE+CARA!"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "NCTS - NEXT!",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/NCTS/_/NEXT!"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Eternxlkz - DRESS! (Sped Up)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Eternxlkz/_/DRESS!+(Sped+Up)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MC ORSEN - INCOMING",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MC+ORSEN/_/INCOMING"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Nakama、Mc Staff、ΣP - DIA DELÍCIA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Nakama%E3%80%81Mc+Staff%E3%80%81%CE%A3P/_/DIA+DEL%C3%8DCIA"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ザ・チェインスモーカーズ、Oaks - Already Know",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B6%E3%83%BB%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BA%E3%80%81Oaks/_/Already+Know"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Alesso、Pendulum - “FADE” (Official Visualizer)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Alesso%E3%80%81Pendulum/_/%E2%80%9CFADE%E2%80%9D+(Official+Visualizer)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ファントグラム、Ian Asher - Black Out Days (Stay Away)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A0%E3%80%81Ian+Asher/_/Black+Out+Days+(Stay+Away)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "カルヴィン・ハリス、ジャジー - Satisfy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AB%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9%E3%80%81%E3%82%B8%E3%83%A3%E3%82%B8%E3%83%BC/_/Satisfy"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "22:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ザ・チェインスモーカーズ、ジョン・サミット、Ilsey Juber - ALL THE TIME",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B6%E3%83%BB%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BA%E3%80%81%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88%E3%80%81Ilsey+Juber/_/ALL+THE+TIME"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Prospa、Cloonee - Free Your Mind",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Prospa%E3%80%81Cloonee/_/Free+Your+Mind"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Wait So Long - Extended Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Wait+So+Long/_/Extended+Mix"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ザ・チェインスモーカーズ、Oaks - Love Is Kind",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B6%E3%83%BB%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BA%E3%80%81Oaks/_/Love+Is+Kind"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Khalid、oskar med k - nobody (make me feel)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Khalid%E3%80%81oskar+med+k/_/nobody+(make+me+feel)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "HAVEN.、Kaitlin Aragon - I Run",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/HAVEN.%E3%80%81Kaitlin+Aragon/_/I+Run"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ザ・チェインスモーカーズ、Oaks - Echo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B6%E3%83%BB%E3%83%81%E3%82%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%BA%E3%80%81Oaks/_/Echo"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "21:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "milky、デヴィッド・ゲッタ - Just The Way You Are (David Guetta Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/milky%E3%80%81%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B2%E3%83%83%E3%82%BF/_/Just+The+Way+You+Are+(David+Guetta+Remix)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "20:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "KO - キンタロー。と本家の子供比較",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/KO/_/%E3%82%AD%E3%83%B3%E3%82%BF%E3%83%AD%E3%83%BC%E3%80%82%E3%81%A8%E6%9C%AC%E5%AE%B6%E3%81%AE%E5%AD%90%E4%BE%9B%E6%AF%94%E8%BC%83"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "20:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "田中ててて - クレヨンしんちゃん声優のものまねが似すぎ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%94%B0%E4%B8%AD%E3%81%A6%E3%81%A6%E3%81%A6/_/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93%E5%A3%B0%E5%84%AA%E3%81%AE%E3%82%82%E3%81%AE%E3%81%BE%E3%81%AD%E3%81%8C%E4%BC%BC%E3%81%99%E3%81%8E"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "20:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【公式】オードリーさん、ぜひ会ってほしい人がいるんです。 - トゥースとトゥームレイダーが混同してる４歳児(オードリーさん、ぜひ会ってほしい人がいるんです。)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82/_/%E3%83%88%E3%82%A5%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%E3%81%8C%E6%B7%B7%E5%90%8C%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%94%E6%AD%B3%E5%85%90(%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82)"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "持田保 - あなたの聴かない世界講義vol.5”The KLFとディスコーディアニズム",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%8C%81%E7%94%B0%E4%BF%9D/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E8%AC%9B%E7%BE%A9vol.5%E2%80%9DThe+KLF%E3%81%A8%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-12 曇りがち 17.6℃ (17.6〜17.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-12",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-12 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "00:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Elton John - ロケット・マン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Elton+John/_/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%BB%E3%83%9E%E3%83%B3"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "00:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "イーグルス - Take It Easy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9/_/Take+It+Easy"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "00:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bee Gees - Stayin' Alive",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bee+Gees/_/Stayin%27+Alive"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "00:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Creedence Clearwater Revival - Have You Ever Seen the Rain",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Creedence+Clearwater+Revival/_/Have+You+Ever+Seen+the+Rain"
-    },
-    {
-      "date": "2026-05-12",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ことし1月-2月くらいにつくってた個人サイト用キャラメイクページのための絵をちょっとだけ描いた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F12"
     }
   ]
 }
