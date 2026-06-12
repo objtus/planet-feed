@@ -1,6 +1,176 @@
 {
-  "generated_at": "2026-06-12T23:00:01.732618+09:00",
+  "generated_at": "2026-06-13T07:00:01.910054+09:00",
   "timeline": [
+    {
+      "date": "2026-06-13",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-13 厚い雲 22.2℃ (21.6〜22.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:52",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アレックスカッツの絵超好きなんやけどまだ存命なの今知った（98歳）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aneo64rjc3th1ocd"
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:49",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "デイヴィッドホックニーがipadで描いた絵すきだったなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aneo256ac3th1occ"
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "話が面白い人になってつまらない話を面白く話したい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anennxn8c3th1oc6"
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "わたしはとても反省しています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anen3v6xc3th1oby"
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:21",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "雑談配信終了しました　反省",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/anen24i8ebv005tr"
+    },
+    {
+      "date": "2026-06-13",
+      "time": "00:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kan - Aiwa Katsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "23:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anyone in 2025? - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anyone+in+2025%3F/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "23:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "アトリエと電脳世界 (Atelier and the Cyber World) - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%81%A8%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C+(Atelier+and+the+Cyber+World)/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "SuperStar - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/SuperStar/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "極東の羊、テレキャスターと踊る (Sheep of the Far East, Dancing with the Telecaster) - しゃろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%A5%B5%E6%9D%B1%E3%81%AE%E7%BE%8A%E3%80%81%E3%83%86%E3%83%AC%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E8%B8%8A%E3%82%8B+(Sheep+of+the+Far+East,+Dancing+with+the+Telecaster)/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:20",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.twitch.tv/yuinoid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/116737339979854665",
+      "visibility": "unlisted"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aneiqg21c3th1o80"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:19",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信を開始しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aneipinn6j"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "22:17",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/aneimzmnmosy00ng"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "21:16",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: 次のタスクの進行状況を更新し、concl-1（Guardianの問いかけ）とed-4（後記メタ）の反映を完了。日本語圏の受容に関する新しいセクションを追加し、文体の統一を図った。草稿の内容を整理し、関連する文書の参照を明確化。 / 文書内の表現を簡潔にし、日本語圏の動向に関する記述を修正。受容と変形の関係を明確化し、文体の統一を図った。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-06-12",
       "time": "18:37",
@@ -93,6 +263,16 @@
     },
     {
       "date": "2026-06-12",
+      "time": "16:56",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 6件: 次のタスクに「本稿の制度化への寄与（後記メタ）」を追加し、編集方針に関連する内容を更新。後記にメタ自己言及を含める方針を明記。 / supersuper.mdの作成日を更新し、各セクションの参照URLを明示化。目次の項目名を修正し、情報の整合性を向上させるために文体を統一。 / 次のタスクの更新とSuperSuper! Magazineに関するセクションの改稿を行い、src-2の構成改稿・分割稿同期を完了。関連する文書の参照を明確化し、草稿の反映状況を更新。 / 次のタスクの進行状況を更新し、vaporwave前史に関する新しいセクションを追加。src-5の文案を初回反映し、関連する文書の参照を明確化。誤記修正や段落整理を行い、HITに関する文脈を強化。 / 次のタスクの進行状況を更新し、vaporwave前史に関するセクションを改稿。src-5の文案を完了し、関連する文書の参照を明確化。HITに関する文脈を強化し、誤記修正や段落整理を行った。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-12",
       "time": "16:54",
       "src_id": 2,
       "src_type": "misskey",
@@ -120,6 +300,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-12",
@@ -410,6 +600,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E6%AD%A3%E6%B0%97%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B+%E6%94%BF%E6%B2%BB%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E5%8C%96%E3%81%8B%E3%82%89%E9%80%86%E3%81%AB!%3F"
+    },
+    {
+      "date": "2026-06-12",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-11",
@@ -17854,113 +18054,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F15"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-14",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-14",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-14 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "21:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "最強AI - ミュトス",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9C%80%E5%BC%B7AI/_/%E3%83%9F%E3%83%A5%E3%83%88%E3%82%B9"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-14 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "09:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Pere Ubu, - Waiting for Mary",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Pere+Ubu,/_/Waiting+for+Mary"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "09:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Pere Ubu - Final Solution",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Pere+Ubu/_/Final+Solution"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-14 晴天 17.3℃ (17.3〜17.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-14",
-      "time": "08:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "持田保 - あなたの聴かない世界TV 特集：ペル・ウブ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%8C%81%E7%94%B0%E4%BF%9D/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8CTV+%E7%89%B9%E9%9B%86%EF%BC%9A%E3%83%9A%E3%83%AB%E3%83%BB%E3%82%A6%E3%83%96"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-14 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-14",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F14"
     }
   ]
 }
