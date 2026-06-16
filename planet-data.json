@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-06-16T07:00:01.411939+09:00",
+  "generated_at": "2026-06-16T15:00:01.490074+09:00",
   "timeline": [
+    {
+      "date": "2026-06-16",
+      "time": "14:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ケロ - Franklinfranklin",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/Franklinfranklin"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ケロ - Riversidedrive",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/Riversidedrive"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "opnの曲（Time Decanted）のMVがOESBのvimeoにアップされててどういうつながりかよくわからなかったけど、MV監督のTodd LedfordがOESBの創設者だった　https://vimeo.com/7616034\n\nそしてTodd Ledfordで検索したら味わい深いアルバムが出てきた https://ledfordwave.bandcamp.com/album/l-e-d-f-o-r-d-w-a-v-e",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjpmx3cc3th1rlm",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Dice Man - Polygon Window.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Dice+Man/_/Polygon+Window."
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Russian Mind",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Russian+Mind"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Theater of Eternal Music (Lа Monte Young) - Raga for Ravi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Theater+of+Eternal+Music+(L%D0%B0+Monte+Young)/_/Raga+for+Ravi"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "13:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee & Ecco2K - NTS Session",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/NTS+Session"
+    },
     {
       "date": "2026-06-16",
       "time": "09:00",
