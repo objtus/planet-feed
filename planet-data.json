@@ -1,6 +1,317 @@
 {
-  "generated_at": "2026-06-16T15:00:01.490074+09:00",
+  "generated_at": "2026-06-16T23:00:01.112067+09:00",
   "timeline": [
+    {
+      "date": "2026-06-16",
+      "time": "21:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - 愛のCoda by Kirinji",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/%E6%84%9B%E3%81%AECoda+by+Kirinji"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "21:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - Plastic Love by Mariya Takeuchi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/Plastic+Love+by+Mariya+Takeuchi"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - Upside Down by Jack Johnson",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/Upside+Down+by+Jack+Johnson"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - Forever Heaven by Sons of Sevilla",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/Forever+Heaven+by+Sons+of+Sevilla"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - Cavern (Cut Chemist Rocks A Rave In A Missile Silo Remix) by Liquid Liquid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/Cavern+(Cut+Chemist+Rocks+A+Rave+In+A+Missile+Silo+Remix)+by+Liquid+Liquid"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Emily Vu - Girls & Boys by Blur",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Emily+Vu/_/Girls+&+Boys+by+Blur"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Com Truise - Cyanide Sisters",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Com+Truise/_/Cyanide+Sisters"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "コム・トゥルーズ - トピック - Glawio",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B3%E3%83%A0%E3%83%BB%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%BA+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Glawio"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "One Night - All Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/One+Night/_/All+Night"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "20:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - Save Your Tears",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "19:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "𝐀𝐋𝐎𝐍𝐄 𝐈𝐍 𝐀 𝐂𝐑𝐎𝐖𝐃 - 𝐎𝐋𝐈𝐕𝐄𝐑 𝐓𝐑𝐄𝐄 - 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 - 𝐋𝐘𝐑𝐈𝐂𝐒 𝐕𝐈𝐃𝐄𝐎",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%84+%F0%9D%90%88%F0%9D%90%8D+%F0%9D%90%80+%F0%9D%90%82%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%83/_/%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91+%F0%9D%90%93%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84+-+%F0%9D%90%85%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8B+%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%94%F0%9D%90%8C+-+%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%91%F0%9D%90%88%F0%9D%90%82%F0%9D%90%92+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8E"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "19:21",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アハハ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ank23u31c3th1ru6"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "そもそも日本に影響力あるmp3ブログってなかった気がする なんでだろう みんなキュレーションを信じてなかったからか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ank0akptc3th1rrj"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:27",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "音楽ブログが影響力のあるメディアになっていく例はナタリーやpitchforkなど少なくとも日米で確認できるけど、mp3ブログがメディアに転換する例は海外ではあっても（stereogum）日本の例は思いつかないな グレーゾーンだから？津田大介はそれに近いかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ank06okbc3th1rrc",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:17",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "乳頭について知見を高めていきたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjzsxl4c3th1rr2"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Porter Robinson & Mat Zo - Easy w/ Room 5 - Think About U",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Porter+Robinson+&+Mat+Zo/_/Easy+w%2F+Room+5+-+Think+About+U"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:16",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": ":sitt:　これほぼグローグーやん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjzrqxxc3th1rqy"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Round Table feat. Nino - Let Me Be With You (New Step Mix) (DJ NOT PORTER ROBINSON EDIT)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Round+Table+feat.+Nino/_/Let+Me+Be+With+You+(New+Step+Mix)+(DJ+NOT+PORTER+ROBINSON+EDIT)"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ちょっとだけ散歩するか悩む",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjzosg3c3th1rqt"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The 1975 - I Like America & America Likes Me (Mark Robinson Garage Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+1975/_/I+Like+America+&+America+Likes+Me+(Mark+Robinson+Garage+Remix)"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "tanoshii.siteはどうなん？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjzmsl8c3th1rqf"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mura Masa & Clairo - I Don't Think I Can Do This Again",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mura+Masa+&+Clairo/_/I+Don%27t+Think+I+Can+Do+This+Again"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "18:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Porter Robinson - Something Comforting w/ Sad Machine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Porter+Robinson/_/Something+Comforting+w%2F+Sad+Machine"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "17:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://store.ietf.org/　IETFオンラインストアの商品全部ダサい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjxhjhzc3th1roj"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "17:09",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://sites.google.com/ieee-jp.org/manga-project/ こんなんあるんや",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjxebxec3th1roa"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "17:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Porter Robinson - PORTER ROBINSON NURTURE LIVE @ SECRET SKY 2021",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Porter+Robinson/_/PORTER+ROBINSON+NURTURE+LIVE+@+SECRET+SKY+2021"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "16:55",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ウィキペディアピンバッジとウィキペディアぬいぐるみが届いた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anjwwj8ic3th1ro2"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "15:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Theater of Eternal Music (Lа Monte Young) - Raga for Ravi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Theater+of+Eternal+Music+(L%D0%B0+Monte+Young)/_/Raga+for+Ravi"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "15:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Composition 1960 #7 (live) - to be held for a long time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Composition+1960+%237+(live)/_/to+be+held+for+a+long+time"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "14:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Le Monte Young - Pre-Tortoise Dream Music",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Le+Monte+Young/_/Pre-Tortoise+Dream+Music"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "14:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ケロ - 230 Grandriver",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/230+Grandriver"
+    },
     {
       "date": "2026-06-16",
       "time": "14:05",
