@@ -1,6 +1,438 @@
 {
-  "generated_at": "2026-06-17T15:00:01.915933+09:00",
+  "generated_at": "2026-06-17T23:00:01.347509+09:00",
   "timeline": [
+    {
+      "date": "2026-06-17",
+      "time": "21:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lipgloss Twins - Doodle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lipgloss+Twins/_/Doodle"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "21:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Petorozu - A.G. Cook live from Primavera Sound 2024",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Petorozu/_/A.G.+Cook+live+from+Primavera+Sound+2024"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "21:02",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "SUSHIKET",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/anll53xpkv"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "20:51",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "エロかっこいいを目指したい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anlkqybsc3th1su9"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "20:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "いぬねこ - I'veメドレー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%84%E3%81%AC%E3%81%AD%E3%81%93/_/I%27ve%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "19:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stellar OM Source - Live",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Live"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "19:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stellar OM Source - Island Best",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Island+Best"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "19:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ninajirachi - JAPANESE OTAKU ROOM (FULL SET)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ninajirachi/_/JAPANESE+OTAKU+ROOM+(FULL+SET)"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "18:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Life Sim - IDL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Life+Sim/_/IDL"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "18:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "jawnino & deer park - Mattress",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/jawnino+&+deer+park/_/Mattress"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "18:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Future Brown - Vernáculo ft. Maluca",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Future+Brown/_/Vern%C3%A1culo+ft.+Maluca"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "18:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Beep Street",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Roygbiv",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Bocuma",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Bocuma"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:55",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://web.archive.org/web/20101229194410/http://demoforever.net/　ドメイン名、内容、画像のすべてがインターネット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anleghgkc3th1sp6"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Triangles & Rhombuses",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Triangles+&+Rhombuses"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Wildlife Analysis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Melissa Juice",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Melissa+Juice"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Iced Cooly",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Iced+Cooly"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Beep Street",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rei Harakami - lust",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rei+Harakami/_/lust"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヘアカット・フォー・メン - トピック - 呼吸蒸気",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%98%E3%82%A2%E3%82%AB%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%B3+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E5%91%BC%E5%90%B8%E8%92%B8%E6%B0%97"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 星間性交",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "インターネット美学について検索するなかでOESBのブログ記事を目にし、そこからバババッと推論がいろいろと飛んで、結論としては、2010年のローマ国際映画祭が重要になるだろうという考えに至った。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anld7wkoc3th1so7",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - not beautiful view",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/not+beautiful+view"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - twilight in hikarigaoka",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/twilight+in+hikarigaoka"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "17:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - red bicycle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/red+bicycle"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - the (nobody) theatre",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/the+(nobody)+theatre"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - vague",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/vague"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - entraine toi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/entraine+toi"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - she decided",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/she+decided"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - car",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/car"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "i-fls - soundcloud5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/i-fls/_/soundcloud5"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Know My Name",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Know+My+Name"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Sad World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Sad+World"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Touching Yours",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Touching+Yours"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Aching Like Its",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Aching+Like+Its"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - It's A Dream",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/It%27s+A+Dream"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "16:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Cautious",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Cautious"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Under Your Spell",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "15:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Just Your Doll",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Just+Your+Doll"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "15:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Resident Advisor - はじめに",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Resident+Advisor/_/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "14:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://stats.wikimedia.org/#/all-projects/reading/total-page-views/normal|bar|all|~total|daily 　wikipediaの閲覧者数の推移をグラフで見てみたらコロナ禍でロックダウンしてた時期の閲覧数がモサっと伸びてておもろい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anl7smwmc3th1sjy",
+      "visibility": "home"
+    },
     {
       "date": "2026-06-17",
       "time": "09:00",
