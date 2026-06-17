@@ -1,6 +1,353 @@
 {
-  "generated_at": "2026-06-17T23:00:01.347509+09:00",
+  "generated_at": "2026-06-18T07:00:02.001040+09:00",
   "timeline": [
+    {
+      "date": "2026-06-18",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-18 厚い雲 22.2℃ (22.2〜22.2℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "03:46",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 5件: 次のタスクの進行状況を更新し、inv-swanおよびinv-dclubの調査タスクを新たに追加。Post TV文案を改稿し、関連する文書の参照を更新。lo-fi映像のシーン現象を可視化する新規節を追加し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、inv-msvの調査結果を反映。新たに「Post T.V.」節を第2章に追加し、lo-fi映像のシーンに関する詳細を整理。関連文書の参照を更新し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、inv-dclubの草稿を反映。新たに「deconstructed club」という節を追加し、PC Musicとの関連性を整理。Daniel Swanの役割や関連アーティストについて詳述し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、inv-steyerlおよびinv-piajpの草稿を反映。Hito Steyerlの「貧しいイメージの擁護」節を追加し、Post T.V.との理論的接続を整理。日本のポストインターネットアート受容に関する雑誌特集の内容を紹介し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、meta-3（遡行的確定・本稿の自己言及）を新たに追加。後記に関連する内容を整理し、Frutiger Aeroとの接続を明確化。全体の整合性を向上させるため、関連文書の参照も更新。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "01:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DIW by diskunion - rei harakami mixed by DJ Funnel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DIW+by+diskunion/_/rei+harakami+mixed+by+DJ+Funnel"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A.G. Cook - Personal Computer Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.G.+Cook/_/Personal+Computer+Mix"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - What I Mean",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/What+I+Mean"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dux Content - Like You (Slow Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dux+Content/_/Like+You+(Slow+Mix)"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Violets Are Blue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Violets+Are+Blue"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "easyFun - Infinity Glisten (Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/easyFun/_/Infinity+Glisten+(Edit)"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dux Content - Moose (Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dux+Content/_/Moose+(Remix)"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Princess Bambi - Less Love More Sex (Life Sim Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Princess+Bambi/_/Less+Love+More+Sex+(Life+Sim+Remix)"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Danny L Harle - Aquarius (Luna Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Danny+L+Harle/_/Aquarius+(Luna+Remix)"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dux Content - Untitled",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dux+Content/_/Untitled"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Troll (Full EP)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Troll+(Full+EP)"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DUB Techno - Amseroedd Sain 10",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DUB+Techno/_/Amseroedd+Sain+10"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Gemstone Break",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Gemstone+Break"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Life Speed",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Life+Speed"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - DJ Every Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/DJ+Every+Night"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Dread (Visualiser)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Dread+(Visualiser)"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Soft Landing",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Soft+Landing"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Car Keys",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Car+Keys"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Soulbreaker",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Soulbreaker"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Somers Tape",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Somers+Tape"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oklou - take me by the hand ft. Bladee",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oklou/_/take+me+by+the+hand+ft.+Bladee"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Oohu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Oohu"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Acid Angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Acid+Angel"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - You Know Me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/You+Know+Me"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Xcxoplex",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Xcxoplex"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook & Cecile Believe - Show Me What",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook+&+Cecile+Believe/_/Show+Me+What"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Finn Keane - Be Your USA feat. Iiris",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Finn+Keane/_/Be+Your+USA+feat.+Iiris"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Silver",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Silver"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Yes Da Da Da",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Yes+Da+Da+Da"
+    },
+    {
+      "date": "2026-06-17",
+      "time": "22:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Idyll",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Idyll"
+    },
     {
       "date": "2026-06-17",
       "time": "21:59",
@@ -424,6 +771,16 @@
     },
     {
       "date": "2026-06-17",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-17",
       "time": "14:48",
       "src_id": 2,
       "src_type": "misskey",
@@ -441,6 +798,16 @@
       "text": "2026-06-17 晴天 21.9℃ (21.6〜22.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-17",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-17",
@@ -16398,22 +16765,22 @@
     {
       "date": "2026-05-20",
       "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
-    },
-    {
-      "date": "2026-05-20",
-      "time": "15:59",
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/100percent-health: Push 1件: Add custom color option and update parts data structure",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-05-20",
+      "time": "15:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【歌詞付き】H Jungle with t - WOW WAR TONIGHT ～時には起こせよムーヴメント〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D%E3%80%91H+Jungle+with+t/_/WOW+WAR+TONIGHT+%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%E3%80%9C"
     },
     {
       "date": "2026-05-20",
@@ -17665,293 +18032,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F20"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-19",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-19",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-19 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "19:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 星空の少年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E6%98%9F%E7%A9%BA%E3%81%AE%E5%B0%91%E5%B9%B4"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "19:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - ナルシス",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E3%83%8A%E3%83%AB%E3%82%B7%E3%82%B9"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "19:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 幻想旅行",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E5%B9%BB%E6%83%B3%E6%97%85%E8%A1%8C"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 夢飛行",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E5%A4%A2%E9%A3%9B%E8%A1%8C"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 白夜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E7%99%BD%E5%A4%9C"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - サラーム",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E3%82%B5%E3%83%A9%E3%83%BC%E3%83%A0"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - ギター弾きを見ませんか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E3%82%AE%E3%82%BF%E3%83%BC%E5%BC%BE%E3%81%8D%E3%82%92%E8%A6%8B%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 帰郷",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E5%B8%B0%E9%83%B7"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 異邦人",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E7%95%B0%E9%82%A6%E4%BA%BA"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "外が明るいなあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amg087x1c3th0qbw"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - 朝",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E6%9C%9D"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "18:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久保田早紀 - プロローグ・・・夢がたり",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E4%BF%9D%E7%94%B0%E6%97%A9%E7%B4%80/_/%E3%83%97%E3%83%AD%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%BB%E3%83%BB%E3%83%BB%E5%A4%A2%E3%81%8C%E3%81%9F%E3%82%8A"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-19 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-19 晴天 20.5℃ (20.5〜20.5℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "東浩紀さんに聞く！！東大・五月祭騒動、言論弾圧に見える構図／SNSが学園祭を拡散、東大でも起きたナニカ／政治のエンタメ化 - —高市旋風のその先／米中会談と日本",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%95%E3%82%93%E3%81%AB%E8%81%9E%E3%81%8F%EF%BC%81%EF%BC%81%E6%9D%B1%E5%A4%A7%E3%83%BB%E4%BA%94%E6%9C%88%E7%A5%AD%E9%A8%92%E5%8B%95%E3%80%81%E8%A8%80%E8%AB%96%E5%BC%BE%E5%9C%A7%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E6%A7%8B%E5%9B%B3%EF%BC%8FSNS%E3%81%8C%E5%AD%A6%E5%9C%92%E7%A5%AD%E3%82%92%E6%8B%A1%E6%95%A3%E3%80%81%E6%9D%B1%E5%A4%A7%E3%81%A7%E3%82%82%E8%B5%B7%E3%81%8D%E3%81%9F%E3%83%8A%E3%83%8B%E3%82%AB%EF%BC%8F%E6%94%BF%E6%B2%BB%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E5%8C%96/_/%E2%80%94%E9%AB%98%E5%B8%82%E6%97%8B%E9%A2%A8%E3%81%AE%E3%81%9D%E3%81%AE%E5%85%88%EF%BC%8F%E7%B1%B3%E4%B8%AD%E4%BC%9A%E8%AB%87%E3%81%A8%E6%97%A5%E6%9C%AC"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 新江戸川乱歩",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%96%B0%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 新花魁Ⅱ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%96%B0%E8%8A%B1%E9%AD%81%E2%85%A1"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 旧劇",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%97%A7%E5%8A%87"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 新和蝋燭",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%96%B0%E5%92%8C%E8%9D%8B%E7%87%AD"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 新貞奴",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%96%B0%E8%B2%9E%E5%A5%B4"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 新花魁",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E6%96%B0%E8%8A%B1%E9%AD%81"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-19 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "06:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "冥丁 - 覇王",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%86%A5%E4%B8%81/_/%E8%A6%87%E7%8E%8B"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "06:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina barbieri & Bendik Giske - Intuition, Nimbus",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+barbieri+&+Bendik+Giske/_/Intuition,+Nimbus"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "03:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ワイはもうダメや",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amf2rypbc3th0png"
-    },
-    {
-      "date": "2026-05-19",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F19"
     }
   ]
 }
