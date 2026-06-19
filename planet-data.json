@@ -1,6 +1,256 @@
 {
-  "generated_at": "2026-06-19T15:00:01.918909+09:00",
+  "generated_at": "2026-06-19T23:00:01.290664+09:00",
   "timeline": [
+    {
+      "date": "2026-06-19",
+      "time": "20:12",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "今週雑談配信は中止です 申し訳ございません",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/anoe8asf5ofr08aq"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "20:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "陽キャ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anodt8utc3th1ufx"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "19:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "駿河屋でフィギュアを衝動買いしてしまった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anodrsobc3th1ufs"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "17:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "米津玄師って今のいままで「よねづげんし」かと思ってた げんた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ano91ziec3th1ubt"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "17:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "旅行したい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ano8udcrc3th1ub5"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Well Tuned Piano - la monte young, marian zazeela",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Well+Tuned+Piano/_/la+monte+young,+marian+zazeela"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats - let me tell u",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats/_/let+me+tell+u"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "成功したい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ano6gf9ec3th1u95"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - UNDER YOUR SPELL #SURFGANG",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/UNDER+YOUR+SPELL+%23SURFGANG"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - IT'S GOIN BAD #SURFGANG",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/IT%27S+GOIN+BAD+%23SURFGANG"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jane Remover - Census Designated",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jane+Remover/_/Census+Designated"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yung Lean - Forever Yung Tour (London & Warsaw) - Akt 4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yung+Lean/_/Forever+Yung+Tour+(London+&+Warsaw)+-+Akt+4"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "16:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - You Know Me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/You+Know+Me"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "15:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Dread (Visualiser)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Dread+(Visualiser)"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "15:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Under Your Spell",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "15:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimes - Oblivion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimes/_/Oblivion"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Know My Name",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Know+My+Name"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Sad World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Sad+World"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Touching Yours",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Touching+Yours"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Aching Like Its",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Aching+Like+Its"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - It's A Dream",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/It%27s+A+Dream"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Cautious",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Cautious"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snow Strippers - Under Your Spell",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "M.I.A. - XXXO",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M.I.A./_/XXXO"
+    },
+    {
+      "date": "2026-06-19",
+      "time": "14:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Beep Street",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
+    },
     {
       "date": "2026-06-19",
       "time": "13:59",
