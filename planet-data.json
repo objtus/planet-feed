@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:00:01.872206+09:00",
+  "generated_at": "2026-06-20T15:00:01.545434+09:00",
   "timeline": [
     {
       "date": "2026-06-20",
@@ -9,6 +9,26 @@
       "text": "2026-06-20 小雨 25.0℃ (24.4〜25.6℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-20",
+      "time": "07:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "参加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anp1gmykc3th1ut5"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "07:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "人生を参加ではなく観察に変えてしまう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anp1e7dfc3th1usz"
     },
     {
       "date": "2026-06-20",
