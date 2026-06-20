@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-06-20T15:00:01.545434+09:00",
+  "generated_at": "2026-06-20T23:00:01.189477+09:00",
   "timeline": [
+    {
+      "date": "2026-06-20",
+      "time": "19:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ありがとう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anps94hec3th1v5z"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "19:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "**緊急事態宣言**",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anps7lpnc3th1v5r"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "19:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "若い頃、漠然と私はずっと死にたかった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/anps6874c3th1v5o"
+    },
     {
       "date": "2026-06-20",
       "time": "09:00",
