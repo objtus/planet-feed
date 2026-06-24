@@ -1,6 +1,53 @@
 {
-  "generated_at": "2026-06-24T23:00:01.508226+09:00",
+  "generated_at": "2026-06-25T07:00:01.611511+09:00",
   "timeline": [
+    {
+      "date": "2026-06-25",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-25 適度な雨 21.4℃ (21.1〜21.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-24",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-24",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 2枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-24",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-24 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-24",
+      "time": "19:28",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: 新規ファイル「intro-kojiateki 引用メモ」と「lo-fi / HD の二つの流れ」を追加し、それぞれの内容を整理。特に、骨架的インタビューの引用やlo-fiとHDの音楽的流れの分析を含め、関連する文献や出典を明記。次のタスクを更新し、草稿への反映状況を整理。 / 第3章の内容を更新し、「Soft grunge」とその派生スタイルに関する記述を整理。Tumblrにおける美学ミームの形成過程や、憑在論の影響についての考察を強化。文中の表現を精緻化し、全体の整合性を向上させるための修正を実施。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-06-24",
       "time": "19:24",
@@ -703,6 +750,16 @@
     },
     {
       "date": "2026-06-24",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-24 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-24",
       "time": "14:57",
       "src_id": 4,
       "src_type": "lastfm",
@@ -936,6 +993,16 @@
       "text": "2026-06-24 厚い雲 21.9℃ (21.6〜22.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-24",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-24 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-23",
@@ -1796,6 +1863,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Lia/_/enigmatic+%EF%BD%9Eexclusive%EF%BD%9E"
+    },
+    {
+      "date": "2026-06-23",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F23"
     },
     {
       "date": "2026-06-22",
@@ -3416,6 +3493,16 @@
       "url": "https://www.last.fm/music/Gray/_/Level+Objects+Describing+Bio+Layers"
     },
     {
+      "date": "2026-06-22",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "インターネット美学について書く",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F22"
+    },
+    {
       "date": "2026-06-21",
       "time": "23:50",
       "src_id": 4,
@@ -3631,6 +3718,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-21",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "インターネット美学について書いた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F21"
     },
     {
       "date": "2026-06-20",
@@ -4092,6 +4189,16 @@
       "url": "https://tanoshii.site/notes/anonp5y1c3th1uon"
     },
     {
+      "date": "2026-06-20",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F20"
+    },
+    {
       "date": "2026-06-19",
       "time": "23:50",
       "src_id": 18,
@@ -4533,7 +4640,7 @@
       "time": "00:00",
       "src_id": 17,
       "src_type": "scrapbox",
-      "text": "映画マンダロリアン・アンド・グローグー",
+      "text": "映画『スターウォーズ / マンダロリアン・アンド・グローグー』を見た\n駿河屋でフィギュアを衝動買いする",
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F19"
@@ -4784,6 +4891,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Dux+Content/_/Untitled"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F18"
     },
     {
       "date": "2026-06-17",
@@ -5535,6 +5652,16 @@
       "url": "https://www.last.fm/music/%E5%A4%96%E5%B1%B1%E6%81%92%E4%B8%80%E3%81%A8%E6%88%91%E3%80%85%E5%9B%A3/_/%E7%AC%AC%EF%BC%92%E5%9B%9E+%E3%80%9D%E8%B5%A4%E8%A1%9B%E8%BB%8D%E4%BA%8B%E4%BB%B6%E3%80%9F%E3%82%92%E8%A7%A3%E8%AA%AC%EF%BC%81%E2%94%80%E2%94%80%E2%91%A1%E8%8F%8A%E4%BA%95%E8%89%AF%E6%B2%BB%E3%81%A8%E8%B5%A4%E8%A1%9B%E8%BB%8D%E4%BA%8B%E4%BB%B6"
     },
     {
+      "date": "2026-06-17",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F17"
+    },
+    {
       "date": "2026-06-16",
       "time": "23:59",
       "src_id": 4,
@@ -6262,6 +6389,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/YABUJIN/_/Valeria+Bounze"
+    },
+    {
+      "date": "2026-06-16",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無\nウィキペディアストアで買ったウィキペディアピンバッジとウィキペディアぬいぐるみが届いた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F16"
     },
     {
       "date": "2026-06-15",
@@ -17538,843 +17675,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F27"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Smokes Quantity",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Smokes+Quantity"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Basefree",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Basefree"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "どうも、キヨシ - 本格的 ガチムチパンツレスリング",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%A9%E3%81%86%E3%82%82%E3%80%81%E3%82%AD%E3%83%A8%E3%82%B7/_/%E6%9C%AC%E6%A0%BC%E7%9A%84+%E3%82%AC%E3%83%81%E3%83%A0%E3%83%81%E3%83%91%E3%83%B3%E3%83%84%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:31",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "目を閉じたら寝た",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amqassscc3th10xm"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "他人事ラジオ#35 - しっかりしたほうがいいわ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BB%96%E4%BA%BA%E4%BA%8B%E3%83%A9%E3%82%B8%E3%82%AA%2335/_/%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%81%97%E3%81%9F%E3%81%BB%E3%81%86%E3%81%8C%E3%81%84%E3%81%84%E3%82%8F"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:03",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://youtu.be/o3AbI4AkDqk",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/amq9sx98pjd0084i"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:02",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://www.youtube.com/watch?v=azoG0uwVidg #他人事ラジオ\n\n他人事ラジオ35回公開しました！というか3日前に公開してた。\n\n超間あいてごめん。完全に私の責任です。収録は3月15日。話した内容なんてもう完全に覚えてません。今回のタイトルは「しっかりしたほうがいいわ」です。ほんとだよ。しっかりしていきたいと思います。あとお便り送ってください。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/amq9qofdj1is0at8"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-26 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "22:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://search.rakuten.co.jp/search/mall/%E7%B2%97%E5%93%81/",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amq8h8wsc3th10u2"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "22:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Feel Good Playlist",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Feel+Good+Playlist"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "22:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Olson",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Olson"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "22:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Aquarius",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Aquarius"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Roygbiv",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Bocuma",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Bocuma"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Triangles & Rhombuses",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Triangles+&+Rhombuses"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Wildlife Analysis",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Melissa Juice",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Melissa+Juice"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Iced Cooly",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Iced+Cooly"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "21:43",
-      "src_id": 5,
-      "src_type": "rss",
-      "text": "2026年05月26日の雑記ページを追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://yuinoid.neocities.org/txt/zakki/2026/05/days/2026-05-26.html"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Wilderness Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wilderness+Mix"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "持田保 - あなたの聴かない世界TV：特集Death In Juneとネオフォーク",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%8C%81%E7%94%B0%E4%BF%9D/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8CTV%EF%BC%9A%E7%89%B9%E9%9B%86Death+In+June%E3%81%A8%E3%83%8D%E3%82%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - B1 COLD 冷たい記憶",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/B1+COLD+%E5%86%B7%E3%81%9F%E3%81%84%E8%A8%98%E6%86%B6"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - A5 デジタル遺跡",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/A5+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%81%BA%E8%B7%A1"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - A4 帰路の夢",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/A4+%E5%B8%B0%E8%B7%AF%E3%81%AE%E5%A4%A2"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - A3 記憶の花",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/A3+%E8%A8%98%E6%86%B6%E3%81%AE%E8%8A%B1"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - A2 柔らかな崩壊",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/A2+%E6%9F%94%E3%82%89%E3%81%8B%E3%81%AA%E5%B4%A9%E5%A3%8A"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:05",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "花に特化したショップ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amq3exo5c3th1037"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "20:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MAC システム - A1 絹のエコー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MAC+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/_/A1+%E7%B5%B9%E3%81%AE%E3%82%A8%E3%82%B3%E3%83%BC"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "19:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "悪魔崇拝やめろ！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amq32nyvc3th101y"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "19:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Vapor Memory - 仮想夢プラザ (Virtual Dream Plaza)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Vapor+Memory/_/%E4%BB%AE%E6%83%B3%E5%A4%A2%E3%83%97%E3%83%A9%E3%82%B6+(Virtual+Dream+Plaza)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "18:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "INTERNET CLUB - REDEFINING THE WORKPLACE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/INTERNET+CLUB/_/REDEFINING+THE+WORKPLACE"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "18:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Leave Me Alone (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Leave+Me+Alone+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "18:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Ecstacy (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Ecstacy+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "18:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Ultraviolence (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Ultraviolence+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "18:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Your Silent Face (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Your+Silent+Face+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - 5 8 6 (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/5+8+6+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - The Village (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/The+Village+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - We All Stand (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/We+All+Stand+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Age Of Consent (2020 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Age+Of+Consent+(2020+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Face Up (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Face+Up+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Sub-Culture",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Sub-Culture"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Sooner Than You Think (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Sooner+Than+You+Think+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Elegia (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Elegia+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Sunrise (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Sunrise+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - This Time of Night (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/This+Time+of+Night+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - The Perfect Kiss (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/The+Perfect+Kiss+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "17:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Love Vigilantes (2022 Digital Master)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Love+Vigilantes+(2022+Digital+Master)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-26 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "13:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Love Less (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Love+Less+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - All the Way (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/All+the+Way+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "New Order - Fine Time (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/New+Order/_/Fine+Time+(2015+Remaster)"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "容態急変【FULL】",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ampnvodtc3th0zcr"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:48",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "いやしとうるおいがほしいですね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampnt9v97g"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "desert sand feels warm at night - 砂のクッション",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E7%A0%82%E3%81%AE%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "desert sand feels warm at night - 地面は暑い",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E5%9C%B0%E9%9D%A2%E3%81%AF%E6%9A%91%E3%81%84"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "desert sand feels warm at night - 砂丘",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E7%A0%82%E4%B8%98"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "12:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "だるい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ampm5jifc3th0zaf"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:58",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "中華PC",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampm17agpc"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Unknown Pleasures with SM64 Soundfont",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Unknown+Pleasures+with+SM64+Soundfont"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:55",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "クロネコヤマト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amplxsifjk"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Wilderness",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Wilderness"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:51",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "のびやかになりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amplsa2mah"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Shadowplay",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Shadowplay"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - She's Lost Control",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/She%27s+Lost+Control"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:45",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "けつなあな　確定",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amplki8sz0"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - New Dawn Fades",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/New+Dawn+Fades"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:40",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "とくになにもいいたいことがない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampldfr1ol"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Insight",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Insight"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Candidate",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Candidate"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:32",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "よくわからないままコーヒーを飲んでいる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampl34cfct"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Day of the Lords",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Day+of+the+Lords"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:28",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "ねえ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampky56x44"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "Joy Division - Unknown Pleasures with SM64 Soundfont (Full Album)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ampkxgq6c3th0z92"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Joy Division - Disorder",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Joy+Division/_/Disorder"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:25",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "二番茶って何",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampkv62tz9"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:24",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "そういえばすしすきーのDJイベント聴けなくてごめん！！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ampktfh0xj"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:19",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ロケットおっぱい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ampknig9c3th0z85"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "11:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Nurse With Wound - The Sylvie And Babs Hi-Fi Companion",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Nurse+With+Wound/_/The+Sylvie+And+Babs+Hi-Fi+Companion"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "10:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "持田保 - あなたの聴かない世界　特集：ナース・ウィズ・ウーンド前編",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%8C%81%E7%94%B0%E4%BF%9D/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%81%B4%E3%81%8B%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%80%80%E7%89%B9%E9%9B%86%EF%BC%9A%E3%83%8A%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%BA%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%B3%E3%83%89%E5%89%8D%E7%B7%A8"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-26 厚い雲 21.6℃ (21.1〜22.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-26",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-26 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-26",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F26"
     }
   ]
 }
