@@ -1,6 +1,373 @@
 {
-  "generated_at": "2026-06-25T23:00:01.548370+09:00",
+  "generated_at": "2026-06-26T07:00:01.097115+09:00",
   "timeline": [
+    {
+      "date": "2026-06-26",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-06-26 強い雨 23.6℃ (23.3〜23.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-26",
+      "time": "05:49",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 5件: 草稿の明晰さレビューを追加（序文＋全8章・章別評価＋全体課題6点＋誤記一覧） / 反映済み文案27件をarchive/反映済み文案/に移動し、next_tasks.mdのリンクを更新 / README.mdと文章構成プラン.mdを現在の8章構成に更新 / 草稿_推敲メモ.mdの章番号を現行8章構成に更新 / Merge pull request #12 from objtus/claude/draft-clarity-review-9qxc3m",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "05:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 草稿_推敲メモ.mdの章番号を現行8章構成に更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "05:11",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: README.mdと文章構成プラン.mdを現在の8章構成に更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "04:44",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 反映済み文案27件をarchive/反映済み文案/に移動し、next_tasks.mdのリンクを更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "04:10",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/draft-clarity-review-9qxc3m を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "03:42",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第1章と第2章の内容を更新し、aestheticの語とその質感の土壌に関する考察を強化。第4章と第8章の内容を整理し、インターネット美学の形成過程や関連するコミュニティの影響を明確化。文中の表現を精緻化し、全体の整合性を向上させるための修正を実施。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "02:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "5 - Video Update (AKA feel drone)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/5/_/Video+Update+(AKA+feel+drone)"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "02:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "4 - Nobody Here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/4/_/Nobody+Here"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "01:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Luke Wyatt - Blowback Ops",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Luke+Wyatt/_/Blowback+Ops"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "01:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Big Gold Belt - Wait",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Big+Gold+Belt/_/Wait"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "00:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sad Stonewash: A Video Mulch - OFFICIAL TRAILER",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sad+Stonewash:+A+Video+Mulch/_/OFFICIAL+TRAILER"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "00:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - One Hundred Mornings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/One+Hundred+Mornings"
+    },
+    {
+      "date": "2026-06-26",
+      "time": "00:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mater Suspiria Vision - Cinemagnitism (She Came in Static) Official Video CINEMAGORIA LP #coldwave",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mater+Suspiria+Vision/_/Cinemagnitism+(She+Came+in+Static)+Official+Video+CINEMAGORIA+LP+%23coldwave"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Harappian Night Recordings - The dialectics of neylou",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Harappian+Night+Recordings/_/The+dialectics+of+neylou"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:56",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cadeo - COLORATISSIMO MEGABAZAR_01",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cadeo/_/COLORATISSIMO+MEGABAZAR_01"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stellar OM Source - Island Best",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Island+Best"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stellar OM Source - Island Best",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Island+Best"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Zen TV 🌦️ (Frutiger Aero - Vaporwave Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Zen+TV+%F0%9F%8C%A6%EF%B8%8F+(Frutiger+Aero/_/Vaporwave+Mix)"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "S O A R E R - 夕暮れに",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/S+O+A+R+E+R/_/%E5%A4%95%E6%9A%AE%E3%82%8C%E3%81%AB"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dirty River - so shiny",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dirty+River/_/so+shiny"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dayton Palms - Places",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dayton+Palms/_/Places"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Toshifumi Hinata - Broken Belief",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Toshifumi+Hinata/_/Broken+Belief"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Martin Eigenberg - MCMLXXX - III",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Martin+Eigenberg/_/MCMLXXX+-+III"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "desert sand feels warm at night - 世界のビジョン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/desert+sand+feels+warm+at+night/_/%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mom and Dad's Computer - couch meditation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mom+and+Dad%27s+Computer/_/couch+meditation"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aexion - Velvet",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aexion/_/Velvet"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-25",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-25 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Employee of the Month - Vaporwave Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Employee+of+the+Month/_/Vaporwave+Mix"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) 27 U H F - 𝒟𝑒𝓈𝒾𝓇𝑒",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+27+U+H+F/_/%F0%9D%92%9F%F0%9D%91%92%F0%9D%93%88%F0%9D%92%BE%F0%9D%93%87%F0%9D%91%92"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) Windowz3.1 - Mirror Images",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+Windowz3.1/_/Mirror+Images"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) Ｋａｎａｌ Ｖｉｅｒ - Luftlinie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+%EF%BC%AB%EF%BD%81%EF%BD%8E%EF%BD%81%EF%BD%8C+%EF%BC%B6%EF%BD%89%EF%BD%85%EF%BD%92/_/Luftlinie"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) JPEG - Dream Lagoon［夢のラグーン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+JPEG/_/Dream+Lagoon%EF%BC%BB%E5%A4%A2%E3%81%AE%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) Waterfront Dining - stuffy (the way i do)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+Waterfront+Dining/_/stuffy+(the+way+i+do)"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "22:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".) Paradise of Yesterday - Evening",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.)+Paradise+of+Yesterday/_/Evening"
+    },
     {
       "date": "2026-06-25",
       "time": "22:06",
@@ -30,6 +397,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/anx2caxvc3th20fx"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "20:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 新規ファイル「_tmp.txt」と「第2章　命名の時代（2009〜2013年）」を追加し、vaporwaveやwitch houseなどの音楽ジャンルの命名とその背景を詳細に考察。特に、各ジャンルの発展過程や関連するアーティストの影響を整理し、全体の流れを明確化。文中の表現を精緻化し、整合性を向上させるための修正を実施。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-06-25",
@@ -243,6 +620,16 @@
     },
     {
       "date": "2026-06-25",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-25 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-25",
       "time": "14:52",
       "src_id": 4,
       "src_type": "lastfm",
@@ -259,6 +646,16 @@
       "text": "2026-06-25 適度な雨 21.4℃ (21.1〜21.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-25",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-25 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-24",
@@ -1253,6 +1650,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-24",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ねてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F06%2F24"
     },
     {
       "date": "2026-06-23",
@@ -17218,713 +17625,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F05%2F28"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-27",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 5枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-27",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-27 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "20:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "nimk - 未実装の警報",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/nimk/_/%E6%9C%AA%E5%AE%9F%E8%A3%85%E3%81%AE%E8%AD%A6%E5%A0%B1"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "20:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "nimk - 実装済みの警報",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/nimk/_/%E5%AE%9F%E8%A3%85%E6%B8%88%E3%81%BF%E3%81%AE%E8%AD%A6%E5%A0%B1"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "20:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - nothing but 90s rave pianos vol 1.5",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/nothing+but+90s+rave+pianos+vol+1.5"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - nothing but 90s rave pianos vol 2",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/nothing+but+90s+rave+pianos+vol+2"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ravers Choice - Keep Rushin",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ravers+Choice/_/Keep+Rushin"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Naughty Naughty 5 - Stay Here",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Naughty+Naughty+5/_/Stay+Here"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:18",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "360度イラストみたいなの作りたいなと思った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amrh7ctac3th11v0"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - 4 The Floor Recordings Volume 10A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/4+The+Floor+Recordings+Volume+10A"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Smd#2a - Takin U Higher",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Smd%232a/_/Takin+U+Higher"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "19:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cheddar II - Untitled",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cheddar+II/_/Untitled"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "18:57",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "頭がぼんやりします",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amrgfy4q8i"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "18:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "頭がぼんやりする",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amrgfo02c3th11u4"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS 3",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS+3"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - Liberty Vol. 4 Side A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/Liberty+Vol.+4+Side+A"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - DISKO AWANTURA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/DISKO+AWANTURA"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chunky Cheese Vol. 9 - Wotsits",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chunky+Cheese+Vol.+9/_/Wotsits"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Trotters Independent Traders - Shake Your Body",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Trotters+Independent+Traders/_/Shake+Your+Body"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Dove - Illusions (NY Stomp Extended Tribute Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Dove/_/Illusions+(NY+Stomp+Extended+Tribute+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "5th Circuit - Sexy Movemaker (Rebounds South Shore Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/5th+Circuit/_/Sexy+Movemaker+(Rebounds+South+Shore+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "17:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Logic - Blues For You (Hard Dub Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Logic/_/Blues+For+You+(Hard+Dub+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-27 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - nothing but 90s rave pianos vol 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/nothing+but+90s+rave+pianos+vol+4"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sonz of a Loop da Loop Era - Far Out",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sonz+of+a+Loop+da+Loop+Era/_/Far+Out"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Yo-Bots - I Got It",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Yo-Bots/_/I+Got+It"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Crystal Waters - Gypsy Woman (She's Homeless)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jeremy Sylvester - Time to Stop (Jeremy Sylvester Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jeremy+Sylvester/_/Time+to+Stop+(Jeremy+Sylvester+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Rollo Goes Mystic - Love, Love, Love - Here I Come (Big Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Rollo+Goes+Mystic/_/Love,+Love,+Love+-+Here+I+Come+(Big+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dominica - Gotta Let You Go (DJ Tonka Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dominica/_/Gotta+Let+You+Go+(DJ+Tonka+Mix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "14:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "solid collective - can you feel it",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/solid+collective/_/can+you+feel+it"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "13:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "10:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ricardo Villalobos EXTENDED SET - Ruta 5 at Sacré Paris / Mawifamily Prod",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ricardo+Villalobos+EXTENDED+SET/_/Ruta+5+at+Sacr%C3%A9+Paris+%2F+Mawifamily+Prod"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-05-27 厚い雲 22.2℃ (21.6〜22.8℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Singles 2007-2012",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Singles+2007-2012"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Mr Mustafa A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Mr+Mustafa+A"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Snake Charmer",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Snake+Charmer"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Orglar B",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Orglar+B"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Birdsong",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Birdsong"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Inca",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Inca"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "08:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Arb Almub Almoh",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Arb+Almub+Almoh"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "07:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Jakata A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Jakata+A"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "07:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 2: Minilogue - Drop the Mask of Self Protection",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+2:+Minilogue/_/Drop+the+Mask+of+Self+Protection"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-05-27 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "05:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 29: Giegling 10yr | 2009 - 2019",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+29:+Giegling+10yr+%7C+2009/_/2019"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "05:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "You - DWIG",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/You/_/DWIG"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "05:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Vivien's Theme - EDWARD",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Vivien%27s+Theme/_/EDWARD"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "05:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Friden - MAP.ACHE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Friden/_/MAP.ACHE"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "04:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Filter Funk - MONKEY MAFFIA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Filter+Funk/_/MONKEY+MAFFIA"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "04:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Splitting Ways - LEAFAR LEGOV",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Splitting+Ways/_/LEAFAR+LEGOV"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "04:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Untitled Tool - PRINCE OF DENMARK",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Untitled+Tool/_/PRINCE+OF+DENMARK"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "04:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Forget The Pink Elephant - DWIG",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Forget+The+Pink+Elephant/_/DWIG"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "04:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "intro / Riese - VRIL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/intro+%2F+Riese/_/VRIL"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - 2013 (Warp Records, Skam)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/2013+(Warp+Records,+Skam)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Twoism",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Twoism"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Everything You Do Is a Balloon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Everything+You+Do+Is+a+Balloon"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Opening The Mouth",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Opening+The+Mouth"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Last Walk Around Mirror Lake (BoC Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Last+Walk+Around+Mirror+Lake+(BoC+Remix)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Nothing Is Real",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Nothing+Is+Real"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Happy Cycling",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Happy+Cycling"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Orange Romeda",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Orange+Romeda"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "02:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mix 79: Boards Of Canada  'boc set'  early 90s - Music 70 Intro",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mix+79:+Boards+Of+Canada++%27boc+set%27++early+90s/_/Music+70+Intro"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Feel Bad Playlist",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Feel+Bad+Playlist"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Olson (Version 3)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Olson+(Version+3)"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Sixtyten",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Sixtyten"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - The Color of the Fire",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/The+Color+of+the+Fire"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - An Eagle in Your Mind",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/An+Eagle+in+Your+Mind"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Everything You Do Is a Balloon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Everything+You+Do+Is+a+Balloon"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Hi Scores",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Hi+Scores"
-    },
-    {
-      "date": "2026-05-27",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "インターネット美学について文章を書いていた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F05%2F27"
     }
   ]
 }
