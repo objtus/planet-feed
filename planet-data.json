@@ -1,6 +1,267 @@
 {
-  "generated_at": "2026-06-29T07:00:02.061710+09:00",
+  "generated_at": "2026-06-29T15:00:01.876926+09:00",
   "timeline": [
+    {
+      "date": "2026-06-29",
+      "time": "13:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "芸能山城組 - ecophony rinne",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%8A%B8%E8%83%BD%E5%B1%B1%E5%9F%8E%E7%B5%84/_/ecophony+rinne"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "13:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://web.archive.org/web/20100828144213/http://thejogging.tumblr.com/",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao2aj6cac3th23ju"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "13:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Theater of Eternal Music (Lа Monte Young) - Raga for Ravi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Theater+of+Eternal+Music+(L%D0%B0+Monte+Young)/_/Raga+for+Ravi"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "13:21",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "猛毒　石松",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao29zandc3th23jn"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "13:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "乳房、「かさ」がないほうがいい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao29wpcjc3th23jl"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ - Maltine Records CUBE 20190915",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/Maltine+Records+CUBE+20190915"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "12:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://web.archive.org/web/20240809075726/https://dentsu-ho.com/articles/1046 なぜか日本語コンテンツにアクセスできなかった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao28czkxc3th23gh",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "12:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "もしグッズ作るとしたらマグネットシートかアクリルマグネットがいいかなあって思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao27243dc3th23fn"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "11:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tomggg × yuigot × Hercelot - Maltine Records CUBE 20190915",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tomggg+%C3%97+yuigot+%C3%97+Hercelot/_/Maltine+Records+CUBE+20190915"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "11:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ LIVE - COM_PLEX",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+LIVE/_/COM_PLEX"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "11:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ - Night Flow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/Night+Flow"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "10:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ LIVE Set at SHINSAIBASHI  SUNHALL tofubeats RUN Release Party 2018 12 - 29",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+LIVE+Set+at+SHINSAIBASHI++SUNHALL+tofubeats+RUN+Release+Party+2018+12/_/29"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "10:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ - Night Flow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/Night+Flow"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "10:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 津田大介さんとの対話",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%B4%A5%E7%94%B0%E5%A4%A7%E4%BB%8B%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E5%AF%BE%E8%A9%B1"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Girlhood - help me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Girlhood/_/help+me"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Girlhood - Geometric Girl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Girlhood/_/Geometric+Girl"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Girlhood - i want to die",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Girlhood/_/i+want+to+die"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Girlhood - purity kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Girlhood/_/purity+kiss"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Girlhood - Surfs Pure Hearts (intro)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Girlhood/_/Surfs+Pure+Hearts+(intro)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - A Crimson Rose and a Gin Tonic (Katamari Damacy)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/A+Crimson+Rose+and+a+Gin+Tonic+(Katamari+Damacy)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - Everlasting Love (We Love Katamari)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/Everlasting+Love+(We+Love+Katamari)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - Katamari on the Funk (Osaka Masahiko Remix) (Touch My Katamari)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/Katamari+on+the+Funk+(Osaka+Masahiko+Remix)+(Touch+My+Katamari)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boyfriend a Go - Go (Beautiful Katamari)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boyfriend+a+Go/_/Go+(Beautiful+Katamari)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - Sayonara Rolling Star (Yuri's Mixx) (Katamari Forever)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/Sayonara+Rolling+Star+(Yuri%27s+Mixx)+(Katamari+Forever)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - Lonely Rolling Star (Katamari Damacy)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/Lonely+Rolling+Star+(Katamari+Damacy)"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Commander Jersey - Shabadoobi (Nakatsuka Takeshi Remix) (Touch My Katamari)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Commander+Jersey/_/Shabadoobi+(Nakatsuka+Takeshi+Remix)+(Touch+My+Katamari)"
+    },
     {
       "date": "2026-06-29",
       "time": "09:00",
@@ -9,6 +270,16 @@
       "text": "2026-06-29 雲 23.4℃ (23.3〜23.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-29",
+      "time": "08:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "外山恒一と我々団 - 外山恒一の最新獄中エピソード！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%96%E5%B1%B1%E6%81%92%E4%B8%80%E3%81%A8%E6%88%91%E3%80%85%E5%9B%A3/_/%E5%A4%96%E5%B1%B1%E6%81%92%E4%B8%80%E3%81%AE%E6%9C%80%E6%96%B0%E7%8D%84%E4%B8%AD%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89%EF%BC%81"
     },
     {
       "date": "2026-06-29",
