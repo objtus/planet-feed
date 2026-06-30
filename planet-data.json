@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-06-30T23:00:01.764674+09:00",
+  "generated_at": "2026-07-01T07:00:01.399685+09:00",
   "timeline": [
+    {
+      "date": "2026-07-01",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-01 厚い雲 24.1℃ (23.9〜24.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-30",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-30",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-30",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-30 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-06-30",
       "time": "19:58",
@@ -43,6 +80,16 @@
     },
     {
       "date": "2026-06-30",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-30 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-30",
       "time": "09:38",
       "src_id": 4,
       "src_type": "lastfm",
@@ -69,6 +116,16 @@
       "text": "2026-06-30 厚い雲 23.9℃ (23.9〜23.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-06-30",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-30 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-30",
@@ -16494,594 +16551,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F02"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 3枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - BM1999",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/BM1999"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - I think it's over",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/I+think+it%27s+over"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Who's Counting The Days",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Who%27s+Counting+The+Days"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Near Death Experience",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Near+Death+Experience"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - HOW TO VISUAL AESTHETIC part one",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/HOW+TO+VISUAL+AESTHETIC+part+one"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - Editing",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/Editing"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - My Aesthetic",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/My+Aesthetic"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - HOW TO CLOUD RAP",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/HOW+TO+CLOUD+RAP"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "XXYYXX - LAY DOWN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/XXYYXX/_/LAY+DOWN"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "HOW TO MAKE XXYYXX - FLUME",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/HOW+TO+MAKE+XXYYXX/_/FLUME"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - How to make CHILLWAVE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/How+to+make+CHILLWAVE"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "22:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "FrankJavCee - シーパンクの作り方",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/FrankJavCee/_/%E3%82%B7%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "21:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "kraderlupft - how to make V A P O R W A V E",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/kraderlupft/_/how+to+make+V+A+P+O+R+W+A+V+E"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "20:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "kraderlupft - how to make V A P O R W A V E",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/kraderlupft/_/how+to+make+V+A+P+O+R+W+A+V+E"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "I found JAPANESE Brilliants : Another 70 - 80's Kayokyoku, Funk & City Pop on VINYL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/I+found+JAPANESE+Brilliants+:+Another+70/_/80%27s+Kayokyoku,+Funk+&+City+Pop+on+VINYL"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Release - Topic - Love talkin'",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Release+-+Topic/_/Love+talkin%27"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "吉田美奈子 - Midnight Driver",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90/_/Midnight+Driver"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "亜蘭知子 - トピック - I'm in Love",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%9C%E8%98%AD%E7%9F%A5%E5%AD%90+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/I%27m+in+Love"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "亜蘭知子 - トピック - hitonatsuno tapestry",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%9C%E8%98%AD%E7%9F%A5%E5%AD%90+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/hitonatsuno+tapestry"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ANRI 杏里 Official - Fly By Day",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ANRI+%E6%9D%8F%E9%87%8C+Official/_/Fly+By+Day"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "大橋純子 - トピック - Telephone Number",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%A4%A7%E6%A9%8B%E7%B4%94%E5%AD%90+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Telephone+Number"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ANRI 杏里 Official - Remember Summer Days",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ANRI+%E6%9D%8F%E9%87%8C+Official/_/Remember+Summer+Days"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ANRI 杏里 Official - Last Summer Whisper",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ANRI+%E6%9D%8F%E9%87%8C+Official/_/Last+Summer+Whisper"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "19:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "亜蘭知子 - トピック - Slow Nights",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%9C%E8%98%AD%E7%9F%A5%E5%AD%90+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Slow+Nights"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "松下誠 - トピック - Love Was Really Gone (2018 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9D%BE%E4%B8%8B%E8%AA%A0+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Love+Was+Really+Gone+(2018+Remaster)"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "亜蘭知子 - トピック - Midnight Pretenders",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%9C%E8%98%AD%E7%9F%A5%E5%AD%90+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Midnight+Pretenders"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "吉田美奈子 - 頬に夜の灯",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90/_/%E9%A0%AC%E3%81%AB%E5%A4%9C%E3%81%AE%E7%81%AF"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "09 - Mariya Takeuchi - September",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/09/_/Mariya+Takeuchi+-+September"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "向井秀徳アコースティック&エレクトリック - ざーざー雨",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%90%91%E4%BA%95%E7%A7%80%E5%BE%B3%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF&%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF/_/%E3%81%96%E3%83%BC%E3%81%96%E3%83%BC%E9%9B%A8"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "花澤香菜 - Marathon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C/_/Marathon"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "18:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Hi-Posi - あと何日",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Hi-Posi/_/%E3%81%82%E3%81%A8%E4%BD%95%E6%97%A5"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "17:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "80sきらめきとときめきの昭和アイドル歌謡選 - WIR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "13:54",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "おい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amyaty0cc3th1aaw"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "13:11",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "未確認情報だが、the backroomsの映画のエンドクレジットの曲が、劇場公開と同日リリースでもあるboards of canadaの新譜の曲らしい（the word becomes flesh）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amy99zbkc3th1a9w"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "12:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "最近ツイッターでバズってる動物のアカウントで勝手に人の写真に映り込むやつ 嫌い",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amy8jda4c3th1a93",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "12:42",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "漫画描けるようになりたいからかんたんエッセイ漫画みたいなのかきたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amy88x46c3th1a8o"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "12:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "だるいね〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amy7lw0gc3th1a6s"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "09:03",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 20件: フェーズ1完了：ブロックD/F重複を解消 / フェーズ2-A/B：三枠分析を推敲メモに追加、デザイン記事候補を収集 / 推敲メモに補助理論メモを追加：美学・ジャンル・スタイルの区別 / 理論メモ修正：意味の使用説の扱いを「仄めかす」に / 理論メモ修正：「ではなく」→「に関わらず」",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "09:02",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 反映済み文案ファイルを削除：第1章_第2章_追記文案.md",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-01 雲 21.6℃ (21.1〜22.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-01",
-      "time": "08:57",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ5完了：第3〜5章分割稿同期・ドキュメント全体更新",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "08:53",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-6完了：cottagecore批判追加・8番出口タスク登録",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "08:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-6：liminal・Backrooms・Wiki節の補強4件",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "08:39",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-5：dark academia・Weirdcore・Dismiss Yourselfの補強",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-01 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "06:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-4：cottagecore節に森ガール・Hyggeのインターネット前史を追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "06:05",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-2〜4-3：CARI年表・FairyPage・Discord精度補強",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "05:58",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ4-1：Spotify hyperpop 日付を2020年→2019年8月に訂正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "05:55",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ3完了：第1・2章分割稿の差分リスト作成・更新方針確定",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "05:44",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: フェーズ2完了：重複文修正・6c矛盾確認・Frutiger Aero整合確認",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "05:34",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks: フェーズ2 境界論文案反映済みに更新",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "05:34",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第2章 aesthetic節末尾に音楽ジャンル↔aesthetic境界論を追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "04:32",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks・推敲メモを序文改稿・フェーズ1完了に合わせて更新",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "04:27",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 序文にモチベーション・見取り図・理論的概説を追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-01",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ガチの無\n　・ガチ無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F01"
     }
   ]
 }
