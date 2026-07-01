@@ -1,6 +1,113 @@
 {
-  "generated_at": "2026-07-01T23:00:01.071455+09:00",
+  "generated_at": "2026-07-02T07:00:01.578219+09:00",
   "timeline": [
+    {
+      "date": "2026-07-02",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-02 適度な雨 21.6℃ (21.6〜21.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-02",
+      "time": "02:05",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 7件: ed-6・meta-1文案追加：序文の言葉来歴説明＋動機ツイート統合 / 序文文案v2：定義先行の再構成案に組み直し / 序文文案v3：0番節を3定義（Wikipedia/アニヲタWiki/美学ウィキ）の踏査で書き直し / 序文文案v4：vaporwave例の書き直し＋「美学ミーム」の定義追加 / 用語整理：美学ミームは「動き」、個々の様式は「美学」に統一",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-02",
+      "time": "00:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 序文を全面改稿：ed-6・meta-1を反映し「とは何か」節を新設",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-01",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-01",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-01 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "21:56",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 用語整理：美学ミームは「動き」、個々の様式は「美学」に統一",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "21:22",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 序文文案v4：vaporwave例の書き直し＋「美学ミーム」の定義追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "20:55",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 序文文案v3：0番節を3定義（Wikipedia/アニヲタWiki/美学ウィキ）の踏査で書き直し",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "19:54",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 序文文案v2：定義先行の再構成案に組み直し",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-01",
+      "time": "19:27",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/project-task-review-502zuo を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-07-01",
       "time": "15:13",
@@ -13,12 +120,32 @@
     },
     {
       "date": "2026-07-01",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-01 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-01",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-07-01 厚い雲 24.1℃ (23.9〜24.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-01",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-01 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-06-30",
@@ -16057,510 +16184,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F03"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-02",
-      "time": "23:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cashmere Cat - Cashmere Cat for Diplo & Friends BBCR1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cashmere+Cat/_/Cashmere+Cat+for+Diplo+&+Friends+BBCR1"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "23:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Twnty4 - gttn2thaguap (prod @1cey)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Twnty4/_/gttn2thaguap+(prod+@1cey)"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 5枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-02",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "22:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Trippy Turtle - Trippy Turtle's Diplo & Friends Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Trippy+Turtle/_/Trippy+Turtle%27s+Diplo+&+Friends+Mix"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクの更新：Seapunk関連の文案ファイルを新規作成し、調査ノートの内容を反映。草稿への出典ルールを明確化し、文案作成手順を整理。新規ファイルとして「Seapunk取込_6b_文案.md」と「vice_seapunkwashesup.md」を追加。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:45",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ありがとうございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an072v5xc3th1chb"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Eyeblind - Bladee Bootleg",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Eyeblind/_/Bladee+Bootleg"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yokai Jaki × OVER KILL (FUJI TRILL & KNUX) - ボケ死ね (Remix) Feat. Jin Dogg",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yokai+Jaki+%C3%97+OVER+KILL+(FUJI+TRILL+&+KNUX)/_/%E3%83%9C%E3%82%B1%E6%AD%BB%E3%81%AD+(Remix)+Feat.+Jin+Dogg"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Prophecy At 1420 MHz",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Prophecy+At+1420+MHz"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Introit",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Introit",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Introit"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:21",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "Tim & Eric Awesome Show, Great Job! めちゃくちゃvaporwaveっぽい映像センスみたいなものを感じるし、めちゃくちゃおもしろい https://www.youtube.com/watch?v=xUEhkQtCius",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an067tn9c3th1ceq"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Underrated Moments - Tim & Eric Awesome Show, Great Job! (Season 1)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Underrated+Moments/_/Tim+&+Eric+Awesome+Show,+Great+Job!+(Season+1)"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:12",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "まろやかになりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an05vxhxc3th1cdp"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "21:02",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "人生で初めてエッセイ漫画を書きました",
-      "is_boost": false,
-      "has_media": true,
-      "url": "https://misskey.io/notes/an05jbzt5hch02q8",
-      "media": [
-        {
-          "url": "https://media.misskeyusercontent.jp/io/webpublic-33730810-f29d-4a45-a79d-aecca2c44352.png",
-          "thumb": "https://media.misskeyusercontent.jp/io/thumbnail-eba086af-b236-40e0-82a2-cf68472e85cf.webp",
-          "type": "image/png"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "time": "20:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cashmere Cat - Pitchfork // MoMA PS1 Warm Up Mix: Cashmere Cat",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cashmere+Cat/_/Pitchfork+%2F%2F+MoMA+PS1+Warm+Up+Mix:+Cashmere+Cat"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "19:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Trippy Turtle - Trippy Turtle's Diplo & Friends Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Trippy+Turtle/_/Trippy+Turtle%27s+Diplo+&+Friends+Mix"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "18:52",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしがmisskeyにあまりいなくてもときどき思い出してくださいね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an00wq2uc3th1c3d"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "18:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cashmere Cat - Pitchfork // MoMA PS1 Warm Up Mix: Cashmere Cat",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cashmere+Cat/_/Pitchfork+%2F%2F+MoMA+PS1+Warm+Up+Mix:+Cashmere+Cat"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS 3",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS+3"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - Liberty Vol. 4 Side A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/Liberty+Vol.+4+Side+A"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - DISKO AWANTURA",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/DISKO+AWANTURA"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chunky Cheese Vol. 9 - Wotsits",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chunky+Cheese+Vol.+9/_/Wotsits"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Trotters Independent Traders - Shake Your Body",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Trotters+Independent+Traders/_/Shake+Your+Body"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Dove - Illusions (NY Stomp Extended Tribute Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Dove/_/Illusions+(NY+Stomp+Extended+Tribute+Mix)"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "5th Circuit - Sexy Movemaker (Rebounds South Shore Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/5th+Circuit/_/Sexy+Movemaker+(Rebounds+South+Shore+Mix)"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "17:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Logic - Blues For You (Hard Dub Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Logic/_/Blues+For+You+(Hard+Dub+Mix)"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - bladee",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/bladee"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - JAWS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/JAWS"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - CLOSE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/CLOSE"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - INSIDE OUT FT YUNG LEAN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/INSIDE+OUT+FT+YUNG+LEAN"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - FROSTY THE SNOWMAN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/FROSTY+THE+SNOWMAN"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - BE NICE TO ME",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/BE+NICE+TO+ME"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - MALLWHORE FREEESTYLE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/MALLWHORE+FREEESTYLE"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - OKK",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/OKK"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - SMARTWATER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/SMARTWATER"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "E - Cig",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/E/_/Cig"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "16:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ジェームズ・フェラーロ - トピック - Saint Prius",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%AD+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Saint+Prius"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "15:57",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "オスロに行きたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amzunvvdu6"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "15:51",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "SDGs",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/amzufnuhmp"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "15:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "国連カードケースと国連マグカップが届いた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/amztyb3xc3th1bw0"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "14:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "RE: ANALOG - Showa",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/RE:+ANALOG/_/Showa"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "14:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "I found JAPANESE Brilliants : Another 70 - 80's Kayokyoku, Funk & City Pop on VINYL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/I+found+JAPANESE+Brilliants+:+Another+70/_/80%27s+Kayokyoku,+Funk+&+City+Pop+on+VINYL"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-02 厚い雲 23.0℃ (22.2〜23.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-02",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-02 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "00:31",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: 新規ファイル追加：TumblrのFor Youタブに関する調査メモを作成し、関連する年表と本文修正方針を反映。既存のHTMLファイルを削除し、文書構成を整理。 / 次のタスクの更新：フェーズ6aの内容を明確化し、文案ファイルの作成手順を簡略化。フェーズ2の成果物を整理し、依存関係を更新。完了済み項目に序文改稿と新たな分析項目を追加。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-02",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "国連オンラインストアで買った国連マグカップと国連カードケースが届いた\n　・マグカップはこれ https://shop.un.org/merch/un-emblem-glass-mug-26775\n　・結構耐熱ガラスが分厚くて、海外の人がテキーラみたいなのを入れるグラスっぽいって思った\n　・よくわからないけど悪の組織の偉い人が使ってるマグカップっぽい\n　・カードケースはこれ https://shop.un.org/merch/un-emblem-black-wallet-25183\n　　・ウォレットのはずが届いてみるとほぼカードケース\n　　　・結構うすいし作りがチープ\n　　　・小銭が入らないのは元から分かっていたけど、想像よりカードケースだった\n　　・国連ロゴはかっこいいが財布として普段使いするつもりだったんで悲しい気持ちに\nエッセイ漫画を人生で初めて描いた https://misskey.io/notes/an05jbzt5hch02q8\nシーランド公国の爵位がほしいなと思った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F02"
     }
   ]
 }
