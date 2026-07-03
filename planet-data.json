@@ -1,6 +1,796 @@
 {
-  "generated_at": "2026-07-03T15:00:01.727615+09:00",
+  "generated_at": "2026-07-03T23:00:01.869972+09:00",
   "timeline": [
+    {
+      "date": "2026-07-03",
+      "time": "22:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Claude Fable 5輸出規制／SpaceX上場、Cursorを9兆円で買収／W杯DAZN - 980円",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Claude+Fable+5%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6%EF%BC%8FSpaceX%E4%B8%8A%E5%A0%B4%E3%80%81Cursor%E3%82%929%E5%85%86%E5%86%86%E3%81%A7%E8%B2%B7%E5%8F%8E%EF%BC%8FW%E6%9D%AFDAZN/_/980%E5%86%86"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:57",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "ごはんたべるので雑談配信は10時30分からやります",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/ao8i5okk71bq0dc9"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Suicide Dream 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Suicide+Dream+1"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - decisions feat yuksel arslan",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/decisions+feat+yuksel+arslan"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Mr. By & By",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Mr.+By+&+By"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Lover's Start",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Lover%27s+Start"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Endless Rain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Endless+Rain"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Escape Before the Rain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Escape+Before+the+Rain"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Date of Birth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Date+of+Birth"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Walking This Dumb",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Walking+This+Dumb"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Can't See My Own Face",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Can%27t+See+My+Own+Face"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - You Won't Need Me Where I'm Goin'",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/You+Won%27t+Need+Me+Where+I%27m+Goin%27"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Suicide Dream 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Suicide+Dream+2"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - My Body",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/My+Body"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Ready For The World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Ready+For+The+World"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - You Hold the Water",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/You+Hold+the+Water"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - トピック - Hearts",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Hearts"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "21:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - トピック - Sedsumting",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Sedsumting"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - トピック - Burnout Eyess",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Burnout+Eyess"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - トピック - Mumbai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Mumbai"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - Everything Happens To Me (sample, full song on Patreon, see description)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO/_/Everything+Happens+To+Me+(sample,+full+song+on+Patreon,+see+description)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "oOoOO - I Live For The Day",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/oOoOO/_/I+Live+For+The+Day"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Babe Rainbow - I Can Try To Run (Stuck)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Babe+Rainbow/_/I+Can+Try+To+Run+(Stuck)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "20:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Distance - anna yanami💞  📱💫",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Distance/_/anna+yanami%F0%9F%92%9E++%F0%9F%93%B1%F0%9F%92%AB"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "sunsetcorp - nobody here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/sunsetcorp/_/nobody+here"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ユニコーン・キッド - トピック - Chrome Lion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%83%E3%83%89+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Chrome+Lion"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Salem - King Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Salem/_/King+Night"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:39",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "hypnagogic popの代表曲って何だろう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao8d8yhoc3th2812"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "たしかにhypnagogic popかもな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao8d6s85c3th280z"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://youtu.be/jaA7s0qzMKU 4:33（4分33秒！）から",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao8d5kgjc3th280w"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Untitled 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Untitled+2"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Untitled 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Untitled+1"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Skaters - 6",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Skaters/_/6"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Memory Theater",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Memory+Theater"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "RYM lists - Top 50 Best Hypnagogic Pop albums of all Time (RYM) Rate Your Music, Essential Hypnagogic Pop Albums",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/RYM+lists/_/Top+50+Best+Hypnagogic+Pop+albums+of+all+Time+(RYM)+Rate+Your+Music,+Essential+Hypnagogic+Pop+Albums"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "19:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - Feel It All Around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/Feel+It+All+Around"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lindsheaven Virtual Plaza - Daily Night Euphoria EP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lindsheaven+Virtual+Plaza/_/Daily+Night+Euphoria+EP"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictureplane - Trance Doll",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictureplane/_/Trance+Doll"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Milton Croissant - Black Nails",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Milton+Croissant/_/Black+Nails"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictureplane - Aerial Black",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictureplane/_/Aerial+Black"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "wearle962 - Confetti",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/wearle962/_/Confetti"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - New Theory",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/New+Theory"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - A Walk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/A+Walk"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictureplane - Goth Star",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictureplane/_/Goth+Star"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictureplane - Gothstar , official video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictureplane/_/Gothstar+,+official+video"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jen Long - SALEM, Live at SXSW 2010",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jen+Long/_/SALEM,+Live+at+SXSW+2010"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Shams - break your legs",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Shams/_/break+your+legs"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Shams - Pillow Talk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Shams/_/Pillow+Talk"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - LesAlpx",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/LesAlpx"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "18:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Karakul",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Karakul"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Requiem for CS70 and Strings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Anasickmodular",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Anasickmodular"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Last Bloom",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Last+Bloom"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Falaise",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Falaise"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "フォースフィールド (アート集団) - トピック - It's a Disco Night (Fire & Ice Goes Disco Radio Edit) feat. Gregory Jones",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89+(%E3%82%A2%E3%83%BC%E3%83%88%E9%9B%86%E5%9B%A3)+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/It%27s+a+Disco+Night+(Fire+&+Ice+Goes+Disco+Radio+Edit)+feat.+Gregory+Jones"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "フォースフィールド (アート集団) - トピック - It's a Disco Night (Radio Edit) feat. Gregory Jones",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89+(%E3%82%A2%E3%83%BC%E3%83%88%E9%9B%86%E5%9B%A3)+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/It%27s+a+Disco+Night+(Radio+Edit)+feat.+Gregory+Jones"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "17:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LCD Soundsystem - Yeah",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LCD+Soundsystem/_/Yeah"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "坂本真綾 - プラチナ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE/_/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee - Reality Surf",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee/_/Reality+Surf"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "サカナクション - 怪獣",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E6%80%AA%E7%8D%A3"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ポルノグラフィティ／アゲハ蝶 - フル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%EF%BC%8F%E3%82%A2%E3%82%B2%E3%83%8F%E8%9D%B6/_/%E3%83%95%E3%83%AB"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://4chanarchives.com/board/mu/thread/53888656　あったわ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao84a0k9c3th27rt"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LadyBlackMoon - Somewhere in the Silence ( Sniper's theme )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LadyBlackMoon/_/Somewhere+in+the+Silence+(+Sniper%27s+theme+)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "鯨 - ふたつのスピカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%AF%A8/_/%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E3%82%B9%E3%83%94%E3%82%AB"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "2010年代のマイクロジャンルを茶化した画像で、2011 witch house,2012 seapunkみたいなリストが並んでるやつなかったっけ だれか持ってないですか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao83z63pc3th27rq"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "銀魂 OP 4 Hearts Grow - かさなる影",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%8A%80%E9%AD%82+OP+4+Hearts+Grow/_/%E3%81%8B%E3%81%95%E3%81%AA%E3%82%8B%E5%BD%B1"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "沢瀉 - Plum Song",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B2%A2%E7%80%89/_/Plum+Song"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2k、Thaiboy Digital、Bladee - Victim",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2k%E3%80%81Thaiboy+Digital%E3%80%81Bladee/_/Victim"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "15:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "anthropocentricity - JIN ROH OST grace Jinroh Main Theme omega",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/anthropocentricity/_/JIN+ROH+OST+grace+Jinroh+Main+Theme+omega"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Illusionist - Yamato",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Illusionist/_/Yamato"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Beautiful",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Beautiful"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chris Clark - Lord of the Dance",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chris+Clark/_/Lord+of+the+Dance"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "米米CLUB - 浪漫飛行",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E7%B1%B3CLUB/_/%E6%B5%AA%E6%BC%AB%E9%A3%9B%E8%A1%8C"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - A Walk Down Chapel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/A+Walk+Down+Chapel"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "UNISON SQUARE GARDEN - オリオンをなぞる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/UNISON+SQUARE+GARDEN/_/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%92%E3%81%AA%E3%81%9E%E3%82%8B"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kenshi Yonezu - Plazma",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kenshi+Yonezu/_/Plazma"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トーイ・ボックス - Best Friend",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%BC%E3%82%A4%E3%83%BB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/_/Best+Friend"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mijk Van Dijk - Gamer's Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mijk+Van+Dijk/_/Gamer%27s+Night"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "14:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "奥井雅美 - 輪舞-revolution",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A5%A5%E4%BA%95%E9%9B%85%E7%BE%8E/_/%E8%BC%AA%E8%88%9E-revolution"
+    },
     {
       "date": "2026-07-03",
       "time": "14:06",
@@ -8652,15 +9442,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
@@ -8671,6 +9452,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
