@@ -1,6 +1,386 @@
 {
-  "generated_at": "2026-07-03T07:00:01.502089+09:00",
+  "generated_at": "2026-07-03T15:00:01.727615+09:00",
   "timeline": [
+    {
+      "date": "2026-07-03",
+      "time": "14:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kai Whiston - (Run It)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kai+Whiston/_/(Run+It)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial & Four Tet & Thom Yorke - Ego",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial+&+Four+Tet+&+Thom+Yorke/_/Ego"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Melissa - Porno Graffitti",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Melissa/_/Porno+Graffitti"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "One Piece OP 2 - Believe Lyrics",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/One+Piece+OP+2/_/Believe+Lyrics"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AnimeSongCH - 雪、無音、窓辺にて。 長門有希",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AnimeSongCH/_/%E9%9B%AA%E3%80%81%E7%84%A1%E9%9F%B3%E3%80%81%E7%AA%93%E8%BE%BA%E3%81%AB%E3%81%A6%E3%80%82+%E9%95%B7%E9%96%80%E6%9C%89%E5%B8%8C"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cloud9 - Disintegration",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cloud9/_/Disintegration"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Telefon Tel Aviv - a younger version of myself",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Telefon+Tel+Aviv/_/a+younger+version+of+myself"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Takkyu Ishin - In Yer Memory",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Takkyu+Ishin/_/In+Yer+Memory"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田一郎不可触世界 - Ankyo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E4%B8%80%E9%83%8E%E4%B8%8D%E5%8F%AF%E8%A7%A6%E4%B8%96%E7%95%8C/_/Ankyo"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "kz(livetune) - Tell Your World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/kz(livetune)/_/Tell+Your+World"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "School Days - 悲しみの向こうへ(原文歌詞、中文填詞)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/School+Days/_/%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E3%81%B8(%E5%8E%9F%E6%96%87%E6%AD%8C%E8%A9%9E%E3%80%81%E4%B8%AD%E6%96%87%E5%A1%AB%E8%A9%9E)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "かずち - escape.KNN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%8B%E3%81%9A%E3%81%A1/_/escape.KNN"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DOES - KNOW KNOW KNOW",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DOES/_/KNOW+KNOW+KNOW"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Black Snow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Black+Snow"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "13:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Helios - The Obeisant Vine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Helios/_/The+Obeisant+Vine"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - Every Rule",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/Every+Rule"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "奥井雅美 - 輪舞-revolution",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A5%A5%E4%BA%95%E9%9B%85%E7%BE%8E/_/%E8%BC%AA%E8%88%9E-revolution"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウォッシュト・アウト - Feel It All Around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88/_/Feel+It+All+Around"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anish Mathew Thomas - Inner Blue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anish+Mathew+Thomas/_/Inner+Blue"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Cornelius - Brazil",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Cornelius/_/Brazil"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "さくら＆うにゅう＆ねここ - アレ以外のStay. -YO-MA Mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%95%E3%81%8F%E3%82%89%EF%BC%86%E3%81%86%E3%81%AB%E3%82%85%E3%81%86%EF%BC%86%E3%81%AD%E3%81%93%E3%81%93/_/%E3%82%A2%E3%83%AC%E4%BB%A5%E5%A4%96%E3%81%AEStay.+-YO-MA+Mix"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tokyo Hands - Down 4 U (DJ Warlord Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tokyo+Hands/_/Down+4+U+(DJ+Warlord+Edit)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kuro - 炉心融解",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kuro/_/%E7%82%89%E5%BF%83%E8%9E%8D%E8%A7%A3"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "デ・ジ・キャラット(真田アサミ&かとうひろこ) - Welcome!2000",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%87%E3%83%BB%E3%82%B8%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%83%E3%83%88(%E7%9C%9F%E7%94%B0%E3%82%A2%E3%82%B5%E3%83%9F&%E3%81%8B%E3%81%A8%E3%81%86%E3%81%B2%E3%82%8D%E3%81%93)/_/Welcome!2000"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "長門有希 (cv.茅原実里) - 雪、無音、窓辺にて。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%95%B7%E9%96%80%E6%9C%89%E5%B8%8C+(cv.%E8%8C%85%E5%8E%9F%E5%AE%9F%E9%87%8C)/_/%E9%9B%AA%E3%80%81%E7%84%A1%E9%9F%B3%E3%80%81%E7%AA%93%E8%BE%BA%E3%81%AB%E3%81%A6%E3%80%82"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "dokuganryuX - ED full どう考えても、私は悪くない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/dokuganryuX/_/ED+full+%E3%81%A9%E3%81%86%E8%80%83%E3%81%88%E3%81%A6%E3%82%82%E3%80%81%E7%A7%81%E3%81%AF%E6%82%AA%E3%81%8F%E3%81%AA%E3%81%84"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - You Can't Hide Your Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/You+Can%27t+Hide+Your+Love"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Sylph Fossil",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost/_/Sylph+Fossil"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "髙橋芽以、パソコン音楽クラブ - Day After Day feat. 髙橋芽以",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%AB%99%E6%A9%8B%E8%8A%BD%E4%BB%A5%E3%80%81%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/Day+After+Day+feat.+%E9%AB%99%E6%A9%8B%E8%8A%BD%E4%BB%A5"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "つまらない人間でごめんなさい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao7x1f7wc3th27lw"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "12:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ghost in the Shell - Velveteen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ghost+in+the+Shell/_/Velveteen"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Low Roar - I'll Keep Coming",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Low+Roar/_/I%27ll+Keep+Coming"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "New Order - Here to Stay (radio edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/New+Order/_/Here+to+Stay+(radio+edit)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:50",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ネットでキレたことありません",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao7wgt4tc3th27kg"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "みなさんなにをおっしゃっているのですか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao7wdb7bc3th27k1"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - minipops 67 (source field mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/minipops+67+(source+field+mix)"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ドン・ウー生活 - 優しい音楽の先生の代わりにブチ切れる先生",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%A6%E3%83%BC%E7%94%9F%E6%B4%BB/_/%E5%84%AA%E3%81%97%E3%81%84%E9%9F%B3%E6%A5%BD%E3%81%AE%E5%85%88%E7%94%9F%E3%81%AE%E4%BB%A3%E3%82%8F%E3%82%8A%E3%81%AB%E3%83%96%E3%83%81%E5%88%87%E3%82%8C%E3%82%8B%E5%85%88%E7%94%9F"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "11:27",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "にゃんぱすー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao7vnw8wc3th27he"
+    },
     {
       "date": "2026-07-03",
       "time": "09:00",
@@ -9,6 +389,16 @@
       "text": "2026-07-03 曇りがち 22.8℃ (22.8〜22.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-03",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-03 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-03",
@@ -180,6 +570,15 @@
     },
     {
       "date": "2026-07-02",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 太古の歴史 エルバフが語り継ぐ“神典”",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-02",
       "time": "11:22",
       "src_id": 4,
       "src_type": "lastfm",
@@ -187,6 +586,33 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Geinoh+Yamashirogumi/_/Ecophony+Gaia"
+    },
+    {
+      "date": "2026-07-02",
+      "time": "11:18",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２ — エピソード9: 第9話 非道王女と願い",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-02",
+      "time": "11:06",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード12: 第12章 自称悪役令嬢で妻の観察記録。",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-02",
+      "time": "10:44",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード11: 第11章 自称悪役令嬢と王家の観察記録。",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-07-02",
@@ -391,6 +817,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-30",
+      "time": "20:42",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード12: 第12話 逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-30",
+      "time": "20:20",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード11: 第11話 逃がした魚は恋のいざこざに巻き込まれる",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-30",
@@ -1785,6 +2229,15 @@
     },
     {
       "date": "2026-06-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 進化する魔国連邦",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-27",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
@@ -2702,6 +3155,15 @@
     },
     {
       "date": "2026-06-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): 未来を唆るもの",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-26",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
@@ -3356,6 +3818,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E7%9F%B3%E6%A9%8B%E7%9B%B4%E6%A8%B9%C3%97%E6%A4%8D%E7%94%B0%E5%B0%86%E6%9A%89%E3%80%80%E5%9B%BD%E5%AD%A6%E3%83%AB%E3%83%8D%E3%83%83%E3%82%B5%E3%83%B3%E3%82%B9%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B%E2%94%80%E2%94%80Z%E4%B8%96%E4%BB%A3%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AB%96%E3%81%AE%E5%86%8D%E6%A7%8B%E7%AF%89+@1484_naoki+@reRenaissancist+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
+    },
+    {
+      "date": "2026-06-25",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 神の騎士団 団長 シャムロック登場",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-25",
@@ -7038,6 +7509,15 @@
     },
     {
       "date": "2026-06-21",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): WHYMAN",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-21",
       "time": "11:56",
       "src_id": 4,
       "src_type": "lastfm",
@@ -7182,6 +7662,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-20",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-20",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-20",
@@ -8148,6 +8646,51 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-18",
@@ -11842,6 +12385,15 @@
     },
     {
       "date": "2026-06-11",
+      "time": "04:50",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード6: すごい修行とすごい結果",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-11",
       "time": "02:19",
       "src_id": 8,
       "src_type": "github",
@@ -12055,6 +12607,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Dyva/_/On+fire"
+    },
+    {
+      "date": "2026-06-10",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 手長と足長",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-10",
@@ -14075,6 +14636,15 @@
     },
     {
       "date": "2026-06-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 遺跡調査",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-07",
       "time": "11:57",
       "src_id": 8,
       "src_type": "github",
@@ -14180,6 +14750,15 @@
     },
     {
       "date": "2026-06-06",
+      "time": "23:09",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード5: なかなかの男の子と新たな師",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
       "time": "23:00",
       "src_id": 8,
       "src_type": "github",
@@ -14187,6 +14766,42 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:46",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード4: いざ王城へ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:26",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード3: 卒業そして次はどうする",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "22:01",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード2: 貴族学校へ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-06",
+      "time": "21:39",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 魔術師クノンは見えている — エピソード1: 色付く世界",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-06",
@@ -14556,6 +15171,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
+    },
+    {
+      "date": "2026-06-06",
+      "time": "00:29",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 自称悪役令嬢な婚約者の観察記録。 — エピソード10: 第10章 自称悪役令嬢とセシル・グロー・アルファスタの観察記録。",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-06",
@@ -15848,6 +16472,24 @@
     },
     {
       "date": "2026-06-04",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: サウロの想い 受け継がれたオハラの意志",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): COUNTDOWN",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
       "time": "11:30",
       "src_id": 2,
       "src_type": "misskey",
@@ -15924,6 +16566,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Migas/_/RoMinimal+Microhouse+Deep+House+Tech+Minimal+House+Vinyl+only+Mix"
+    },
+    {
+      "date": "2026-06-04",
+      "time": "04:53",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件 — エピソード10: 第10話 逃がした魚の夜会準備",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-04",
+      "time": "04:31",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 本好きの下剋上 領主の養女 — エピソード8: 第八章　フェルディナンドの課題",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-06-04",
