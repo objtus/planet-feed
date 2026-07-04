@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-04T07:00:01.283912+09:00",
+  "generated_at": "2026-07-04T15:00:02.000644+09:00",
   "timeline": [
+    {
+      "date": "2026-07-04",
+      "time": "09:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Environments",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Environments"
+    },
+    {
+      "date": "2026-07-04",
+      "time": "09:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Bias",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Bias"
+    },
+    {
+      "date": "2026-07-04",
+      "time": "09:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アルゴリズムとAI時代を生き抜く週刊インターネットがやりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ao96j70zc3th28f5"
+    },
+    {
+      "date": "2026-07-04",
+      "time": "09:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ ONLINE LIVE - Ambience",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+ONLINE+LIVE/_/Ambience"
+    },
     {
       "date": "2026-07-04",
       "time": "09:00",
@@ -10088,24 +10128,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
@@ -10116,6 +10138,24 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
       "is_boost": false,
       "has_media": false
     },
