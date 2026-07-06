@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-06T07:00:02.056204+09:00",
+  "generated_at": "2026-07-06T15:00:01.125052+09:00",
   "timeline": [
+    {
+      "date": "2026-07-06",
+      "time": "12:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hund - aloegarten",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hund/_/aloegarten"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "12:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "esc 不在 - MIDI Dungeon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/esc+%E4%B8%8D%E5%9C%A8/_/MIDI+Dungeon"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TRIGGER Channel - 監督：今石洋之×脚本：中島かずき 第4弾作品 制作発表コメント",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TRIGGER+Channel/_/%E7%9B%A3%E7%9D%A3%EF%BC%9A%E4%BB%8A%E7%9F%B3%E6%B4%8B%E4%B9%8B%C3%97%E8%84%9A%E6%9C%AC%EF%BC%9A%E4%B8%AD%E5%B3%B6%E3%81%8B%E3%81%9A%E3%81%8D+%E7%AC%AC4%E5%BC%BE%E4%BD%9C%E5%93%81+%E5%88%B6%E4%BD%9C%E7%99%BA%E8%A1%A8%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "11:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TVアニメーション - 攻殻機動隊 THE GHOST IN THE SHELL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/_/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A+THE+GHOST+IN+THE+SHELL"
+    },
     {
       "date": "2026-07-06",
       "time": "09:00",
@@ -9447,7 +9487,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -9456,7 +9496,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -10431,7 +10471,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
     },
@@ -10441,15 +10481,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
     },
@@ -10468,6 +10499,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
