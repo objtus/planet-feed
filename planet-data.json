@@ -1,6 +1,163 @@
 {
-  "generated_at": "2026-07-06T23:00:01.215323+09:00",
+  "generated_at": "2026-07-07T07:00:02.065785+09:00",
   "timeline": [
+    {
+      "date": "2026-07-07",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-07 厚い雲 20.3℃ (20.0〜20.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "185g11Kcal - Nobukazu Takemura's Musics (185g11Kcal's Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/185g11Kcal/_/Nobukazu+Takemura%27s+Musics+(185g11Kcal%27s+Mix)"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - Heaven Sings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/Heaven+Sings"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee & Ecco2K - Girls Just Want To Have Fun . mp4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/Girls+Just+Want+To+Have+Fun+.+mp4"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - Chaos Follows",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/Chaos+Follows"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - Desire is a Trap",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/Desire+is+a+Trap"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - Yeses (Red Cross)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/Yeses+(Red+Cross)"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - Faust",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/Faust"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - White Meadow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/White+Meadow"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:18",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "みなさま、おはようございます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aod88wvcc3th2az2"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - 5 Star Crest (4 Vattenrum)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/5+Star+Crest+(4+Vattenrum)"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "05:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee, ecco2k - The Flag is Raised",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/The+Flag+is+Raised"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-06",
+      "time": "23:16",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-06",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-06",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-07-06",
       "time": "12:31",
@@ -49,6 +206,16 @@
       "text": "2026-07-06 厚い雲 22.2℃ (22.2〜22.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-06",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-06",
@@ -10480,15 +10647,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
       "is_boost": false,
       "has_media": false
@@ -10498,7 +10656,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
@@ -10508,6 +10666,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
       "is_boost": false,
       "has_media": false
     },
@@ -15322,1214 +15489,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F08"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-07 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Can't take my eyes off of you - Cargo.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Can%27t+take+my+eyes+off+of+you/_/Cargo.to+%5D"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "One True Love (Studio Apartment Original Mix) - Studio Apartment.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/One+True+Love+(Studio+Apartment+Original+Mix)/_/Studio+Apartment.to+%5D"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Set Me Free (feat. Sofia) - yuma.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Set+Me+Free+(feat.+Sofia)/_/yuma.to+%5D"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Realize - Blu-Swing.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Realize/_/Blu-Swing.to+%5D"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sky High - FreeTEMPO.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sky+High/_/FreeTEMPO.to+%5D"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - Angels On The Dancefloor",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/Angels+On+The+Dancefloor"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "M - flo / come again",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/M/_/flo+%2F+come+again"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jazztronik Official - TIGER EYES",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jazztronik+Official/_/TIGER+EYES"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "19:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - Don't You Know My Love? (feat. HITOMITOI)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/Don%27t+You+Know+My+Love%3F+(feat.+HITOMITOI)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "18:17",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: テキストの修正と明確化——「aesthetic」の定義とその進化に関する記述を整理し、フォークソノミーの概念を強調。Tumblrのタグ付けシステムの重要性を再確認し、関連する事例を追加。GeoCitiesの影響とデジタルアーカイブの役割についての記述を更新。 / 新規ファイル「CARI 横断調査ノート」を追加——CARIの前史とDIS Magazine／PC Musicの接続を記録するための草稿第5章への追記候補を整理。調査内容やタスクの進捗を明確化し、関連する文献やメディアの参照を含む。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "18:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats STUDIO LIVE for YouTube Music Weekend - MUSIC AWARDS JAPAN 2026 Edition",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats+STUDIO+LIVE+for+YouTube+Music+Weekend/_/MUSIC+AWARDS+JAPAN+2026+Edition"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "18:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Sometimes Ahead",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Sometimes+Ahead"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "18:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Meaningless Timeslot",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Meaningless+Timeslot"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "18:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Sequence of Life's Programming, A",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Sequence+of+Life%27s+Programming,+A"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Minds Grey Eyes Interlude",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Minds+Grey+Eyes+Interlude"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Yes Da Da Da",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Yes+Da+Da+Da"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Dead and Alive",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Dead+and+Alive"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Apartments",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Apartments"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Through The Sky",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Through+The+Sky"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Victim Less",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Victim+Less"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Space Pinball",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Space+Pinball"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:14",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.youtube.com/watch?v=UWCvba8j5os",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an72lmlhc3th1jfj",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ADR - Filter Failure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ADR/_/Filter+Failure"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:11",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "gatekeeperの2008年末のmyspaceをinternet archiveでみてたらコメント欄にOPNがいて、しかも画像を大量に送りつけてたって話がはやくしたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an72i3c5c3th1jfi",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Petty Crimes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Petty+Crimes"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Irreal",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Irreal"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Sleep Chamber",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Sleep+Chamber"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "17:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "in your eyes - Modern Witch",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/in+your+eyes/_/Modern+Witch"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:59",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "インターネット美学について調べていてFrutiger Aeroの名称についておもしろい発見をした　CARIのサイトにも詳細が書かれていないんで全然メジャーな情報じゃないようだけど、facebookグループの名称の変更を追うと、いまFrutiger Aeroって呼ばれてる美学の名前は当初は「Fruitger Colorful」として流通していたっぽい　https://www.facebook.com/groups/174737579950119\n\n\nややこしいのはCARIの歴史ページをみると「Frutiger Colorful」と呼ばれていたとは書かれていることだ（「i」の位置に注意）https://cari.institute/history\n\nそもそも、歴史ページでは2017年にFroyo TamとSofi Xian（Sofi Lee）のプライベートメッセージの中でこの言葉が生まれたとかかれている。そこからFroyo Tamが2018年1月19日にfacebookグループを作ってイメージの共有をはじめる。このfacebookグループが基本的にオープンな場での「Frutiger Aero」の初出らしいのだが、作成された当初は「Fruitger Colorful」という名称だった。\n\n細かすぎる話なんだが、最初はFrutigerとFruitの合成語として「Fruitger」って造語をつくり、そこにColorfulをくっつけて「Fruitger Colorful」って表記だったみたいだ。そこから「Fruitger Aero」に変更されて、その後「Frutiger Aero」に落ち着く。最後の名称変更が開設から1時間。最初は「フルーツ」とか「カラフル」みたいなイメージが先行していて、そこからシンプルでUIスタイルのイメージに切り替えた。\n\n検索してみたかぎりFruitger表記からFrutiger表記へ変更したことについて言及した記事やページは見つからなかったんで、これは本質情報、というかほとんど誰も知らない情報だと思う（細かい部分にたんに注目しすぎなのかもしれない）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an722t88c3th1jf3",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - Girls Just Want To Have Fun . mp4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/Girls+Just+Want+To+Have+Fun+.+mp4"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - トピック - Scab",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Scab"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "bladee + Thaiboy Digital + ECCO2K - Victim",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/bladee+%252B+Thaiboy+Digital+%252B+ECCO2K/_/Victim"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Smile",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Smile"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - Cc",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/Cc"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - Peroxide",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/Peroxide"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Sugar",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Sugar"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Apple",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Apple"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Gatekeeper (prod. Whitearmor+F1LTHY) #WODG",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Gatekeeper+(prod.+Whitearmor%252BF1LTHY)+%23WODG"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Thaiboy Digital - Legendary Member ft. Bladee, Ecco2K & Yung Lean (Audio Visual)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Thaiboy+Digital/_/Legendary+Member+ft.+Bladee,+Ecco2K+&+Yung+Lean+(Audio+Visual)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ECCO2K + BLADEE + THAIBOY DIGITAL - You Lose",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ECCO2K+%252B+BLADEE+%252B+THAIBOY+DIGITAL/_/You+Lose"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Reality Surf",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Reality+Surf"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - egobaby",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/egobaby"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - トピック - Black Fire",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Black+Fire"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - I Think…",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/I+Think%E2%80%A6"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - GT-R (prod. Whitearmor)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/GT-R+(prod.+Whitearmor)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Sick",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Sick"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Search True",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Search+True"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "16:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Thee 9 Is Up",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Thee+9+Is+Up"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Ask Jade",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Ask+Jade"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - 100s",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/100s"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - WODRAINER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/WODRAINER"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "bladee Adamn Killa - Psycho",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/bladee+Adamn+Killa/_/Psycho"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - * The Fool Intro *",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/*+The+Fool+Intro+*"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - desiree",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/desiree"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - Vanilla Sky",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/Vanilla+Sky"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Innocent of All Things",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Innocent+of+All+Things"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - DRESDEN ER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/DRESDEN+ER"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - Sugar & Diesel",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/Sugar+&+Diesel"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Blue Crush Angel",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Blue+Crush+Angel"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - EVERY MOMENT SPECIAL  EXETER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/EVERY+MOMENT+SPECIAL++EXETER"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - carwash",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/carwash"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - ICARUS 3REESTYLE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/ICARUS+3REESTYLE"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee, ecco2k - The Flag is Raised",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/The+Flag+is+Raised"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Drain Gang - bladee & ECCO2K ♡ LOVESTORY ♡",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Drain+Gang/_/bladee+&+ECCO2K+%E2%99%A1+LOVESTORY+%E2%99%A1"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee, ecco2k - 5 Star Crest (4 Vattenrum)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee,+ecco2k/_/5+Star+Crest+(4+Vattenrum)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Drain Gang - BLADEE (MEAN GIRLS) HERO OF MY STORY 3STYLE3 of #333 (Visual)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Drain+Gang/_/BLADEE+(MEAN+GIRLS)+HERO+OF+MY+STORY+3STYLE3+of+%23333+(Visual)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - FLATLINE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/FLATLINE"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - RED CROSS #COLDVISIONS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/RED+CROSS+%23COLDVISIONS"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-07 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - I DONT LIKE PEOPLE (FT. YUNG LEAN) (In Studio Performance)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/I+DONT+LIKE+PEOPLE+(FT.+YUNG+LEAN)+(In+Studio+Performance)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - SAD MEAL #COLDVISIONS Out Now",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/SAD+MEAL+%23COLDVISIONS+Out+Now"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Let's Ride",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Let%27s+Ride"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Valerie (visual representation)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Valerie+(visual+representation)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Oh Well",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Oh+Well"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - It Girl",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/It+Girl"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Thaiboy Digital - Climbing",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Thaiboy+Digital/_/Climbing"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "旗を作りたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an6x0utfc3th1jb6"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - One in a Million",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/One+in+a+Million"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - FALSE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/FALSE"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Trendy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Trendy"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:28",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ラッパーになりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an6wonqxc3th1jag"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - FLEXING & FINESSING",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/FLEXING+&+FINESSING"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:27",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "普段着にSDGsピンバッジ10個くらいつけて周囲を威嚇したい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6wnfmjyh"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Trash Star",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Trash+Star"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Into Dust",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Into+Dust"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:23",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "",
-      "is_boost": false,
-      "has_media": true,
-      "url": "https://sushi.ski/notes/an6whr6fn5",
-      "media": [
-        {
-          "url": "https://media.sushi.ski/files/0b3967a7-bde9-47cd-b4cf-8c249a71c2c7.webp",
-          "thumb": "https://media.sushi.ski/files/thumbnail-932aa4d7-d77b-40aa-93c1-c889819d4c55.webp",
-          "type": "image/webp"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Missing Person",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Missing+Person"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Lovenote",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Lovenote"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Wrist Cry",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Wrist+Cry"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - Cinderella",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/Cinderella"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:09",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "https://yuinoid.neocities.org/healthlefthand.ttf　あったわ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vzqqjhb"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - For You",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/For+You"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:06",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "昔左手で書いたローマ字だけ収録したフォントを配布したことがあるんだけどデータ消えた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vvbg37r"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Decay",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Decay"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:04",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "梅雨大好き一番好きな梅",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vt4581d"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:01",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "ペットとは、愛玩（かわいがること）や癒やしを目的として家庭で飼育される動物（愛玩動物・家庭動物）のこと",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vq41asp"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "14:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - So What (feat. Ecco2K)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/So+What+(feat.+Ecco2K)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:59",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "小規模な庭園を管理する人になりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vmr5bjp"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - LUCKY LUKE (FT. THAIBOY DIGITAL & YUNG LEAN)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/LUCKY+LUKE+(FT.+THAIBOY+DIGITAL+&+YUNG+LEAN)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - OTHERSIDE (feat. Sickboyrari)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/OTHERSIDE+(feat.+Sickboyrari)"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:55",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "インターネットにたいする思い",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vi4qn73"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:55",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "もう梅雨入った？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vhdh24u"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:54",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "言いたいことがある",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an6vgvau3t"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yung Lean & Bladee - Advent",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yung+Lean+&+Bladee/_/Advent"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee, Ecco2k, Thaiboy Digital - TL;DR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee,+Ecco2k,+Thaiboy+Digital/_/TL;DR"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Magic Misery",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Magic+Misery"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Versailles Flow",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Versailles+Flow"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "in your eyes - Modern Witch",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/in+your+eyes/_/Modern+Witch"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Katy Perry - I Kissed A Girl (Rusko Chapstick Mix) - Dubplate",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Katy+Perry/_/I+Kissed+A+Girl+(Rusko+Chapstick+Mix)+-+Dubplate"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "13:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Macintosh Plus - リサフランク420 / 現代のコンピュー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420+%2F+%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "12:18",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "みなさん。こんにちは。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an6s0roqc3th1j5g"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 遺跡調査",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-07",
-      "time": "11:57",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 4件: 編集方針メモを追加——テキストの立ち位置、政治化・日本語圏・seapunk圧縮の優先順位を整理。 / 編集方針を更新——日本語圏の受容は射程外として明示する方針に変更。 / vaporwave政治化（2016〜）の調査ノートを追加——fashwave/trumpwave報道、アーティストの応答、学術文献、Boriswave事例、日本語圏言及をURL・引用付きで整理。rev-7（コミュニティの応答としての政治化）の素材として。 / Merge pull request #8 from objtus/claude/current-state-review-P4Yxe",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "09:28",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: vaporwave政治化（2016〜）の調査ノートを追加——fashwave/trumpwave報道、アーティストの応答、学術文献、Boriswave事例、日本語圏言及をURL・引用付きで整理。rev-7（コミュニティの応答としての政治化）の素材として。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-07 小雨 20.3℃ (20.0〜20.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-07",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-07 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "06:12",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 編集方針を更新——日本語圏の受容は射程外として明示する方針に変更。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "06:03",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/current-state-review-P4Yxe を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-07",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "たしかこの日くらいからDisney+でマンダロリアンを見始める　スターウォーズのスピンオフドラマ\n思い出して、昔作った左手で書いた文字のフォントファイルをneocitiesにアップした\n　・sushi.skiのLTLを見てて思い出した\n　・もうすこし文字種を増やしてちゃんとした配布ページを整備してもよいなと思った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F07"
     }
   ]
 }
