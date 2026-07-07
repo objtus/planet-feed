@@ -1,6 +1,101 @@
 {
-  "generated_at": "2026-07-07T23:00:01.566214+09:00",
+  "generated_at": "2026-07-08T07:00:01.553948+09:00",
   "timeline": [
+    {
+      "date": "2026-07-08",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-08 厚い雲 23.9℃ (23.9〜23.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 20歩 / 心拍数: 59bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-07",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-07 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "22:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Refine next_tasks.md to clarify the connections between concepts of anonymity, non-place, and vernacular photography. Update the structure of observations to enhance coherence and facilitate further exploration of theoretical links. Ensure that the document aligns with ongoing content reorganization and maintains clarity in the discussion of internet aesthetics.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "22:35",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md to clarify the prioritization of tasks, including the addition of inv-vernacular-photo for further exploration of vernacular photography and its connections to existing themes. Enhance the documentation of cottagecore's evolution on Tumblr, emphasizing its historical context and relationship to prior aesthetic tags. Ensure all changes align with the ongoing reorganization of content and improve overall coherence in the project.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "21:37",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Refactor Chapter 6 to complete the reorganization of content, including the integration of dark academia and cottagecore themes. Update the `## vaporwave の政治的受容` section with a comprehensive restructuring to clarify the relationship between fashwave and synthwave, correcting previous inaccuracies. Ensure all changes are reflected in the context map and next tasks, confirming the completion of the 6-reorg series and enhancing overall coherence and clarity in the text.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "21:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Revise Chapter 6 title and content to reflect the shift from \"感情が先に来る\" to \"名前があとから来る,\" emphasizing the role of suffixes in aesthetic naming. Update context map and next tasks to align with the reorganization of ideas surrounding dark academia and cottagecore, and incorporate new documentation for the restructured chapter. Enhance clarity and coherence throughout the text, ensuring consistency with project style guidelines.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
     {
       "date": "2026-07-07",
       "time": "20:58",
@@ -583,6 +678,16 @@
     },
     {
       "date": "2026-07-07",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-07 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-07",
       "time": "14:56",
       "src_id": 4,
       "src_type": "lastfm",
@@ -1094,6 +1199,16 @@
     {
       "date": "2026-07-07",
       "time": "11:30",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update aesthetic documentation with new entries on Luna Vega's analysis of *musical aesthetic* vs. *visual aesthetic*, and details on CARI's collaboration with Aesthetics Wiki for misinformation correction. Adjust timeline entries to reflect recent developments in the categorization of internet aesthetics, including updates on Wikipedia's article status and credit synchronization efforts.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "11:30",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "Takkyu Ishin - In Yer Memory",
@@ -1200,6 +1315,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%E2%80%99re+Hurting+My+Feelings"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "10:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: Refactor text for clarity and coherence in the discussion of internet aesthetics. Adjusted the chronological order of references to key posts and artists, enhancing the narrative flow. Updated terminology and descriptions to better reflect the evolution of concepts related to internet aesthetics, particularly in relation to Tumblr and vaporwave culture. / Update context map and timeline to reflect the verification of the 2008 article by 20jazzfunkgreats, confirming the existence of early Gatekeeper and OPN music distributions. Adjusted references in multiple documents to ensure consistency and clarity regarding the historical context of internet aesthetics and music genres. Enhanced links and descriptions for better navigation and understanding of the relationships between key events and artists.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-07-07",
@@ -1632,6 +1757,16 @@
     },
     {
       "date": "2026-07-07",
+      "time": "08:04",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 2件: Add context map and timeline for internet aesthetics research. Include detailed hierarchy of sources and their significance, along with a comprehensive timeline of events related to English-speaking internet aesthetics. This update aims to clarify the relationships between various notes and enhance the overall structure of the research documentation. / 整合作業基盤を整備し、文体メモとプロジェクト固有のスタイルガイドを追加。README.mdに作業の進め方を明記し、次のタスクを整理。context-map.mdとtimeline.mdの更新を反映し、整合性レビューを通じて草稿の改稿方針を明確化。文体メモを汎用化し、推敲基準を整備。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-07",
       "time": "08:02",
       "src_id": 4,
       "src_type": "lastfm",
@@ -1719,6 +1854,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E5%A7%AB%E7%A5%9E+Himekami/_/%E7%A5%9E%E3%80%85%E3%81%AE%E8%A9%A9"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-07 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-07",
@@ -1958,6 +2103,16 @@
       "url": "https://tanoshii.site/notes/aobkg5pqc3th2a0o"
     },
     {
+      "date": "2026-07-06",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "claude fable 5を触った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F06"
+    },
+    {
       "date": "2026-07-05",
       "time": "23:50",
       "src_id": 18,
@@ -2171,6 +2326,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-05",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "自宅サーバーにXFCEをいれて、moonlight / sunshineでメインPCからリモートアクセスできるようにした\n　・これまではsshでCUIからアクセスしていた\n　・負荷分散が目的\n　　・メインPCで雑談配信してるんだけど、配信してるときパソコンの負荷が高い\n　　・せっかくメインPC以外にグラフィックボードが載ったコンピュータがあるなら活用したい\n　　・claudeに相談したらゲーム用のリモートプレイ環境は結構やってる人いるからいいんじゃないと提案があった\n　　・雑談配信中リモートでアクセスして、そこでゲームとかできたらいいなという目論見\n　・LLMに相談しながらやった\n　　・とりあえずリモートアクセスできるようになったのでよかった\n　　　・棚ぼた的にtailscale経由で外出先からスマホでサーバーにアクセスできるようになった\n　　　・戸外アクセスを活用するかは知らん\n　　・ゲームはまだプレイしていない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F05"
     },
     {
       "date": "2026-07-04",
@@ -2598,6 +2763,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%81%A2%E3%82%8B%E3%82%93/_/%E3%81%A1%E3%81%8F%E3%81%A1%E3%81%8F%E5%90%9B%E3%81%8C%E4%BB%A3"
+    },
+    {
+      "date": "2026-07-04",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "してへん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F04"
     },
     {
       "date": "2026-07-03",
@@ -4135,6 +4310,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%B4%A5%E7%94%B0%E5%A4%A7%E4%BB%8B%E3%81%95%E3%82%93%E3%81%8C%E4%B9%85%E3%80%85%E3%81%AB%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7%E3%81%AB%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%EF%BC%81%E5%90%89%E7%94%B0%E8%B1%AA%E3%81%95%E3%82%93%E3%81%A8%E4%B9%85%E7%94%B0%E5%B0%86%E7%BE%A9%E3%81%95%E3%82%93%E3%82%82%E3%81%84%E3%82%8B%E3%82%88%EF%BC%81"
+    },
+    {
+      "date": "2026-07-03",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ほぼなにもしてないかも",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F03"
     },
     {
       "date": "2026-07-02",
@@ -11384,7 +11569,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -11393,7 +11578,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -12368,6 +12553,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
@@ -12396,15 +12590,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
@@ -16578,647 +16763,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F09"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "23:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - NTS Session",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/NTS+Session"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-08",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-08 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - さやわか × 大井昌和 × 濱田轟天 × 東浩紀　ひらめきの8年とは何だったのか！？ #ひらめきマンガ #ゲンロン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%81%95%E3%82%84%E3%82%8F%E3%81%8B+%C3%97+%E5%A4%A7%E4%BA%95%E6%98%8C%E5%92%8C+%C3%97+%E6%BF%B1%E7%94%B0%E8%BD%9F%E5%A4%A9+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%80%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%81%AE8%E5%B9%B4%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F+%23%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%83%9E%E3%83%B3%E3%82%AC+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kumi Miyasato (宮里久美) - Water Blue",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kumi+Miyasato+(%E5%AE%AE%E9%87%8C%E4%B9%85%E7%BE%8E)/_/Water+Blue"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kumi Miyasato (宮里久美) - あ・い・つ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kumi+Miyasato+(%E5%AE%AE%E9%87%8C%E4%B9%85%E7%BE%8E)/_/%E3%81%82%E3%83%BB%E3%81%84%E3%83%BB%E3%81%A4"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kumi Miyasato (宮里久美) - Summer Lovers",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kumi+Miyasato+(%E5%AE%AE%E9%87%8C%E4%B9%85%E7%BE%8E)/_/Summer+Lovers"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "jelly (album - edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/jelly+(album/_/edit)"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "happyender girl - 悪食",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/happyender+girl/_/%E6%82%AA%E9%A3%9F"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "やくしまるえつこ Yakushimaru Etsuko - ノルニル (RADIO ONSEN EUTOPIA)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93+Yakushimaru+Etsuko/_/%E3%83%8E%E3%83%AB%E3%83%8B%E3%83%AB+(RADIO+ONSEN+EUTOPIA)"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lamp YouTube Official Channel - Yokaze",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lamp+YouTube+Official+Channel/_/Yokaze"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "相対性理論 - Moonlight Ginga",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%9B%B8%E5%AF%BE%E6%80%A7%E7%90%86%E8%AB%96/_/Moonlight+Ginga"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Naoko Gushima - no. no.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Naoko+Gushima/_/no.+no."
-    },
-    {
-      "date": "2026-06-08",
-      "time": "22:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "In april - Round Table feat. Nino",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/In+april/_/Round+Table+feat.+Nino"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "放課後ティータイム - トピック - わたしの恋はホッチキス",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E6%81%8B%E3%81%AF%E3%83%9B%E3%83%83%E3%83%81%E3%82%AD%E3%82%B9"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "いとうかなこ - トピック - Hacking to the Gate",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%84%E3%81%A8%E3%81%86%E3%81%8B%E3%81%AA%E3%81%93+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Hacking+to+the+Gate"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Capsule - music Controller",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Capsule/_/music+Controller"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Group_inou - 9",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Group_inou/_/9"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Supercell - My Dearest",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Supercell/_/My+Dearest"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "放課後ティータイム - トピック - Listen!!",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Listen!!"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Don't Say - Lazy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Don%27t+Say/_/Lazy"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AKINO - トピック - 創聖のアクエリオン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AKINO+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E5%89%B5%E8%81%96%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%B3"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "21:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "逢坂大河・櫛枝実乃梨・川嶋亜美　（CV：釘宮理恵・堀江由衣・喜多村英梨） - トピック - オレンジ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E9%80%A2%E5%9D%82%E5%A4%A7%E6%B2%B3%E3%83%BB%E6%AB%9B%E6%9E%9D%E5%AE%9F%E4%B9%83%E6%A2%A8%E3%83%BB%E5%B7%9D%E5%B6%8B%E4%BA%9C%E7%BE%8E%E3%80%80%EF%BC%88CV%EF%BC%9A%E9%87%98%E5%AE%AE%E7%90%86%E6%81%B5%E3%83%BB%E5%A0%80%E6%B1%9F%E7%94%B1%E8%A1%A3%E3%83%BB%E5%96%9C%E5%A4%9A%E6%9D%91%E8%8B%B1%E6%A2%A8%EF%BC%89+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "2000 - 2010년 애니노래 모음 1편",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/2000/_/2010%EB%85%84+%EC%95%A0%EB%8B%88%EB%85%B8%EB%9E%98+%EB%AA%A8%EC%9D%8C+1%ED%8E%B8"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:34",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "ケイツーコルーニはおじいちゃんが[ステイゴールド](https://umamusume.jp/character/staygold)、おばあちゃんが[シンボリクリスエス](https://umamusume.jp/character/symbolikriss)で、すしすきー5周年記念が初優勝らしい　競馬もウマ娘もまったく興味ないけどこいつ好きになってきた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8n21eugf",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:27",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "すしすきー5周年記念のレース結果を調べて書いといた　優勝馬のケイツーコルーニのデータベースに某レースの名前があってよかった https://db.sp.netkeiba.com/horse/2022106117/?rf=modal_db1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8msfe9nw"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:14",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "ここ2年なにがあったっけ？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8mchzvfy"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:14",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "https://wiki.sushi.ski/%E3%81%99%E3%81%97%E3%81%99%E3%81%8D%E3%83%BC%E3%81%AE%E6%96%87%E5%8C%96/%E3%81%99%E3%81%97%E3%81%99%E3%81%8D%E3%83%BC%E3%81%AE%E6%AD%B4%E5%8F%B2　すしすきーwikiの歴史年表を2年ぶりに更新した",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8mc5cdel"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "19:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "笠松けいばレース映像配信チャンネル - 笠松けいばライブ配信R8.2.2",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%AC%A0%E6%9D%BE%E3%81%91%E3%81%84%E3%81%B0%E3%83%AC%E3%83%BC%E3%82%B9%E6%98%A0%E5%83%8F%E9%85%8D%E4%BF%A1%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E7%AC%A0%E6%9D%BE%E3%81%91%E3%81%84%E3%81%B0%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1R8.2.2"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:24",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "アハハ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8kj3un8k"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "80sきらめきとときめきの昭和アイドル歌謡選 - WIR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:12",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "言論弾圧を許すな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k44qavq"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:12",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "許せない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k3y6rux"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:11",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "マンダロリアンアンド・グローグー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k32nnsj",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:11",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "マンダロリアン・アンド・グローグー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k2lgdqs"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:11",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "おいなんでこれがホーム送りになるんだよ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k283kpi"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:10",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "マンダロリアンアンドグローグーをみるまえにマンダロリアン（ドラマ）を見ないといけないと思ってえー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/an8k1ukjoc",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "18:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしも実験がしたいです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an8k084nc3th1khg"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - 質疑応答",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - 柄谷行人について",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E6%9F%84%E8%B0%B7%E8%A1%8C%E4%BA%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - シンギュラリティをめぐる未来像",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E3%82%B7%E3%83%B3%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E6%9C%AA%E6%9D%A5%E5%83%8F"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - 日本におけるプルラリティの政治的実践",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%97%E3%83%AB%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E6%94%BF%E6%B2%BB%E7%9A%84%E5%AE%9F%E8%B7%B5"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - 技術と民主主義の関係について",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E6%8A%80%E8%A1%93%E3%81%A8%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:05",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "やあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/an8hqf3lc3th1kfk"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "17:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オードリー・タン × 東浩紀 - オープニング",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3+%C3%97+%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-08 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "13:14",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクを更新し、rev-7（vaporwave政治化）の進捗を完了として反映。新規ファイル「Vaporwave Is (Not) a Critique of Capitalism」を追加し、関連文献を整理。草稿の内容を具体化し、政治化に関するコミュニティの応答を記録。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "10:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "10:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Urban Blues Project & Jay Williams - Testify",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Urban+Blues+Project+&+Jay+Williams/_/Testify"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "10:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "P.I.A.N.O - Untitled (BB 002 White Label)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/P.I.A.N.O/_/Untitled+(BB+002+White+Label)"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kcik - 29",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kcik/_/29"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - DRESDEN ER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/DRESDEN+ER"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee - Oh Well",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee/_/Oh+Well"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ecco2K - Sugar & Diesel",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ecco2K/_/Sugar+&+Diesel"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Coral Records Internazionale - #Seapunk Volume 1 (SPLASH001)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Coral+Records+Internazionale/_/%23Seapunk+Volume+1+(SPLASH001)"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-08 雲 18.9℃ (18.9〜18.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-08",
-      "time": "07:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "House and Disco Mix - Mittensさん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/House+and+Disco+Mix/_/Mittens%E3%81%95%E3%82%93"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "07:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Rescue Me (feat. Yeo Hee) - DJ Kawasaki.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Rescue+Me+(feat.+Yeo+Hee)/_/DJ+Kawasaki.to+%5D"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "07:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bright Lights, Big City (feat. Aoki Karen) - Takeshi Nakatsuka.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bright+Lights,+Big+City+(feat.+Aoki+Karen)/_/Takeshi+Nakatsuka.to+%5D"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-08 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "06:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "JOY (feat. Heather Johnson) - Jazzin'park.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/JOY+(feat.+Heather+Johnson)/_/Jazzin%27park.to+%5D"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "06:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Can't take my eyes off of you - Cargo.to ]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Can%27t+take+my+eyes+off+of+you/_/Cargo.to+%5D"
-    },
-    {
-      "date": "2026-06-08",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F08"
     }
   ]
 }
