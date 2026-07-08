@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-07-08T07:00:01.553948+09:00",
+  "generated_at": "2026-07-08T15:00:01.840834+09:00",
   "timeline": [
+    {
+      "date": "2026-07-08",
+      "time": "09:51",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "メモ 当時の年齢と文字数",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoexfa90c3th2c0o"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "映画 - the moment／ザ・モーメント",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%98%A0%E7%94%BB/_/the+moment%EF%BC%8F%E3%82%B6%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Residue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Residue"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hikaru Utada - Face My Fears (A. G. Cook Remix) MusicVideo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hikaru+Utada/_/Face+My+Fears+(A.+G.+Cook+Remix)+MusicVideo"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル | Somewhere Near Marseilles ―マルセイユ辺りー - LIVE at Sea Paradise",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB+%7C+Somewhere+Near+Marseilles+%E2%80%95%E3%83%9E%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%A6%E8%BE%BA%E3%82%8A%E3%83%BC/_/LIVE+at+Sea+Paradise"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Crush",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Crush"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "【公式】オードリーさん、ぜひ会ってほしい人がいるんです。 - 賢ぶってしまう(オードリーさん、ぜひ会ってほしい人がいるんです。)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82/_/%E8%B3%A2%E3%81%B6%E3%81%A3%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86(%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82)"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "09:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "『攻殻機動隊 THE GHOST IN THE SHELL』ノンクレジットオープニング映像｜ - GO GHOST",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8E%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A+THE+GHOST+IN+THE+SHELL%E3%80%8F%E3%83%8E%E3%83%B3%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%EF%BD%9C/_/GO+GHOST"
+    },
     {
       "date": "2026-07-08",
       "time": "09:00",
@@ -9,6 +89,16 @@
       "text": "2026-07-08 厚い雲 23.9℃ (23.9〜23.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-08",
+      "time": "08:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "太田上田【公式】 - 天ぷらの食べ順で２人のこだわりが大激突しました！！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E5%A4%A9%E3%81%B7%E3%82%89%E3%81%AE%E9%A3%9F%E3%81%B9%E9%A0%86%E3%81%A7%EF%BC%92%E4%BA%BA%E3%81%AE%E3%81%93%E3%81%A0%E3%82%8F%E3%82%8A%E3%81%8C%E5%A4%A7%E6%BF%80%E7%AA%81%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81%EF%BC%81"
     },
     {
       "date": "2026-07-07",
@@ -11569,7 +11659,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -11578,7 +11668,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -12562,6 +12652,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
@@ -12572,15 +12671,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
