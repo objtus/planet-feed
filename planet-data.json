@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-08T15:00:01.840834+09:00",
+  "generated_at": "2026-07-08T23:00:01.506390+09:00",
   "timeline": [
+    {
+      "date": "2026-07-08",
+      "time": "14:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "10年続かなかったか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aof718x3c3th2c90"
+    },
     {
       "date": "2026-07-08",
       "time": "09:51",
@@ -12652,15 +12662,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
@@ -12670,7 +12671,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
@@ -12680,6 +12681,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
       "is_boost": false,
       "has_media": false
     },
