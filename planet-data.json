@@ -1,6 +1,586 @@
 {
-  "generated_at": "2026-07-10T07:00:01.985864+09:00",
+  "generated_at": "2026-07-10T15:00:01.113783+09:00",
   "timeline": [
+    {
+      "date": "2026-07-10",
+      "time": "14:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 共に行こう (Version Pure)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E5%85%B1%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86+(Version+Pure)"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "14:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Remains",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Remains"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 共に行こう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E5%85%B1%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - この手につかんだ真実",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E3%81%93%E3%81%AE%E6%89%8B%E3%81%AB%E3%81%A4%E3%81%8B%E3%82%93%E3%81%A0%E7%9C%9F%E5%AE%9F"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 信号",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E4%BF%A1%E5%8F%B7"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Face Your Hand Toward the Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Face+Your+Hand+Toward+the+Sun"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Magic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Magic"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 虹",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E8%99%B9"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Who's that?",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Who%27s+that%3F"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Non Phixion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Non+Phixion"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 明日のため",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E6%98%8E%E6%97%A5%E3%81%AE%E3%81%9F%E3%82%81"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - 空を取り戻した日",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/%E7%A9%BA%E3%82%92%E5%8F%96%E3%82%8A%E6%88%BB%E3%81%97%E3%81%9F%E6%97%A5"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - The Returnz",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/The+Returnz"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - Z.O.M.B.I.E.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/Z.O.M.B.I.E."
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ShakkaZombie - OMEN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ShakkaZombie/_/OMEN"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Entrusted to Fools",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Entrusted+to+Fools"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Rats",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Rats"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "13:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Hibernal Torment",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Hibernal+Torment"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Chambers of the Starwatcher",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Chambers+of+the+Starwatcher"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Two Travelers",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Two+Travelers"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gatekeeper - Gross Excelations",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gatekeeper/_/Gross+Excelations"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - Love a Riddle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/Love+a+Riddle"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "川田まみ - 空の森で",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B7%9D%E7%94%B0%E3%81%BE%E3%81%BF/_/%E7%A9%BA%E3%81%AE%E6%A3%AE%E3%81%A7"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "井上喜久子 - いつも思ってること",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%95%E4%B8%8A%E5%96%9C%E4%B9%85%E5%AD%90/_/%E3%81%84%E3%81%A4%E3%82%82%E6%80%9D%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%93%E3%81%A8"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "川田まみ - Tiny Days",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B7%9D%E7%94%B0%E3%81%BE%E3%81%BF/_/Tiny+Days"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - snow angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/snow+angel"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - I Can't Get Over Your Best Smile",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/I+Can%27t+Get+Over+Your+Best+Smile"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "井上喜久子 - そらは語らない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%95%E4%B8%8A%E5%96%9C%E4%B9%85%E5%AD%90/_/%E3%81%9D%E3%82%89%E3%81%AF%E8%AA%9E%E3%82%89%E3%81%AA%E3%81%84"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "詩月カオリ - Senecio",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%A9%A9%E6%9C%88%E3%82%AB%E3%82%AA%E3%83%AA/_/Senecio"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "12:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - あの日の君へ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%90%9B%E3%81%B8"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KOTOKO - Shooting Star",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KOTOKO/_/Shooting+Star"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - モノクロームエフェクト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - 引力",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E5%BC%95%E5%8A%9B"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:49",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "どういう教授なんだよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aohwiwbdis"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - エレクトロ・ワールド",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - コンピューターシティ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:40",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "みなさま",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aohw7syxz6"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - リニアモーターガール",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume - パーフェクトスター・パーフェクトスタイル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume/_/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - if we meet again",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/if+we+meet+again"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela & PinkPantheress - the bridge",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela+&+PinkPantheress/_/the+bridge"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela & Fousheé - new life forms",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela+&+Foushe%C3%A9/_/new+life+forms"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - don't piss me off",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/don%27t+piss+me+off"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - linknb",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/linknb"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - retaliation lullaby",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/retaliation+lullaby"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "SFアニメでさあ、ポリティカルフィクションみたいなやつ、見たいよなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aohuyitzc3th2dtp"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - crystalize",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/crystalize"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "11:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - against me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/against+me"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela & A. K. Paul - outta time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela+&+A.+K.+Paul/_/outta+time"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - goin down",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/goin+down"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - point blank",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/point+blank"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - idea 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/idea+1"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tomggg & ena mori - MONO TARINAI !",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tomggg+&+ena+mori/_/MONO+TARINAI+!"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "10:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dinamarca & Mushkaa - raxets",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dinamarca+&+Mushkaa/_/raxets"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "09:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 斎藤幸平×東浩紀　資本主義は本当に変わるのか @koheisaito0131 @hazuma #ゲンロン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%96%8E%E8%97%A4%E5%B9%B8%E5%B9%B3%C3%97%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%80%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%AE%E3%81%8B+@koheisaito0131+@hazuma+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "09:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AFX - ANALORD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AFX/_/ANALORD"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "09:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Oohu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Oohu"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "09:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A. G. Cook - Gemstone Break",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A.+G.+Cook/_/Gemstone+Break"
+    },
     {
       "date": "2026-07-10",
       "time": "09:00",
@@ -9,6 +589,27 @@
       "text": "2026-07-10 晴天 26.1℃ (25.5〜26.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-10",
+      "time": "08:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.suruga-ya.jp/product/detail/BO2789787",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aohpxc50c3th2dpd",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-07-10",
+      "time": "07:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "めまいがする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoho55ivc3th2do9"
     },
     {
       "date": "2026-07-09",
@@ -11801,7 +12402,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -11810,7 +12411,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -12785,25 +13386,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
@@ -12821,7 +13404,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
