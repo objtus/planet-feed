@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-07-11T23:00:01.865001+09:00",
+  "generated_at": "2026-07-12T07:00:01.278347+09:00",
   "timeline": [
+    {
+      "date": "2026-07-12",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-12 厚い雲 26.9℃ (26.6〜27.2℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-11",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-11",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-11",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-11 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-07-11",
       "time": "21:06",
@@ -150,6 +187,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/aojljq9uc3th2f3b"
+    },
+    {
+      "date": "2026-07-11",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-11 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-11",
@@ -395,6 +442,16 @@
       "text": "2026-07-11 曇りがち 25.6℃ (25.0〜26.1℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-11",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-11 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-11",
@@ -2602,6 +2659,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-07-09",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "とくになし",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F09"
+    },
+    {
       "date": "2026-07-08",
       "time": "23:50",
       "src_id": 18,
@@ -2775,6 +2842,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-08",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "なにもしてない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F08"
     },
     {
       "date": "2026-07-07",
@@ -4760,6 +4837,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Bladee,+ecco2k/_/The+Flag+is+Raised"
+    },
+    {
+      "date": "2026-07-07",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "なに",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F07%2F07"
     },
     {
       "date": "2026-07-06",
@@ -15319,25 +15406,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
@@ -15355,7 +15442,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
     },
@@ -17981,557 +18068,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F13"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "23:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Anyone in 2025? - しゃろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Anyone+in+2025%3F/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "23:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "アトリエと電脳世界 (Atelier and the Cyber World) - しゃろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A8%E3%81%A8%E9%9B%BB%E8%84%B3%E4%B8%96%E7%95%8C+(Atelier+and+the+Cyber+World)/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "SuperStar - しゃろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/SuperStar/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "極東の羊、テレキャスターと踊る (Sheep of the Far East, Dancing with the Telecaster) - しゃろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%A5%B5%E6%9D%B1%E3%81%AE%E7%BE%8A%E3%80%81%E3%83%86%E3%83%AC%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E8%B8%8A%E3%82%8B+(Sheep+of+the+Far+East,+Dancing+with+the+Telecaster)/_/%E3%81%97%E3%82%83%E3%82%8D%E3%81%86"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:20",
-      "src_id": 3,
-      "src_type": "mastodon",
-      "text": "https://www.twitch.tv/yuinoid",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://mistodon.cloud/@healthcare/116737339979854665",
-      "visibility": "unlisted"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aneiqg21c3th1o80"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:19",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid　雑談配信を開始しました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/aneipinn6j"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "22:17",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/aneimzmnmosy00ng"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "21:16",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: 次のタスクの進行状況を更新し、concl-1（Guardianの問いかけ）とed-4（後記メタ）の反映を完了。日本語圏の受容に関する新しいセクションを追加し、文体の統一を図った。草稿の内容を整理し、関連する文書の参照を明確化。 / 文書内の表現を簡潔にし、日本語圏の動向に関する記述を修正。受容と変形の関係を明確化し、文体の統一を図った。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "18:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - 107.7 Radio XM Mars",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/107.7+Radio+XM+Mars"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Suki Girlz",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Suki+Girlz"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 8",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+8"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 7",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+7"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 6",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+6"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 5",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+5"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+4"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - SUKI GIRLZ 3",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/SUKI+GIRLZ+3"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "17:00",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "今日はとっても楽しかったね。明日はも～っと楽しくなるよね？ハム太郎？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ane7asu3c3th1nzc"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "16:56",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 6件: 次のタスクに「本稿の制度化への寄与（後記メタ）」を追加し、編集方針に関連する内容を更新。後記にメタ自己言及を含める方針を明記。 / supersuper.mdの作成日を更新し、各セクションの参照URLを明示化。目次の項目名を修正し、情報の整合性を向上させるために文体を統一。 / 次のタスクの更新とSuperSuper! Magazineに関するセクションの改稿を行い、src-2の構成改稿・分割稿同期を完了。関連する文書の参照を明確化し、草稿の反映状況を更新。 / 次のタスクの進行状況を更新し、vaporwave前史に関する新しいセクションを追加。src-5の文案を初回反映し、関連する文書の参照を明確化。誤記修正や段落整理を行い、HITに関する文脈を強化。 / 次のタスクの進行状況を更新し、vaporwave前史に関するセクションを改稿。src-5の文案を完了し、関連する文書の参照を明確化。HITに関する文脈を強化し、誤記修正や段落整理を行った。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "16:54",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "青春したことないけど青春の総括がしたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ane7347yc3th1nz6"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "16:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Vid - Bladee & Ecco2K Crest",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Vid/_/Bladee+&+Ecco2K+Crest"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "16:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Tego Typu - NOTHING BUT 90s RAVE PIANOS",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Tego+Typu/_/NOTHING+BUT+90s+RAVE+PIANOS"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "14:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Autechre - Warp Tapes 89-93",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Autechre/_/Warp+Tapes+89-93"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "14:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ADR - Tank Drainers",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ADR/_/Tank+Drainers"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "13:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DV-i - Shenzhen Miracle",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DV-i/_/Shenzhen+Miracle"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "13:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Priz Tats x PC Music - Christmas 2.0 Medley",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Priz+Tats+x+PC+Music/_/Christmas+2.0+Medley"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "13:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PIKASONIC - PIKASONIC Music Mix 2022",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PIKASONIC/_/PIKASONIC+Music+Mix+2022"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "12:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "田舎と都会は風景の密度が全然違う　散歩の満足度も違う　それが、おれは、くやしい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andxgeunc3th1ntc"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "12:07",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "時代についていけてない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andwtsvlc3th1ns8"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "12:00",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしはいま、マンダロリアン（ドラマ）をみています",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andwlng9c3th1nre"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "11:59",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "講義とかそういうの関係なく、「すべて」がみられる月500円のサブスクねえかなーって思ってる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andwk4l2c3th1nrb"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "11:58",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "OCWの動画ときどきみてるけどふつうに物足りなくないか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andwi2dtc3th1nr3"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "11:56",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "青春",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andwg1xyc3th1nr0"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "11:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yunomi - Yunomix vol. 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yunomi/_/Yunomix+vol.+4"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "11:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "大学の講義をサブスクで全部見られるやつがあったら入りたいんだけど",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andw8j36c3th1nqx"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Naoko Gushima - Madoromi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Naoko+Gushima/_/Madoromi"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Naoko Gushima - Monochrome",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Naoko+Gushima/_/Monochrome"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "中谷 美紀 - トピック - Chronic Love",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B8%AD%E8%B0%B7+%E7%BE%8E%E7%B4%80+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Chronic+Love"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Capsule - music Controller",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Capsule/_/music+Controller"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Group_inou - BLUE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Group_inou/_/BLUE"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "電気グルーヴ OFFICIAL YOUTUBE CHANNEL - DENKI GROOVE 30 DIGEST",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4+OFFICIAL+YOUTUBE+CHANNEL/_/DENKI+GROOVE+30+DIGEST"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jazztronik Official - TIGER EYES",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jazztronik+Official/_/TIGER+EYES"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "10:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "80sきらめきとときめきの昭和アイドル歌謡選 - WIR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:40",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "でも、同族嫌悪的なところがあるとも思う（ストリートアートなんてかけないけど）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andrklc0c3th1noe",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - さやわか×大井昌和×濱田轟天×東浩紀　ひらめきの8年とは何だったのか！？ #ひらめきマンガ #ゲンロン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%81%95%E3%82%84%E3%82%8F%E3%81%8B%C3%97%E5%A4%A7%E4%BA%95%E6%98%8C%E5%92%8C%C3%97%E6%BF%B1%E7%94%B0%E8%BD%9F%E5%A4%A9%C3%97%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%80%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%81%AE8%E5%B9%B4%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F+%23%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%83%9E%E3%83%B3%E3%82%AC+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "80sきらめきとときめきの昭和アイドル歌謡選 - WIR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/80s%E3%81%8D%E3%82%89%E3%82%81%E3%81%8D%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%81%AE%E6%98%AD%E5%92%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%AD%8C%E8%AC%A1%E9%81%B8/_/WIR"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "オタクストリートアート嫌いになってきた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/andqh0v3c3th1noa"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-12 晴天 21.7℃ (21.7〜21.7℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-12",
-      "time": "08:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - 箕輪厚介×東浩紀×植田将暉　正気とはなにか @minowanowa @hazuma @reRenaissancist #ゲンロン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E7%AE%95%E8%BC%AA%E5%8E%9A%E4%BB%8B%C3%97%E6%9D%B1%E6%B5%A9%E7%B4%80%C3%97%E6%A4%8D%E7%94%B0%E5%B0%86%E6%9A%89%E3%80%80%E6%AD%A3%E6%B0%97%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B+@minowanowa+@hazuma+@reRenaissancist+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "08:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "東浩紀 - 正気とは何か 政治のエンタメ化から逆に!?",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9D%B1%E6%B5%A9%E7%B4%80/_/%E6%AD%A3%E6%B0%97%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B+%E6%94%BF%E6%B2%BB%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E5%8C%96%E3%81%8B%E3%82%89%E9%80%86%E3%81%AB!%3F"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-12 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-12",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "　・雑談配信をした\n　　・うまくしゃべれなくて反省\nオタクストリートアートが嫌いという素直な気持ち",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F12"
     }
   ]
 }
