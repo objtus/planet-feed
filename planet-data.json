@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-07-12T07:00:01.278347+09:00",
+  "generated_at": "2026-07-12T15:00:01.988827+09:00",
   "timeline": [
+    {
+      "date": "2026-07-12",
+      "time": "13:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ロリババアになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aokvb3e2c3th2ghw"
+    },
+    {
+      "date": "2026-07-12",
+      "time": "13:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "超然的な感じになりたいね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aokvagcec3th2ghp"
+    },
+    {
+      "date": "2026-07-12",
+      "time": "13:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "いいぞ越前 メリモとマラム",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aokv967xc3th2ghh"
+    },
+    {
+      "date": "2026-07-12",
+      "time": "09:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「生成AIで世界はこう変わる」今井 翔太 ：基調講演 - NIIオープンハウス2026",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E7%94%9F%E6%88%90AI%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%93%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%E3%80%8D%E4%BB%8A%E4%BA%95+%E7%BF%94%E5%A4%AA+%EF%BC%9A%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94/_/NII%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%B92026"
+    },
+    {
+      "date": "2026-07-12",
+      "time": "09:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "進研ゼミの漫画のキャラ - 工藤先輩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%80%B2%E7%A0%94%E3%82%BC%E3%83%9F%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9/_/%E5%B7%A5%E8%97%A4%E5%85%88%E8%BC%A9"
+    },
     {
       "date": "2026-07-12",
       "time": "09:00",
@@ -14422,7 +14472,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -14431,7 +14481,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -15406,25 +15456,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
     },
@@ -15442,7 +15474,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
