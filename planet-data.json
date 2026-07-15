@@ -1,6 +1,456 @@
 {
-  "generated_at": "2026-07-15T07:00:01.405357+09:00",
+  "generated_at": "2026-07-15T15:00:01.937599+09:00",
   "timeline": [
+    {
+      "date": "2026-07-15",
+      "time": "14:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 真昼のピアノ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E7%9C%9F%E6%98%BC%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - ラムネ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%83%A9%E3%83%A0%E3%83%8D"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - ヘヴンリー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%83%98%E3%83%B4%E3%83%B3%E3%83%AA%E3%83%BC"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 幻",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%B9%BB"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "14:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - ガビガビ積乱雲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%AC%E3%83%93%E3%82%AC%E3%83%93%E7%A9%8D%E4%B9%B1%E9%9B%B2"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hudson Mohawke - Bicstan (Elastic Cubes Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hudson+Mohawke/_/Bicstan+(Elastic+Cubes+Edit)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 142mashupz",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/142mashupz"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - インターネット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - endou",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/endou"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - エクストラバガンザ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%90%E3%82%AC%E3%83%B3%E3%82%B6"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 夜光遊泳",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%A4%9C%E5%85%89%E9%81%8A%E6%B3%B3"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - カレーがいい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%8C%E3%81%84%E3%81%84"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - レーム / 青",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%83%AC%E3%83%BC%E3%83%A0%EF%80%A2+%2F+%E9%9D%92"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 本日定休日",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%9C%AC%E6%97%A5%E5%AE%9A%E4%BC%91%E6%97%A5"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 末路",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%9C%AB%E8%B7%AF"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 刹那",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%88%B9%E9%82%A3"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 刹那",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%88%B9%E9%82%A3"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 末路",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%9C%AB%E8%B7%AF"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 本日定休日",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%9C%AC%E6%97%A5%E5%AE%9A%E4%BC%91%E6%97%A5"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - レーム / 青",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%83%AC%E3%83%BC%E3%83%A0%EF%80%A2+%2F+%E9%9D%92"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - カレーがいい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%8C%E3%81%84%E3%81%84"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 夜光遊泳",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%A4%9C%E5%85%89%E9%81%8A%E6%B3%B3"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - エクストラバガンザ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%90%E3%82%AC%E3%83%B3%E3%82%B6"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - endou",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/endou"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - インターネット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 革命前夜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E9%9D%A9%E5%91%BD%E5%89%8D%E5%A4%9C"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 革命前夜 part.2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E9%9D%A9%E5%91%BD%E5%89%8D%E5%A4%9C+part.2"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 滑らかな髪は瞬くストロボ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%BB%91%E3%82%89%E3%81%8B%E3%81%AA%E9%AB%AA%E3%81%AF%E7%9E%AC%E3%81%8F%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 🚕💨",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%F0%9F%9A%95%F0%9F%92%A8"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 夏",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E5%A4%8F"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - mikuswitcher",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/mikuswitcher"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Alt A count - The Perfect Girl x After Dark x Sweater Weather mashup",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Alt+A+count/_/The+Perfect+Girl+x+After+Dark+x+Sweater+Weather+mashup"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "13:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 桜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E6%A1%9C"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "nobodyknows+ - ココロオドル / ガチャピンムック ２人で歌ってみた！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/nobodyknows%252B/_/%E3%82%B3%E3%82%B3%E3%83%AD%E3%82%AA%E3%83%89%E3%83%AB+%2F+%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3%E3%83%A0%E3%83%83%E3%82%AF+%EF%BC%92%E4%BA%BA%E3%81%A7%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - ありがとう (demo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+(demo)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - 8bitman",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/8bitman"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "kankan nou - 家へかへりたい　　バートン・クレーン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/kankan+nou/_/%E5%AE%B6%E3%81%B8%E3%81%8B%E3%81%B8%E3%82%8A%E3%81%9F%E3%81%84%E3%80%80%E3%80%80%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%B3"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Elastic Cubes - そよ風",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Elastic+Cubes/_/%E3%81%9D%E3%82%88%E9%A2%A8"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "komato - beasドナときもfriend。(beast friend + ドナときも。mashup)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/komato/_/beas%E3%83%89%E3%83%8A%E3%81%A8%E3%81%8D%E3%82%82friend%E3%80%82(beast+friend+%252B+%E3%83%89%E3%83%8A%E3%81%A8%E3%81%8D%E3%82%82%E3%80%82mashup)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "WWWINGS - MISBEHAVE (FT. C.Z.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/WWWINGS/_/MISBEHAVE+(FT.+C.Z.)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "UNIT KAI - poison (feat. Hatsune Miku)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/UNIT+KAI/_/poison+(feat.+Hatsune+Miku)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nice - 役立たず",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nice/_/%E5%BD%B9%E7%AB%8B%E3%81%9F%E3%81%9A"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ke$ha - Stephen (A.G. COOK EDIT)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ke$ha/_/Stephen+(A.G.+COOK+EDIT)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Charli xcx - BOOM CLAP (QT EDIT)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Charli+xcx/_/BOOM+CLAP+(QT+EDIT)"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "12:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "文藝春秋PLUS 公式チャンネル - 東浩紀×黒岩里奈×村井弦",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%96%87%E8%97%9D%E6%98%A5%E7%A7%8BPLUS+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%C3%97%E9%BB%92%E5%B2%A9%E9%87%8C%E5%A5%88%C3%97%E6%9D%91%E4%BA%95%E5%BC%A6"
+    },
     {
       "date": "2026-07-15",
       "time": "09:00",
@@ -16126,7 +16576,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
       "is_boost": false,
       "has_media": false
     },
@@ -16153,7 +16603,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
