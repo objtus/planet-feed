@@ -1,6 +1,161 @@
 {
-  "generated_at": "2026-07-15T23:00:01.814401+09:00",
+  "generated_at": "2026-07-16T07:00:01.506772+09:00",
   "timeline": [
+    {
+      "date": "2026-07-16",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-16 曇りがち 30.0℃ (30.0〜30.0℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-16",
+      "time": "01:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://youtu.be/VTNgX-Tk1Io?si=cLa4Ce4hqjSRIqR- サークル名「健やかな環境」にしようかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aopun9e3c3th2m2q"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "01:01",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "サークル名「カーボンニュートラル・ゼロエミッション」にするか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aopu05tac3th2m2e"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "カーボンニュートラル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aopty4c3c3th2m24"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ゼロエミッション",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoptxv98c3th2m23"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ぼくたちは宇宙船地球号 ガイアの船員 一部であると自覚し、かけがえのない地球の環境について考え行動すべきです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoptuh0ac3th2m1y"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://music.apple.com/jp/playlist/%E5%9C%B0%E7%90%83%E3%82%B8%E3%83%A3%E3%82%B1/pl.u-mJy8DGDTzkRgqq5 地球ジャケ募集してます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoptjalhc3th2m1h"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ありがとうございます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoptcdwxc3th2m0o"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:35",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "地球ジャケのアルバム募集します",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aopt3o1nc3th2lzp"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "00:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "サイババの生まれ変わりです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aopt13bmc3th2lzg"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "マイクオールドフィールドって……すごいんだな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoprlxbyc3th2lx6"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 0歩 / 心拍数: 0bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-15",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-15 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-07-15",
       "time": "19:12",
@@ -40,6 +195,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%89%E3%82%A5%E3%83%BC%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%BB%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%BC/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-07-15",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-15 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-15",
@@ -649,6 +814,16 @@
       "text": "2026-07-15 曇りがち 28.6℃ (28.3〜28.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-15",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-15 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-15",
@@ -16793,7 +16968,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
     },
@@ -16802,7 +16977,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
       "is_boost": false,
       "has_media": false
     },
@@ -17703,745 +17878,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F17"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chuck Person - Chuck Person's Eccojams Vol. 1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chuck+Person/_/Chuck+Person%27s+Eccojams+Vol.+1"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chuck Person - Eccojams A8",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chuck+Person/_/Eccojams+A8"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chuck Person - Eccojams A7",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chuck+Person/_/Eccojams+A7"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chuck Person - Eccojams A6",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chuck+Person/_/Eccojams+A6"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Chuck Person - Eccojams A3",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Chuck+Person/_/Eccojams+A3"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Far Side Virtual",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Far+Side+Virtual"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Fro Yo and Cellular Bits",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Fro+Yo+and+Cellular+Bits"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Palm Trees, Wi - Fi and Dream Sushi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Palm+Trees,+Wi/_/Fi+and+Dream+Sushi"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Pixarnia and the Future of Norman Rockwell",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Pixarnia+and+the+Future+of+Norman+Rockwell"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Bags",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Bags"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Sim",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Sim"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Dubai Dream Tone",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Dubai+Dream+Tone"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Global Lunch",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Global+Lunch"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Linden Dollars",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Linden+Dollars"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:17",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "blobが泣きながらゆっくりうなずいてるカスタム絵文字が欲しい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ankaiwl8c3th1s4o"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-16",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-16 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "22:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yung Lean Live at Globen - Stockholm, Sweden (March 1, 2025)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yung+Lean+Live+at+Globen/_/Stockholm,+Sweden+(March+1,+2025)"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "21:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - 愛のCoda by Kirinji",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/%E6%84%9B%E3%81%AECoda+by+Kirinji"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "21:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - Plastic Love by Mariya Takeuchi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/Plastic+Love+by+Mariya+Takeuchi"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - Upside Down by Jack Johnson",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/Upside+Down+by+Jack+Johnson"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - Forever Heaven by Sons of Sevilla",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/Forever+Heaven+by+Sons+of+Sevilla"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - Cavern (Cut Chemist Rocks A Rave In A Missile Silo Remix) by Liquid Liquid",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/Cavern+(Cut+Chemist+Rocks+A+Rave+In+A+Missile+Silo+Remix)+by+Liquid+Liquid"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Emily Vu - Girls & Boys by Blur",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Emily+Vu/_/Girls+&+Boys+by+Blur"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Com Truise - Cyanide Sisters",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Com+Truise/_/Cyanide+Sisters"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "コム・トゥルーズ - トピック - Glawio",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B3%E3%83%A0%E3%83%BB%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%BA+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Glawio"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "One Night - All Night",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/One+Night/_/All+Night"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "20:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Weeknd - Save Your Tears",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Weeknd/_/Save+Your+Tears"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "19:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝐀𝐋𝐎𝐍𝐄 𝐈𝐍 𝐀 𝐂𝐑𝐎𝐖𝐃 - 𝐎𝐋𝐈𝐕𝐄𝐑 𝐓𝐑𝐄𝐄 - 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 - 𝐋𝐘𝐑𝐈𝐂𝐒 𝐕𝐈𝐃𝐄𝐎",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%84+%F0%9D%90%88%F0%9D%90%8D+%F0%9D%90%80+%F0%9D%90%82%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%83/_/%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84%F0%9D%90%91+%F0%9D%90%93%F0%9D%90%91%F0%9D%90%84%F0%9D%90%84+-+%F0%9D%90%85%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8B+%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%81%F0%9D%90%94%F0%9D%90%8C+-+%F0%9D%90%8B%F0%9D%90%98%F0%9D%90%91%F0%9D%90%88%F0%9D%90%82%F0%9D%90%92+%F0%9D%90%95%F0%9D%90%88%F0%9D%90%83%F0%9D%90%84%F0%9D%90%8E"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "19:21",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "アハハ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ank23u31c3th1ru6"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:30",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "そもそも日本に影響力あるmp3ブログってなかった気がする なんでだろう みんなキュレーションを信じてなかったからか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ank0akptc3th1rrj"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "音楽ブログが影響力のあるメディアになっていく例はナタリーやpitchforkなど少なくとも日米で確認できるけど、mp3ブログがメディアに転換する例は海外ではあっても（stereogum）日本の例は思いつかないな グレーゾーンだから？津田大介はそれに近いかな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ank06okbc3th1rrc",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:17",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "乳頭について知見を高めていきたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjzsxl4c3th1rr2"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Porter Robinson & Mat Zo - Easy w/ Room 5 - Think About U",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Porter+Robinson+&+Mat+Zo/_/Easy+w%2F+Room+5+-+Think+About+U"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:16",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": ":sitt:　これほぼグローグーやん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjzrqxxc3th1rqy"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Round Table feat. Nino - Let Me Be With You (New Step Mix) (DJ NOT PORTER ROBINSON EDIT)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Round+Table+feat.+Nino/_/Let+Me+Be+With+You+(New+Step+Mix)+(DJ+NOT+PORTER+ROBINSON+EDIT)"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:13",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ちょっとだけ散歩するか悩む",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjzosg3c3th1rqt"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The 1975 - I Like America & America Likes Me (Mark Robinson Garage Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+1975/_/I+Like+America+&+America+Likes+Me+(Mark+Robinson+Garage+Remix)"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:12",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "tanoshii.siteはどうなん？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjzmsl8c3th1rqf"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mura Masa & Clairo - I Don't Think I Can Do This Again",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mura+Masa+&+Clairo/_/I+Don%27t+Think+I+Can+Do+This+Again"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "18:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Porter Robinson - Something Comforting w/ Sad Machine",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Porter+Robinson/_/Something+Comforting+w%2F+Sad+Machine"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "17:12",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://store.ietf.org/　IETFオンラインストアの商品全部ダサい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjxhjhzc3th1roj"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "17:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://sites.google.com/ieee-jp.org/manga-project/ こんなんあるんや",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjxebxec3th1roa"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "17:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Porter Robinson - PORTER ROBINSON NURTURE LIVE @ SECRET SKY 2021",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Porter+Robinson/_/PORTER+ROBINSON+NURTURE+LIVE+@+SECRET+SKY+2021"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "16:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ウィキペディアピンバッジとウィキペディアぬいぐるみが届いた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjwwj8ic3th1ro2"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "15:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Theater of Eternal Music (Lа Monte Young) - Raga for Ravi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Theater+of+Eternal+Music+(L%D0%B0+Monte+Young)/_/Raga+for+Ravi"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "15:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Composition 1960 #7 (live) - to be held for a long time",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Composition+1960+%237+(live)/_/to+be+held+for+a+long+time"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-16 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "14:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Le Monte Young - Pre-Tortoise Dream Music",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Le+Monte+Young/_/Pre-Tortoise+Dream+Music"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "14:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ケロ - 230 Grandriver",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/230+Grandriver"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "14:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ケロ - Franklinfranklin",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/Franklinfranklin"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ケロ - Riversidedrive",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD/_/Riversidedrive"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:32",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "opnの曲（Time Decanted）のMVがOESBのvimeoにアップされててどういうつながりかよくわからなかったけど、MV監督のTodd LedfordがOESBの創設者だった　https://vimeo.com/7616034\n\nそしてTodd Ledfordで検索したら味わい深いアルバムが出てきた https://ledfordwave.bandcamp.com/album/l-e-d-f-o-r-d-w-a-v-e",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anjpmx3cc3th1rlm",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Dice Man - Polygon Window.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Dice+Man/_/Polygon+Window."
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Russian Mind",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Russian+Mind"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Theater of Eternal Music (Lа Monte Young) - Raga for Ravi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Theater+of+Eternal+Music+(L%D0%B0+Monte+Young)/_/Raga+for+Ravi"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "13:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Ecco2K - NTS Session",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Ecco2K/_/NTS+Session"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-16 厚い雲 20.8℃ (20.5〜21.1℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-16",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-16 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "02:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: MP3ブログとMySpaceに関する新しいセクションを追加し、各節の構成を整理。mp3ブログの役割と歴史を詳述し、MySpaceの影響を強調。文体の統一を図り、関連文書の参照を明確化。次のタスクの進行状況を更新。 / 次のタスクの進行状況を更新し、src-6b（第2章・前史）およびsrc-6c（第1章・プラットフォーム）の草稿を反映。各節の内容を整理し、文案の進捗を明確化。関連文書の参照を更新し、文体の統一を図った。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "02:46",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "7月はお絵かき強化月間としたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anj2k2hyc3th1re3"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "02:46",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "絵を描きたい　そのうち",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anj2jtbwc3th1re2"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "02:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AFX - Selected Dance Tracks  - user48736353001 compilation",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AFX/_/Selected+Dance+Tracks++-+user48736353001+compilation"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - Bootleg Compilation Vol. 2 (2018 - 2021)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/Bootleg+Compilation+Vol.+2+(2018+-+2021)"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - Mirror Yyategilda",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/Mirror+Yyategilda"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - RALJEK OSAJIRY",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/RALJEK+OSAJIRY"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - Kizaru 3D",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/Kizaru+3D"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - IGYRALIxIKEYGNiX3R0I",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/IGYRALIxIKEYGNiX3R0I"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - ZETRAKORE XAOS DA JUMPING GARGOYLZ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/ZETRAKORE+XAOS+DA+JUMPING+GARGOYLZ"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - Jumping Iz Not a Crime 2K21",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/Jumping+Iz+Not+a+Crime+2K21"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - WINTERSTYLERZ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/WINTERSTYLERZ"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "01:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "YABUJIN - Valeria Bounze",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/YABUJIN/_/Valeria+Bounze"
-    },
-    {
-      "date": "2026-06-16",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無\nウィキペディアストアで買ったウィキペディアピンバッジとウィキペディアぬいぐるみが届いた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F16"
     }
   ]
 }
