@@ -1,6 +1,143 @@
 {
-  "generated_at": "2026-07-16T23:00:01.245037+09:00",
+  "generated_at": "2026-07-17T07:00:01.808411+09:00",
   "timeline": [
+    {
+      "date": "2026-07-17",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-17 曇りがち 29.7℃ (29.4〜30.0℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-17",
+      "time": "04:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "JMJ & Richie - Montana",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/JMJ+&+Richie/_/Montana"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "04:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Architex - Altitude",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Architex/_/Altitude"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "04:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Q Project - The Instrumental",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Q+Project/_/The+Instrumental"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "04:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Accelio - Reflection Garden (Full EP, 2022)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Accelio/_/Reflection+Garden+(Full+EP,+2022)"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "04:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Theme From Ernest Borgnine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Theme+From+Ernest+Borgnine"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "01:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Silver Thread Golden Needle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Silver+Thread+Golden+Needle"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "01:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - SOPHIE LIVESTREAM HEAV3N SUSPENDED",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/SOPHIE+LIVESTREAM+HEAV3N+SUSPENDED"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "00:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか風邪ひいたみたいな感じがする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aor8ddndc3th2n2g"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "00:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook Exclusive DJ Set w - visuals by Sam Rolfes (from the SoundCloud Forum)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook+Exclusive+DJ+Set+w/_/visuals+by+Sam+Rolfes+(from+the+SoundCloud+Forum)"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-16",
+      "time": "23:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ちょっと時代錯誤な絵柄のエロ絵のほうがぐっとくるかも",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aor5x8nac3th2n1a"
+    },
+    {
+      "date": "2026-07-16",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-16",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-16 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-07-16",
       "time": "21:15",
@@ -423,12 +560,32 @@
     },
     {
       "date": "2026-07-16",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-16 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-16",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-07-16 曇りがち 30.0℃ (30.0〜30.0℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-16",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-16 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-16",
@@ -17361,7 +17518,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
       "is_boost": false,
       "has_media": false
     },
@@ -17379,15 +17536,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
       "is_boost": false,
       "has_media": false
@@ -17397,7 +17545,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
+      "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: Dr.STONE: Dr.STONE SCIENCE FUTURE (第4期): GIANT STEP",
       "is_boost": false,
       "has_media": false
     },
@@ -17539,765 +17696,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F18"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Troll (Full EP)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Troll+(Full+EP)"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DUB Techno - Amseroedd Sain 10",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DUB+Techno/_/Amseroedd+Sain+10"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Gemstone Break",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Gemstone+Break"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Life Speed",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Life+Speed"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - DJ Every Night",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/DJ+Every+Night"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Dread (Visualiser)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Dread+(Visualiser)"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Soft Landing",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Soft+Landing"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Car Keys",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Car+Keys"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Soulbreaker",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Soulbreaker"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Somers Tape",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Somers+Tape"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oklou - take me by the hand ft. Bladee",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oklou/_/take+me+by+the+hand+ft.+Bladee"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Oohu",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Oohu"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Acid Angel",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Acid+Angel"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - You Know Me",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/You+Know+Me"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Xcxoplex",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Xcxoplex"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook & Cecile Believe - Show Me What",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook+&+Cecile+Believe/_/Show+Me+What"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Finn Keane - Be Your USA feat. Iiris",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Finn+Keane/_/Be+Your+USA+feat.+Iiris"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Silver",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Silver"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Yes Da Da Da",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Yes+Da+Da+Da"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "22:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Idyll",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Idyll"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "21:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lipgloss Twins - Doodle",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lipgloss+Twins/_/Doodle"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "21:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Petorozu - A.G. Cook live from Primavera Sound 2024",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Petorozu/_/A.G.+Cook+live+from+Primavera+Sound+2024"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "21:02",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "SUSHIKET",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/anll53xpkv"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "20:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "エロかっこいいを目指したい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anlkqybsc3th1su9"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "20:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "いぬねこ - I'veメドレー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%84%E3%81%AC%E3%81%AD%E3%81%93/_/I%27ve%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "19:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Stellar OM Source - Live",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Live"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "19:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Stellar OM Source - Island Best",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Stellar+OM+Source/_/Island+Best"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "19:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ninajirachi - JAPANESE OTAKU ROOM (FULL SET)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ninajirachi/_/JAPANESE+OTAKU+ROOM+(FULL+SET)"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "18:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Life Sim - IDL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Life+Sim/_/IDL"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "18:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "jawnino & deer park - Mattress",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/jawnino+&+deer+park/_/Mattress"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "18:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Future Brown - Vernáculo ft. Maluca",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Future+Brown/_/Vern%C3%A1culo+ft.+Maluca"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "18:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Squarepusher - Beep Street",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Roygbiv",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Bocuma",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Bocuma"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://web.archive.org/web/20101229194410/http://demoforever.net/　ドメイン名、内容、画像のすべてがインターネット",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anleghgkc3th1sp6"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Triangles & Rhombuses",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Triangles+&+Rhombuses"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Wildlife Analysis",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Melissa Juice",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Melissa+Juice"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Iced Cooly",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Iced+Cooly"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Squarepusher - Beep Street",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Rei Harakami - lust",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Rei+Harakami/_/lust"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ヘアカット・フォー・メン - トピック - 呼吸蒸気",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%98%E3%82%A2%E3%82%AB%E3%83%83%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%B3+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E5%91%BC%E5%90%B8%E8%92%B8%E6%B0%97"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "t e l e p a t h テレパシー能力者 - 星間性交",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "インターネット美学について検索するなかでOESBのブログ記事を目にし、そこからバババッと推論がいろいろと飛んで、結論としては、2010年のローマ国際映画祭が重要になるだろうという考えに至った。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anld7wkoc3th1so7",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - not beautiful view",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/not+beautiful+view"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - twilight in hikarigaoka",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/twilight+in+hikarigaoka"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "17:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - red bicycle",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/red+bicycle"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - the (nobody) theatre",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/the+(nobody)+theatre"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - vague",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/vague"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - entraine toi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/entraine+toi"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - she decided",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/she+decided"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - car",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/car"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "i-fls - soundcloud5",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/i-fls/_/soundcloud5"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Know My Name",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Know+My+Name"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Sad World",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Sad+World"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Touching Yours",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Touching+Yours"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Aching Like Its",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Aching+Like+Its"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - It's A Dream",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/It%27s+A+Dream"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "16:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Cautious",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Cautious"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "15:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Under Your Spell",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "15:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Just Your Doll",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Just+Your+Doll"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "15:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Resident Advisor - はじめに",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Resident+Advisor/_/%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "14:48",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://stats.wikimedia.org/#/all-projects/reading/total-page-views/normal|bar|all|~total|daily 　wikipediaの閲覧者数の推移をグラフで見てみたらコロナ禍でロックダウンしてた時期の閲覧数がモサっと伸びてておもろい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anl7smwmc3th1sjy",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-17 晴天 21.9℃ (21.6〜22.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-17",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-17 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "02:26",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 3件: 更新：CARI調査ノートの§8を改訂し、確認済みの項目を整理。Christmas 2.0のトラック名やDV-iの実名を明記し、進捗状況を反映。次のタスクに関する情報も更新し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、cari-invの草稿を反映。新たにinv-msv、inv-tabor、inv-oesb、inv-frkwysの調査タスクを追加し、関連する文書の参照を更新。r/witchhouseの歴史スレッドを参照先として追加し、全体の整合性を向上させた。 / 次のタスクの進行状況を更新し、Tabor Robakとの接続点を草稿に追記。草稿のステータスを暫定反映あり・要計画に変更し、今後の作業における計画の重要性を強調した。全体の整合性を向上させるため、関連する文書の参照も更新。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "02:19",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "苺ましまろすきやな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ankh1pcac3th1s9p"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "02:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Future Brown - Vernáculo ft. Maluca",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Future+Brown/_/Vern%C3%A1culo+ft.+Maluca"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "01:13",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 9件: 次のタスクの進行状況を更新し、src-6d（第2章・命名系譜）およびsrc-6e（第2章・アーキテクチャ総括）の草稿を反映。各節の内容を整理し、文案の進捗を明確化。関連文書の参照を更新し、文体の統一を図った。 / 次のタスクの進行状況を更新し、src-6（匿名性の美学）およびrev-9（witch house 匿名性）の草稿を反映。匿名性の美学を章全体の主題として強調し、関連する文書の参照を更新。後記においてもインターネット固有の文化の重要性を再確認した。 / 匿名性の美学に関する草稿の後半を反映し、関連する論点を整理。新たに追加されたセクションでは、匿名性の活用とその影響を考察し、画像文化との関連性を強調。文体の統一を図り、過剰なハイパーリンクを用いたインターネット固有の表現を実践。関連文書の参照を更新し、全体の整合性を向上させた。 / 匿名性の美学に関する草稿を更新し、関連する文書の参照を追加。特に「2deep4u」ミームや「植リンク活動」に関する記述を強化し、文体の統一を図った。インターネット文化の歴史的文脈を考察し、ハイパーリンクを適切に埋め込むことで、情報の整合性を向上させた。 / 匿名性の見取り図を第1章に前置し、要素の予告を行うセクションを追加。名前や出どころとの距離に関する二つの流れを対照的に示し、文体の統一を図った。関連文書の参照を更新し、全体の整合性を向上させた。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "00:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ありがとうございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ankdyzdcc3th1s86"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "00:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "外山恒一と我々団 - 第２回 〝赤衛軍事件〟を解説！──②菊井良治と赤衛軍事件",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%A4%96%E5%B1%B1%E6%81%92%E4%B8%80%E3%81%A8%E6%88%91%E3%80%85%E5%9B%A3/_/%E7%AC%AC%EF%BC%92%E5%9B%9E+%E3%80%9D%E8%B5%A4%E8%A1%9B%E8%BB%8D%E4%BA%8B%E4%BB%B6%E3%80%9F%E3%82%92%E8%A7%A3%E8%AA%AC%EF%BC%81%E2%94%80%E2%94%80%E2%91%A1%E8%8F%8A%E4%BA%95%E8%89%AF%E6%B2%BB%E3%81%A8%E8%B5%A4%E8%A1%9B%E8%BB%8D%E4%BA%8B%E4%BB%B6"
-    },
-    {
-      "date": "2026-06-17",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F17"
     }
   ]
 }
