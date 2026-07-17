@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-17T07:00:01.808411+09:00",
+  "generated_at": "2026-07-17T15:00:01.502479+09:00",
   "timeline": [
+    {
+      "date": "2026-07-17",
+      "time": "14:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - VERANDA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/VERANDA"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "14:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - Listen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/Listen"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "14:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - ROD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/ROD"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "13:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "文藝春秋PLUS 公式チャンネル - 東浩紀×黒岩里奈×村井弦",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%96%87%E8%97%9D%E6%98%A5%E7%A7%8BPLUS+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%C3%97%E9%BB%92%E5%B2%A9%E9%87%8C%E5%A5%88%C3%97%E6%9D%91%E4%BA%95%E5%BC%A6"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "09:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Float - Strange Images that are Familiar",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Float/_/Strange+Images+that+are+Familiar"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "09:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Float - strangely familiar places with unnerving music",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Float/_/strangely+familiar+places+with+unnerving+music"
+    },
     {
       "date": "2026-07-17",
       "time": "09:00",
@@ -9,6 +69,96 @@
       "text": "2026-07-17 曇りがち 29.7℃ (29.4〜30.0℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-17",
+      "time": "08:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Selected Blackbox Works (Unofficial Compilation)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Selected+Blackbox+Works+(Unofficial+Compilation)"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "08:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Float - pictures that feel strangley familiar but uncomfortable with chill beats to study to",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Float/_/pictures+that+feel+strangley+familiar+but+uncomfortable+with+chill+beats+to+study+to"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "08:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Float - strangely familiar places with unnerving music 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Float/_/strangely+familiar+places+with+unnerving+music+2"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "08:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictures that are uncomfortable - Anemoia",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictures+that+are+uncomfortable/_/Anemoia"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "08:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Riyahluv - Pictures that feel strangely familiar but uncomfortable",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Riyahluv/_/Pictures+that+feel+strangely+familiar+but+uncomfortable"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "07:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Riyahluv - Realistic Glitches caught on camera",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Riyahluv/_/Realistic+Glitches+caught+on+camera"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "07:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dhe Perissann - Hans Zimmer Collection (Space Sounds Playlist)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dhe+Perissann/_/Hans+Zimmer+Collection+(Space+Sounds+Playlist)"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "07:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictures that feel strangely familiar but are uncomfortable - compilation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictures+that+feel+strangely+familiar+but+are+uncomfortable/_/compilation"
+    },
+    {
+      "date": "2026-07-17",
+      "time": "06:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pictures that feel strangely familiar but are uncomfortable - compilation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pictures+that+feel+strangely+familiar+but+are+uncomfortable/_/compilation"
     },
     {
       "date": "2026-07-17",
@@ -16534,7 +16684,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
+      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
       "is_boost": false,
       "has_media": false
     },
@@ -16543,7 +16693,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 番小者と祈祷師",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: ミリムの友達",
       "is_boost": false,
       "has_media": false
     },
@@ -17518,15 +17668,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-18",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 強欲の主人",
       "is_boost": false,
       "has_media": false
@@ -17536,7 +17677,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
+      "text": "Netflix視聴: ワンピース: エルバフ編: 歓迎の友の盃とロキを探す侵入者",
       "is_boost": false,
       "has_media": false
     },
@@ -17546,6 +17687,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 兄と弟",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-06-18",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: ワンピース: エルバフ編: ロキとの遭遇 神の騎士団 軍子",
       "is_boost": false,
       "has_media": false
     },
