@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-07-18T23:00:01.212915+09:00",
+  "generated_at": "2026-07-19T07:00:01.550955+09:00",
   "timeline": [
+    {
+      "date": "2026-07-19",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-19 厚い雲 27.8℃ (27.8〜27.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 2kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 2,738歩 / 心拍数: 90bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-18 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-18",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-18 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-07-18",
       "time": "09:00",
@@ -9,6 +74,16 @@
       "text": "2026-07-18 厚い雲 29.1℃ (28.9〜29.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-18",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-18 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-18",
@@ -17724,453 +17799,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F20"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-19",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-19",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-19 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "20:12",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "今週雑談配信は中止です 申し訳ございません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/anoe8asf5ofr08aq"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "20:00",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "陽キャ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anodt8utc3th1ufx"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "19:59",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "駿河屋でフィギュアを衝動買いしてしまった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anodrsobc3th1ufs"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "17:47",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "米津玄師って今のいままで「よねづげんし」かと思ってた げんた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ano91ziec3th1ubt"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "17:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "旅行したい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ano8udcrc3th1ub5"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "17:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 3件: 次のタスクの進行状況を更新し、M.I.A.・Tim and Ericに関する文案を新規ファイルに追加。激怒記事の内容を反映し、seapunkの視覚言語に関する考察を強化。全体の整合性を向上させるため、関連する文書の参照も更新。 / 補遺Cを追加し、Wikipediaのタイトル単複の揺れを文法分析に組み込む。用例年表を作成し、モードの移行と二軸テーゼの統合についての考察を強化。全体の整合性を向上させるため、関連する調査結果を反映。 / 次にやるタスクを更新し、aesthetic節を独立章として再編成。第3章としての内容を明確化し、関連する文書の参照を整理。全体の整合性を向上させるため、章番号の変更と相互参照の修正を反映。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Well Tuned Piano - la monte young, marian zazeela",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Well+Tuned+Piano/_/la+monte+young,+marian+zazeela"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - let me tell u",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/let+me+tell+u"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "成功したい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ano6gf9ec3th1u95"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - UNDER YOUR SPELL #SURFGANG",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/UNDER+YOUR+SPELL+%23SURFGANG"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - IT'S GOIN BAD #SURFGANG",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/IT%27S+GOIN+BAD+%23SURFGANG"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jane Remover - Census Designated",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jane+Remover/_/Census+Designated"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yung Lean - Forever Yung Tour (London & Warsaw) - Akt 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yung+Lean/_/Forever+Yung+Tour+(London+&+Warsaw)+-+Akt+4"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "16:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - You Know Me",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/You+Know+Me"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "15:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - Dread (Visualiser)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/Dread+(Visualiser)"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "15:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Under Your Spell",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "15:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Grimes - Oblivion",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Grimes/_/Oblivion"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-19 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Know My Name",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Know+My+Name"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Sad World",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Sad+World"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Touching Yours",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Touching+Yours"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Aching Like Its",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Aching+Like+Its"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - It's A Dream",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/It%27s+A+Dream"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Cautious",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Cautious"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Snow Strippers - Under Your Spell",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Snow+Strippers/_/Under+Your+Spell"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "M.I.A. - XXXO",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/M.I.A./_/XXXO"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "14:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Squarepusher - Beep Street",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Squarepusher/_/Beep+Street"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Again",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Again"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - The Body Trail",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/The+Body+Trail"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Gray Subviolet",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Gray+Subviolet"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Plastic Antique",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Plastic+Antique"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Locrian Midwest",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Locrian+Midwest"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Krumville",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Krumville"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - World Outside",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/World+Outside"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Again",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Again"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Elseware",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Elseware"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "13:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ナイトinナイト【ABCテレビ公式】 - プロ野球選手でも尿意MAXなら打ち取れる！？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%8A%E3%82%A4%E3%83%88in%E3%83%8A%E3%82%A4%E3%83%88%E3%80%90ABC%E3%83%86%E3%83%AC%E3%83%93%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E9%81%B8%E6%89%8B%E3%81%A7%E3%82%82%E5%B0%BF%E6%84%8FMAX%E3%81%AA%E3%82%89%E6%89%93%E3%81%A1%E5%8F%96%E3%82%8C%E3%82%8B%EF%BC%81%EF%BC%9F"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-19 雲 24.4℃ (24.4〜24.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-19",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-19 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "03:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ハイグレ ハイグレ ハイグレ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/anneqnvvc3th1tvu"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "03:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "なんか寝れない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/annelqrlc3th1tvm"
-    },
-    {
-      "date": "2026-06-19",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "映画『スターウォーズ / マンダロリアン・アンド・グローグー』を見た\n駿河屋でフィギュアを衝動買いする",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F19"
     }
   ]
 }
