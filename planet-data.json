@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:00:02.006816+09:00",
+  "generated_at": "2026-07-20T15:00:01.342808+09:00",
   "timeline": [
     {
       "date": "2026-07-20",
@@ -9,6 +9,206 @@
       "text": "2026-07-20 晴天 28.6℃ (28.3〜28.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Animal Collective - Genie's Open",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Animal+Collective/_/Genie%27s+Open"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Animal Collective - Broke Zodiac",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Animal+Collective/_/Broke+Zodiac"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Animal Collective - Stride Rite",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Animal+Collective/_/Stride+Rite"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Animal Collective - Gem and I",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Animal+Collective/_/Gem+and+I"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Animal Collective - Magicians From Baltimore",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Animal+Collective/_/Magicians+From+Baltimore"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Myuthafoo - Math of You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Myuthafoo/_/Math+of+You"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "08:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Myuthafoo - Memory Leak",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Myuthafoo/_/Memory+Leak"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Caterina Barbieri at Electropark Festival",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Caterina+Barbieri+at+Electropark+Festival"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - The Landscape Listens",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/The+Landscape+Listens"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Terminal Clock",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Terminal+Clock"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Life at Altitude",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Life+at+Altitude"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Broken Melody",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Broken+Melody"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "07:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Knot of Spirit",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Knot+of+Spirit"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Canticle of Cryo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Canticle+of+Cryo"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Transfixed",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Transfixed"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - At Your Gamut",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/At+Your+Gamut"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AFX - ANALORD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AFX/_/ANALORD"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Bow of Perception",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Bow+of+Perception"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Pinnacles of You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Pinnacles+of+You"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "06:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caterina Barbieri - Arrows of Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Arrows+of+Time"
     },
     {
       "date": "2026-07-20",
