@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-07-20T15:00:01.342808+09:00",
+  "generated_at": "2026-07-20T23:00:01.887389+09:00",
   "timeline": [
+    {
+      "date": "2026-07-20",
+      "time": "19:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "これで何ができるのかわからんけど",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aownnp5dc3th2rsz"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "19:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "hermes agentをセットアップして、MCP経由でRSSリーダーが貯めてる記事とplanetが貯めてる個人アクティビティにアクセスできるようにしました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aownn1n3c3th2rsy"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "19:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "今忙しいのでわたしはコメント欄かチャット欄にいることしかできません",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aowml2xdc3th2rsf"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "19:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "これもう終わったの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aowmhe50c3th2rs6"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "15:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tom Jenkinson - 1994",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tom+Jenkinson/_/1994"
+    },
+    {
+      "date": "2026-07-20",
+      "time": "15:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tom Jenkinson - Whooshki",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tom+Jenkinson/_/Whooshki"
+    },
     {
       "date": "2026-07-20",
       "time": "09:00",
