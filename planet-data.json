@@ -1,6 +1,371 @@
 {
-  "generated_at": "2026-07-22T23:00:01.180509+09:00",
+  "generated_at": "2026-07-23T07:00:01.972584+09:00",
   "timeline": [
+    {
+      "date": "2026-07-23",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-07-23 晴天 30.6℃ (30.6〜30.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - Unnoticed Stagnation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/Unnoticed+Stagnation"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - I still want to see",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/I+still+want+to+see"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - 105",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/105"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - Of all the things you left behind, I chose only to keep impermanence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/Of+all+the+things+you+left+behind,+I+chose+only+to+keep+impermanence"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:04",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md and enhance cognitive rhythm writing guidelines",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - From the oblivion, the self wishing for that person...",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/From+the+oblivion,+the+self+wishing+for+that+person..."
+    },
+    {
+      "date": "2026-07-23",
+      "time": "02:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - Stunning Fragility",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/Stunning+Fragility"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tatsuro Murakami - Transitioning",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tatsuro+Murakami/_/Transitioning"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "1 - 11-5 Mita, Minato-ku, Tokyo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/1/_/11-5+Mita,+Minato-ku,+Tokyo"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - Baumaso",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/Baumaso"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Design - wise sublime",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Design/_/wise+sublime"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - LA VANGUARDIA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/LA+VANGUARDIA"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:32",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update Chapter 7 and related tasks to reflect the completion of the reorganization process",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - n.d.s.m.d. (Interlude)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/n.d.s.m.d.+(Interlude)"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - A single oasis (How nice)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/A+single+oasis+(How+nice)"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - 27 Deserts",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/27+Deserts"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - A discreet applause",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/A+discreet+applause"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - Blood traction light",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/Blood+traction+light"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GENDEMA - Relentless compassion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GENDEMA/_/Relentless+compassion"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "01:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Three Drums",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Three+Drums"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - So Blue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/So+Blue"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - 31 Bloom",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/31+Bloom"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Skater",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Skater"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Daydream Repeat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Daydream+Repeat"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Storm Crystals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Storm+Crystals"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Gliding Through Everything",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Gliding+Through+Everything"
+    },
+    {
+      "date": "2026-07-23",
+      "time": "00:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Loved",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Loved"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-22",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-22",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 36歩 / 心拍数: 56bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-22",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-07-22",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-22 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "22:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "wind96 - Arcadia Town",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/wind96/_/Arcadia+Town"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "22:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "wind96 - Kylin Forest",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/wind96/_/Kylin+Forest"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "22:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "wind96 - Feather Lakefront",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/wind96/_/Feather+Lakefront"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "22:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "wind96 - Yujia Forest",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/wind96/_/Yujia+Forest"
+    },
     {
       "date": "2026-07-22",
       "time": "22:02",
@@ -513,6 +878,16 @@
     },
     {
       "date": "2026-07-22",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-22 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-07-22",
       "time": "09:43",
       "src_id": 2,
       "src_type": "misskey",
@@ -541,6 +916,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Boards+of+Canada/_/Nova+Scotia+Robots"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "09:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 6件: Update RSS feed and add new monthly entry for May 2026 / Add new sections for disclaimer and colophon in the introduction page / Update introduction page layout and content / zakki: 2026-07-21の雑記を追加（2月〜7月まとめ） / fix: 2026-05-26雑記のナビゲーション矢印表示を修正",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-07-22",
@@ -590,6 +975,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Boards+of+Canada/_/Rodox+Video"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:52",
+      "src_id": 5,
+      "src_type": "rss",
+      "text": "2026年07月21日の雑記ページを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://yuinoid.neocities.org/txt/zakki/2026/07/days/2026-07-21.html"
     },
     {
       "date": "2026-07-22",
@@ -810,6 +1205,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Four+Tet/_/Untitled"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-22 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-07-22",
@@ -16707,876 +17112,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F06%2F24"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "23:53",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-23",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-23",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-23 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "15:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - さやわか×大井昌和×濱田轟天×東浩紀　ひらめきの8年とは何だったのか！？ #ひらめきマンガ #ゲンロン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%81%95%E3%82%84%E3%82%8F%E3%81%8B%C3%97%E5%A4%A7%E4%BA%95%E6%98%8C%E5%92%8C%C3%97%E6%BF%B1%E7%94%B0%E8%BD%9F%E5%A4%A9%C3%97%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%80%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%81%AE8%E5%B9%B4%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%81%EF%BC%9F+%23%E3%81%B2%E3%82%89%E3%82%81%E3%81%8D%E3%83%9E%E3%83%B3%E3%82%AC+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "15:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "いまJ - なぜM!LK等の楽曲が売れたのか？.)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%84%E3%81%BEJ/_/%E3%81%AA%E3%81%9CM!LK%E7%AD%89%E3%81%AE%E6%A5%BD%E6%9B%B2%E3%81%8C%E5%A3%B2%E3%82%8C%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%9F.)"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "15:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "いまJ - ショート動画と近年のヒット曲の傾向.)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%84%E3%81%BEJ/_/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E5%8B%95%E7%94%BB%E3%81%A8%E8%BF%91%E5%B9%B4%E3%81%AE%E3%83%92%E3%83%83%E3%83%88%E6%9B%B2%E3%81%AE%E5%82%BE%E5%90%91.)"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-23 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-06-23 厚い雲 21.4℃ (21.1〜21.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-06-23",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-06-23 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:40",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "女足軽おゆき",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant6pcloc3th1xnm"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "内容が薄いわりにダラダラ長いだけ そんで常識的なことしか書いてない 煮詰まってきた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant6l8fac3th1xnf",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "インターネット美学の文、書きたいことを全部書いてたら14万文字超えたのですが、もうだめかもしれない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant6i2foc3th1xnd",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:31",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "世界は、おしっこだ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant6e0edc3th1xn7"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:30",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "@IamnotHayato@mastodon.social それじゃあ、近くに貼った、気球の写真を、見ているだけじゃ、ないですか⁉️⁉️",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant6dfwmc3th1xn1"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://x.com/_baku89/status/2068993291740439032 今のハッカーの嗜みってなんだろう？女装とか？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ant689ftc3th1xmv",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:13",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: 新規ファイル「inv-opn-cook 年表」を追加し、Daniel Lopatin（Oneohtrix Point Never）とA. G. Cook（PC Music）間の音源レベルでの交差を時系列で整理。各エントリには詳細な出典を明記し、関連する共同作業やリミックスの情報を網羅。次のタスクを更新し、草稿への反映状況を整理。 / 本章の内容を更新し、Daniel LopatinとA. G. Cookの音源交差についての詳細を追加。交差の軌跡を詳述しつつ、主題から逸れる可能性についても言及。全体の流れを整えるための修正を実施。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 湯屋の朝",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B9%AF%E5%B1%8B%E3%81%AE%E6%9C%9D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 湯婆婆",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B9%AF%E5%A9%86%E5%A9%86"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 神さま達",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E7%A5%9E%E3%81%95%E3%81%BE%E9%81%94"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - ボイラー虫",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E8%99%AB"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "04:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 竜の少年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E7%AB%9C%E3%81%AE%E5%B0%91%E5%B9%B4"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 夜来る",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E5%A4%9C%E6%9D%A5%E3%82%8B"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 誰もいない料理店",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%84%E6%96%99%E7%90%86%E5%BA%97"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - とおり道",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%A8%E3%81%8A%E3%82%8A%E9%81%93"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - あの夏へ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%B8"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Cryo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Cryo"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - No Good",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/No+Good"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Lil Song",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Lil+Song"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "x-french tee shirt - still stuff that doesn't happen demo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/x-french+tee+shirt/_/still+stuff+that+doesn%27t+happen+demo"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Elseware",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Elseware"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Lil Song",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Lil+Song"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ripsquad - SMARTWATER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ripsquad/_/SMARTWATER"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A. G. Cook - Lil Song",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A.+G.+Cook/_/Lil+Song"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Guys Next Door - トピック - Behind the Wall",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Guys+Next+Door+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Behind+the+Wall"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bubs - A.G. Cook ft. OPN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bubs/_/A.G.+Cook+ft.+OPN"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Zebra (Warlord Edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Zebra+(Warlord+Edit)"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "03:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bubs - A.G. Cook ft. OPN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bubs/_/A.G.+Cook+ft.+OPN"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 沼の底の家",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B2%BC%E3%81%AE%E5%BA%95%E3%81%AE%E5%AE%B6"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 湯婆婆狂乱",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B9%AF%E5%A9%86%E5%A9%86%E7%8B%82%E4%B9%B1"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:53",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 新規ファイル「Google Trends 調査」を追加し、検索語の時系列データをGoogle Trendsから取得・可視化した内容を記述。データの二種類（単独CSVとpatch CSV）を整理し、各語の関心の変遷を示すための詳細な表を作成。関連タスクや解釈上の注意点も明記し、可視化手法についての説明を追加。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 6番目の駅",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/6%E7%95%AA%E7%9B%AE%E3%81%AE%E9%A7%85"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - カオナシ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%82%AB%E3%82%AA%E3%83%8A%E3%82%B7"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 底なし穴",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E5%BA%95%E3%81%AA%E3%81%97%E7%A9%B4"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 千の勇気",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E5%8D%83%E3%81%AE%E5%8B%87%E6%B0%97"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - おクサレ神",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%8A%E3%82%AF%E3%82%B5%E3%83%AC%E7%A5%9E"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 仕事はつらいぜ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E4%BB%95%E4%BA%8B%E3%81%AF%E3%81%A4%E3%82%89%E3%81%84%E3%81%9C"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - あの日の川",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%82%E3%81%AE%E6%97%A5%E3%81%AE%E5%B7%9D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 湯屋の朝",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B9%AF%E5%B1%8B%E3%81%AE%E6%9C%9D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 湯婆婆",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E6%B9%AF%E5%A9%86%E5%A9%86"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 神さま達",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E7%A5%9E%E3%81%95%E3%81%BE%E9%81%94"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - ボイラー虫",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%83%9C%E3%82%A4%E3%83%A9%E3%83%BC%E8%99%AB"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 竜の少年",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E7%AB%9C%E3%81%AE%E5%B0%91%E5%B9%B4"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 夜来る",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E5%A4%9C%E6%9D%A5%E3%82%8B"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - 誰もいない料理店",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%84%E6%96%99%E7%90%86%E5%BA%97"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - とおり道",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%A8%E3%81%8A%E3%82%8A%E9%81%93"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "久石譲 - あの夏へ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B9%85%E7%9F%B3%E8%AD%B2/_/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%B8"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "02:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Introversion - Block 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Introversion/_/Block+4"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Introversion - Dystopia",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Introversion/_/Dystopia"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Introversion - Create (Hours Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Introversion/_/Create+(Hours+Remix)"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jim Legxacy & Fimiguerrero - sun",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jim+Legxacy+&+Fimiguerrero/_/sun"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jim Legxacy - new david bowie",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jim+Legxacy/_/new+david+bowie"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jim Legxacy - Stick",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jim+Legxacy/_/Stick"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jim Legxacy - Context",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jim+Legxacy/_/Context"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Shinji Orito - 夢語り",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Shinji+Orito/_/%E5%A4%A2%E8%AA%9E%E3%82%8A"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Shinji Orito - 水たまり",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Shinji+Orito/_/%E6%B0%B4%E3%81%9F%E3%81%BE%E3%82%8A"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Shinji Orito - 跳ね水",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Shinji+Orito/_/%E8%B7%B3%E3%81%AD%E6%B0%B4"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jun Maeda - 夏影",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jun+Maeda/_/%E5%A4%8F%E5%BD%B1"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yuki Shimizu - hope",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yuki+Shimizu/_/hope"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - Light colors",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/Light+colors"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kid - Taker (EASYFUN Remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kid/_/Taker+(EASYFUN+Remix)"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Justified Ancients of Mu Mu & Extreme Noise Terror - 3AM Eternal (From the Black Room (The Justified Ancients of Mu Mu Vs Extreme Noise Terror))",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Justified+Ancients+of+Mu+Mu+&+Extreme+Noise+Terror/_/3AM+Eternal+(From+the+Black+Room+(The+Justified+Ancients+of+Mu+Mu+Vs+Extreme+Noise+Terror))"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:02",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 次のタスクを更新し、ed-6のポリッシュ作業を追加。ed-3のseapunk読み道整備が完了し、関連文書の参照を更新。全体の整合性を向上させるための修正を実施。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "01:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The KLF - Justified & Ancient",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+KLF/_/Justified+&+Ancient"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:56",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 5件: 第3章の内容を拡充し、「aesthetic」の語の歴史的背景とその変遷を詳細に考察。特に、TumblrやYouTubeにおける美学の形成過程や、音楽ジャンルとの関係を明確化。文中の表現を精緻化し、全体の整合性を向上させるための修正を実施。 / 第3章の内容を拡充し、「インターネット美学」の系譜とその発展過程を詳細に考察。特に、プラットフォームのアーキテクチャが美学ミームの形成に与える影響を明確化し、文中の表現を精緻化。全体の整合性を向上させるための修正を実施。 / 新規ファイル「次のタスク」を追加し、タスクの依存関係や進捗状況を整理。第3章の内容を拡充し、「インターネット美学」の系譜や制度化の過程を考察。文中の表現を精緻化し、全体の整合性を向上させるための修正を実施。 / 次のタスクを更新し、ed-3の計画を明確化。seapunk読み道整備のフェーズを整理し、見出しの追加や節頭地図の作成を含む内容を反映。関連文書の参照を更新し、全体の整合性を向上させるための修正を実施。 / 第3章の内容を拡充し、「インターネット美学」の系譜や制度化の過程を詳細に考察。特に、プラットフォームのアーキテクチャが美学の形成に与える影響や、タグ化のプロセスについて新たな視点を追加。文中の表現を精緻化し、全体の整合性を向上させるための修正を実施。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - A Question Of Honour",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/A+Question+Of+Honour"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - 鳥の詩 [StripE REMIX]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/%E9%B3%A5%E3%81%AE%E8%A9%A9+%5BStripE+REMIX%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - Light In the Air [oh my god!! FORCE mix]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/Light+In+the+Air+%5Boh+my+god!!+FORCE+mix%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - Birthday Song, Requiem [Eupho-LIA Hardcore remix]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/Birthday+Song,+Requiem+%5BEupho-LIA+Hardcore+remix%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - THE END",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/THE+END"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - あなたがいるだけで [Teranoid & MC Natsack REMIX]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%8C%E3%81%84%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7+%5BTeranoid+&+MC+Natsack+REMIX%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - NEW WORLD [OMEGA FORCE MIX 2007]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/NEW+WORLD+%5BOMEGA+FORCE+MIX+2007%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - You Are…",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/You+Are%E2%80%A6"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - HORIZON ～OMEGA FORCE updated～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/HORIZON+%EF%BD%9EOMEGA+FORCE+updated%EF%BD%9E"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - I'm feeling [Scott Brown & DJ EVIL remix]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/I%27m+feeling+%5BScott+Brown+&+DJ+EVIL+remix%5D"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - EARTH",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/EARTH"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lia - enigmatic ～exclusive～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lia/_/enigmatic+%EF%BD%9Eexclusive%EF%BD%9E"
-    },
-    {
-      "date": "2026-06-23",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F06%2F23"
     }
   ]
 }
