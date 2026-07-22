@@ -1,6 +1,516 @@
 {
-  "generated_at": "2026-07-22T15:00:01.467950+09:00",
+  "generated_at": "2026-07-22T23:00:01.180509+09:00",
   "timeline": [
+    {
+      "date": "2026-07-22",
+      "time": "22:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Anthrospray: Music for Extinction Renaissance",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Anthrospray:+Music+for+Extinction+Renaissance"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "外山恒一とthe Politically Incorrect Party (PIP) / 不適切党 - 自称福岡県警との闘い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%96%E5%B1%B1%E6%81%92%E4%B8%80%E3%81%A8the+Politically+Incorrect+Party+(PIP)+%2F+%E4%B8%8D%E9%81%A9%E5%88%87%E5%85%9A/_/%E8%87%AA%E7%A7%B0%E7%A6%8F%E5%B2%A1%E7%9C%8C%E8%AD%A6%E3%81%A8%E3%81%AE%E9%97%98%E3%81%84"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ネプチューン堀内健さんが来てくれました。 - 太田上田＃５５０①",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8D%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E5%A0%80%E5%86%85%E5%81%A5%E3%81%95%E3%82%93%E3%81%8C%E6%9D%A5%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%95%EF%BC%90%E2%91%A0"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "鹿島茂×石井洋二郎 - 共同幻想論",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%B9%BF%E5%B3%B6%E8%8C%82%C3%97%E7%9F%B3%E4%BA%95%E6%B4%8B%E4%BA%8C%E9%83%8E/_/%E5%85%B1%E5%90%8C%E5%B9%BB%E6%83%B3%E8%AB%96"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YABUJIN - MUTANT PHONK 9",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YABUJIN/_/MUTANT+PHONK+9"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gel - COLD HELLFIRE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gel/_/COLD+HELLFIRE"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YABUJIN - FETUS",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YABUJIN/_/FETUS"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YABUJIN - GARDEN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YABUJIN/_/GARDEN"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "21:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YABUJIN - BAROQUE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YABUJIN/_/BAROQUE"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tokyo Hands - Down 4 U (DJ Warlord Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tokyo+Hands/_/Down+4+U+(DJ+Warlord+Edit)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nobukazu Takemura - Rill",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nobukazu+Takemura/_/Rill"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AnchorRecordsJapan - THE RiCECOOKERS／波のゆくさき",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AnchorRecordsJapan/_/THE+RiCECOOKERS%EF%BC%8F%E6%B3%A2%E3%81%AE%E3%82%86%E3%81%8F%E3%81%95%E3%81%8D"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Omodaka - Kyotei Daiski",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Omodaka/_/Kyotei+Daiski"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dimlite - Elbow Flood",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dimlite/_/Elbow+Flood"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kettel - Sylvia",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kettel/_/Sylvia"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "林原めぐみ - 騒擾楽園",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%9E%97%E5%8E%9F%E3%82%81%E3%81%90%E3%81%BF/_/%E9%A8%92%E6%93%BE%E6%A5%BD%E5%9C%92"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Lifetime",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Lifetime"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "鯨 - ふたつのスピカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%AF%A8/_/%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E3%82%B9%E3%83%94%E3%82%AB"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "20:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Russians",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Russians"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Childish Gambino - This Is America",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Childish+Gambino/_/This+Is+America"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - One Last Kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Snail Mail - Pristine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Snail+Mail/_/Pristine"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "坂本真綾 - トライアングラー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE/_/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "popko mandrake - I wanna be a ☆VIP STAR☆",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/popko+mandrake/_/I+wanna+be+a+%E2%98%86VIP+STAR%E2%98%86"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Petal Supply - Charli XCX - Club Classics (Petal Supply's 'Dance All Night' Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Petal+Supply/_/Charli+XCX+-+Club+Classics+(Petal+Supply%27s+%27Dance+All+Night%27+Mix)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - Heart (Single Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/Heart+(Single+Mix)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hercelot x Tomggg - GREENGUM",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hercelot+x+Tomggg/_/GREENGUM"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ケロ・ケロ・ボニト - Trampoline",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD%E3%83%BB%E3%82%B1%E3%83%AD%E3%83%BB%E3%83%9C%E3%83%8B%E3%83%88/_/Trampoline"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Toro y Moi - Low Shoulder",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Toro+y+Moi/_/Low+Shoulder"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "19:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "BUMP OF CHICKEN - ray",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/BUMP+OF+CHICKEN/_/ray"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ホーリー・ハーダン - Chorus",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%80%E3%83%B3/_/Chorus"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Martika - Toy Soldiers",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Martika/_/Toy+Soldiers"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DM Stith - Braid of Voices (Clark remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DM+Stith/_/Braid+of+Voices+(Clark+remix)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg & Dia - Monster (DotEXE Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg+&+Dia/_/Monster+(DotEXE+Remix)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Fly - Day Chinatown",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Fly/_/Day+Chinatown"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヤング・リーン - friday the 13th",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%B3/_/friday+the+13th"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヤング・リーン - Boylife in EU",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%B3/_/Boylife+in+EU"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "シェリル・ノーム starring May'n - 射手座☆午後九時Don't be late",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%AB%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%A0+starring+May%27n/_/%E5%B0%84%E6%89%8B%E5%BA%A7%E2%98%86%E5%8D%88%E5%BE%8C%E4%B9%9D%E6%99%82Don%27t+be+late"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TM NETWORK - Beyond the Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TM+NETWORK/_/Beyond+the+Time"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Virtual Self - Angel Voices",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Virtual+Self/_/Angel+Voices"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Finn Keane - Be Your USA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Finn+Keane/_/Be+Your+USA"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - B Who I Want 2 B",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/B+Who+I+Want+2+B"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "18:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - PINK BLOOD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/PINK+BLOOD"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "nobodyknows+ - Hero's Come Back!!",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/nobodyknows%252B/_/Hero%27s+Come+Back!!"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats - 朝が来るまで終わる事の無いダンスを(2012mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats/_/%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%BE%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8B%E4%BA%8B%E3%81%AE%E7%84%A1%E3%81%84%E3%83%80%E3%83%B3%E3%82%B9%E3%82%92(2012mix)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "group inou - BLUE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/group+inou/_/BLUE"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "赤野りんす - 味楽る！ミミカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%B5%A4%E9%87%8E%E3%82%8A%E3%82%93%E3%81%99/_/%E5%91%B3%E6%A5%BD%E3%82%8B%EF%BC%81%E3%83%9F%E3%83%9F%E3%82%AB"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LUMchontaLEO - うる星やつら２　　愛はブーメラン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LUMchontaLEO/_/%E3%81%86%E3%82%8B%E6%98%9F%E3%82%84%E3%81%A4%E3%82%89%EF%BC%92%E3%80%80%E3%80%80%E6%84%9B%E3%81%AF%E3%83%96%E3%83%BC%E3%83%A1%E3%83%A9%E3%83%B3"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "チャーリーXCX - Vroom Vroom",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BCXCX/_/Vroom+Vroom"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "17:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stereo Graphica - さよならを教えて comment te dire adieu remix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stereo+Graphica/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6+comment+te+dire+adieu+remix"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "16:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "京都大学 社会経済学入門 第6回 - 政策協調の強制枠としてのIMF体制",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%AC%E9%83%BD%E5%A4%A7%E5%AD%A6+%E7%A4%BE%E4%BC%9A%E7%B5%8C%E6%B8%88%E5%AD%A6%E5%85%A5%E9%96%80+%E7%AC%AC6%E5%9B%9E/_/%E6%94%BF%E7%AD%96%E5%8D%94%E8%AA%BF%E3%81%AE%E5%BC%B7%E5%88%B6%E6%9E%A0%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AEIMF%E4%BD%93%E5%88%B6"
+    },
     {
       "date": "2026-07-22",
       "time": "09:43",
