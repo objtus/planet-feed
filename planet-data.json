@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-07-22T07:00:01.417549+09:00",
+  "generated_at": "2026-07-22T15:00:01.467950+09:00",
   "timeline": [
+    {
+      "date": "2026-07-22",
+      "time": "09:43",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://x.com/search?q=%22%E5%B9%B3%E6%88%90%E5%A5%B3%E5%85%90%22%20until%3A2022-12-31%20min_faves%3A100&src=typed_query&f=live",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoyxb08bc3th2tkk",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "09:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - June 9th",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/June+9th"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "09:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Nova Scotia Robots",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Nova+Scotia+Robots"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "09:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Roygbiv",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "09:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Boc Maxima",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Boc+Maxima"
+    },
     {
       "date": "2026-07-22",
       "time": "09:00",
@@ -9,6 +60,336 @@
       "text": "2026-07-22 晴天 31.4℃ (31.1〜31.6℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Everything You Do Is a Balloon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Everything+You+Do+Is+a+Balloon"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Rodox Video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Rodox+Video"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Chinook",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Chinook"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Wildlife Analysis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Selected Ambient Works Volume II (Expanded Edition)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Selected+Ambient+Works+Volume+II+(Expanded+Edition)"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 8",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/8"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:24",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "今日も一日、一緒に何が起きるか分からないハチャメチャな冒険を楽しんでいこう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoyuh9v8c3th2tig"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 7",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/7"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 6",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/6"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/5"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "08:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/4"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 3",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/3"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/2"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Untitled",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Untitled"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Selected Ambient Works",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Selected+Ambient+Works"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Untitled",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Untitled"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Falls 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Falls+2"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Alap",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Alap"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Parallel 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Parallel+1"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Ba Teaches Yoga",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Ba+Teaches+Yoga"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Reversing",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Reversing"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - 4T Recordings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/4T+Recordings"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Parallel 9",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Parallel+9"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "07:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Untitled",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Untitled"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:57",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://scrapbox.io/stall/%E5%B9%B3%E6%88%90%E5%A5%B3%E5%85%90　平成女児ブーム年表を簡単にまとめてみた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aoyrd6uoc3th2th2"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Both When I Am Alone And When We Both Are",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Both+When+I+Am+Alone+And+When+We+Both+Are"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Field",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Field"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Nothing to See",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Nothing+to+See"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - The Reservoir",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/The+Reservoir"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Gillie Amma I Love You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Gillie+Amma+I+Love+You"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Pockets",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Pockets"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - For These Times",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/For+These+Times"
+    },
+    {
+      "date": "2026-07-22",
+      "time": "06:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Four Tet - Moma",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Four+Tet/_/Moma"
     },
     {
       "date": "2026-07-22",
