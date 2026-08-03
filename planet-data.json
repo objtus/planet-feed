@@ -1,6 +1,206 @@
 {
-  "generated_at": "2026-08-03T07:00:01.210347+09:00",
+  "generated_at": "2026-08-03T15:00:01.543135+09:00",
   "timeline": [
+    {
+      "date": "2026-08-03",
+      "time": "13:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Broken Canyon - Surface",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Broken+Canyon/_/Surface"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "13:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bentoBoy - Dream Sequence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/bentoBoy/_/Dream+Sequence"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "13:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bentoBoy - Dream Sequence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/bentoBoy/_/Dream+Sequence"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "13:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bôa - Fool",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/b%C3%B4a/_/Fool"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Turquoise Hexagon Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Turquoise+Hexagon+Sun"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Slow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Slow"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "みなさま　おやすみなさい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apg8s2o2c3th3ae7"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "オウテカ - トピック - Slip",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AA%E3%82%A6%E3%83%86%E3%82%AB+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Slip"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "12:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Arena Americanada",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Arena+Americanada"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Boc Maxima (CD rip)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Boc+Maxima+(CD+rip)"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - June 9th",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/June+9th"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Nova Scotia Robots",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Nova+Scotia+Robots"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Roygbiv",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Boc Maxima",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Boc+Maxima"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Everything You Do Is a Balloon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Everything+You+Do+Is+a+Balloon"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Rodox Video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Rodox+Video"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Chinook",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Chinook"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "11:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Wildlife Analysis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
+    },
+    {
+      "date": "2026-08-03",
+      "time": "10:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 東浩紀、久しぶりの無料深夜突発",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%81%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E7%84%A1%E6%96%99%E6%B7%B1%E5%A4%9C%E7%AA%81%E7%99%BA"
+    },
     {
       "date": "2026-08-03",
       "time": "09:00",
