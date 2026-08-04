@@ -1,6 +1,283 @@
 {
-  "generated_at": "2026-08-04T23:00:01.177147+09:00",
+  "generated_at": "2026-08-05T07:00:01.920443+09:00",
   "timeline": [
+    {
+      "date": "2026-08-05",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-08-05 晴天 27.2℃ (26.7〜27.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:45",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "これはマジであたらしい みたいなのないの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apioyw0qc3th3eqy"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "2020年代は新しい音楽がないなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apioqfv2c3th3eqv"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Remove redundant information from the GeoCities and Tumblr section in the documentation. Streamlined content by eliminating a sentence about GeoCities' disappearance in 2009, enhancing the focus on Tumblr's development and its historical context.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Refactor next_tasks.md to include new task for compressing and restructuring the introduction section",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Crush",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Crush"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "05:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Environments",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Environments"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Bias",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Bias"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - LesAlpx",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/LesAlpx"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Karakul",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Karakul"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Requiem for CS70 and Strings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Anasickmodular",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Anasickmodular"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Last Bloom",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Last+Bloom"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Falaise",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Falaise"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md with recent task completions and adjustments",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caroline Polachek - So Hot You're Hurting My Feelings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mars Argo - Doctor",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mars+Argo/_/Doctor"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:19",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md and RBMA documents with task completions and draft reflections",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "04:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "mars argo playlist - mars argo playlist",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/mars+argo+playlist/_/mars+argo+playlist"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "01:53",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "別に体調悪くないし精神的にも頑強ですけどなんとなく死にそうです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apigofzic3th3eou"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "01:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Yanatake - 40代はいろいろ♫",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Yanatake/_/40%E4%BB%A3%E3%81%AF%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E2%99%AB"
+    },
+    {
+      "date": "2026-08-05",
+      "time": "00:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "晴れたの日の宇多田ヒカル - プレイリスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%99%B4%E3%82%8C%E3%81%9F%E3%81%AE%E6%97%A5%E3%81%AE%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "23:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカルの隠れた名曲 - プレイリスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%E3%81%AE%E9%9A%A0%E3%82%8C%E3%81%9F%E5%90%8D%E6%9B%B2/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 1時間15分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-04",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-04",
+      "time": "23:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "雨の日の宇多田ヒカル - プレイリスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%A8%E3%81%AE%E6%97%A5%E3%81%AE%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "22:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "うちギャルやねん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/api9invtc3th3e9v"
+    },
     {
       "date": "2026-08-04",
       "time": "22:04",
@@ -140,6 +417,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Charli+xcx/_/Nuclear+Seasons"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "19:06",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Enhance documentation with new transcripts and updates on H∆SHTAG$ episodes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-04",
@@ -313,6 +600,16 @@
     },
     {
       "date": "2026-08-04",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-04",
       "time": "14:59",
       "src_id": 4,
       "src_type": "lastfm",
@@ -323,6 +620,16 @@
     },
     {
       "date": "2026-08-04",
+      "time": "14:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update file paths and references in multiple documents to reflect recent organizational changes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-04",
       "time": "14:51",
       "src_id": 4,
       "src_type": "lastfm",
@@ -330,6 +637,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Jam+City/_/Classical+Curves"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "14:50",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 3件: Update file paths and references in multiple documents / Add new chapters and documents on internet aesthetics and cultural movements / Update file paths and references to manuscript directory in multiple documents",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-04",
@@ -360,6 +677,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Jam+City/_/Club+Thanz"
+    },
+    {
+      "date": "2026-08-04",
+      "time": "14:40",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 3件: Update document paths and enhance references in various files / Add new documents for aesthetic review and structural planning / Update document paths and references across multiple files",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-04",
@@ -423,6 +750,16 @@
     },
     {
       "date": "2026-08-04",
+      "time": "14:08",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: Update context-map.md, next_tasks.md, and README.md to reflect recent document reorganizations and archive updates",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-04",
       "time": "12:41",
       "src_id": 2,
       "src_type": "misskey",
@@ -439,6 +776,16 @@
       "text": "2026-08-04 厚い雲 26.6℃ (26.6〜26.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-04",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-08-03",
@@ -14354,123 +14701,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F07%2F07"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-06",
-      "time": "23:16",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-06",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "12:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Hund - aloegarten",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Hund/_/aloegarten"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "12:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "esc 不在 - MIDI Dungeon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/esc+%E4%B8%8D%E5%9C%A8/_/MIDI+Dungeon"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "11:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "TRIGGER Channel - 監督：今石洋之×脚本：中島かずき 第4弾作品 制作発表コメント",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/TRIGGER+Channel/_/%E7%9B%A3%E7%9D%A3%EF%BC%9A%E4%BB%8A%E7%9F%B3%E6%B4%8B%E4%B9%8B%C3%97%E8%84%9A%E6%9C%AC%EF%BC%9A%E4%B8%AD%E5%B3%B6%E3%81%8B%E3%81%9A%E3%81%8D+%E7%AC%AC4%E5%BC%BE%E4%BD%9C%E5%93%81+%E5%88%B6%E4%BD%9C%E7%99%BA%E8%A1%A8%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "11:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "TVアニメーション - 攻殻機動隊 THE GHOST IN THE SHELL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/_/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A+THE+GHOST+IN+THE+SHELL"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-07-06 厚い雲 22.2℃ (22.2〜22.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-06",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-06 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "01:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "claude fable 5まだ使ってません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aobkg5pqc3th2a0o"
-    },
-    {
-      "date": "2026-07-06",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "claude fable 5を触った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F07%2F06"
     }
   ]
 }
