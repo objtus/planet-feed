@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-04T07:00:01.366549+09:00",
+  "generated_at": "2026-08-04T15:00:01.647702+09:00",
   "timeline": [
+    {
+      "date": "2026-08-04",
+      "time": "12:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "スーパーおまかせ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aphoe9qbc3th3czo"
+    },
     {
       "date": "2026-08-04",
       "time": "09:00",
