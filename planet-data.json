@@ -1,6 +1,1286 @@
 {
-  "generated_at": "2026-08-06T15:00:01.464839+09:00",
+  "generated_at": "2026-08-06T23:00:01.719723+09:00",
   "timeline": [
+    {
+      "date": "2026-08-06",
+      "time": "21:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "アンインストール - 歌詞付",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB/_/%E6%AD%8C%E8%A9%9E%E4%BB%98"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G.  Cook - Close your Eyes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.++Cook/_/Close+your+Eyes"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - BIPP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/BIPP"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gintama ED07 - Signal - Kelun FULL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gintama+ED07/_/Signal+-+Kelun+FULL"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田一郎不可触世界 - Ankyo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E4%B8%80%E9%83%8E%E4%B8%8D%E5%8F%AF%E8%A7%A6%E4%B8%96%E7%95%8C/_/Ankyo"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Infinite Mint",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost/_/Infinite+Mint"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トーイ・ボックス - Best Friend",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%BC%E3%82%A4%E3%83%BB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/_/Best+Friend"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ifcat110 - ハッピーシンセサイザ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ifcat110/_/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - traveling",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/traveling"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:03",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "夢小説もそうだけど、そういうのに没入できる気がしない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apl1778hc3th3h3l"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Let's Go Out - Full",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Let%27s+Go+Out/_/Full"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "21:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "zetaみたいなキャラAI流行ってるらしいけどジェイルブレイクしたくなんないのかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apl15ppgc3th3h3k"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "M - flo / come again",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M/_/flo+%2F+come+again"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - A Journey to Reedham (7am mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/A+Journey+to+Reedham+(7am+mix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ケロ・ケロ・ボニト - Trampoline",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B1%E3%83%AD%E3%83%BB%E3%82%B1%E3%83%AD%E3%83%BB%E3%83%9C%E3%83%8B%E3%83%88/_/Trampoline"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "今この時点でも苦しんでいる人たちがいるのに、そうやってなにも行動せず、議論を提起せず、立場をあいまいにして、当事者でないからといって真剣に問題を考えもせず、捉えもせずいる。そうした行為が、あり方が、むしろ間接的に問題に加担していることを自覚すべきです。そういう隠蔽体質が",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apl0epa0c3th3h2x"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "越美晴 - パラレリズム～Decadance120",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%B6%8A%E7%BE%8E%E6%99%B4/_/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AA%E3%82%BA%E3%83%A0%EF%BD%9EDecadance120"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nona Reeves - Love Together",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nona+Reeves/_/Love+Together"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "申し訳ございません。わたしの素朴な政治的意見を表明してしまいました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apl00bbrc3th3h0q"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kai Whiston - (Run It)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kai+Whiston/_/(Run+It)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:27",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "政治の話になると真面目にならないといけない感じなのがやだよな　だからツイッター嫌いだわ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzxlqjc3th3h0g"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Toro y Moi - Low Shoulder",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Toro+y+Moi/_/Low+Shoulder"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:23",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "断然フラット派だね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzrdecc3th3gzk"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "フラットなほうがいいと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzqkw6c3th3gzb"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Fly - Day Chinatown",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Fly/_/Day+Chinatown"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "あと男女論",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkznpypc3th3gyg"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ひとのことは知らんけど普通にネトウヨ陰謀論みたいなことを言いだしたら引く",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzmo0dc3th3gy4"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "いきものがかり - ブルーバード",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%84%E3%81%8D%E3%82%82%E3%81%AE%E3%81%8C%E3%81%8B%E3%82%8A/_/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:15",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "その場合、してもしなくてもいいし、したいときはするし、人のことは知らん、くらいの距離感でいたほうが気が楽、という感じ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzhsfdc3th3gxf"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "インターネットの場合、政治の話でもなんでも基本的には不特定多数に公開してしまう（されてしまう）もので、信頼関係とか関係ないからどうもおびえちゃいがちだよね　そうなってくると「意見表明」の力学自体がもう政治的",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkzevmyc3th3gx7"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "高橋洋子 - 魂のルフラン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%AB%98%E6%A9%8B%E6%B4%8B%E5%AD%90/_/%E9%AD%82%E3%81%AE%E3%83%AB%E3%83%95%E3%83%A9%E3%83%B3"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "カリブー - Pelican Narrows",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AB%E3%83%AA%E3%83%96%E3%83%BC/_/Pelican+Narrows"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "信頼関係があれば政治の話だってできるだろうし、関係性の足場を固めるのが重要なんじゃないの　インターネットの場合は別",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkz7ymjc3th3gx0"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこメトロオーケストラ - ノルニル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E3%83%8E%E3%83%AB%E3%83%8B%E3%83%AB"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "それぞれ問題意識をもって自分のできることを行動すればいいんじゃないかな　わたしにも深刻な問題があります",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkz4481c3th3gww"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caroline Polachek - So Hot You're Hurting My Feelings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "みんな友人とかいるんだ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkz0csmc3th3gwv"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "20:01",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なに書いても冷笑系にしかならんなと思ってグッとこらえたけど、それでも素朴な感覚を表明するとすれば、そもそも他人とある程度親密な関係をもってコミュニケーションをとることがないんだよね　別の問題だわ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkyzh9uc3th3gws"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "mol-74 - 赤い頬",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/mol-74/_/%E8%B5%A4%E3%81%84%E9%A0%AC"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sugar Soul - いいよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sugar+Soul/_/%E3%81%84%E3%81%84%E3%82%88"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:50",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "わたしのツイッターのおすすめタイムラインは政治の話がたくさん流れてきます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkyluy7c3th3gvu"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "いい話",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkyj0c1c3th3gvk"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "シェリル・ノーム starring May'n - 射手座☆午後九時Don't be late",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%AB%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%A0+starring+May%27n/_/%E5%B0%84%E6%89%8B%E5%BA%A7%E2%98%86%E5%8D%88%E5%BE%8C%E4%B9%9D%E6%99%82Don%27t+be+late"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:45",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "政治の話をしないのは逃避だ、と急き立ててもろくなことにはならないし、大事なのは自由ですよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkyfd7ic3th3gvi"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "政治の話はしてもいいし、しなくてもいい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkydm64c3th3gvd"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "放課後ティータイム - ふわふわ時間",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0/_/%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E6%99%82%E9%96%93"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "井上 麻里奈 [Marina Inoue] - ビューティフル・ストーリー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%95%E4%B8%8A+%E9%BA%BB%E9%87%8C%E5%A5%88+%5BMarina+Inoue%5D/_/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "獣の奏者エリン＼獸之奏者艾琳 - 雫",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%8D%A3%E3%81%AE%E5%A5%8F%E8%80%85%E3%82%A8%E3%83%AA%E3%83%B3%EF%BC%BC%E7%8D%B8%E4%B9%8B%E5%A5%8F%E8%80%85%E8%89%BE%E7%90%B3/_/%E9%9B%AB"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nikakoi - freckles",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nikakoi/_/freckles"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "中川翔子 - 空色デイズ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%AD%E5%B7%9D%E7%BF%94%E5%AD%90/_/%E7%A9%BA%E8%89%B2%E3%83%87%E3%82%A4%E3%82%BA"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "米米CLUB - 浪漫飛行",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E7%B1%B3CLUB/_/%E6%B5%AA%E6%BC%AB%E9%A3%9B%E8%A1%8C"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Malibu - One Life (Evian Christ Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Malibu/_/One+Life+(Evian+Christ+Remix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "鈴木焼肉 - True my heart (きしめん)高音質",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E7%84%BC%E8%82%89/_/True+my+heart+(%E3%81%8D%E3%81%97%E3%82%81%E3%82%93)%E9%AB%98%E9%9F%B3%E8%B3%AA"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - NOTHING MORE TO SAY / EEEHHH",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/NOTHING+MORE+TO+SAY+%2F+EEEHHH"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "19:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "the shit that goes boom boom - Call Me Maybe (Umru's prom night Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/the+shit+that+goes+boom+boom/_/Call+Me+Maybe+(Umru%27s+prom+night+Edit)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "AnchorRecordsJapan - THE RiCECOOKERS／波のゆくさき",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/AnchorRecordsJapan/_/THE+RiCECOOKERS%EF%BC%8F%E6%B3%A2%E3%81%AE%E3%82%86%E3%81%8F%E3%81%95%E3%81%8D"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "School Days - 悲しみの向こうへ(原文歌詞、中文填詞)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/School+Days/_/%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E3%81%B8(%E5%8E%9F%E6%96%87%E6%AD%8C%E8%A9%9E%E3%80%81%E4%B8%AD%E6%96%87%E5%A1%AB%E8%A9%9E)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Boundry",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Boundry"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caramella Girls - Caramelldansen Español",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caramella+Girls/_/Caramelldansen+Espa%C3%B1ol"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DMX Krew - You Can't Hide Your Love (Aphex Twin Hidden Love Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DMX+Krew/_/You+Can%27t+Hide+Your+Love+(Aphex+Twin+Hidden+Love+Mix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "あああ - 寝・逃・げでリセット！(詳細に歌詞付き)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%82%E3%81%82%E3%81%82/_/%E5%AF%9D%E3%83%BB%E9%80%83%E3%83%BB%E3%81%92%E3%81%A7%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88%EF%BC%81(%E8%A9%B3%E7%B4%B0%E3%81%AB%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Helios - The Obeisant Vine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Helios/_/The+Obeisant+Vine"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "USK - bleeps love breaks",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/USK/_/bleeps+love+breaks"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "三木道三 - Lifetime Respect",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%89%E6%9C%A8%E9%81%93%E4%B8%89/_/Lifetime+Respect"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "hazama town - この町いつも～貧ちゃんのうた～／貧ちゃん(齋藤彩夏)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/hazama+town/_/%E3%81%93%E3%81%AE%E7%94%BA%E3%81%84%E3%81%A4%E3%82%82%EF%BD%9E%E8%B2%A7%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%86%E3%81%9F%EF%BD%9E%EF%BC%8F%E8%B2%A7%E3%81%A1%E3%82%83%E3%82%93(%E9%BD%8B%E8%97%A4%E5%BD%A9%E5%A4%8F)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "沙理戰-MAD·AMV - 超時空要塞マクロス Macross IN 愛・おぼえていますか Do You Remember Love AI 4K 中日字幕  (回憶系列#46)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B2%99%E7%90%86%E6%88%B0-MAD%C2%B7AMV/_/%E8%B6%85%E6%99%82%E7%A9%BA%E8%A6%81%E5%A1%9E%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9+Macross+IN+%E6%84%9B%E3%83%BB%E3%81%8A%E3%81%BC%E3%81%88%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B+Do+You+Remember+Love+AI+4K+%E4%B8%AD%E6%97%A5%E5%AD%97%E5%B9%95++(%E5%9B%9E%E6%86%B6%E7%B3%BB%E5%88%97%2346)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウォッシュト・アウト - Feel It All Around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%88%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88/_/Feel+It+All+Around"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ptn8107 - THE　NEUTRAL　－　日曜日の太陽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ptn8107/_/THE%E3%80%80NEUTRAL%E3%80%80%EF%BC%8D%E3%80%80%E6%97%A5%E6%9B%9C%E6%97%A5%E3%81%AE%E5%A4%AA%E9%99%BD"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Games - Strawberry Skies",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Games/_/Strawberry+Skies"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "18:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Röyksopp - Remind Me - 4K Restoration",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/R%C3%B6yksopp/_/Remind+Me+-+4K+Restoration"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Orchestral Manoeuvres in the Dark - エノラ・ゲイ (リマスター2003)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Orchestral+Manoeuvres+in+the+Dark/_/%E3%82%A8%E3%83%8E%E3%83%A9%E3%83%BB%E3%82%B2%E3%82%A4+(%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC2003)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Roosevelt - Montreal",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Roosevelt/_/Montreal"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dreamtrak - Odyssey, Pt. 2 (A. G. Cook Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dreamtrak/_/Odyssey,+Pt.+2+(A.+G.+Cook+Remix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ghost in the Shell - Beauty Is Within Us",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ghost+in+the+Shell/_/Beauty+Is+Within+Us"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヤング・リーン - Ginseng Strip 2002",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%B3/_/Ginseng+Strip+2002"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "fripSide - only my railgun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/fripSide/_/only+my+railgun"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "坂本真綾 - トライアングラー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E7%9C%9F%E7%B6%BE/_/%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%BC"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "okaokared - さよならを教えて FULLver.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/okaokared/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6+FULLver."
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bladee & Mechatok - God (Evian Christ Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bladee+&+Mechatok/_/God+(Evian+Christ+Remix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ASIAN KUNG-FU GENERATION - アフターダーク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AF"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "デュラン・デュラン - INVISIBLE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3/_/INVISIBLE"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Soichi Terada & Shinichiro Yokota - Got To Be Real",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Soichi+Terada+&+Shinichiro+Yokota/_/Got+To+Be+Real"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "17:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kuro - 炉心融解",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kuro/_/%E7%82%89%E5%BF%83%E8%9E%8D%E8%A7%A3"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "New Order - Here to Stay (radio edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/New+Order/_/Here+to+Stay+(radio+edit)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "眠い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apksbi9mc3th3gkj"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Fingerbib",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Fingerbib"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Calm - Sunday Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Calm/_/Sunday+Sun"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mihka! X Kyoto Black - Kodokushi (孤独死)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mihka!+X+Kyoto+Black/_/Kodokushi+(%E5%AD%A4%E7%8B%AC%E6%AD%BB)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anish Mathew Thomas - Inner Blue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anish+Mathew+Thomas/_/Inner+Blue"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Neighbourhood - Sweater Weather",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Neighbourhood/_/Sweater+Weather"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ポルノグラフィティ／アゲハ蝶 - フル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9D%E3%83%AB%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3%EF%BC%8F%E3%82%A2%E3%82%B2%E3%83%8F%E8%9D%B6/_/%E3%83%95%E3%83%AB"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "フリップ - ワンダーランド",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%95%E3%83%AA%E3%83%83%E3%83%97/_/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "some other time - Ghost in the Shell SAC O.S.T.1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/some+other+time/_/Ghost+in+the+Shell+SAC+O.S.T.1"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Shangri-Las - La",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Shangri-Las/_/La"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "SHUFFLE! OP - YOU",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/SHUFFLE!+OP/_/YOU"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Avril 14th",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Avril+14th"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Animals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Animals"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "16:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Noid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Noid"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - 君に夢中",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E5%90%9B%E3%81%AB%E5%A4%A2%E4%B8%AD"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "なっち【アニソンMusic Room】 - ゆずれない願い　田村直美",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%AA%E3%81%A3%E3%81%A1%E3%80%90%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3Music+Room%E3%80%91/_/%E3%82%86%E3%81%9A%E3%82%8C%E3%81%AA%E3%81%84%E9%A1%98%E3%81%84%E3%80%80%E7%94%B0%E6%9D%91%E7%9B%B4%E7%BE%8E"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "hakobiya3 - CLANNAD 同じ高みへ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/hakobiya3/_/CLANNAD+%E5%90%8C%E3%81%98%E9%AB%98%E3%81%BF%E3%81%B8"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bluefire diamond - ひぐらしのなく頃にOSTメインテーマ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/bluefire+diamond/_/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%ABOST%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ghost in the Shell - Velveteen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ghost+in+the+Shell/_/Velveteen"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Crushed Velvet",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Crushed+Velvet"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2k、Thaiboy Digital、Bladee - Western Union",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2k%E3%80%81Thaiboy+Digital%E3%80%81Bladee/_/Western+Union"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Melissa - Porno Graffitti",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Melissa/_/Porno+Graffitti"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "るら - 椎名へきる／わたしがウインビー！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%8B%E3%82%89/_/%E6%A4%8E%E5%90%8D%E3%81%B8%E3%81%8D%E3%82%8B%EF%BC%8F%E3%82%8F%E3%81%9F%E3%81%97%E3%81%8C%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%93%E3%83%BC%EF%BC%81"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Björk - Hyperballad",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bj%C3%B6rk/_/Hyperballad"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - A Walk Down Chapel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/A+Walk+Down+Chapel"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - minipops 67 (source field mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/minipops+67+(source+field+mix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "15:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Namasenda - Wanted (Kamixlo Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Namasenda/_/Wanted+(Kamixlo+Remix)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "IOSYS - ハッピー☆マテリアル (Happy☆Material)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/IOSYS/_/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E2%98%86%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB+(Happy%E2%98%86Material)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stereo Graphica - さよならを教えて comment te dire adieu remix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stereo+Graphica/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6+comment+te+dire+adieu+remix"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヤング・リーン - Oreomilkshake",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%B3/_/Oreomilkshake"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ - パソコン音楽クラブ −  reiji no machi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92++reiji+no+machi"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "SlowStep 初めての恋愛 - Healing Leaf (島宮えい子&川田まみ)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/SlowStep+%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E6%81%8B%E6%84%9B/_/Healing+Leaf+(%E5%B3%B6%E5%AE%AE%E3%81%88%E3%81%84%E5%AD%90&%E5%B7%9D%E7%94%B0%E3%81%BE%E3%81%BF)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:31",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "最近たのしいことがないのではげましてほしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/apkn7i2t6i"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:31",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "うんち",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/apkn73nz67"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dark0 - Forever",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dark0/_/Forever"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Ted",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Ted"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "かずち - escape.KNN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%8B%E3%81%9A%E3%81%A1/_/escape.KNN"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "どうしたらええねん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkmsz88c3th3gfd"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "月島きらり - バラライカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%9C%88%E5%B3%B6%E3%81%8D%E3%82%89%E3%82%8A/_/%E3%83%90%E3%83%A9%E3%83%A9%E3%82%A4%E3%82%AB"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:18",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "希望を持ちたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkmqm3wc3th3gfb"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:17",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "希望ねえなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apkmozjqc3th3gf7"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJ Deller - My Boo (Vocal)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ+Deller/_/My+Boo+(Vocal)"
+    },
+    {
+      "date": "2026-08-06",
+      "time": "14:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゼロの使い魔2期OP - I SAY YES",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%BC%E3%83%AD%E3%81%AE%E4%BD%BF%E3%81%84%E9%AD%942%E6%9C%9FOP/_/I+SAY+YES"
+    },
     {
       "date": "2026-08-06",
       "time": "14:04",
