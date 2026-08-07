@@ -1,6 +1,663 @@
 {
-  "generated_at": "2026-08-07T23:00:01.608190+09:00",
+  "generated_at": "2026-08-08T07:00:01.549201+09:00",
   "timeline": [
+    {
+      "date": "2026-08-08",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-08-08 晴天 27.1℃ (27.1〜27.1℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-08",
+      "time": "04:07",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 32件: 第2章第1節「その頃のインターネットの雰囲気」を推敲 / 第2章第2節「マイクロジャンルの見取り図」を推敲 / 第2章第3節「ノイズシーンからの離脱——OPNとFerraro」を推敲 / 第2章第4節「witch houseの音響的前史」を推敲 / 第2章第5節「ダークな音のmp3ブログ——20jfg」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "04:04",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-3完了を反映、次はfractal-1-metaまたはfractal-4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "04:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: seapunk節冒頭に記述配分の理由を示す前置きを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - #19",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/%2319"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:43",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: witch-house.com見出しを明確化（witch house節との重複的な命名を解消）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Love in the Time of Lexapro",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Love+in+the+Time+of+Lexapro"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Slow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Slow"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:35",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: DMY Magazine章の推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:33",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: seapunkとvaporwave節の推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: seapunkの死節の推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:25",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: SuperSuper! Magazine節の推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Physical Memory",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Physical+Memory"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: 三つの流れ節の結び、末尾2文の重複を統合",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Animals (Director's Cut)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Animals+(Director%27s+Cut)"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:21",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章: Lil Internet/Lil Government年表〜レーベルと正史節の推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "03:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Memory Vague Full DVD",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Memory+Vague+Full+DVD"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "01:22",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "疲れた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmpwn89c3th3ip3"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "01:20",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "コメント欄に貼られた動画を再生リストにどんどん追加していくやつ再開したいなとふと思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/apmpt76232on019c"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "01:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "felicita - hej! (Official Album Stream)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/felicita/_/hej!+(Official+Album+Stream)"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "01:17",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "雑談配信終了しました。今回はしゃべった内容を逐一AIに読み込ませて、まとめを作ってみました。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/apmpqb15pr51010g"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "01:09",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "# 2026-08-07 配信まとめ（21:59〜01:01）\n\n配信者はYouTubeライブの字幕や設定調整、過去のチャンネル談義から、焼き肉の食べ方やMicrosoft Bob、AIによるニュースまとめ、原爆記念など幅広い話題を雑談。後半はちいかわ映画の感想やテオくん破局ニュース、配信プラットフォーム比較、AIサマリーシステムの仕組み説明まで多岐にわたる内容となった。\n\n## タイムライン\n\n- 21:59 配信者が昔のYouTubeチャンネルについて話し、その後インターネットに関する話題に移る様子が見られた。\n- 22:09 配信者は字幕機能の遅延について気にしており、視聴者からも遅延があるとの指摘があった。また、謎のゲームをプレイしながら、字幕や配信の設定調整について話していた。\n- 22:20 配信者はYouTubeライブ視聴者数の違いや告知のTwitter投稿を振り返りつつ、前回の配信サマリーがAPI制限で止まった話、最近の炎上やニュース（ヤニネコ、EUのAI透明性義務など）、アニメや時事ネタについて雑談している。\n- 22:30 焼き肉の食べ方（何人前やグラムの話）や新しい音楽の話題（SOPHIEなど）、過去のマイクロソフトの失敗プロジェクト「Microsoft Bob」とイルカのカエル君の関係について話していました。\n- 22:41 2020年代に新しい音楽がないという論争や、ニコニコ大学のホットワード、AIを使ったニュースまとめの話、そしてピアノとドラムのユニットやデスグリップスなどの音楽に関する話題が出た。\n- 22:52 AI技術と検索エンジン、広告の関係、原爆記念（81年）、バーチャルインサニティの和訳動画、マークダウン形式のWEBSITE、ASCIIアート生成など多岐にわたる話題\n- 23:03 配信内で、ジャミロクワイやジーコー映画の曲、ロシアのグループのミュージックビデオの話題が出たり、AIスピーカーの対応やちいかわ考察の話などが断片的に交わされた。\n- 23:13 配信者がコーエーテクモのゲームに関するアンケートに回答しながら、アトリエシリーズやキャラクターデザイン、AIと会話できるゲーム機能などについて雑談していた。\n- 23:24 ゲーム「モンスターフォーム」やクソゲーの話題から、視聴者が貼ったYouTubeの楽曲についての感想に移り、曲や動画へのリアクションが難しいという話が出た。\n- 23:34 時代劇や暴れん坊将軍、エンディング曲（ジプシーキングス）の話題から、視聴者と一緒に時代劇のランキング動画を見ようと話している。\n- 23:45 ボカロ曲やMVの話題を中心に、海外ボカロPの増加やランキング動向、さらに配信ランキングや実況・ASMR配信の話、ゴーストバスターズやダイハードなどの映画の話題も少し出た。\n- 23:56 いど子がカスタムキャストや他の配信者の動画を見ながら、ニコ生とYouTubeライブの違いや配信者のスタイルについて雑談している。\n- 00:07 配信者が他の配信プラットフォーム（ツイキャス、ふわっちなど）の雑談配信を見ながら、声質や配信スタイルの違い、自己肯定感の高さなどについて視聴者と語り合った。また、途中で日本製鉄の業績予想に関するニュースにも触れた。\n- 00:17 配信者と視聴者が様々な配信プラットフォーム（爆サイ、スイッチ、Kick、Twitchなど）の特徴やコミュニティ感について比較し、その後、配信ネタ不足や視聴者減少の悩み、話題作りの難しさについて語り合った。\n- 00:28 配信者はブルーハーツやピローズなどのバンドとその楽曲について語り、視聴者と音楽談義をしつつ、途中で眠気や雑談が混ざり、最後に「地域川」のエンディング曲に触れて配信の終了を考え始めている。\n- 00:39 ちいかわ映画について、声優や楽曲、ネタバレを避けつつ感想を語り合い、特にハチワレの声の変化や映画の名シーンについて話題になった。\n- 00:49 配信者が『ちいかわ』のぬいぐるみが部屋にあることや、Twitterで話題になる衝撃的な出来事について話し、さらに『スカイピース』のテオくんと加藤乃愛の破局ニュースがコメントで出て、配信者はそのニュースに興味を示しつつ内容を確認。その後、AIによる文字起こしや配信内容のサマリーシステムについて説明した。\n- 00:49 配信者は音声認識の精度の低さについて話しつつ、ちいかわのぬいぐるみに関する話題や、スカイピース・テオくんの破局ニュースについてコメント。また、AIによる配信サマリー生成システムの仕組みを説明している。\n- 01:01 配信者が「ステーシー」について言及し、それが存在しないことや配信の状態について話している。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/apmpg48s32on00pu"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - ひとりごつ～バンドVer.～",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A4%EF%BD%9E%E3%83%90%E3%83%B3%E3%83%89Ver.%EF%BD%9E"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - ひとりごつ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A4"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - くつずれ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E3%81%8F%E3%81%A4%E3%81%9A%E3%82%8C"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - 今日の日はさようなら (合唱ver.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E4%BB%8A%E6%97%A5%E3%81%AE%E6%97%A5%E3%81%AF%E3%81%95%E3%82%88%E3%81%86%E3%81%AA%E3%82%89+(%E5%90%88%E5%94%B1ver.)"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - 島のうた (島二郎ver.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E5%B3%B6%E3%81%AE%E3%81%86%E3%81%9F+(%E5%B3%B6%E4%BA%8C%E9%83%8Ever.)"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "青木春香 - トピック - 机さする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9D%92%E6%9C%A8%E6%98%A5%E9%A6%99+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Release - Topic - 島のうた (セイレーンver.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Release+-+Topic/_/%E5%B3%B6%E3%81%AE%E3%81%86%E3%81%9F+(%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%B3ver.)"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Blue Hearts - TRAIN-TRAIN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Blue+Hearts/_/TRAIN-TRAIN"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Blue Hearts - 情熱の薔薇",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Blue+Hearts/_/%E6%83%85%E7%86%B1%E3%81%AE%E8%96%94%E8%96%87"
+    },
+    {
+      "date": "2026-08-08",
+      "time": "00:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Blue Hearts - リンダ リンダ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Blue+Hearts/_/%E3%83%AA%E3%83%B3%E3%83%80+%E3%83%AA%E3%83%B3%E3%83%80"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "#AiScReam - 愛♡スクリ～ム！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%23AiScReam/_/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:56",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 3時間35分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "チルノのパーフェクトさんすう教室 - IOSYS",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E6%95%99%E5%AE%A4/_/IOSYS"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "椎名もた(siinamota) - Young Girl A / 少女A",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F(siinamota)/_/Young+Girl+A+%2F+%E5%B0%91%E5%A5%B3A"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TOP 10 - 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TOP+10/_/1"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-2完了・fractal-3進行中を反映",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章 seapunk冒頭を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "top 30 - 11",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/top+30/_/11"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "かしうなっつ - Ｇipsy Kings－Inspiration（鬼平犯科帳 ED）ジプシーキングス",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%8B%E3%81%97%E3%81%86%E3%81%AA%E3%81%A3%E3%81%A4/_/%EF%BC%A7ipsy+Kings%EF%BC%8DInspiration%EF%BC%88%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3+ED%EF%BC%89%E3%82%B8%E3%83%97%E3%82%B7%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "マツケンTube - マツケンEDM／松平健",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9E%E3%83%84%E3%82%B1%E3%83%B3Tube/_/%E3%83%9E%E3%83%84%E3%82%B1%E3%83%B3EDM%EF%BC%8F%E6%9D%BE%E5%B9%B3%E5%81%A5"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ricky Martin - Livin' La Vida Loca (Official HD Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ricky+Martin/_/Livin%27+La+Vida+Loca+(Official+HD+Video)"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "My Chemical Romance - Welcome To The Black Parade  [HD]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/My+Chemical+Romance/_/Welcome+To+The+Black+Parade++%5BHD%5D"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eminem - Lose Yourself",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eminem/_/Lose+Yourself"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eminem - Rap God (Explicit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eminem/_/Rap+God+(Explicit)"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Little Big - Lollybomb",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Little+Big/_/Lollybomb"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jamiroquai - Virtual Insanity (Lyrics in Japanese and English)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+(Lyrics+in+Japanese+and+English)"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-07 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nord Live Sessions: DOMi & JD Beck - BC Invaders",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nord+Live+Sessions:+DOMi+&+JD+Beck/_/BC+Invaders"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nord Live Sessions: DOMi & JD Beck - Sniff",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nord+Live+Sessions:+DOMi+&+JD+Beck/_/Sniff"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nord Live Sessions: DOMi & JD Beck - BONUS TRACK: Giant Nuts",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nord+Live+Sessions:+DOMi+&+JD+Beck/_/BONUS+TRACK:+Giant+Nuts"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DOMi & JD Beck - WHATUP (Live Performance)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DOMi+&+JD+Beck/_/WHATUP+(Live+Performance)"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - BIPP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/BIPP"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - Faceshopping",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/Faceshopping"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "『Ado - 私は最強』歌ってみた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8EAdo/_/%E7%A7%81%E3%81%AF%E6%9C%80%E5%BC%B7%E3%80%8F%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ガチャピンちゃんねる【公式】 - ガチャピン・ムックが歌ってみた！ #orangerange  #歌ってみた #mv #ガチャピン #ムック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%83%E3%82%AF%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81+%23orangerange++%23%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F+%23mv+%23%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3+%23%E3%83%A0%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid twitchで雑談配信をはじめました。興味深い話をします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmjecv3c3th3igd"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Boom - 島唄",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Boom/_/%E5%B3%B6%E5%94%84"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "サカナクション - ミュージックをガチャピンとムックで歌ってみた！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3%E3%81%A8%E3%83%A0%E3%83%83%E3%82%AF%E3%81%A7%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:12",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ためになる話をします",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/apmj4d9buq"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:12",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid twitchで雑談配信をはじめました。興味深い話をします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/apmj44yzub"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:12",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.twitch.tv/yuinoid twitchで雑談配信をはじめました。興味深い話をします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/117054396977896751"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:11",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid twitchで雑談配信をはじめました。近況報告とインターネットの話をします。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/apmj38mu0vot01f7"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "22:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "サカナクション / 怪獣をガチャピンが歌ってみた！【 - チ。 ―地球の運動について―",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%82%AB%E3%83%8A%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+%2F+%E6%80%AA%E7%8D%A3%E3%82%92%E3%82%AC%E3%83%81%E3%83%A3%E3%83%94%E3%83%B3%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%81%E3%80%90/_/%E3%83%81%E3%80%82+%E2%80%95%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%95"
+    },
     {
       "date": "2026-08-07",
       "time": "21:50",
@@ -253,6 +910,26 @@
     },
     {
       "date": "2026-08-07",
+      "time": "21:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章第3節「witch house——命名と充填」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:09",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章第2節「名前は冗談から生まれる」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
       "time": "21:05",
       "src_id": 2,
       "src_type": "misskey",
@@ -263,6 +940,16 @@
     },
     {
       "date": "2026-08-07",
+      "time": "21:04",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第3章第1節「vaporwaveという名前の登場」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
       "time": "20:43",
       "src_id": 2,
       "src_type": "misskey",
@@ -270,6 +957,36 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/apmfxxf0c3th3i2a"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "20:42",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章 段落レベル・節レベルの再確認（厳格判定）を反映",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "20:02",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第12節「アーキテクチャ：シーンを支えた条件」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "19:58",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第11節「Post T.V.」後半（lo-fi映像という共通の質感）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-07",
@@ -350,6 +1067,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E5%AF%BA%E7%94%B0%E5%89%B5%E4%B8%80+Soichi+Terada/_/%E7%B5%82%E7%9D%80%E9%A7%85%E3%81%AF%E5%A7%8B%E7%99%BA%E9%A7%85"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "17:56",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第11節「Post T.V.」中盤（集まった顔ぶれ）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-07",
@@ -493,6 +1220,26 @@
     },
     {
       "date": "2026-08-07",
+      "time": "16:12",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第11節「Post T.V.」前半（ローマ国際映画祭〜プログラムノート）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "15:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第10節「ペルソナとHD視覚——Gatekeeperと Tabor Robak」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
       "time": "15:21",
       "src_id": 4,
       "src_type": "lastfm",
@@ -500,6 +1247,126 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AEDJ%E3%83%9F%E3%83%83%E3%83%95%E3%82%A3%E3%83%BC/_/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB+%E3%83%92%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+26%E9%81%B8"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-07 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:48",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第9節後半（レーベルネットワーク——HIT、OESB）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:46",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第9節前半（レーベルネットワーク——HIT、OESB）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第8節「GATEKEEPER『Giza』」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:41",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第7節後半（MySpaceと20jfg）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:37",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第7節前半（MySpaceと20jfg）を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:35",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第6節「ブログからレーベルへ——Tri Angle」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:33",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第5節「ダークな音のmp3ブログ——20jfg」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第4節「witch houseの音響的前史」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:24",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第3節「ノイズシーンからの離脱——OPNとFerraro」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:19",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第2章第2節「マイクロジャンルの見取り図」を推敲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "13:15",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/chapter-2-revision-7xq8sg を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-07",
@@ -609,6 +1476,16 @@
       "text": "2026-08-07 晴天 29.7℃ (29.4〜30.0℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-07",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-07 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-08-07",
@@ -14620,73 +15497,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-09",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-09",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-09",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-09 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-09",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-09 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-09",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-07-09 厚い雲 24.7℃ (24.4〜25.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-09",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-09 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-09",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "とくになし",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F07%2F09"
     }
   ]
 }
