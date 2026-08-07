@@ -1,6 +1,506 @@
 {
-  "generated_at": "2026-08-07T15:00:01.501721+09:00",
+  "generated_at": "2026-08-07T23:00:01.608190+09:00",
   "timeline": [
+    {
+      "date": "2026-08-07",
+      "time": "21:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - New World™",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/New+World%E2%84%A2"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - 回転ビジョン = 新しいビジョン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/%E5%9B%9E%E8%BB%A2%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3+=+%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "いま、この文章で禁を破ってしまいますが、「美術部カノジョ」というゲームに関しては、意図的に言及を避けています。理由についても語ることはできません。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmi5xf7c3th3ib8"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - Refund Policies",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/Refund+Policies"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "残念ながら、時間を気にしないでいられるほど豊かではないのです。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmi427ac3th3ib1"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - 過去の宇宙 esc.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/%E9%81%8E%E5%8E%BB%E3%81%AE%E5%AE%87%E5%AE%99+esc."
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ニューロンがアクティベーションするような情報が必要だと思います。しかし、ニューロンがアクティベーションするような情報はなかなかありません。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmi0cz6c3th3iat"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - Economy Class",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/Economy+Class"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "楽しいことがしたいですよね。なにか楽しいことがないかなあと、いつも思っています。そう。今も。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhzoqrc3th3ias"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:39",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ぼーっとしている時間がもったいない。なにより、時間管理が面倒くさいです。ホットコーヒーをぼーっとしていて、常温になるのを待って、氷を入れる？それこそ冗談をいうのはやめてください。そんな面倒なことはしたくありません。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhxtt6c3th3ial"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:38",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "プールの水を飲むのは、正直に言っておすすめしません。衛生的によろしくない。もし、冗談であれば、つまらないですよ。なんにせよおすすめしません。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhw7y0c3th3ia9"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "しょうがないのでコーヒーの話題を続けますが、ホットコーヒーに氷を入れたらいいという意見に関しては、賛同できません。なぜならスティックタイプは一本で一カップだからです。それに、ホットを直でアイスにするのは、なんだか気が引けます。スティックタイプの量の調節は、端的に言ってめんどうです。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhuqjtc3th3ia7"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - アンドロイド未来",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%89%E6%9C%AA%E6%9D%A5"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:35",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "何を飲むにしても、保管が面倒くさいですよね。ペットボトルは重いし。かといって水ばかりというのも飽きる。夏はなにを飲むといいのでしょうか。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhsdtpc3th3i9o"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "わかりますでしょうか。以上、コーヒーの話題はここで終わりです。みなさんは、普段、なにを飲んでいるでしょうか。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhr8lyc3th3i9g"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - A New Feeling",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/A+New+Feeling"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "電子レンジで水を温めるにしても、結局できるのはホットなコーヒーです。そうではなく、アイスのコーヒーが飲みたいのです。しかし、液体の状態で、そのままのアイスコーヒーを買いたくはありません。重いし、かさばります。だから、密度が高いコーヒーの原液だとか、粉末が必要だと思うのです。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhq52jc3th3i9a"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - 新鮮なスキーム",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/%E6%96%B0%E9%AE%AE%E3%81%AA%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:31",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ペットボトルのようなものはかさばるし、重いしで買いたくありません。とすると、やはり、濃度の濃いどろっとした現役がちっちゃいゼリーみたいな容器に入っているようなタイプの、なんというかわかりませんが、そういうタイプのコーヒーを買う必要があると思っています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhngnic3th3i8r"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "コーヒーが飲みたくて、スティックタイプのインスタントコーヒーの箱を買ったのですが、暑くて湯を沸かして溶かすのが面倒くさくて、消費できていません。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhlbnbc3th3i8l"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:29",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "私は元気です。ですが、目を酷使していて、疲れているのか、目が悪くなっているのかよくわかりませんが、目がなんか変な感じがします",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhk363c3th3i8d"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "皆さん最近はいかがお過ごしでしょうか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhj9z3c3th3i89"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "脳みそを動かします",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhj0n9c3th3i88"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか最近目が悪くなった気がします",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmhivdvc3th3i85"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nouveau Life™ - Start Life",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nouveau+Life%E2%84%A2/_/Start+Life"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "21:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "へーちょ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmgqb0fc3th3i6b"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "20:43",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "動物が泣きながら銃構えてるやつかわいくて好き",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmfxxf0c3th3i2a"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "19:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "正常な組織",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apmcgsnsc3th3hy7"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "青木春香 - トピック - 机さする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9D%92%E6%9C%A8%E6%98%A5%E9%A6%99+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "猫 シ Corp. - NEWS AT 11",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%8C%AB+%E3%82%B7+Corp./_/NEWS+AT+11"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Again",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Again"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Elseware",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Elseware"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "寺田創一 Soichi Terada - 鳴門海峡",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AF%BA%E7%94%B0%E5%89%B5%E4%B8%80+Soichi+Terada/_/%E9%B3%B4%E9%96%80%E6%B5%B7%E5%B3%A1"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "寺田創一 Soichi Terada - 殺人の時効は15年 (acid face remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AF%BA%E7%94%B0%E5%89%B5%E4%B8%80+Soichi+Terada/_/%E6%AE%BA%E4%BA%BA%E3%81%AE%E6%99%82%E5%8A%B9%E3%81%AF15%E5%B9%B4+(acid+face+remix)"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "18:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "寺田創一 Soichi Terada - 終着駅は始発駅",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AF%BA%E7%94%B0%E5%89%B5%E4%B8%80+Soichi+Terada/_/%E7%B5%82%E7%9D%80%E9%A7%85%E3%81%AF%E5%A7%8B%E7%99%BA%E9%A7%85"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "17:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "2018 - 9/01.FOS.ディスイズ向井秀徳。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/2018/_/9%2F01.FOS.%E3%83%87%E3%82%A3%E3%82%B9%E3%82%A4%E3%82%BA%E5%90%91%E4%BA%95%E7%A7%80%E5%BE%B3%E3%80%82"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "17:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Theatre of Eternal Music - 1960, 1963",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Theatre+of+Eternal+Music/_/1960,+1963"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Warp Records - Bibio CAPEL CELYN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Warp+Records/_/Bibio+CAPEL+CELYN"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Brambles - Arête",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Brambles/_/Ar%C3%AAte"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Visible Cloaks, Yoshio Ojima & Satsuki Shibano - Stratum",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Visible+Cloaks,+Yoshio+Ojima+&+Satsuki+Shibano/_/Stratum"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Warp Records - Kelly Moran • ‘Water Music’",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Warp+Records/_/Kelly+Moran+%E2%80%A2+%E2%80%98Water+Music%E2%80%99"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか鼻水がすごいでるんだけど　花粉症？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm73ohsc3th3hvo"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelly Moran - In Parallel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelly+Moran/_/In+Parallel"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "野獣、おめでとうございます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm6ty9ac3th3hvd"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:28",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "今日野獣の日なの？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm6tiwac3th3hvc"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelly Moran, - Don't Trust Mirrors",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelly+Moran,/_/Don%27t+Trust+Mirrors"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:21",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://youtu.be/gKSf7e6kCFM 途中、知らない人から普段使ってないアプリを通じて着信があったのかと思った　そういう音だった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm6l0s8c3th3hvb"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "とくさんか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm6ab4gc3th3hv6"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "16:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんにちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apm6a2bcc3th3hv4"
+    },
+    {
+      "date": "2026-08-07",
+      "time": "15:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "真夜中のDJミッフィー - 宇多田ヒカル ヒットソングメドレー 26選",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AEDJ%E3%83%9F%E3%83%83%E3%83%95%E3%82%A3%E3%83%BC/_/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB+%E3%83%92%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+26%E9%81%B8"
+    },
     {
       "date": "2026-08-07",
       "time": "12:52",
