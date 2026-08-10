@@ -1,6 +1,131 @@
 {
-  "generated_at": "2026-08-10T23:00:01.238897+09:00",
+  "generated_at": "2026-08-11T07:00:01.537151+09:00",
   "timeline": [
+    {
+      "date": "2026-08-11",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-08-11 曇りがち 24.6℃ (24.6〜24.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 0歩 / 心拍数: 0bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-10 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Talekk - A Cruel Yoshi's Thesis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Talekk/_/A+Cruel+Yoshi%27s+Thesis"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "OK Nintendo 64 (Radiohead - Paranoid Android",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/OK+Nintendo+64+(Radiohead/_/Paranoid+Android"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "OK Nintendo 64 (Radiohead - Airbag",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/OK+Nintendo+64+(Radiohead/_/Airbag"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stanpai - A Cruel Plumber's Thesis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stanpai/_/A+Cruel+Plumber%27s+Thesis"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syko - #BrooklynBloodPop! (prod. Duvaal)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syko/_/%23BrooklynBloodPop!+(prod.+Duvaal)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimm - Reckless",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimm/_/Reckless"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimm - Reckless",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimm/_/Reckless"
+    },
     {
       "date": "2026-08-10",
       "time": "22:08",
@@ -10,6 +135,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Grimm/_/Crimewave"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:07",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 19件: 第8章後記reorg計画: RA記事二本と草稿の接続点を整理 / 第8章後記reorg計画: RA記事との追加符合(Fisher/Reynolds/Caretaker/PC Music/Throbbing Gristle/DJ Harvey)を追記 / Retromania調査ノート追加: hypnagogic pop/Keenan命名の出典補強候補、第8章後記との関係を整理 / chillwave/hypnagogic pop調査を統合: 命名史・両者の異同・Retromania本文の一次確認結果をノート化(改題・移動) / next_tasks.md: 8-reorg(第8章後記)とinv-hypnagogic(chillwave/hypnagogic pop)のタスクを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-10",
@@ -40,6 +175,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Misa/_/Banzai"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:58",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第8章末尾を文案（第9稿）で反映、next_tasks.md更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記文案: 世代間断絶と反復パターンを反映（第9稿）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-10",
@@ -143,6 +298,16 @@
     },
     {
       "date": "2026-08-10",
+      "time": "19:39",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案第8稿: RA記事Aの結びの表現を実態に合わせて修正、next_tasks.mdにMySpace年号精度・世代間断絶テーマの調査候補を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-10",
       "time": "19:33",
       "src_id": 4,
       "src_type": "lastfm",
@@ -243,6 +408,26 @@
     },
     {
       "date": "2026-08-10",
+      "time": "18:19",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案第7稿: ロールバック(今/いまの段落統合、DJ Harvey引用の一本化=事実誤認だったため取り消し)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "17:48",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案第6稿: 逐語添削17項目に対応(主語誤り修正、無根拠な具体例削除、RA記事の指示語整理、Pending Research訳語修正など)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-10",
       "time": "17:42",
       "src_id": 2,
       "src_type": "misskey",
@@ -293,12 +478,32 @@
     },
     {
       "date": "2026-08-10",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-10 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-10",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-08-10 厚い雲 25.9℃ (25.9〜25.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-10",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-10 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-08-10",
@@ -13461,223 +13666,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F07%2F13"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-12",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-12",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-12 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "22:28",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "DJってあのコンロみたいなやつ買わないといけないんだよね？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aole8vlxc3th2hgr"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "20:57",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "なにこれ金かかるの",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aolaz1v6c3th2h6e"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "20:55",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://rekordbox.com/ja/ DJをやってみたいのですが、これをダウンロードすればよいのですか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aolawlffc3th2h6a"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "20:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "青春",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aolap1nvc3th2h5s"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "20:48",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 5件: 第7章 reorg 計画書を作成（7-reorg-0） / 第7章 reorg 計画に更新1を反映（7-reorg-0b・ユーザー判断確定） / 第7章 reorg 計画に更新2を反映（7-reorg-0c完了・観察4不採用確定） / 第7章 reorg 文案を作成（7-reorg-1） / Merge pull request #17 from objtus/claude/chapter-7-reorg-plan-7h0bsp",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "19:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ただいま～",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aol8l14wc3th2gwr"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "19:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "東京大学 吉田塁 研究室 - AIエージェント講座",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6+%E5%90%89%E7%94%B0%E5%A1%81+%E7%A0%94%E7%A9%B6%E5%AE%A4/_/AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E8%AC%9B%E5%BA%A7"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "18:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第7章 reorg 文案を作成（7-reorg-1）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "16:55",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第7章 reorg 計画に更新2を反映（7-reorg-0c完了・観察4不採用確定）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "16:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第7章 reorg 計画に更新1を反映（7-reorg-0b・ユーザー判断確定）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-12 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "14:55",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/chapter-7-reorg-plan-7h0bsp を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "13:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ロリババアになりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aokvb3e2c3th2ghw"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "13:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "超然的な感じになりたいね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aokvagcec3th2ghp"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "13:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "いいぞ越前 メリモとマラム",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aokv967xc3th2ghh"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "09:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「生成AIで世界はこう変わる」今井 翔太 ：基調講演 - NIIオープンハウス2026",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E7%94%9F%E6%88%90AI%E3%81%A7%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%93%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B%E3%80%8D%E4%BB%8A%E4%BA%95+%E7%BF%94%E5%A4%AA+%EF%BC%9A%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94/_/NII%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%8F%E3%82%A6%E3%82%B92026"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "09:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "進研ゼミの漫画のキャラ - 工藤先輩",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E9%80%B2%E7%A0%94%E3%82%BC%E3%83%9F%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9/_/%E5%B7%A5%E8%97%A4%E5%85%88%E8%BC%A9"
-    },
-    {
-      "date": "2026-07-12",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-07-12 厚い雲 26.9℃ (26.6〜27.2℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-12",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-12 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
     }
   ]
 }
