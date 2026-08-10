@@ -1,6 +1,296 @@
 {
-  "generated_at": "2026-08-10T15:00:01.776246+09:00",
+  "generated_at": "2026-08-10T23:00:01.238897+09:00",
   "timeline": [
+    {
+      "date": "2026-08-10",
+      "time": "22:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimm - Crimewave",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimm/_/Crimewave"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimm - Crimewave",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimm/_/Crimewave"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "22:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimm - Untrust Us",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimm/_/Untrust+Us"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Misa - Banzai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Misa/_/Banzai"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ラ・ママ - あずま寿しの看板」「クッキー☆の絵コンテ242枚",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A9%E3%83%BB%E3%83%9E%E3%83%9E/_/%E3%81%82%E3%81%9A%E3%81%BE%E5%AF%BF%E3%81%97%E3%81%AE%E7%9C%8B%E6%9D%BF%E3%80%8D%E3%80%8C%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E2%98%86%E3%81%AE%E7%B5%B5%E3%82%B3%E3%83%B3%E3%83%86242%E6%9E%9A"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - The Dark Side Of The Moon (50th Anniversary)  {}",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/The+Dark+Side+Of+The+Moon+(50th+Anniversary)++%7B%7D"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Us and Them",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Us+and+Them"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Money",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Money"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "21:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - The Great Gig in the Sky",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/The+Great+Gig+in+the+Sky"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "めめろろ - 野獣先輩が教える野獣の日マナー講座",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%81%E3%82%81%E3%82%8D%E3%82%8D/_/%E9%87%8E%E7%8D%A3%E5%85%88%E8%BC%A9%E3%81%8C%E6%95%99%E3%81%88%E3%82%8B%E9%87%8E%E7%8D%A3%E3%81%AE%E6%97%A5%E3%83%9E%E3%83%8A%E3%83%BC%E8%AC%9B%E5%BA%A7"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "20:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Time"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "20:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - On the Run",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/On+the+Run"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "20:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Breathe (In the Air)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Breathe+(In+the+Air)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "20:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Wish You Were Here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lambchop - 姫トラ (HimeTrance) Best",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lambchop/_/%E5%A7%AB%E3%83%88%E3%83%A9+(HimeTrance)+Best"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lovescandals - フレンズ (FRIENDS)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lovescandals/_/%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA+(FRIENDS)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "4 Skips - ラブ&サンシャイン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/4+Skips/_/%E3%83%A9%E3%83%96&%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pile - Flower (Spacey vs. garamonn Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pile/_/Flower+(Spacey+vs.+garamonn+Remix)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kei - グリッター (GLITTER)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kei/_/%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC+(GLITTER)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "4 Skips Vs. Floorbreaker - D.O.U.B.T!!! ～愛の駆引きはダ☆ウ☆ト☆～ (姫トラ BEST EDIT)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/4+Skips+Vs.+Floorbreaker/_/D.O.U.B.T!!!+%EF%BD%9E%E6%84%9B%E3%81%AE%E9%A7%86%E5%BC%95%E3%81%8D%E3%81%AF%E3%83%80%E2%98%86%E3%82%A6%E2%98%86%E3%83%88%E2%98%86%EF%BD%9E+(%E5%A7%AB%E3%83%88%E3%83%A9+BEST+EDIT)"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mi - Distance〜In Your Love〜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mi/_/Distance%E3%80%9CIn+Your+Love%E3%80%9C"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "青山 操 - Distance ~In Your Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9D%92%E5%B1%B1+%E6%93%8D/_/Distance+~In+Your+Love"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉宗サウンドトラック - そこにあるかも知れない...",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E5%AE%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/_/%E3%81%9D%E3%81%93%E3%81%AB%E3%81%82%E3%82%8B%E3%81%8B%E3%82%82%E7%9F%A5%E3%82%8C%E3%81%AA%E3%81%84..."
+    },
+    {
+      "date": "2026-08-10",
+      "time": "19:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dank-One feat. Ari - 創聖のアクエリオン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dank-One+feat.+Ari/_/%E5%89%B5%E8%81%96%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%B3"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "17:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "サックスが吹けるようになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apqjsuo6c3th3m44"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "16:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんにちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/apqi52j0c3th3m18"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "16:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "猫 シ Corp.'s - NEWS AT 11",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%8C%AB+%E3%82%B7+Corp.%27s/_/NEWS+AT+11"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "16:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DANCE ON THE PLANET - ソリトン 世界テクノ現象 1996",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DANCE+ON+THE+PLANET/_/%E3%82%BD%E3%83%AA%E3%83%88%E3%83%B3+%E4%B8%96%E7%95%8C%E3%83%86%E3%82%AF%E3%83%8E%E7%8F%BE%E8%B1%A1+1996"
+    },
+    {
+      "date": "2026-08-10",
+      "time": "15:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "CONFUSION TV ( - テクノ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/CONFUSION+TV+(/_/%E3%83%86%E3%82%AF%E3%83%8E"
+    },
     {
       "date": "2026-08-10",
       "time": "09:00",
