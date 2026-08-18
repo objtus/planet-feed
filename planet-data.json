@@ -1,6 +1,251 @@
 {
-  "generated_at": "2026-08-18T23:00:01.458214+09:00",
+  "generated_at": "2026-08-19T07:00:02.013458+09:00",
   "timeline": [
+    {
+      "date": "2026-08-19",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-08-19 厚い雲 26.6℃ (26.6〜26.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 1kcal / 運動: 54分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 5,507歩 / 心拍数: 97bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 2枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-18 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:55",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 35件: fractal-7: 第7章 誤植・表記統一（reddit/tiktok/wikipedia/youtube/instagram/tumblr小文字→大文字、Dissmiss→Dismiss誤記、余分な半角スペース6箇所） / fractal-7: 段落1-4 文レベル推敲（情報量ピーク分割1件、余分な半角スペース1件、二重受身の解消1件） / fractal-7: 段落9-12 文レベル推敲（コラム：主語欠落の修正） / fractal-7: 段落19 帰属の遅延を解消（帰属を文頭に移動、独立した2主張を句点で分離） / fractal-7: 段落21 情報量のピーク分割（James Curcio論考の発表と内容を分離）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:53",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: 明晰さレビュー全章検証を完了・クローズ。未解消3件は著者判断で対応不要に確定",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Everything",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Everything"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - THROB",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/THROB"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Enraptured",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Enraptured"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Grip",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Grip"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Futurality",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Futurality"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Taconeando",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Taconeando"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Finisher",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Finisher"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Fxck",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Fxck"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Cinch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Cinch"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Raver",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Raver"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Syncope",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Syncope"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Heart",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Heart"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Eidolon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Eidolon"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - Willow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/Willow"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Arca - No End",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Arca/_/No+End"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:11",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-8完了を記録（全8章主線パイプライン完走）、次タスクを明晰さレビューに更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "22:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "高校生くらいのころ科学哲学の冒険とか哲学入門とか読んでイキってた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aq28tltbc3th3x31"
+    },
     {
       "date": "2026-08-18",
       "time": "22:07",
@@ -214,6 +459,16 @@
     {
       "date": "2026-08-18",
       "time": "20:47",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 節見出し変更（「語り直すために、アーカイブが要る」→「物語ることの偏り」、結論の先取りを回避）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:47",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "Ghost Beach - Faded (Summer Heart Remix)",
@@ -243,6 +498,26 @@
     },
     {
       "date": "2026-08-18",
+      "time": "20:42",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落54・58 引用の訳追加、第7章との重複箇所に前方参照を明示",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:38",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: 明晰さレビューの誤字2件クローズ、IndieWeb節課題と章別再確認リストを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "20:37",
       "src_id": 4,
       "src_type": "lastfm",
@@ -250,6 +525,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89/_/Whitecaps"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:35",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 節見出しを「IndieWebとNeocities」→「Neocities」に修正（本文にIndieWeb記述がないため）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:31",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落50-51 盗用の主体を明確化（一次資料確認済み）、態の変化による読みにくさを分割",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -263,6 +558,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "20:16",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落47 Dismiss Yourselfへの唐突な言及を削除（文脈接続が弱く本題から外れていたため）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "20:07",
       "src_id": 4,
       "src_type": "lastfm",
@@ -270,6 +575,46 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E5%B0%8F%E6%B3%89%E6%82%A0%C3%97%E6%B8%85%E6%B0%B4%E4%BA%AE%E3%80%80%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E7%89%87%E9%9A%85%E3%81%AB%E3%81%82%E3%82%8B%E6%88%A6%E4%BA%89%E2%94%80%E2%94%80%E6%A0%B8%E3%81%A8%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E3%80%81%E8%BB%8D%E9%83%BD%E3%80%81%E8%A8%98%E6%86%B6+@OKB1917+%23%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:06",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落41 主語を明示（FairyPageはモニターをブロックし）。一次資料で事実確認済み",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "20:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落43 英語スローガンに訳を追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "19:58",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落37 情報量のピーク分割（コロナ禍の注目と具体的な閲覧数データ）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "19:55",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落29 誤字2件を修正（2016年の重複、「理由にある」→「理由である」）。確定タスク#1に相当",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -323,6 +668,26 @@
     },
     {
       "date": "2026-08-18",
+      "time": "17:29",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: facebook/discord表記統一（6箇所）、余分な半角スペース修正",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "17:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落18-19 ブロック引用の訳追加、綴りの不一致修正、主語の明示",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "17:25",
       "src_id": 4,
       "src_type": "lastfm",
@@ -330,6 +695,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Teen+Daze/_/Brooklyn+Sunburn+(feat.+Steffalo)"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "17:21",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落15-16 情報量のピーク分割2件（Priz Tats/DIS Magazine、Valeris Mediaのshowreel）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -343,6 +718,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "17:20",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落14 「さらに」の連続使用を解消",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "17:16",
       "src_id": 4,
       "src_type": "lastfm",
@@ -350,6 +735,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Neon+Indian/_/Polish+Girl"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "17:16",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 遡行的確定パラグラフに章冒頭への自己言及を追加（「あの感じ」自体が事後的境界線の産物であることを明示）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "17:14",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-8: 段落4 論理矛盾を修正（Aero=Vista一製品の名 vs 時代全体を束ねるラベルの不在）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -394,12 +799,32 @@
     {
       "date": "2026-08-18",
       "time": "16:59",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-7完了を記録、次タスクをfractal-8に更新",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:59",
       "src_id": 4,
       "src_type": "lastfm",
       "text": "Blackbird Blackbird - Pure",
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Blackbird+Blackbird/_/Pure"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:56",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落104 主語交代の連鎖を分割",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -413,6 +838,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "16:54",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落98 節冒頭に橋渡し文を追加、主語の曖昧性を解消",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "16:51",
       "src_id": 4,
       "src_type": "lastfm",
@@ -423,6 +858,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "16:48",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落88 情報量のピーク分割（Twitter/Patreonへの移行とDiscordの位置づけ）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "16:46",
       "src_id": 4,
       "src_type": "lastfm",
@@ -430,6 +875,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Wild+Nothing/_/Nocturne"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:45",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落80-83 情報量ピーク分割、主語のねじれと語の反復を解消",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:41",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落64 同一フレーズの段落内反復を削除",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -453,6 +918,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "16:34",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落48 宙に浮いた主題を修正（結論を文頭に出し2文に分割）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "16:33",
       "src_id": 4,
       "src_type": "lastfm",
@@ -460,6 +935,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Twin+Shadow/_/Forget"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:30",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落37 長い並列文を分割（BBCの航空便データと都市交通量データ）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -473,6 +958,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "16:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落33 論理の骨格を明確化（受動→能動、フレーム→呼び名、指示対象の明確化）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "16:24",
       "src_id": 4,
       "src_type": "lastfm",
@@ -480,6 +975,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Warm+Ghost/_/I+Will+Return"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "16:24",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落34 匿名性の記述に返信連鎖のニュアンスを追加",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -523,6 +1028,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "16:10",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落30 文末表現の反復を解消（主語交代を連体修飾で解消、文の統合・語尾のバリエーション）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "16:07",
       "src_id": 4,
       "src_type": "lastfm",
@@ -563,6 +1078,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "15:52",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落21 情報量のピーク分割（James Curcio論考の発表と内容を分離）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "15:50",
       "src_id": 4,
       "src_type": "lastfm",
@@ -570,6 +1095,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Fatima+Al+Qadiri/_/Hip+Hop+Spa"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "15:49",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落19 帰属の遅延を解消（帰属を文頭に移動、独立した2主張を句点で分離）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -603,6 +1138,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "15:40",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落9-12 文レベル推敲（コラム：主語欠落の修正）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
+    },
+    {
+      "date": "2026-08-18",
       "time": "15:37",
       "src_id": 4,
       "src_type": "lastfm",
@@ -610,6 +1155,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Yung+Lean/_/Hurt"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "15:34",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: Push 1件: fractal-7: 段落1-4 文レベル推敲（情報量ピーク分割1件、余分な半角スペース1件、二重受身の解消1件）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -630,6 +1185,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Crim3s/_/Salt"
+    },
+    {
+      "date": "2026-08-18",
+      "time": "15:30",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/internet_aesthetics: branch claude/continue-polishing-task-8f6uon を作成",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/internet_aesthetics"
     },
     {
       "date": "2026-08-18",
@@ -703,6 +1268,16 @@
     },
     {
       "date": "2026-08-18",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-18 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-18",
       "time": "14:58",
       "src_id": 4,
       "src_type": "lastfm",
@@ -739,6 +1314,16 @@
       "text": "2026-08-18 厚い雲 26.4℃ (26.4〜26.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-18",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-18 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-08-17",
@@ -12801,521 +13386,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F07%2F21"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-20",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-20",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,523歩 / 心拍数: 96bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-20",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-20",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-20 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "19:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "これで何ができるのかわからんけど",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aownnp5dc3th2rsz"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "19:37",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "hermes agentをセットアップして、MCP経由でRSSリーダーが貯めてる記事とplanetが貯めてる個人アクティビティにアクセスできるようにしました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aownn1n3c3th2rsy"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "19:07",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "今忙しいのでわたしはコメント欄かチャット欄にいることしかできません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aowml2xdc3th2rsf"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "19:04",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "これもう終わったの",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aowmhe50c3th2rs6"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "15:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tom Jenkinson - 1994",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tom+Jenkinson/_/1994"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "15:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet: Push 1件: Implement Scrapbox to Obsidian synchronization feature",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "15:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tom Jenkinson - Whooshki",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tom+Jenkinson/_/Whooshki"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-20 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-07-20 晴天 28.6℃ (28.3〜28.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Animal Collective - Genie's Open",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Animal+Collective/_/Genie%27s+Open"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Animal Collective - Broke Zodiac",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Animal+Collective/_/Broke+Zodiac"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Animal Collective - Stride Rite",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Animal+Collective/_/Stride+Rite"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Animal Collective - Gem and I",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Animal+Collective/_/Gem+and+I"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Animal Collective - Magicians From Baltimore",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Animal+Collective/_/Magicians+From+Baltimore"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Myuthafoo - Math of You",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Myuthafoo/_/Math+of+You"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "08:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Myuthafoo - Memory Leak",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Myuthafoo/_/Memory+Leak"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Caterina Barbieri at Electropark Festival",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Caterina+Barbieri+at+Electropark+Festival"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - The Landscape Listens",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/The+Landscape+Listens"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Terminal Clock",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Terminal+Clock"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Life at Altitude",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Life+at+Altitude"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Broken Melody",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Broken+Melody"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Knot of Spirit",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Knot+of+Spirit"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-20 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Canticle of Cryo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Canticle+of+Cryo"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Transfixed",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Transfixed"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - At Your Gamut",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/At+Your+Gamut"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AFX - ANALORD",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AFX/_/ANALORD"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Bow of Perception",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Bow+of+Perception"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Pinnacles of You",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Pinnacles+of+You"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Arrows of Time",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Arrows+of+Time"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Closest approach to your Orbit",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Closest+approach+to+your+Orbit"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "06:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Spine of Desire",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Spine+of+Desire"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "05:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caterina Barbieri - Fantas",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caterina+Barbieri/_/Fantas"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "05:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Capsule - phony phonic",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Capsule/_/phony+phonic"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "05:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "jelly (album - edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/jelly+(album/_/edit)"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "05:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "2000s otaku - net/anison ～ mixtape",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/2000s+otaku/_/net%2Fanison+%EF%BD%9E+mixtape"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "fripSide - only my railgun",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/fripSide/_/only+my+railgun"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "小坂りゆ - LOVE♥SHINE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B0%8F%E5%9D%82%E3%82%8A%E3%82%86/_/LOVE%E2%99%A5SHINE"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "大塚愛 - Sakuranbo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%A4%A7%E5%A1%9A%E6%84%9B/_/Sakuranbo"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Toraboruta-P - ココロ feat. 鏡音リン",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Toraboruta-P/_/%E3%82%B3%E3%82%B3%E3%83%AD+feat.+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Nursery Rhyme - True my Heart",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Nursery+Rhyme/_/True+my+Heart"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "2000s otaku - ケロ⑨destiny",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/2000s+otaku/_/%E3%82%B1%E3%83%AD%E2%91%A8destiny"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "木村由姫 - LOVE & JOY",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9C%A8%E6%9D%91%E7%94%B1%E5%A7%AB/_/LOVE+&+JOY"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ツイッター以外のコミュニティが盛り上がってほしい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aovr4hrec3th2r05"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "IUT理論のコンピューター検証に関する - LANAプロジェクト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/IUT%E7%90%86%E8%AB%96%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/_/LANA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "04:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ABC予想は - オープニング",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/ABC%E4%BA%88%E6%83%B3%E3%81%AF/_/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0"
-    },
-    {
-      "date": "2026-07-20",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "↑ 頭身低くてグッとくる\n　・hermes agentをセットアップした\n　　・今年初めに流行ってたAIエージェント openclaw と似た系統のやつ\n　　・自宅のサーバーで動かしている\n　　・LLMはOpenRouterのAPIを利用している\n　　　・いまはdeepseek-v4-flash\n　　・以前やったシステムと連携できるようにした\n　　　・以前作ってたライフログ収集システムplanetにLLMがアクセスできるようにMCPを設定\n　　　・以前導入したセルフホストRSSリーダーoksskoltenも同様にMCPを設定\n　　　　・ここの日記を見るとPOPOPOのリリースがあった日に導入したらしい。先日POPOPOのサービス終了が発表されていたので味わい深い\n　　　・あと個人サイトのコードにも触れられるようにした\n　　・最近のニュースとか自分のアクティビティを自由にLLMが見れるようになった\n　　　・ここの日記も収集しているので、これもLLMが見られる\n　　　・今週何やってた？って聞くと教えてくれるようになった\n　　　・しかしそのためには自分自身がちゃんと記録しないといけない\n　　　　・なので今書いている",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F07%2F20"
     }
   ]
 }

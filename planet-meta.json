@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T23:00:01.458214+09:00",
-  "latest_date": "2026-08-18",
-  "oldest_date": "2026-07-20",
+  "generated_at": "2026-08-19T07:00:02.013458+09:00",
+  "latest_date": "2026-08-19",
+  "oldest_date": "2026-07-21",
   "sources": [
     {
       "id": 2,
@@ -145,16 +145,6 @@
     }
   ],
   "days": {
-    "2026-07-20": {
-      "posts": 5,
-      "plays": 37,
-      "steps": 3523,
-      "weather": {
-        "icon": "☀️",
-        "desc": "晴天",
-        "temp_max": 28.9
-      }
-    },
     "2026-07-21": {
       "posts": 1,
       "plays": 10,
@@ -420,12 +410,22 @@
       }
     },
     "2026-08-18": {
-      "posts": 2,
-      "plays": 71,
+      "posts": 3,
+      "plays": 86,
+      "steps": 5507,
       "weather": {
         "icon": "☁️",
         "desc": "厚い雲",
         "temp_max": 26.4
+      }
+    },
+    "2026-08-19": {
+      "posts": 0,
+      "plays": 0,
+      "weather": {
+        "icon": "☁️",
+        "desc": "厚い雲",
+        "temp_max": 26.7
       }
     }
   },
