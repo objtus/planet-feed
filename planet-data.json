@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-08-19T07:00:02.013458+09:00",
+  "generated_at": "2026-08-19T15:00:01.191178+09:00",
   "timeline": [
+    {
+      "date": "2026-08-19",
+      "time": "13:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "身近だけどよくわからない - 質的・経済的な言語間格差",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%BA%AB%E8%BF%91%E3%81%A0%E3%81%91%E3%81%A9%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/_/%E8%B3%AA%E7%9A%84%E3%83%BB%E7%B5%8C%E6%B8%88%E7%9A%84%E3%81%AA%E8%A8%80%E8%AA%9E%E9%96%93%E6%A0%BC%E5%B7%AE"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "12:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Byte - level Byte Pair Encoding",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Byte/_/level+Byte+Pair+Encoding"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "身近だけどよくわからない - トークナイザの構築手法",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%BA%AB%E8%BF%91%E3%81%A0%E3%81%91%E3%81%A9%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/_/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%82%B6%E3%81%AE%E6%A7%8B%E7%AF%89%E6%89%8B%E6%B3%95"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "12:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "身近だけどよくわからない - トークンとは何か",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%BA%AB%E8%BF%91%E3%81%A0%E3%81%91%E3%81%A9%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/_/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B"
+    },
+    {
+      "date": "2026-08-19",
+      "time": "12:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "身近だけどよくわからない - 導入",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%BA%AB%E8%BF%91%E3%81%A0%E3%81%91%E3%81%A9%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/_/%E5%B0%8E%E5%85%A5"
+    },
     {
       "date": "2026-08-19",
       "time": "09:00",
