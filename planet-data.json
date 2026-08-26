@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-08-26T23:00:01.365664+09:00",
+  "generated_at": "2026-08-27T07:00:01.571103+09:00",
   "timeline": [
+    {
+      "date": "2026-08-27",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-08-27 厚い雲 29.1℃ (28.9〜29.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-26",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-08-26",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 3枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-08-26",
       "time": "20:45",
@@ -49,6 +76,16 @@
       "text": "2026-08-26 晴天 29.1℃ (28.9〜29.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-26",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-26 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-08-25",
@@ -13461,65 +13498,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-28 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-28 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-07-28 雲 28.1℃ (27.8〜28.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-07-28",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-07-28 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "01:04",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md and refine cognitive rhythm writing progress",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-07-28",
-      "time": "00:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Tranquilizer ( Visualiser)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Tranquilizer+(+Visualiser)"
     }
   ]
 }
