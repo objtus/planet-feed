@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-26T15:00:01.119630+09:00",
+  "generated_at": "2026-08-26T23:00:01.365664+09:00",
   "timeline": [
+    {
+      "date": "2026-08-26",
+      "time": "20:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "shi3z show - ハッカー魂　MIDIコントローラとStreamDiffusionでおもちゃを作った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/shi3z+show/_/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E9%AD%82%E3%80%80MIDI%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%A8StreamDiffusion%E3%81%A7%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F"
+    },
+    {
+      "date": "2026-08-26",
+      "time": "14:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - ELLE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/ELLE"
+    },
+    {
+      "date": "2026-08-26",
+      "time": "14:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sophie - BIPP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sophie/_/BIPP"
+    },
+    {
+      "date": "2026-08-26",
+      "time": "14:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "123HD - Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/123HD/_/Hannah+Diamond"
+    },
     {
       "date": "2026-08-26",
       "time": "09:00",
