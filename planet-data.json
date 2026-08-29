@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T07:00:01.444835+09:00",
+  "generated_at": "2026-08-29T15:00:01.656236+09:00",
   "timeline": [
     {
       "date": "2026-08-29",
@@ -9,6 +9,96 @@
       "text": "2026-08-29 小雨 25.4℃ (25.4〜25.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Krumville",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Krumville"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - World Outside",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/World+Outside"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Skaters - 6",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Skaters/_/6"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Skaters - 5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Skaters/_/5"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Skaters - 4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Skaters/_/4"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Skaters - 3",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Skaters/_/3"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Crush",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Crush"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Environments",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Environments"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "06:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Bias",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Bias"
     },
     {
       "date": "2026-08-29",
