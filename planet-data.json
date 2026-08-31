@@ -1,6 +1,266 @@
 {
-  "generated_at": "2026-08-31T07:00:01.320028+09:00",
+  "generated_at": "2026-08-31T15:00:01.847279+09:00",
   "timeline": [
+    {
+      "date": "2026-08-31",
+      "time": "14:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Summer Heart - Hold On",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Summer+Heart/_/Hold+On"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Neon Indian - Should Have Taken Acid With You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Neon+Indian/_/Should+Have+Taken+Acid+With+You"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Slow Magic - Corvette Cassette",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Slow+Magic/_/Corvette+Cassette"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mathemagic - Beach Days",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mathemagic/_/Beach+Days"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - Feel It All Around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/Feel+It+All+Around"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Casa Del Mirto - Killer Haze",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Casa+Del+Mirto/_/Killer+Haze"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Teen Daze - Brooklyn Sunburn (feat. Steffalo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Teen+Daze/_/Brooklyn+Sunburn+(feat.+Steffalo)"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Twin Shadow - Forget",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Twin+Shadow/_/Forget"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "今日初音ミクの誕生日なの？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkb9bvnc3th4dac"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Wild Nothing - Nocturne",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Wild+Nothing/_/Nocturne"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Memory Tapes - Bicycle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Memory+Tapes/_/Bicycle"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Brothertiger - Wind at My Back",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Brothertiger/_/Wind+at+My+Back"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Panda Bear - Comfy in Nautica",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Panda+Bear/_/Comfy+in+Nautica"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Baths - ♥",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Baths/_/%E2%99%A5"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blackbird Blackbird - Pure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blackbird+Blackbird/_/Pure"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア - New Beat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2/_/New+Beat"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Porcelain Raft - Drifting In and Out",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Porcelain+Raft/_/Drifting+In+and+Out"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "13:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Memory Cassette - Asleep At A Party",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Memory+Cassette/_/Asleep+At+A+Party"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Neon Indian - Deadbeat Summer",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Neon+Indian/_/Deadbeat+Summer"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Small Black - Photojournalist",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Small+Black/_/Photojournalist"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Com Truise - Brokendate",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Com+Truise/_/Brokendate"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:49",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おしゃれな手ですね。その手はどこで購入しましたか？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqk9knwuc3th4d8q"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "楽しいことがしたいなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqk9jfggc3th4d8h"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おはようございます。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqk9j9gyc3th4d8f"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "12:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - New Theory",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/New+Theory"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "09:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "観る - ACT６ 裸の罪",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%96+%E8%A3%B8%E3%81%AE%E7%BD%AA"
+    },
     {
       "date": "2026-08-31",
       "time": "09:00",
@@ -9,6 +269,16 @@
       "text": "2026-08-31 曇りがち 28.3℃ (28.3〜28.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-08-31",
+      "time": "07:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "観る - ACT５ 老雄の太陽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%95+%E8%80%81%E9%9B%84%E3%81%AE%E5%A4%AA%E9%99%BD"
     },
     {
       "date": "2026-08-31",
