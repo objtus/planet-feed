@@ -1,6 +1,656 @@
 {
-  "generated_at": "2026-08-31T15:00:01.847279+09:00",
+  "generated_at": "2026-08-31T23:00:01.436363+09:00",
   "timeline": [
+    {
+      "date": "2026-08-31",
+      "time": "21:47",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "スケプおくって！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqksrockuy"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "skebきてません",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkslzzuc3th4e39"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "misononoa - 作業",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/misononoa/_/%E4%BD%9C%E6%A5%AD"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "misononoa - 作業",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/misononoa/_/%E4%BD%9C%E6%A5%AD"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - The third advent 〜地にひそむもの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/The+third+advent+%E3%80%9C%E5%9C%B0%E3%81%AB%E3%81%B2%E3%81%9D%E3%82%80%E3%82%82%E3%81%AE"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - 軍靴の記憶 (Memory of military boots)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/%E8%BB%8D%E9%9D%B4%E3%81%AE%E8%A8%98%E6%86%B6+(Memory+of+military+boots)"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - The Song of a Stone",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/The+Song+of+a+Stone"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "21:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "5 - 4moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/5/_/4moon"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - 地の淵の原理 (Theory of the World's Edge)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/%E5%9C%B0%E3%81%AE%E6%B7%B5%E3%81%AE%E5%8E%9F%E7%90%86+(Theory+of+the+World%27s+Edge)"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - Days",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/Days"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Turn A Gundam - She's so high",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Turn+A+Gundam/_/She%27s+so+high"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "kankai42977501 - 谷山浩子　不眠の力",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/kankai42977501/_/%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90%E3%80%80%E4%B8%8D%E7%9C%A0%E3%81%AE%E5%8A%9B"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "dal 1855mm2 - 「冷たい水の中をきみと歩いていく」谷山浩子　歌詞付き",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/dal+1855mm2/_/%E3%80%8C%E5%86%B7%E3%81%9F%E3%81%84%E6%B0%B4%E3%81%AE%E4%B8%AD%E3%82%92%E3%81%8D%E3%81%BF%E3%81%A8%E6%AD%A9%E3%81%84%E3%81%A6%E3%81%84%E3%81%8F%E3%80%8D%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90%E3%80%80%E6%AD%8C%E8%A9%9E%E4%BB%98%E3%81%8D"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "20:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ひとりでお帰り - 谷山浩子",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%A7%E3%81%8A%E5%B8%B0%E3%82%8A/_/%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "sensen992 - 鏡／谷山浩子",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/sensen992/_/%E9%8F%A1%EF%BC%8F%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "M11 re - arrange and re-mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M11+re/_/arrange+and+re-mix"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Everything You've Ever Dreamed - Arianne",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Everything+You%27ve+Ever+Dreamed/_/Arianne"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "エンド・テーマ - 銀河鉄道の夜",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A8%E3%83%B3%E3%83%89%E3%83%BB%E3%83%86%E3%83%BC%E3%83%9E/_/%E9%8A%80%E6%B2%B3%E9%89%84%E9%81%93%E3%81%AE%E5%A4%9C"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Furyo Soundtrack : Ryuichi Sakamoto - Merry Christmas, Mr Lawrence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Furyo+Soundtrack+:+Ryuichi+Sakamoto/_/Merry+Christmas,+Mr+Lawrence"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "新居昭乃Official - 凍る砂",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%96%B0%E5%B1%85%E6%98%AD%E4%B9%83Official/_/%E5%87%8D%E3%82%8B%E7%A0%82"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:24",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "Attention Is All You Need発表が2017年6月12日でマストドンブームとちょっと近い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkno7vyc3th4dno"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Irukarui2001 - SORAMIMI －空が耳をすましている－　谷山浩子",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Irukarui2001/_/SORAMIMI+%EF%BC%8D%E7%A9%BA%E3%81%8C%E8%80%B3%E3%82%92%E3%81%99%E3%81%BE%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%8D%E3%80%80%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Haibane Renmei - Hanenone - Free Bird - Mahiru no Tsuki Heto",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Haibane+Renmei/_/Hanenone+-+Free+Bird+-+Mahiru+no+Tsuki+Heto"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ぶん - 王国 谷山浩子",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%B6%E3%82%93/_/%E7%8E%8B%E5%9B%BD+%E8%B0%B7%E5%B1%B1%E6%B5%A9%E5%AD%90"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんにちは。ミッキーマウス天皇です。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkn820fc3th4dmg"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "19:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sora no aosa - Arai Akino",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sora+no+aosa/_/Arai+Akino"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Haruka Nakamura - Lamp feat.Nujabes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Haruka+Nakamura/_/Lamp+feat.Nujabes"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Philodox Gamer - Cinematics with DLSS 5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Philodox+Gamer/_/Cinematics+with+DLSS+5"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Can't Say Goodbye To Yesterday (instrumental) - Metal Gear Solid 2 Sons of Liberty",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Can%27t+Say+Goodbye+To+Yesterday+(instrumental)/_/Metal+Gear+Solid+2+Sons+of+Liberty"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:43",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "オカンアートって言葉は嫌いだけど、その中身はちょっと考えてみてもいいなと思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkm70d3c3th4djl"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MakkuraMoriNoUta - みんなのうた：まっくら森の歌ロングバージョン sm440033",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MakkuraMoriNoUta/_/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%86%E3%81%9F%EF%BC%9A%E3%81%BE%E3%81%A3%E3%81%8F%E3%82%89%E6%A3%AE%E3%81%AE%E6%AD%8C%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3+sm440033"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "18:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おはなしのくに～",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqkm55d4c3th4djj"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "17:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - December Entity",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/December+Entity"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "17:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Space Sailors - Nebula",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Space+Sailors/_/Nebula"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "17:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Tundra",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Tundra"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "17:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - #13",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/%2313"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "16:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Cult Leavers",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Cult+Leavers"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Neon Indian - Terminally Chill",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Neon+Indian/_/Terminally+Chill"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ghost Beach - Faded (Summer Heart Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ghost+Beach/_/Faded+(Summer+Heart+Remix)"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - Amor Fati",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/Amor+Fati"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア - Still Sound",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2/_/Still+Sound"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mr Twin Sister - Kimmi In a Rice Field",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mr+Twin+Sister/_/Kimmi+In+a+Rice+Field"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Big Spider's Back - Black Chow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Big+Spider%27s+Back/_/Black+Chow"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Com Truise - Air Cal",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Com+Truise/_/Air+Cal"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Baths - Aminals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Baths/_/Aminals"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Memoryhouse - Sleep Patterns",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Memoryhouse/_/Sleep+Patterns"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blackbird Blackbird - I'm Feeling Hazy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blackbird+Blackbird/_/I%27m+Feeling+Hazy"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chad Valley - Shell Suite",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chad+Valley/_/Shell+Suite"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Geographer - Kites",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Geographer/_/Kites"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gold Panda - You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gold+Panda/_/You"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Teengirl Fantasy - Make the Move",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Teengirl+Fantasy/_/Make+the+Move"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "15:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Small Black - Despicable Dogs",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Small+Black/_/Despicable+Dogs"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Neon Indian - Polish Girl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Neon+Indian/_/Polish+Girl"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - A Walk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/A+Walk"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Washed Out - It All Feels Right",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Washed+Out/_/It+All+Feels+Right"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Wild Nothing - Golden Haze",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Wild+Nothing/_/Golden+Haze"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Games - Midi Drift",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Games/_/Midi+Drift"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Warm Ghost - I Will Return",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Warm+Ghost/_/I+Will+Return"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア - Talamak",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2/_/Talamak"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anoraak - Above Your Head",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anoraak/_/Above+Your+Head"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Craft Spells - Nausea",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Craft+Spells/_/Nausea"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "レモネード - Whitecaps",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AC%E3%83%A2%E3%83%8D%E3%83%BC%E3%83%89/_/Whitecaps"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Work Drugs - Rad Racer",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Work+Drugs/_/Rad+Racer"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "クラス・アクトレス - Weekend",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AF%E3%83%88%E3%83%AC%E3%82%B9/_/Weekend"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "14:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Active Child - Hanging On",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Active+Child/_/Hanging+On"
+    },
     {
       "date": "2026-08-31",
       "time": "14:04",
