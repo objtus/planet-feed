@@ -1,6 +1,422 @@
 {
-  "generated_at": "2026-09-01T23:00:01.781143+09:00",
+  "generated_at": "2026-09-02T07:00:01.250480+09:00",
   "timeline": [
+    {
+      "date": "2026-09-02",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-02 曇りがち 28.1℃ (27.8〜28.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-02",
+      "time": "06:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Power Station",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Power+Station"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "06:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Ups & Downs",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Ups+&+Downs"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Go with the flow (feat. Shigeo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Go+with+the+flow+(feat.+Shigeo)"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny | サヨナラ・リヴァイバル - DENPA rmx",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny+%7C+%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%83%BB%E3%83%AA%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%90%E3%83%AB/_/DENPA+rmx"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tommy february6 / Tommy heavenly6 - ｴﾙ･ｵｰ･ｳﾞｨｰ･ｲｰ･ｴﾙ･ﾜｲ...",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tommy+february6+%2F+Tommy+heavenly6/_/%EF%BD%B4%EF%BE%99%EF%BD%A5%EF%BD%B5%EF%BD%B0%EF%BD%A5%EF%BD%B3%EF%BE%9E%EF%BD%A8%EF%BD%B0%EF%BD%A5%EF%BD%B2%EF%BD%B0%EF%BD%A5%EF%BD%B4%EF%BE%99%EF%BD%A5%EF%BE%9C%EF%BD%B2..."
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "my♪ラビッツ - トピック - もっと好きになる。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/my%E2%99%AA%E3%83%A9%E3%83%93%E3%83%83%E3%83%84+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%82%E3%81%A3%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%82"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marino - トピック - てんとう虫とチューリップ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marino+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%81%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Plastclip: 2kOPED - 07S1 月面兎兵器ミーナ ED",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Plastclip:+2kOPED/_/07S1+%E6%9C%88%E9%9D%A2%E5%85%8E%E5%85%B5%E5%99%A8%E3%83%9F%E3%83%BC%E3%83%8A+ED"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Off the Wall - Saori@destiny",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Off+the+Wall/_/Saori@destiny"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - HANABI",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/HANABI"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "05:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/playlist?list=PL8uCHzBbEWVROPUxcBfsOkRTGbZvO6DIY なぜかunreleasedなる動画がプレイリストに紛れ込んでいる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqmnuf0pc3th4g1t"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "04:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://web.archive.org/web/20120202060500/http://ocn.ne.jp/game/og/index.html あの頃のインターネットを感じた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqmn9ytsc3th4g1r",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "04:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saoriadestiny - saori@destiny TV",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saoriadestiny/_/saori@destiny+TV"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "04:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki (アイラミツキ） - ロボットハニー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki+(%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%84%E3%82%AD%EF%BC%89/_/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8F%E3%83%8B%E3%83%BC"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "04:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki (アイラミツキ） - カラフル・トーキョーサウンズ・NO.9",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki+(%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%84%E3%82%AD%EF%BC%89/_/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%E3%83%BBNO.9"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "00:27",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "わたしも、そういう感じになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqmdy4doc3th4fqg"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "00:26",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ツイッターで流れてくる島田フミカネのエッチなイラストについてですが、いつも、いいのそれ！ってなります",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqmdx1y8c3th4fqf"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sri Chinmoy 27 - Pandit Nikhil Banerjee & Pandit Samir Chatterjee",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sri+Chinmoy+27/_/Pandit+Nikhil+Banerjee+&+Pandit+Samir+Chatterjee"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 0歩 / 心拍数: 0bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rahul Kant - Raag Darbari Kanada, Ustad Munir Khan, Sarangi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rahul+Kant/_/Raag+Darbari+Kanada,+Ustad+Munir+Khan,+Sarangi"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kishori Amonkar - Rag Haunsadhwani (Tarana)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kishori+Amonkar/_/Rag+Haunsadhwani+(Tarana)"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Music For Meditation - Raga Darbari Kanada - Indian Flute",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Music+For+Meditation/_/Raga+Darbari+Kanada+-+Indian+Flute"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "La Monte Young - Pre-Tortoise Dream Music, Part Two",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/La+Monte+Young/_/Pre-Tortoise+Dream+Music,+Part+Two"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:34",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9wfh70y"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:34",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "youtube shortsがはじまったとき、それ以前に投稿してた短い動画が勝手にショート動画のUIで再生されるようになってすごくムカついたって話をしたいんですよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9w5fu0h"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:28",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "普通",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9oai4fs"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:28",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "多分考えられない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9o882fi"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:27",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "考えられないかもしれない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9nx25ej"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:27",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "本物のドパガキは、ショート動画すらすぐに飽きる　そうは考えられないかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9nmxjdg"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:26",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ショート動画を見続ける時間が長いのは、むしろドパガキとしてはレベルが低いってことじゃないかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9mqskbs"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:24",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "最近猫ミームっていうのが流行ってるらしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9j2u93v"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:23",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "人間なんて......",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9igrm1r"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:22",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "普通かな！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9gr7zxb"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:22",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "すくなくとも、元気ではないとまではいえないと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9ggn3w3"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:21",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "元気なんじゃないかなと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9fqwytt"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:21",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "多分元気",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9flxytc"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:21",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "元気だと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9fhi3sy"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "22:21",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "元気です",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/aqm9fceds9"
+    },
     {
       "date": "2026-09-01",
       "time": "22:05",
@@ -597,12 +1013,32 @@
     },
     {
       "date": "2026-09-01",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-01 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-01",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-09-01 曇りがち 27.8℃ (27.8〜27.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-01 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-01",
@@ -613,6 +1049,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/aqkxje97c3th4ebw"
+    },
+    {
+      "date": "2026-09-01",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "寝てたら一日終わった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F01"
     },
     {
       "date": "2026-08-31",
@@ -1682,6 +2128,16 @@
       "url": "https://sushi.ski/notes/aqjkf8vp6w"
     },
     {
+      "date": "2026-08-31",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "寝てたら8月終わった\nしばらく屋台の日記書けてなくてアカーン\n画像生成AIを触ってた\n　・セットアップとかプロンプトを書かせるのがだるいから、ローカルLLMからその辺をいい感じにできるようにしたかった\n　・ので、やってもらった。geminiとかChatGPTみたい（というまではいかないけど）に簡単な指示で生成してくれるようになった\n　・FLUXとかいう汎用性のあるモデルと、イラスト系で比較的新しくて人気らしいanimaっていうモデルを入れてみた\n　　・どっちもすごい。2022年末から順当に進化してると思った。出力される画像のクオリティ自体は2024年くらいから変わってない気もするけど。\n　　・LLMとはモデルのサイズが違う。anima系はcheckpointが4GBくらい。これでそれなりの画像が生成されるんだからすごいなと思う。\n　　　・すごい久々にcivitaiをみた。相変わらず個人イラストレーターの画風再現LoRAはたくさんアップされてるけど、ある特定の傾向のモデルは一掃されてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F31"
+    },
+    {
       "date": "2026-08-30",
       "time": "23:50",
       "src_id": 18,
@@ -1846,6 +2302,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-30",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "VRChatをやった\n　・すごい久しぶりに。すしすきーの人がいました。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F30"
     },
     {
       "date": "2026-08-29",
@@ -2594,6 +3060,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5+%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.+%D0%93%D0%9E%D0%A1%D0%A2%D0%95%D0%9B%D0%95%D0%A0%D0%90%D0%94%D0%98%D0%9E%D0%A4%D0%9E%D0%9D%D0%94/_/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9+%D0%9E%D0%B1%D0%BE%D0%B4%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D1%82+%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8B%D0%B9+%C2%AB%D0%92%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%C2%BB"
+    },
+    {
+      "date": "2026-08-29",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ずっと書いてたインターネット美学の歴史に関する文章を個人サイトで公開した\n　・じつは8月後半はやる気がなくなってほとんど触ってなかったけど\n　・https://yuinoid.neocities.org/txt/internet-aesthetic-a-genealogy/\n他人事ラジオの37回が公開された",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F29"
     },
     {
       "date": "2026-08-28",
@@ -3803,6 +4279,16 @@
       "url": "https://tanoshii.site/notes/aqfcqfc6c3th49aj"
     },
     {
+      "date": "2026-08-28",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "雑談配信した",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F28"
+    },
+    {
       "date": "2026-08-27",
       "time": "23:50",
       "src_id": 18,
@@ -4185,6 +4671,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-08-26",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "2026/08/21にVRAMを20GBにしたけど、さらに増やしたくなってRTX5060 Ti 16GBを衝動買いしてしまった\n　・理由はローカルLLMのコンテクストを増やしたいため\n　・kv cacheをq8量子化しても20GBだと64kくらいが限度（ぎり128kいくかいかないかくらい？）\n　　・MoEモデル（gemma4 26B A4B、qwen3.6 35B A3B)だとkv cacheが小さいからいいんだけど、話題だったqwen3.8 27Bだとその辺さらにきつい。生成速度も遅いし。\n　・GPU三枚構成は電源ケーブルの具合の問題でできず、RTX 2070 Super 8GBを抜いて5060 Tiに換装。現在VRAMが12+16GBの計28GB。\n　　・これだと128kをすこし余裕をもって動かせ、さらにモデルの量子化レベルによっては256kまでいける。ありがとう。\n　・結局コードを書かせるのは不安だからAPI経由でdeepseek-v4-flashで書かせてるんだが",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F26"
+    },
+    {
       "date": "2026-08-25",
       "time": "23:50",
       "src_id": 18,
@@ -4558,6 +5054,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Clark/_/December+Entity"
+    },
+    {
+      "date": "2026-08-25",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ローカルLLM\n　・opencodeの自己改善が不便なので、ミニマルかつその辺もいけるらしいPi Coding Agentに移行した\n　　・/reload コマンドで適用。実はhermes agentはそれもいらないんだけど。\n　　・自分用にカスタマイズさせるのがめんどくさいと同時に楽しい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F25"
     },
     {
       "date": "2026-08-24",
@@ -4944,6 +5450,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-08-23",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "他人事ラジオの収録をしました\nローカルLLMのハーネスを試していた\n　・opencodeを入れてみた\n　　・いい感じっちゃいい感じなんだけど、スキルとかカスタムツールの自己改善をさせようとしたら反映するのに一度再起動させないといけなくて不便。これは結構言われてることらしい。\n　・qwen3.6 35B A3Bがアホだけど早くていい感じ\n　　・ドパガキにはよい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F23"
+    },
+    {
       "date": "2026-08-22",
       "time": "23:50",
       "src_id": 18,
@@ -5067,6 +5583,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/zardofficial/_/%E3%80%8C%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84%E3%81%A7%E3%80%8DMusic+Video"
+    },
+    {
+      "date": "2026-08-22",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ローカルLLMの実行環境がこれまでollamaだったのを、llama.cppに移行した\n　・マルチGPUとかのため",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F22"
     },
     {
       "date": "2026-08-21",
@@ -5494,6 +6020,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-21",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "自宅サーバーのVRAMを増設した\n　・RTX 3060 12GBを追加。RTX 2070 super 8GBと合わせて20GB。\n　・ローカルLLM用\n雑談配信した",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F21"
     },
     {
       "date": "2026-08-20",
@@ -10681,6 +11217,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-08-11",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "動画生成AIのminimax H3を試した",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F08%2F11"
+    },
+    {
       "date": "2026-08-10",
       "time": "23:50",
       "src_id": 18,
@@ -15476,343 +16022,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 9時間0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-03",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-03",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-03 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "16:18",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "『ナショナル・トレジャー』って映画あったけど、考えてみたら『国宝』だな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apggostvc3th3amw"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "15:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Counter Strike - Yousuke Yasui (安井 洋介)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Counter+Strike/_/Yousuke+Yasui+(%E5%AE%89%E4%BA%95+%E6%B4%8B%E4%BB%8B)"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "15:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kimiko Kasai - Along The Nile",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kimiko+Kasai/_/Along+The+Nile"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "15:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Luxury Elite - s.w.a.k.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Luxury+Elite/_/s.w.a.k."
-    },
-    {
-      "date": "2026-08-03",
-      "time": "15:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ミッジ・ユーロ - トピック - The Man Who Sold the World (2010 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%9F%E3%83%83%E3%82%B8%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%AD+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/The+Man+Who+Sold+the+World+(2010+Remaster)"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-03 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "14:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "metal gear solid 2 - Can't Say Goodbye to Yesterday",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/metal+gear+solid+2/_/Can%27t+Say+Goodbye+to+Yesterday"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "14:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "瑠璃の宝石原画集買おうか迷って一応スタジオバインドショップをみたらもう売り切れてた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apgcm2mzc3th3aii"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "13:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Broken Canyon - Surface",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Broken+Canyon/_/Surface"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "13:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "bentoBoy - Dream Sequence",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/bentoBoy/_/Dream+Sequence"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "13:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "bentoBoy - Dream Sequence",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/bentoBoy/_/Dream+Sequence"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "13:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "bôa - Fool",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/b%C3%B4a/_/Fool"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Turquoise Hexagon Sun",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Turquoise+Hexagon+Sun"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "憂鬱 - Slow",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Slow"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:36",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "みなさま　おやすみなさい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apg8s2o2c3th3ae7"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "オウテカ - トピック - Slip",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%AA%E3%82%A6%E3%83%86%E3%82%AB+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/Slip"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "12:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Arena Americanada",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Arena+Americanada"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Boc Maxima (CD rip)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Boc+Maxima+(CD+rip)"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - June 9th",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/June+9th"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Nova Scotia Robots",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Nova+Scotia+Robots"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Roygbiv",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Boc Maxima",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Boc+Maxima"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Everything You Do Is a Balloon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Everything+You+Do+Is+a+Balloon"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Rodox Video",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Rodox+Video"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Chinook",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Chinook"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "11:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards of Canada - Wildlife Analysis",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+of+Canada/_/Wildlife+Analysis"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "10:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - 東浩紀、久しぶりの無料深夜突発",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%80%81%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E7%84%A1%E6%96%99%E6%B7%B1%E5%A4%9C%E7%AA%81%E7%99%BA"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-03 小雨 28.6℃ (28.3〜28.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-03",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-03 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-03",
-      "time": "05:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "arcaってエイリアンアブダクションとか生体ユニット好きそう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apftensxc3th3a02"
     }
   ]
 }
