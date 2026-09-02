@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-02T23:00:01.199381+09:00",
+  "generated_at": "2026-09-03T07:00:01.317100+09:00",
   "timeline": [
+    {
+      "date": "2026-09-03",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-03 厚い雲 27.8℃ (27.8〜27.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-02",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-02",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 1枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-09-02",
       "time": "20:41",
@@ -60,6 +87,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/MGSPW+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%83%8B%E3%82%B9%E3%82%BF%E5%8F%B8%E4%BB%A4%E5%AE%98%E6%8E%A5%E8%A7%A6"
+    },
+    {
+      "date": "2026-09-02",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-02",
@@ -326,6 +363,16 @@
       "text": "写真 0枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-01",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-01 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-01",
@@ -15535,573 +15582,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E6%99%B4%E3%82%8C%E3%81%9F%E3%81%AE%E6%97%A5%E3%81%AE%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "23:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇多田ヒカルの隠れた名曲 - プレイリスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB%E3%81%AE%E9%9A%A0%E3%82%8C%E3%81%9F%E5%90%8D%E6%9B%B2/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 1時間15分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-04",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-04",
-      "time": "23:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "雨の日の宇多田ヒカル - プレイリスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E9%9B%A8%E3%81%AE%E6%97%A5%E3%81%AE%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "22:32",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "うちギャルやねん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/api9invtc3th3e9v"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "22:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "平成ギャルの着うたフル~ｳｨﾙｺﾑ世代~ - プレイリスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B9%B3%E6%88%90%E3%82%AE%E3%83%A3%E3%83%AB%E3%81%AE%E7%9D%80%E3%81%86%E3%81%9F%E3%83%95%E3%83%AB~%EF%BD%B3%EF%BD%A8%EF%BE%99%EF%BD%BA%EF%BE%91%E4%B8%96%E4%BB%A3~/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Hyperpop & Dubstep mix in an NYC Nail Shop - Tiffany Day",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Hyperpop+&+Dubstep+mix+in+an+NYC+Nail+Shop/_/Tiffany+Day"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Pop Crypt - GRRL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Pop+Crypt/_/GRRL"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Pop Crypt - RILEY THE MUSICIAN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Pop+Crypt/_/RILEY+THE+MUSICIAN"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Grins",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Grins"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Set Me Free (Feel My Pain)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Set+Me+Free+(Feel+My+Pain)"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Stay Away",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Stay+Away"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Take My Hand",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Take+My+Hand"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - You (Ha Ha Ha)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/You+(Ha+Ha+Ha)"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Nuclear Seasons",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Nuclear+Seasons"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "20:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Stay Away",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Stay+Away"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "19:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Take My Hand",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Take+My+Hand"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "19:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - You (Ha Ha Ha)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/You+(Ha+Ha+Ha)"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "19:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - Nuclear Seasons",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/Nuclear+Seasons"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "19:06",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Enhance documentation with new transcripts and updates on H∆SHTAG$ episodes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "18:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MixMag - BONDAX deep house & disco set in The Lab LDN",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MixMag/_/BONDAX+deep+house+&+disco+set+in+The+Lab+LDN"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "18:32",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ツイッター　バズる　方法",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/api0xpfwc3th3dpa"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "18:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Charli xcx - True Romance",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Charli+xcx/_/True+Romance"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "18:17",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "siriの「すみません、よくわかりません。」って返答がとてもすきで、すみません、よくわかりません。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/api0dtbpc3th3dop"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "17:06",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "SCPはよく知らないので、『反ミーム部門は存在しない』という書名だけ見たとき、ミームに対抗するにはミームしかないみたいな主張の左派ポピュリズムか何かに関する本かと思ってしまいました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphxveq9c3th3dkl"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "17:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Burial - Tribute Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Burial/_/Tribute+Mix"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:54",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "年表？ニュース https://www.techno-edge.net/article/2026/08/04/5360.html",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphxexxlc3th3dju"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Burial Truant - Rough Sleeper VINYL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Burial+Truant/_/Rough+Sleeper+VINYL"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしもアイドルになって、配信システムをAIに作らせて、話題になりたいです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwoqwkc3th3div"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:33",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "この動画シリーズは以前youtubeで見られたのですが、いまは未公開になっているので、残念です",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwo1dic3th3dit"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:32",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "趣味で英語の動画をAIに文字起こしさせています。いまは、レッドブルの音楽ドキュメンタリーシリーズの、2013年の動画を文字起こしさせて、日本語訳を作らせています。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwmv8rc3th3dio"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:25",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "コーディングエージェントがあるいま、分散SNSのサーバーを建てるハードルは以前より下がっていると思います",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwe4iyc3th3dhx"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "何を書けばいいのだろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwcgxgc3th3dhv"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:23",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "普段生きているとき、考えていないんですよね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwb1zbc3th3dhl"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "16:22",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "もうすこし投稿量を増やしたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphwa0qhc3th3dhj"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "15:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "GENDEMA - minor cybercrimes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/GENDEMA/_/minor+cybercrimes"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "15:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "GENDEMA - improving the rawness",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/GENDEMA/_/improving+the+rawness"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tycho - Send and Receive (Chachi Jones remix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tycho/_/Send+and+Receive+(Chachi+Jones+remix)"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Update file paths and references in multiple documents to reflect recent organizational changes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Classical Curves",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Classical+Curves"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 3件: Update file paths and references in multiple documents / Add new chapters and documents on internet aesthetics and cultural movements / Update file paths and references to manuscript directory in multiple documents",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Hyatt Park Nights, Part 2",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Hyatt+Park+Nights,+Part+2"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Hyatt Park Nights, Part 1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Hyatt+Park+Nights,+Part+1"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Club Thanz",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Club+Thanz"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:40",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 3件: Update document paths and enhance references in various files / Add new documents for aesthetic review and structural planning / Update document paths and references across multiple files",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - How We Relate to the Body",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/How+We+Relate+to+the+Body"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - B.A.D.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/B.A.D."
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - The Courts",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/The+Courts"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Her",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Her"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jam City - Backseat Becomes a Zone While We Glide",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jam+City/_/Backseat+Becomes+a+Zone+While+We+Glide"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Boards Of Canada Mix (Focus - Hi Scores",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Boards+Of+Canada+Mix+(Focus/_/Hi+Scores"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "14:08",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Update context-map.md, next_tasks.md, and README.md to reflect recent document reorganizations and archive updates",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "12:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "スーパーおまかせ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aphoe9qbc3th3czo"
-    },
-    {
-      "date": "2026-08-04",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-04 厚い雲 26.6℃ (26.6〜26.7℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-04",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-04 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
     }
   ]
 }
