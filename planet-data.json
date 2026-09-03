@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-09-03T23:00:01.343591+09:00",
+  "generated_at": "2026-09-04T07:00:01.609710+09:00",
   "timeline": [
+    {
+      "date": "2026-09-04",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-04 厚い雲 23.1℃ (22.8〜23.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-04",
+      "time": "00:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://x.com/___ele_king___/status/2095375041139716352 おもしろいと思うと同時にこういうこともあるよなと思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqp83ec4c3th4idh"
+    },
+    {
+      "date": "2026-09-03",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-03",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-09-03",
       "time": "10:14",
@@ -37,6 +74,16 @@
       "text": "写真 1枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-02",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-02",
@@ -116,6 +163,16 @@
       "text": "2026-09-02 曇りがち 28.1℃ (27.8〜28.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-02",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-02",
@@ -15315,283 +15372,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 5時間5分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-05",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 3枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-05",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-05 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-05 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-05 晴天 27.2℃ (26.7〜27.8℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-05",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-05 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:45",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "これはマジであたらしい みたいなのないの",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apioyw0qc3th3eqy"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "2020年代は新しい音楽がないなあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apioqfv2c3th3eqv"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Remove redundant information from the GeoCities and Tumblr section in the documentation. Streamlined content by eliminating a sentence about GeoCities' disappearance in 2009, enhancing the focus on Tumblr's development and its historical context.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:28",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Refactor next_tasks.md to finalize the compression and restructuring of the introduction section",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:26",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Refactor next_tasks.md to include new task for compressing and restructuring the introduction section",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Crush",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Crush"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "05:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Environments",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Environments"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Bias",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Bias"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - LesAlpx",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/LesAlpx"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Karakul",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Karakul"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Requiem for CS70 and Strings",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Anasickmodular",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Anasickmodular"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Last Bloom",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Last+Bloom"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Falaise",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Falaise"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md with recent task completions and adjustments",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Caroline Polachek - So Hot You're Hurting My Feelings",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Caroline+Polachek/_/So+Hot+You%27re+Hurting+My+Feelings"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mars Argo - Doctor",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mars+Argo/_/Doctor"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:19",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Update next_tasks.md and RBMA documents with task completions and draft reflections",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "04:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "mars argo playlist - mars argo playlist",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/mars+argo+playlist/_/mars+argo+playlist"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "01:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "別に体調悪くないし精神的にも頑強ですけどなんとなく死にそうです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apigofzic3th3eou"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "01:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Yanatake - 40代はいろいろ♫",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Yanatake/_/40%E4%BB%A3%E3%81%AF%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E2%99%AB"
-    },
-    {
-      "date": "2026-08-05",
-      "time": "00:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "晴れたの日の宇多田ヒカル - プレイリスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%99%B4%E3%82%8C%E3%81%9F%E3%81%AE%E6%97%A5%E3%81%AE%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
     }
   ]
 }
