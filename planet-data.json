@@ -1,6 +1,306 @@
 {
-  "generated_at": "2026-09-04T07:00:01.609710+09:00",
+  "generated_at": "2026-09-04T15:00:01.206619+09:00",
   "timeline": [
+    {
+      "date": "2026-09-04",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "その辺に落ちてるガラスで - 石器",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%9D%E3%81%AE%E8%BE%BA%E3%81%AB%E8%90%BD%E3%81%A1%E3%81%A6%E3%82%8B%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%A7/_/%E7%9F%B3%E5%99%A8"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - SKIN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/SKIN"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - GIRLY STEP (CLAZZIQUAI PROJECT remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/GIRLY+STEP+(CLAZZIQUAI+PROJECT+remix)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "COLTEMONIKHA - トピック - アリクイワルツ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/COLTEMONIKHA+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%A2%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%AF%E3%83%AB%E3%83%84"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - クラクション",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - Heart Line Alive   (C.O.P.Y)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/Heart+Line+Alive+++(C.O.P.Y)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - STAR",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/STAR"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "12:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Lovesong (Cover)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Lovesong+(Cover)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - OK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/OK"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki | LOVE Re - Aira Mitsuki",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki+%7C+LOVE+Re/_/Aira+Mitsuki"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - China Discotica (Substance remix) (チャイナ・ディスコティカ)  (C.O.P.Y)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/China+Discotica+(Substance+remix)+(%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3%E3%83%86%E3%82%A3%E3%82%AB)++(C.O.P.Y)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Crazy Cat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Crazy+Cat"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - SECRET ADVENTURE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/SECRET+ADVENTURE"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marino - トピック - clear beats",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marino+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/clear+beats"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - Galaxy Boy  (C.O.P.Y)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/Galaxy+Boy++(C.O.P.Y)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - Swallowtail Dance (Cherryboy function ver.)   (C.O.P.Y)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/Swallowtail+Dance+(Cherryboy+function+ver.)+++(C.O.P.Y)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - Parameter",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/Parameter"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - STAND",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/STAND"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "鈴木　あみ - トピック - change my life",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%88%B4%E6%9C%A8%E3%80%80%E3%81%82%E3%81%BF+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/change+my+life"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny | Lonely Lonely Lonely - FUNKOT.JP remix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny+%7C+Lonely+Lonely+Lonely/_/FUNKOT.JP+remix"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Immi Vynati - Go with the flow (feat. Shigeo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Immi+Vynati/_/Go+with+the+flow+(feat.+Shigeo)"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "11:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - サヨナラ TECHNOPOLiS",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9+TECHNOPOLiS"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny | Shangri - La",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny+%7C+Shangri/_/La"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aira Mitsuki - Human Future",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aira+Mitsuki/_/Human+Future"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny - スパイラル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny/_/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny - ロスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny/_/%E3%83%AD%E3%82%B9%E3%83%88"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny - EZ DO DANCE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny/_/EZ+DO+DANCE"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny - ブリーズ・ブリーズ・ブリージング",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny/_/%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%96%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "10:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Saori@destiny - WOW WAR TECHNO",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Saori@destiny/_/WOW+WAR+TECHNO"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "09:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 久しぶりの東浩紀単独無料雑談突発です",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E6%9D%B1%E6%B5%A9%E7%B4%80%E5%8D%98%E7%8B%AC%E7%84%A1%E6%96%99%E9%9B%91%E8%AB%87%E7%AA%81%E7%99%BA%E3%81%A7%E3%81%99"
+    },
     {
       "date": "2026-09-04",
       "time": "09:00",
