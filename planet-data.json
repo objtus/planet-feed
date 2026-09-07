@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-09-07T23:00:01.533388+09:00",
+  "generated_at": "2026-09-08T07:00:01.867775+09:00",
   "timeline": [
+    {
+      "date": "2026-09-08",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-08 適度な雨 24.7℃ (24.4〜25.0℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-07",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-07",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-07",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-07 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-09-07",
       "time": "11:59",
@@ -74,6 +111,26 @@
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/siftivex: Push 1件: Enhance detail image handling and improve rendering logic in mockup.js",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/siftivex"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "09:13",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/siftivex: Push 1件: Refactor navigation logic in mockup.js for improved index handling",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/siftivex"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "09:09",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/siftivex: Push 8件: Enhance Makefile and documentation for n8n workflows and Phase 1 completion / Finalize Phase 1 and introduce VLM on-demand operations / Enhance mockup layout and API integration for Pixiv works / Update UI design documentation and introduce new decision documents / Enhance mockup functionality and layout for improved user experience",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/siftivex"
@@ -209,6 +266,16 @@
       "url": "https://www.last.fm/music/David+Bowie/_/Starman+(2012+Remaster)"
     },
     {
+      "date": "2026-09-06",
+      "time": "04:31",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/siftivex: Push 2件: Add FastAPI API and Docker support for Siftivex / Update Phase 1 documentation and finalize initial bulk ingestion results",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/siftivex"
+    },
+    {
       "date": "2026-09-05",
       "time": "23:10",
       "src_id": 10,
@@ -216,6 +283,16 @@
       "text": "写真 0枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-05",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-05 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-05",
@@ -279,6 +356,16 @@
     },
     {
       "date": "2026-09-05",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-05 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-05",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
@@ -295,6 +382,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Claude+Fable%E5%9C%A7%E5%80%92%E3%81%AE%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B/_/%E6%8E%A8%E8%AB%96%E3%81%AF%E6%A5%B5%E3%81%BE%E3%81%A3%E3%81%9F"
+    },
+    {
+      "date": "2026-09-05",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-05 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-04",
@@ -13305,354 +13402,6 @@
       "text": "スクリーンタイム: 0秒",
       "is_boost": false,
       "has_media": false
-    },
-    {
-      "date": "2026-08-09",
-      "time": "23:44",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案第3稿: 3つの###見出しに分割、結論を末尾に移動、段落冒頭と内容の一致を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-09",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-09 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "22:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案: fractal-revision-guideで節レベル推敲(道標追加・並べ替え・橋渡し挿入)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "21:30",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: DJ Harvey発言の一次資料確認: SSense記事(2024/01/10)を確認、拡張引用を採用",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "21:21",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案改訂: 添削反映(10段落→7段落、本稿への統一、偉そうな表現の削除)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "LTJ Bukem - Atlantis (I Need You)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/LTJ+Bukem/_/Atlantis+(I+Need+You)"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Brainkillers - Screwface",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Brainkillers/_/Screwface"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bad Company - The Pulse",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bad+Company/_/The+Pulse"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:29",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記 文案作成: RA記事二本を統合した新しい後記(クロニクル終わりにあたって+後記を統合)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:28",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "LTJ Bukem - Atmospherical Jubilancy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/LTJ+Bukem/_/Atmospherical+Jubilancy"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aphrodite - Heat Haze",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aphrodite/_/Heat+Haze"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dillinja & Mystery - Deep Love",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dillinja+&+Mystery/_/Deep+Love"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "DJ Zinc - Super Sharp Shooter (Original Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/DJ+Zinc/_/Super+Sharp+Shooter+(Original+Mix)"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "17:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Peshay - Piano Tune",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Peshay/_/Piano+Tune"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "16:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Adam F - Circles (Album Edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Adam+F/_/Circles+(Album+Edit)"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "16:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Squarepusher - Tundra",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Squarepusher/_/Tundra"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Stereopatico - Original UK Oldschool Jungle & Drum and Bass Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Stereopatico/_/Original+UK+Oldschool+Jungle+&+Drum+and+Bass+Mix"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "コスパ悪いから寝たことない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/app0fuw1c3th3kkn"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:26",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: 8-reorg(第8章後記)とinv-hypnagogic(chillwave/hypnagogic pop)のタスクを追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:24",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "嬉しいよあたしを選んでくれて",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apozfilqc3th3kjh"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "押井守は死ぬまでにアニメ映画をあと100本監督すべきだ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apoza9yjc3th3kjc"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: chillwave/hypnagogic pop調査を統合: 命名史・両者の異同・Retromania本文の一次確認結果をノート化(改題・移動)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:05",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "なにかおもろいことしたいねん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apoypyohc3th3kib"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-09 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "14:58",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "暑くてなんか頭痛ーい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apoyhblsc3th3khw"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "10:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "音楽ファンって、なんか、やっかいな感じ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apop24s3c3th3k5r"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "10:29",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "詩を楽しむ感性がわたしにはほとんどありません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apoov5ozc3th3k5o"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "10:28",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "詩ってぜんぜんわかりません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apoou4cjc3th3k5n"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "10:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "QuizKnockという存在がこの世にあり、それが人気を博しているという情報は知っているのですが、ではそれがどういうものか、実はわたしは知りません",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apootj3jc3th3k5m"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "10:17",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: Retromania調査ノート追加: hypnagogic pop/Keenan命名の出典補強候補、第8章後記との関係を整理",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "09:51",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章後記reorg計画: RA記事との追加符合(Fisher/Reynolds/Caretaker/PC Music/Throbbing Gristle/DJ Harvey)を追記",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "09:36",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/draft-chapter-volume-balance-4t0fbv を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-09",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-09 厚い雲 26.9℃ (26.9〜26.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-09",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-09 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
     }
   ]
 }
