@@ -1,6 +1,167 @@
 {
-  "generated_at": "2026-09-08T07:00:01.867775+09:00",
+  "generated_at": "2026-09-08T15:00:01.191528+09:00",
   "timeline": [
+    {
+      "date": "2026-09-08",
+      "time": "14:00",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ツイッターで吉田豪にフォローされたんだけどなんで",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqvrltwgc3th4ovo",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "12:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Autechre - Warp Tapes 89-93",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Autechre/_/Warp+Tapes+89-93"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "12:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "NBCUniversal Music Channel - 木村由姫／LOVE＆JOY（Official Lyric Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/NBCUniversal+Music+Channel/_/%E6%9C%A8%E6%9D%91%E7%94%B1%E5%A7%AB%EF%BC%8FLOVE%EF%BC%86JOY%EF%BC%88Official+Lyric+Video)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "12:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iannis Xenakis, - Aroura",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iannis+Xenakis,/_/Aroura"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Franz Danksagmüller - György Ligeti Volumina",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Franz+Danksagm%C3%BCller/_/Gy%C3%B6rgy+Ligeti+Volumina"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "György Ligeti - Lux Aeterna",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gy%C3%B6rgy+Ligeti/_/Lux+Aeterna"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Philip Glass. - Koyaanisqatsi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Philip+Glass./_/Koyaanisqatsi"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "小浜節 - 唄：宮良高林",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B0%8F%E6%B5%9C%E7%AF%80/_/%E5%94%84%EF%BC%9A%E5%AE%AE%E8%89%AF%E9%AB%98%E6%9E%97"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "KLS - Japanese Min'yo (audio only)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/KLS/_/Japanese+Min%27yo+(audio+only)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gammaldans - Traditional Japanese Folk and Work Songs",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gammaldans/_/Traditional+Japanese+Folk+and+Work+Songs"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dachin Tsuke Uta - A Road-horse Charge Song.(Folk song from Shiiba, Miyazaki Prefecture)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dachin+Tsuke+Uta/_/A+Road-horse+Charge+Song.(Folk+song+from+Shiiba,+Miyazaki+Prefecture)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Haru Bushi - Spring Song of Shiiba.(Folk song from Shiiba, Miyazaki Prefecture)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Haru+Bushi/_/Spring+Song+of+Shiiba.(Folk+song+from+Shiiba,+Miyazaki+Prefecture)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Gammaldans - Song of Picking Safflowers.(Folk song from Yamagata Prefecture)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Gammaldans/_/Song+of+Picking+Safflowers.(Folk+song+from+Yamagata+Prefecture)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "11:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Soran Bushi (Soran Song).(Soran Song is the most famous folk song of Hokkaido island. It is named from the shouting to mark time [like yo - ho], as it is originally the shouting at drawing up herrings)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Soran+Bushi+(Soran+Song).(Soran+Song+is+the+most+famous+folk+song+of+Hokkaido+island.+It+is+named+from+the+shouting+to+mark+time+%5Blike+yo/_/ho%5D,+as+it+is+originally+the+shouting+at+drawing+up+herrings)"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "10:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "平沢進 - Quit",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B9%B3%E6%B2%A2%E9%80%B2/_/Quit"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "10:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "大塚英志　聞き手＝山内萌　物語消費とプロパガンダ ── - 「物語消費論",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%A7%E5%A1%9A%E8%8B%B1%E5%BF%97%E3%80%80%E8%81%9E%E3%81%8D%E6%89%8B%EF%BC%9D%E5%B1%B1%E5%86%85%E8%90%8C%E3%80%80%E7%89%A9%E8%AA%9E%E6%B6%88%E8%B2%BB%E3%81%A8%E3%83%97%E3%83%AD%E3%83%91%E3%82%AC%E3%83%B3%E3%83%80+%E2%94%80%E2%94%80/_/%E3%80%8C%E7%89%A9%E8%AA%9E%E6%B6%88%E8%B2%BB%E8%AB%96"
+    },
     {
       "date": "2026-09-08",
       "time": "09:00",
