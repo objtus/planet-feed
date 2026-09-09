@@ -1,6 +1,384 @@
 {
-  "generated_at": "2026-09-09T23:00:02.047149+09:00",
+  "generated_at": "2026-09-10T07:00:01.991318+09:00",
   "timeline": [
+    {
+      "date": "2026-09-10",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-10 厚い雲 20.9℃ (20.6〜21.1℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Selected Ambient Works Volume II (Expanded Edition)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Selected+Ambient+Works+Volume+II+(Expanded+Edition)"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - Live at Secret Sky",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/Live+at+Secret+Sky"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .The River",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.The+River"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".21 - 04/20",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.21/_/04%2F20"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .coming soon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.coming+soon"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".metronomy - The Light (Kero Kero Bonito Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.metronomy/_/The+Light+(Kero+Kero+Bonito+Remix)"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .When the Fires Come",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.When+the+Fires+Come"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .The Princess and the Clock",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.The+Princess+and+the+Clock"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .Battle Lines",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.Battle+Lines"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "01:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kero Kero Bonito - .Intro",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kero+Kero+Bonito/_/.Intro"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - Secret Sky Acoustic EDM Set",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/Secret+Sky+Acoustic+EDM+Set"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Astra King - Live at Appleville",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Astra+King/_/Live+at+Appleville"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ciarán - K-Bar",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ciar%C3%A1n/_/K-Bar"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Tundra",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Tundra"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ciarán - Galvarino",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ciar%C3%A1n/_/Galvarino"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "うざ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxsnr54c3th4rir"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "00:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Lltb (feat. Wet)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Lltb+(feat.+Wet)"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - 2am (feat. gianna)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/2am+(feat.+gianna)"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:53",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか、みんな、ごめん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxs98n4c3th4rfk"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "「ネタツイ」の再掲の話が、いつの間にかセルフリノートの是非の話に変わっている",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxr0j9mc3th4r46"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "魔裟斗チャンネル - 「合気道はウソだろ？」後輩プロレスラーとガチ検証してきました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%AD%94%E8%A3%9F%E6%96%97%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%80%8C%E5%90%88%E6%B0%97%E9%81%93%E3%81%AF%E3%82%A6%E3%82%BD%E3%81%A0%E3%82%8D%EF%BC%9F%E3%80%8D%E5%BE%8C%E8%BC%A9%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9%E3%83%A9%E3%83%BC%E3%81%A8%E3%82%AC%E3%83%81%E6%A4%9C%E8%A8%BC%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Fred again . . - Fred again.. & Thomas Bangalter (USB002, Alexandra Palace, London 27 February 2026)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Fred+again+.+./_/Fred+again..+&+Thomas+Bangalter+(USB002,+Alexandra+Palace,+London+27+February+2026)"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Thomas Bangalter - Spinal Scratch",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Thomas+Bangalter/_/Spinal+Scratch"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Thomas Bangalter - The End",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Thomas+Bangalter/_/The+End"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LFO - Freak 1080p",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LFO/_/Freak+1080p"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Enter The Void - Intro Title Credit Sequence (1080p)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Enter+The+Void/_/Intro+Title+Credit+Sequence+(1080p)"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "映画 - エンター・ザ・ボイド",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%98%A0%E7%94%BB/_/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%9C%E3%82%A4%E3%83%89"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ボール蹴って走りましょう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxomk22c3th4r00"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:10",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "人類はほんらい、外に出てサッカーすべきですからね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxokw9jc3th4qzt"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Meg - 07 SEARCHLiGHT",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Meg/_/07+SEARCHLiGHT"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "お笑い大好き",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxogzefc3th4qz1"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ごめんなさい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxodkylc3th4qys"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ムカつく",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxockxlc3th4qyi"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "お笑い芸人とかも嫌いだわ　何が「お笑い」だよって思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxocgfdc3th4qyg"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:03",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "「ネタツイ」ってあれ何なの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxobn08c3th4qy6"
+    },
     {
       "date": "2026-09-09",
       "time": "22:03",
@@ -10,6 +388,36 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Meg/_/06+SUPERSONIC"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "そうは思いませんか？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxoa0tvc3th4qxv"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:02",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "恥ずかしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxo9p70c3th4qxu"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "22:01",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ツイッターとかで、「ネタツイ」の再掲してる人がいますけど、あれ、ほんとうにダサいと思います",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqxo9cuoc3th4qxt"
     },
     {
       "date": "2026-09-09",
@@ -551,6 +959,16 @@
     },
     {
       "date": "2026-09-08",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-08 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-08",
       "time": "14:23",
       "src_id": 4,
       "src_type": "lastfm",
@@ -760,6 +1178,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-09-08",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "とくになし\n超ねてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F08"
+    },
+    {
       "date": "2026-09-07",
       "time": "23:50",
       "src_id": 18,
@@ -825,6 +1253,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-07",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "とくになし\n超ねてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F07"
     },
     {
       "date": "2026-09-06",
@@ -1053,6 +1491,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/siftivex"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ねてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F06"
     },
     {
       "date": "2026-09-05",
@@ -13499,154 +13947,6 @@
       "text": "スクリーンタイム: 0秒",
       "is_boost": false,
       "has_media": false
-    },
-    {
-      "date": "2026-08-11",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-11",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-11 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "22:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "やじゅまん - INMU KING",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%84%E3%81%98%E3%82%85%E3%81%BE%E3%82%93/_/INMU+KING"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "22:19",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章末尾: 「本稿は〜描くことができた」を「〜と見えてくる」に変更",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "22:12",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 第8章末尾: 「もっとも」を草稿の既存語彙「ただし」に差し替え",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "22:10",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/task-pipeline-check-7irqst を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "21:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Love in the Time of Lexapro",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Love+in+the+Time+of+Lexapro"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "21:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "何も起こらないたった34秒の映像なのにこの緊張感／映画 - 日曜のあと",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BD%95%E3%82%82%E8%B5%B7%E3%81%93%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%81%A3%E3%81%9F34%E7%A7%92%E3%81%AE%E6%98%A0%E5%83%8F%E3%81%AA%E3%81%AE%E3%81%AB%E3%81%93%E3%81%AE%E7%B7%8A%E5%BC%B5%E6%84%9F%EF%BC%8F%E6%98%A0%E7%94%BB/_/%E6%97%A5%E6%9B%9C%E3%81%AE%E3%81%82%E3%81%A8"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "21:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "何も起こらないたった34秒の映像なのにこの緊張感／映画 - 日曜のあと",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BD%95%E3%82%82%E8%B5%B7%E3%81%93%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%81%A3%E3%81%9F34%E7%A7%92%E3%81%AE%E6%98%A0%E5%83%8F%E3%81%AA%E3%81%AE%E3%81%AB%E3%81%93%E3%81%AE%E7%B7%8A%E5%BC%B5%E6%84%9F%EF%BC%8F%E6%98%A0%E7%94%BB/_/%E6%97%A5%E6%9B%9C%E3%81%AE%E3%81%82%E3%81%A8"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "20:25",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "タフォニ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aps51wxec3th3nqw"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-11 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "09:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "天皇家最大のピンチとは？日本史最大の謎、武士vs天皇 - ReHacQ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%A4%A9%E7%9A%87%E5%AE%B6%E6%9C%80%E5%A4%A7%E3%81%AE%E3%83%94%E3%83%B3%E3%83%81%E3%81%A8%E3%81%AF%EF%BC%9F%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AC%8E%E3%80%81%E6%AD%A6%E5%A3%ABvs%E5%A4%A9%E7%9A%87/_/ReHacQ"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-11 曇りがち 24.6℃ (24.6〜24.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-11",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-11 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-11",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "動画生成AIのminimax H3を試した",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F08%2F11"
     }
   ]
 }
