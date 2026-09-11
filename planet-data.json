@@ -1,6 +1,206 @@
 {
-  "generated_at": "2026-09-11T07:00:01.867275+09:00",
+  "generated_at": "2026-09-11T15:00:01.657857+09:00",
   "timeline": [
+    {
+      "date": "2026-09-11",
+      "time": "14:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Myrtle Avenue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Myrtle+Avenue"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial - Young Death",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial/_/Young+Death"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mønic - Deep Summer (Burial Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M%C3%B8nic/_/Deep+Summer+(Burial+Remix)"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial & Four Tet - Wolf Cub",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial+&+Four+Tet/_/Wolf+Cub"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial - Kindred",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial/_/Kindred"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial - Street Halo (hq)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial/_/Street+Halo+(hq)"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "13:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Burial - Ashtray Wasp (CD quality)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Burial/_/Ashtray+Wasp+(CD+quality)"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Philip Glass - The HOURS performed live by Anton Batagov, piano",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Philip+Glass/_/The+HOURS+performed+live+by+Anton+Batagov,+piano"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Philip Glass - Koyaanisqatsi (organ)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Philip+Glass/_/Koyaanisqatsi+(organ)"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "100年前のラッパ型蓄音機で聴く - ヰンムの王",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/100%E5%B9%B4%E5%89%8D%E3%81%AE%E3%83%A9%E3%83%83%E3%83%91%E5%9E%8B%E8%93%84%E9%9F%B3%E6%A9%9F%E3%81%A7%E8%81%B4%E3%81%8F/_/%E3%83%B0%E3%83%B3%E3%83%A0%E3%81%AE%E7%8E%8B"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "断る感じの - いいや",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%96%AD%E3%82%8B%E6%84%9F%E3%81%98%E3%81%AE/_/%E3%81%84%E3%81%84%E3%82%84"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "プロデューサーの青沼英二が紹介する - ゼルダの伝説 時のオカリナ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AE%E9%9D%92%E6%B2%BC%E8%8B%B1%E4%BA%8C%E3%81%8C%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B/_/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC+%E6%99%82%E3%81%AE%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんちは2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqzy3k9ac3th4szb"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aqzy3g3cc3th4sza"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nintendo 公式チャンネル - ゼルダの伝説40周年 Direct 2026.9.8",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nintendo+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC40%E5%91%A8%E5%B9%B4+Direct+2026.9.8"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "12:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nintendo 公式チャンネル - ゼルダの伝説 時のオカリナ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nintendo+%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%82%BC%E3%83%AB%E3%83%80%E3%81%AE%E4%BC%9D%E8%AA%AC+%E6%99%82%E3%81%AE%E3%82%AA%E3%82%AB%E3%83%AA%E3%83%8A"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "11:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Missing “kubota” Snow - 『新三銃士』 ルミエール",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Missing+%E2%80%9Ckubota%E2%80%9D+Snow/_/%E3%80%8E%E6%96%B0%E4%B8%89%E9%8A%83%E5%A3%AB%E3%80%8F+%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "11:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "NHKスクエア【公式】 - 連続人形活劇 新・三銃士DVD-BOX　PR動画",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/NHK%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E9%80%A3%E7%B6%9A%E4%BA%BA%E5%BD%A2%E6%B4%BB%E5%8A%87+%E6%96%B0%E3%83%BB%E4%B8%89%E9%8A%83%E5%A3%ABDVD-BOX%E3%80%80PR%E5%8B%95%E7%94%BB"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "10:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 久しぶりの東浩紀単独無料雑談突発です",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E6%9D%B1%E6%B5%A9%E7%B4%80%E5%8D%98%E7%8B%AC%E7%84%A1%E6%96%99%E9%9B%91%E8%AB%87%E7%AA%81%E7%99%BA%E3%81%A7%E3%81%99"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "10:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "shi3z show - ハッカー魂 スタックチャンはここまで進化した! MFTで買ったスタックチャンで少し遊ぶ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/shi3z+show/_/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E9%AD%82+%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%81%E3%83%A3%E3%83%B3%E3%81%AF%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E5%8C%96%E3%81%97%E3%81%9F!+MFT%E3%81%A7%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%83%81%E3%83%A3%E3%83%B3%E3%81%A7%E5%B0%91%E3%81%97%E9%81%8A%E3%81%B6"
+    },
     {
       "date": "2026-09-11",
       "time": "09:00",
