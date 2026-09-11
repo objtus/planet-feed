@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-09-11T23:00:01.559589+09:00",
+  "generated_at": "2026-09-12T07:00:01.203557+09:00",
   "timeline": [
+    {
+      "date": "2026-09-12",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-12 厚い雲 23.6℃ (23.3〜23.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-11",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-11",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 1分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-11",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 4,932歩 / 心拍数: 84bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-11",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-11",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-11 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-09-11",
       "time": "21:51",
@@ -427,6 +482,16 @@
     },
     {
       "date": "2026-09-10",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-10 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-10",
       "time": "01:44",
       "src_id": 4,
       "src_type": "lastfm",
@@ -653,6 +718,16 @@
       "text": "写真 0枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-09",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-09 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-09",
@@ -1255,6 +1330,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/aqxh0i18c3th4qj6"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-09 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-09",
@@ -13408,465 +13493,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-13",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 1kcal / 運動: 19分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-13",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 8,829歩 / 心拍数: 102bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-13",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 37枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-13",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-13 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "22:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "せせせ - 毎週木曜に雑談配信をしたいと思っているよ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%9B%E3%81%9B%E3%81%9B/_/%E6%AF%8E%E9%80%B1%E6%9C%A8%E6%9B%9C%E3%81%AB%E9%9B%91%E8%AB%87%E9%85%8D%E4%BF%A1%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "18:52",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: FrankJavCee節末、密度分割と主語交代の解消",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "18:36",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: FrankJavCee節、密度分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "18:34",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: 作品名とFrankJavCee節、段落分割と密度分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:57",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: 過剰な細分化と命名の政治節、事実整合と引用形式を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: コメント欄のミーム節、括弧の入れ子を解消",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:47",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: コメント欄のミーム節、確信度の書き分けを統一",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:10",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: YouTube節末、帰属の遅延を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:07",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: YouTube節、密度分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "17:04",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: 第3節末、密度分割と段落分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "16:59",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: 第3節、引用形式の統一と先行詞の明示、文体メモに簡潔な引用の例外を追記",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "16:39",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-5: 第2節、誤植（余分な半角スペース）を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "16:36",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/task-pipeline-status-tshg9t を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-13 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "11:39",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "疲れた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apuh560rc3th3pde"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "11:34",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "あべのハルカス、天気いいです",
-      "is_boost": false,
-      "has_media": true,
-      "url": "https://tanoshii.site/notes/apugywiac3th3pd8",
-      "media": [
-        {
-          "url": "https://r2.tanoshii.site/misskey/files/webpublic-9cfa7ed6-4964-4644-afd1-20d64c41d8a8.webp",
-          "thumb": "https://r2.tanoshii.site/misskey/files/thumbnail-c7c708f0-1bb1-413b-bc11-7a23eff90680.webp",
-          "type": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "time": "10:22",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "",
-      "is_boost": false,
-      "has_media": true,
-      "url": "https://tanoshii.site/notes/apueeg4wc3th3pbu",
-      "media": [
-        {
-          "url": "https://r2.tanoshii.site/misskey/files/webpublic-c0b3f451-0f41-4357-9c1d-14e9f6e120ad.webp",
-          "thumb": "https://r2.tanoshii.site/misskey/files/thumbnail-ef075939-6503-44e4-b5d4-fd1567698a2c.webp",
-          "type": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-13",
-      "time": "09:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "こんちは",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apucwqt7c3th3par"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "09:03",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 2件: next_tasks.md: 台帳を現物検証し、完了済み10件をクローズ / Merge pull request #37 from objtus/claude/task-ledger-verification-close",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "09:02",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: branch claude/task-ledger-verification-close を作成",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-13 強い雨 24.3℃ (24.3〜24.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-13",
-      "time": "08:30",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 35件: 8-reorg-3: 第8章末尾の重複する「持ち込んだ図式」告白を統合、next_tasks.md更新 / 第8章末尾: 「もっとも」を草稿の既存語彙「ただし」に差し替え / 第8章末尾: 「本稿は〜描くことができた」を「〜と見えてくる」に変更 / fractal-4: 第4章冒頭「この文章自身」を「本稿自身」に統一（本稿統一方針） / fractal-4: VVORK段落の誤植・文末反復を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "08:28",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4完了を記録、次タスクをfractal-5に更新",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "08:27",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4進捗更新（hyperpopの浮上節完了、最終節アーキテクチャのみ残り）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "08:27",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: hyperpop浮上末尾、誤植(余分なスペース,4回目)とvaporwave対置節との逐語重複を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "08:25",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: hyperpop浮上段落、Gamsonite/PC Music設立の重複記述を前方参照に圧縮",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:34",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4進捗更新（deconstructed club節完了）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:34",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: IDLモチーフ段落、年号の重複削除と密度ピーク文(8-9要素)を分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:31",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: Daniel Swan段落、密度ピーク文(7要素)を分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:22",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4進捗更新（QT/vaporwave対置/コラム節を完了に）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:22",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: コラム末尾、主題の一意性(は2回)を分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:19",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: Garden of Delete段落、主題の一意性(は2回)を分割",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-13 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:58",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4進捗更新（PC Musicの設立とSOPHIE節完了）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:58",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: PC Music設立段落、主述のねじれ（運用は/Dazedが）を修正",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: next_tasks.md: fractal-4進捗更新（SuperSuper!と人脈の形成節を完了に）",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:50",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: SuperSuper!段落末尾、主題直前の入れ子修飾(7要素)を解消",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Billie Holiday - Strange Fruit　1954　対訳　奇妙な果実",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Billie+Holiday/_/Strange+Fruit%E3%80%801954%E3%80%80%E5%AF%BE%E8%A8%B3%E3%80%80%E5%A5%87%E5%A6%99%E3%81%AA%E6%9E%9C%E5%AE%9F"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "06:00",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "非常にだるいっすねえ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/apu519v9c3th3p8k"
-    },
-    {
-      "date": "2026-08-13",
-      "time": "00:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: fractal-4: SuperSuper!/Dux Content段落を推敲",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
     }
   ]
 }
