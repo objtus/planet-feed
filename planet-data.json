@@ -1,6 +1,466 @@
 {
-  "generated_at": "2026-09-12T15:00:01.207340+09:00",
+  "generated_at": "2026-09-12T23:00:01.479752+09:00",
   "timeline": [
+    {
+      "date": "2026-09-12",
+      "time": "19:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "pico4ultraだとモーショントラッカーを5つまで増やせるらしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1tqyj8c3th4uup"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:40",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "おすすめのワールドなんてないんだけど",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/ar1tjkhge0"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:39",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "今日なんかVRChatやるらしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/ar1ti8ob9l"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:37",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "外で酒を飲むってもうそれ都会の文化だよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1tfkpqc3th4utr"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "オクトーバーフェスって何",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1taennc3th4ut3"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "だよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1t8ir3c3th4usu"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "パセリみたいなもんかな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1t89hac3th4usr"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "パセラって何",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1t6iwcc3th4ush"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "saypipやってるけど、この最初の手探り感が一番楽しいんだよね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1si6ssc3th4upv"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 東浩紀またまた無料雑談突発　Christopher Nolan The Odyssey すごかった！＆上田さんと喧嘩したので和解放送",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E7%84%A1%E6%96%99%E9%9B%91%E8%AB%87%E7%AA%81%E7%99%BA%E3%80%80Christopher+Nolan+The+Odyssey+%E3%81%99%E3%81%94%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%81%EF%BC%86%E4%B8%8A%E7%94%B0%E3%81%95%E3%82%93%E3%81%A8%E5%96%A7%E5%98%A9%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E5%92%8C%E8%A7%A3%E6%94%BE%E9%80%81"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:01",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "度付きレンズも欲しくなったけど自分の度数情報がわからなかった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1s56e9c3th4up7"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "19:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pasocom Music Club - tenk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pasocom+Music+Club/_/tenk"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:58",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ほとんどVRChatやってないけどVR機器の話題をTLで見たせいでpico4用の腰用motion trackerがほしくなってきた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1s1lkzc3th4uot"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Automatic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Automatic"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "浜崎あゆみ - No way to say",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF/_/No+way+to+say"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "浜崎あゆみ - appears",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF/_/appears"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "pipをsayしてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1rffixc3th4uns"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "globe - Can't Stop Fallin' in Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/globe/_/Can%27t+Stop+Fallin%27+in+Love"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Keep Tryin'",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Keep+Tryin%27"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Naoko Gushima - Monochrome",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Naoko+Gushima/_/Monochrome"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lovely Summer Chan YouTube - 202 feat. 泉まくら (New Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lovely+Summer+Chan+YouTube/_/202+feat.+%E6%B3%89%E3%81%BE%E3%81%8F%E3%82%89+(New+Mix)"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - 9",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/9"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Strobolights",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Strobolights"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "18:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Capsule - グライダー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Capsule/_/%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Capsule - jelly (album-edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Capsule/_/jelly+(album-edit)"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "opencodeからpiに切り替えたけどdeepseek harnessが気になってる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1psv4fc3th4umn"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - One Last Kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - Nothing's Gonna Change (死者の書 Ver.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/Nothing%27s+Gonna+Change+(%E6%AD%BB%E8%80%85%E3%81%AE%E6%9B%B8+Ver.)"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:48",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "人は美しい顔を「顔がいい」と褒めることがある。頭がいい人のことを「頭が美しい」とは褒めない。もし頭が美しい、と褒めるとき、どんな人をそのように褒めるのだろう。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1pj14uc3th4um1"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "「美容クリニック」の略称として「美クリ」という言葉が使われているということを、さきほど知りました。初めに見た時、なにやら下品な言葉かと思ってしまいました。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1peez4c3th4ulx"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TRF - masquerade",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TRF/_/masquerade"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "本当に効果があるのかわからないが、無香料の消臭ビーズを詰め替えながら数年使っている。透明だった消臭ビーズがいつのまにか萎んで、くすんだ色の小さくて硬い粒になるのを楽しんでいる。色がくすんでいくのを、臭いの分子かなにかを吸着しているからだと思っているが、それが本当にそうなのかは知らない。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1pa9a1c3th4uls"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - Shangri-La",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/Shangri-La"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jazztronik Official - TIGER EYES",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jazztronik+Official/_/TIGER+EYES"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats - 陰謀論 (CONSPIRACY THEORY)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats/_/%E9%99%B0%E8%AC%80%E8%AB%96+(CONSPIRACY+THEORY)"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Capsule - 空飛ぶ都市計画",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Capsule/_/%E7%A9%BA%E9%A3%9B%E3%81%B6%E9%83%BD%E5%B8%82%E8%A8%88%E7%94%BB"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - パソコン音楽クラブ − Day After Day feat. Mei Takahashi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92+Day+After+Day+feat.+Mei+Takahashi"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - traveling",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/traveling"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "中谷美紀 - Chronic Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%AD%E8%B0%B7%E7%BE%8E%E7%B4%80/_/Chronic+Love"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "17:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - BLUE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/BLUE"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "16:24",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "楽しいことをしたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1mj351c3th4uio"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "16:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "浜崎あゆみヒットソングメドレー - 全盛期の人気曲24選",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF%E3%83%92%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/_/%E5%85%A8%E7%9B%9B%E6%9C%9F%E3%81%AE%E4%BA%BA%E6%B0%97%E6%9B%B224%E9%81%B8"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "15:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Come And See - WAR FILM",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Come+And+See/_/WAR+FILM"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "14:53",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんにちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/ar1j9w8sc3th4ufs"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 東浩紀またまた無料雑談突発　Christopher Nolan The Odyssey すごかった！＆上田さんと喧嘩したので和解放送",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E7%84%A1%E6%96%99%E9%9B%91%E8%AB%87%E7%AA%81%E7%99%BA%E3%80%80Christopher+Nolan+The+Odyssey+%E3%81%99%E3%81%94%E3%81%8B%E3%81%A3%E3%81%9F%EF%BC%81%EF%BC%86%E4%B8%8A%E7%94%B0%E3%81%95%E3%82%93%E3%81%A8%E5%96%A7%E5%98%A9%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E5%92%8C%E8%A7%A3%E6%94%BE%E9%80%81"
+    },
     {
       "date": "2026-09-12",
       "time": "09:00",
