@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:00:01.451794+09:00",
+  "generated_at": "2026-09-19T15:00:01.537985+09:00",
   "timeline": [
     {
       "date": "2026-09-19",
@@ -9,6 +9,86 @@
       "text": "2026-09-19 曇りがち 24.1℃ (23.9〜24.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-19",
+      "time": "08:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Hang On To Your Love - Official - 1984",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Hang+On+To+Your+Love+-+Official+-+1984"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "08:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tears for Fears - Everybody Wants To Rule The World (Official Archive Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+To+Rule+The+World+(Official+Archive+Video)"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bronski Beat - Smalltown Boy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kate Bush - Running Up That Hill (A Deal with God)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God)"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Russians",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Russians"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Englishman in New York",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Englishman+in+New+York"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Smooth Operator - Official - 1984",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Smooth+Operator+-+Official+-+1984"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "07:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - The Best Of Sade",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/The+Best+Of+Sade"
     },
     {
       "date": "2026-09-19",
