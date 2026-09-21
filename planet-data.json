@@ -1,6 +1,316 @@
 {
-  "generated_at": "2026-09-21T15:00:01.618188+09:00",
+  "generated_at": "2026-09-21T23:00:01.102976+09:00",
   "timeline": [
+    {
+      "date": "2026-09-21",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pasocom Music Club - tenk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pasocom+Music+Club/_/tenk"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - One Last Kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "21:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Strawberry Privilege",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Strawberry+Privilege"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "21:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Dumb Guitar",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Dumb+Guitar"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "20:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇宙を感じる宇多田ヒカル - プレイリスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%AE%99%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "17:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - The Best Of Sade",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/The+Best+Of+Sade"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tears for Fears - Everybody Wants To Rule The World (Official Archive Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+To+Rule+The+World+(Official+Archive+Video)"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Russians",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Russians"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Englishman in New York",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Englishman+in+New+York"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "中国AI - ハリボテ説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%AD%E5%9B%BDAI/_/%E3%83%8F%E3%83%AA%E3%83%9C%E3%83%86%E8%AA%AC"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "10年以内に - AIスローダウンを巡る狂騒",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/10%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AB/_/AI%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%80%E3%82%A6%E3%83%B3%E3%82%92%E5%B7%A1%E3%82%8B%E7%8B%82%E9%A8%92"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "10年以内に - 文明を作ったAIたち",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/10%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AB/_/%E6%96%87%E6%98%8E%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9FAI%E3%81%9F%E3%81%A1"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "10年以内に - 組織的暴走を始めたAI",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/10%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AB/_/%E7%B5%84%E7%B9%94%E7%9A%84%E6%9A%B4%E8%B5%B0%E3%82%92%E5%A7%8B%E3%82%81%E3%81%9FAI"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "10年以内に - 数学能力の爆発的進歩",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/10%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AB/_/%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E3%81%AE%E7%88%86%E7%99%BA%E7%9A%84%E9%80%B2%E6%AD%A9"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "10年以内に - SFの物語が現実世界に？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/10%E5%B9%B4%E4%BB%A5%E5%86%85%E3%81%AB/_/SF%E3%81%AE%E7%89%A9%E8%AA%9E%E3%81%8C%E7%8F%BE%E5%AE%9F%E4%B8%96%E7%95%8C%E3%81%AB%EF%BC%9F"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - 台風25号の大雨パターン：広範囲＆長時間化の理由",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E5%8F%B0%E9%A2%A825%E5%8F%B7%E3%81%AE%E5%A4%A7%E9%9B%A8%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%EF%BC%9A%E5%BA%83%E7%AF%84%E5%9B%B2%EF%BC%86%E9%95%B7%E6%99%82%E9%96%93%E5%8C%96%E3%81%AE%E7%90%86%E7%94%B1"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "過去の - 千葉豪雨",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%81%8E%E5%8E%BB%E3%81%AE/_/%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - アメダス風向・風速と今後の予想",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E3%82%A2%E3%83%A1%E3%83%80%E3%82%B9%E9%A2%A8%E5%90%91%E3%83%BB%E9%A2%A8%E9%80%9F%E3%81%A8%E4%BB%8A%E5%BE%8C%E3%81%AE%E4%BA%88%E6%83%B3"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - 今後の雨雲の予想",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E4%BB%8A%E5%BE%8C%E3%81%AE%E9%9B%A8%E9%9B%B2%E3%81%AE%E4%BA%88%E6%83%B3"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - 暴風域に入る確率",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E6%9A%B4%E9%A2%A8%E5%9F%9F%E3%81%AB%E5%85%A5%E3%82%8B%E7%A2%BA%E7%8E%87"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - 台風25号の現在位置と勢力",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E5%8F%B0%E9%A2%A825%E5%8F%B7%E3%81%AE%E7%8F%BE%E5%9C%A8%E4%BD%8D%E7%BD%AE%E3%81%A8%E5%8B%A2%E5%8A%9B"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウェザーニュース - 各地からのウェザーリポート",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/_/%E5%90%84%E5%9C%B0%E3%81%8B%E3%82%89%E3%81%AE%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%AA%E3%83%9D%E3%83%BC%E3%83%88"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "16:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pepe Bradock - deep burnt",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pepe+Bradock/_/deep+burnt"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - King Bromeliad",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/King+Bromeliad"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - You Took Your Time (feat. King Krule)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/You+Took+Your+Time+(feat.+King+Krule)"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - Myrtle Avenue",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/Myrtle+Avenue"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Home Recording",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Home+Recording"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Audition",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Audition"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:29",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "東京は台風すごいんやね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arefixjuc3th56bh"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Marilyn ft. Micachu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Marilyn+ft.+Micachu"
+    },
+    {
+      "date": "2026-09-21",
+      "time": "15:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Break Well",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Break+Well"
+    },
     {
       "date": "2026-09-21",
       "time": "09:00",
