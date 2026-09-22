@@ -1,6 +1,306 @@
 {
-  "generated_at": "2026-09-22T15:00:01.804545+09:00",
+  "generated_at": "2026-09-22T23:00:01.930094+09:00",
   "timeline": [
+    {
+      "date": "2026-09-22",
+      "time": "22:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - Keep Tryin'",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Keep+Tryin%27"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lovely Summer Chan YouTube - 202 feat. 泉まくら (New Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lovely+Summer+Chan+YouTube/_/202+feat.+%E6%B3%89%E3%81%BE%E3%81%8F%E3%82%89+(New+Mix)"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "宇多田ヒカル - One Last Kiss",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kate Bush - Running Up That Hill (A Deal with God)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God)"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bronski Beat - Smalltown Boy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tears for Fears - Everybody Wants To Rule The World (Official Archive Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+To+Rule+The+World+(Official+Archive+Video)"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Russians",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Russians"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "05, E+E - Dreaming",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/05,+E%252BE/_/Dreaming"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Marilyn ft. Micachu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Marilyn+ft.+Micachu"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Strawberry Privilege",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Strawberry+Privilege"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Group_inou - BLUE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Group_inou/_/BLUE"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Break Well",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Break+Well"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Dumb Guitar",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Dumb+Guitar"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "21:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - I Love You by Phoenix #2772",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/I+Love+You+by+Phoenix+%232772"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - Special Discount by 猫 シ Corp.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/Special+Discount+by+%E7%8C%AB+%E3%82%B7+Corp."
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - あなたは人には？ by Blue Limits",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E4%BA%BA%E3%81%AB%E3%81%AF%EF%BC%9F+by+Blue+Limits"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - ＳＬＯＷＬＹ by ConsciousThoughts",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/%EF%BC%B3%EF%BC%AC%EF%BC%AF%EF%BC%B7%EF%BC%AC%EF%BC%B9+by+ConsciousThoughts"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Beach Lucid;; - by Tropicana",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Beach+Lucid;%3B/_/by+Tropicana"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - cruising (interlude) by Laptop Salam",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/cruising+(interlude)+by+Laptop+Salam"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - So Good by Silver Richards",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/So+Good+by+Silver+Richards"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:42",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "いいとも年内に終わるって本当なんですか？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arg64zhtc3th58ab"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - xo by waterfront dining",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/xo+by+waterfront+dining"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - casual sax by luxury elite",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/casual+sax+by+luxury+elite"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arg5s7tdc3th589z"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "20:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Platinum Tester - Start Life by Nouveau Life",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Platinum+Tester/_/Start+Life+by+Nouveau+Life"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "16:59",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "Qwen4-Plusとは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arfy6z1gc3th585o"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "16:56",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "qwen4 35bないらしい なんで？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arfy34occ3th585f"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "16:55",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "毎日遊んで暮らしたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arfy0wmwc3th5855"
+    },
+    {
+      "date": "2026-09-22",
+      "time": "16:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "9連休の人がいるらしい 許せねえ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arfy0awkc3th5851"
+    },
     {
       "date": "2026-09-22",
       "time": "09:40",
