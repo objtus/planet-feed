@@ -1,6 +1,181 @@
 {
-  "generated_at": "2026-09-23T23:00:01.092096+09:00",
+  "generated_at": "2026-09-24T07:00:01.301629+09:00",
   "timeline": [
+    {
+      "date": "2026-09-24",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-24 雲 23.3℃ (23.3〜23.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "01:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "I'veメドレー I've selection 6 - nonstop mix",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/I%27ve%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+I%27ve+selection+6/_/nonstop+mix"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 0歩 / 心拍数: 0bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:11",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 10枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blank Banshee - Pegasus",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blank+Banshee/_/Pegasus"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blank Banshee - Scud",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blank+Banshee/_/Scud"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blank Banshee - Good Times",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blank+Banshee/_/Good+Times"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blank Banshee - Sundial",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blank+Banshee/_/Sundial"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Blank Banshee - RUN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Blank+Banshee/_/RUN"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-23 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City EFM - Earthly 8 Mixtape",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City+EFM/_/Earthly+8+Mixtape"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Pure Vice (feat. Solv & Aidan)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Pure+Vice+(feat.+Solv+&+Aidan)"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YouTube ヘルプ - 公式アーティスト チャンネルについて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YouTube+%E3%83%98%E3%83%AB%E3%83%97/_/%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88+%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 22",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/22"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 21",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/21"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "22:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 20",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/20"
+    },
     {
       "date": "2026-09-23",
       "time": "22:06",
@@ -160,6 +335,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%86%E3%83%AC%E6%9D%B1BIZ+%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88/_/%E7%B1%B3%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%A8%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%8C%E4%BD%8E%E4%BE%A1%E6%A0%BC%E3%81%AE%E6%96%B0%E5%9E%8BAI%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%80%E6%B8%9B%E9%80%9F%E8%A1%A8%E6%98%8E%E5%BE%8C%E5%88%9D"
+    },
+    {
+      "date": "2026-09-23",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-23 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-23",
@@ -429,6 +614,16 @@
       "text": "2026-09-23 厚い雲 24.1℃ (23.9〜24.4℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-23",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-23 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-23",
@@ -15413,391 +15608,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F08%2F26"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-25",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 1kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-25",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,577歩 / 心拍数: 89bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-25",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-25",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-25 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "21:59",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "opencodeは/reloadがないからダメやなあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc8kvp9c3th468e"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:19",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "文化で継続性を評価するのって難しいと思うけど、そういう視点も大事だと思うね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4zpmic3th4645"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:16",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ニコフレにいた人たちって今何してるんだろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4vm5uc3th463y"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:15",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "POPOPOは10年続かなかった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4ugg5c3th463v"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:14",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "fediverseは10年続いてるからすごいと思うわ　本当は10年どころじゃないけど　10年は意外と続かない",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4t6toc3th463q"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "素朴な感想であって何か含意があるわけではないのですが",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4orndc3th463l"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "私は、そこまでそんなに思ったり考えたりしていないので、みんな思ったり考えたりしているなと思います",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4ng3ac3th463k"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "思ったり考えたりしている",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4mql6c3th463j"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "20:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "SNSやってると、みんなすごい「思って」いるんだなって思う",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc4mi2cc3th463i"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:54",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "共感できます　共感してください",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc43ot6c3th462v"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "共感できるキャラが重要なのかなあ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc42zbzc3th462s"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:52",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "SNSって、つまらないですね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc40p4oc3th462j"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "そういう感じのキャラとして認識していただけると、幸いです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3zolyc3th462h"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:50",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "これまでの人生で最長48時間連続で寝たことがあります",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3z40yc3th462g"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "逮捕歴があります",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3xohmc3th462d"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "一本下駄と六尺褌を愛用しています",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3wzgtc3th4629"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:48",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "アラブ首長国連邦出身なのに富豪じゃない友達がいます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3vybqc3th4628"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:47",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "父親が弁護士で、ヤクザに殺されました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3um4lc3th4627"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:47",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "モヒカンです",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3u4xxc3th4626"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:46",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしは高身長で、高校生のときは「女バスの王子様」と呼ばれていました　あの頃は若かった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3tzn8c3th4625"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:44",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "キャラが立ちたいですね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3qosgc3th4621"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "19:43",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "こんちは",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqc3q9grc3th4620"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "16:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "萌えのほうがいい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqbx7siic3th45vl"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "16:40",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "qwen3.8-27Bってそんなにいいか？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqbx6h2nc3th45vg"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-25 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "14:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "”アレ”のデビュー作についてノリノリで考えました。 - 太田上田＃５５４②",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E2%80%9D%E3%82%A2%E3%83%AC%E2%80%9D%E3%81%AE%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E4%BD%9C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%83%8E%E3%83%AA%E3%83%8E%E3%83%AA%E3%81%A7%E8%80%83%E3%81%88%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%95%EF%BC%94%E2%91%A1"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-25 晴天 29.4℃ (28.9〜30.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-25",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-25 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "01:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Philip Glass - Koyaanisqatsi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Philip+Glass/_/Koyaanisqatsi"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "01:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "\"Guitares Dérive\" Album - Rafales",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%22Guitares+D%C3%A9rive%22+Album/_/Rafales"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "00:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "散歩 ハテール地方 - ASMR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%95%A3%E6%AD%A9+%E3%83%8F%E3%83%86%E3%83%BC%E3%83%AB%E5%9C%B0%E6%96%B9/_/ASMR"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "00:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mathias Grassow - Wonderful Cloud Deva",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mathias+Grassow/_/Wonderful+Cloud+Deva"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "00:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Clark - December Entity",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Clark/_/December+Entity"
-    },
-    {
-      "date": "2026-08-25",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ローカルLLM\n　・opencodeの自己改善が不便なので、ミニマルかつその辺もいけるらしいPi Coding Agentに移行した\n　　・/reload コマンドで適用。実はhermes agentはそれもいらないんだけど。\n　　・自分用にカスタマイズさせるのがめんどくさいと同時に楽しい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F08%2F25"
     }
   ]
 }
