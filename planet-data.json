@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-09-24T23:00:02.085806+09:00",
+  "generated_at": "2026-09-25T07:00:01.975089+09:00",
   "timeline": [
+    {
+      "date": "2026-09-25",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-25 厚い雲 23.3℃ (23.3〜23.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 1kcal / 運動: 3分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 5,550歩 / 心拍数: 85bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 12枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-24",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-24 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "22:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ツイッターでkigurumiのエロ動画が流れてくるからkigurumiで興奮するようになってきた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arj4hkbgc3th5awm",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "22:03",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Add lower eyelid options and update parts data for charamaker",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
+    },
     {
       "date": "2026-09-24",
       "time": "20:57",
@@ -50,6 +126,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/I%27ve%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+I%27ve+selection+6/_/nonstop+mix"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "19:41",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 4件: Add cardigan options and update parts data for charamaker / Update parts data for charamaker and add new clothing options / Update charamaker parts data and add new clothing assets / Enhance charamaker parts data with new clothing options and adjustments",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-24 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-24",
@@ -139,6 +235,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E7%A0%94%E7%A9%B6%E5%AE%B6%E3%81%A8%E8%AA%9E%E3%82%8A%E5%B0%BD%E3%81%8F%E3%81%99%EF%BC%81%E6%98%A0%E7%94%BB/_/OP"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-24 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-24",
@@ -15631,113 +15737,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-26",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 3枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-26",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-26 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "20:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "shi3z show - ハッカー魂　MIDIコントローラとStreamDiffusionでおもちゃを作った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/shi3z+show/_/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E9%AD%82%E3%80%80MIDI%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9%E3%81%A8StreamDiffusion%E3%81%A7%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-26 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "14:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sophie - ELLE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sophie/_/ELLE"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "14:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sophie - BIPP",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sophie/_/BIPP"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "14:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "123HD - Hannah Diamond",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/123HD/_/Hannah+Diamond"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-26 晴天 29.1℃ (28.9〜29.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-26",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-26 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-26",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "2026/08/21にVRAMを20GBにしたけど、さらに増やしたくなってRTX5060 Ti 16GBを衝動買いしてしまった\n　・理由はローカルLLMのコンテクストを増やしたいため\n　・kv cacheをq8量子化しても20GBだと64kくらいが限度（ぎり128kいくかいかないかくらい？）\n　　・MoEモデル（gemma4 26B A4B、qwen3.6 35B A3B)だとkv cacheが小さいからいいんだけど、話題だったqwen3.8 27Bだとその辺さらにきつい。生成速度も遅いし。\n　・GPU三枚構成は電源ケーブルの具合の問題でできず、RTX 2070 Super 8GBを抜いて5060 Tiに換装。現在VRAMが12+16GBの計28GB。\n　　・これだと128kをすこし余裕をもって動かせ、さらにモデルの量子化レベルによっては256kまでいける。ありがとう。\n　・結局コードを書かせるのは不安だからAPI経由でdeepseek-v4-flashで書かせてるんだが",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F08%2F26"
     }
   ]
 }
