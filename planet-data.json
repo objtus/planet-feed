@@ -1,6 +1,673 @@
 {
-  "generated_at": "2026-09-25T23:00:01.641417+09:00",
+  "generated_at": "2026-09-26T07:00:01.769144+09:00",
   "timeline": [
+    {
+      "date": "2026-09-26",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-26 小雨 23.6℃ (23.3〜23.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:19",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "つまり、みんなごめん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arkunziyc3th5c8h"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:17",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "2、3年雑談配信やってたらある程度コメントがなくても喋れるようになってきたんだけど、むしろ適当に喋りすぎて長時間配信が常態化してきていて、よくない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arkukhs3c3th5c84"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "眠い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arkuewmdc3th5c7z"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:10",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "# 2026-09-25 配信まとめ（22:13〜03:04）\n\n配信では、鉄道ICカードや東京ゲームショウなどの雑談から政治・社会問題（政府広報費、インボイス制度、天皇、夫婦別姓）への不満、さらに音楽（Cocco、WANDS、DEEN、スピッツ、ビョーク、日本語ラップ等）やアニメ（カウボーイビバップ、攻殻機動隊、パプリカ）、テクノロジートレンド（AI、VR、メタバース）、ニコニコ動画文化など多岐にわたる話題が長時間にわたり語られた。\n\n## タイムライン\n\n- 22:13 配信のコメント読み上げ設定の確認や音声認識の精度について話しつつ、鉄道ICカードの地域名や東京ゲームショウなど雑談を展開。視聴者から九龍城などのコメントも寄せられた。\n- 22:24 SNSの話題から政治の話になり、政府広報費の増大やインボイス制度などへの不満を視聴者と語り合っている。\n- 22:34 政治・社会問題（天皇、夫婦別姓など）の話題を振られつつ、いど子が相撲やクリップスタジオの話題などに逸れる雑談が展開された。\n- 22:45 お絵かきソフトの話題から、政治への不満やエコーチェンバー、ヒッピーコミューン、ガンダムの話題まで雑多に展開された。\n- 22:56 日本の音楽やアーティスト（Cocco、アクアタイムズ、WANDS、DEENなど）の話題を中心に、音楽の質や懐かしいバンドについて雑談。後半は本や歴史・オカルトの話題に移り、最後は西城秀樹の話も出た。\n- 23:08 VRチャットの社会性やコミュニティの狭さについて語った後、カラオケに行った経験や歌うことへの考えを話していた。\n- 23:19 通話アプリの使いにくさや配信中の声出しトラブル、ドラマ『ディバン』の話題、マストドンなどのFediverse、AIやスーパーインテリジェンス、国連マグカップなど雑多な話題を話していた。\n- 23:30 フランス革命暦や異端単位の話題から、マストドンやニコニコ動画の古いフォント・過去のネット文化の話に移った。\n- 23:40 ニコニコ動画のフォントの話から、都市伝説や不思議な動画について語り、最後にボーカロイドランキング動画の視聴の仕方について「インスタントな消費」と批判的に考察した。\n- 23:51 ボカロ文化や特定のミュージックビデオ（ノスタルジー、バックルームス、ドリームコアなど）について語り、視聴者コメントから平将門の首塚の話題に派生した。\n- 00:02 日本の昭和から平成にかけての音楽や映画（ゴジラ、シティポップ、アイドルなど）について雑談している。\n- 00:13 スピッツなどの音楽バンドを中心に、1990年代から2020年代の時代の変化やコロナ禍前後の雰囲気の違いについて雑談していた。\n- 00:24 2010年代から2020年代にかけてのAI技術の進歩や社会的事象（コロナ禍、ウクライナ侵攻、安倍晋三銃撃事件など）を振り返り、時代の激動について語った。\n- 00:35 ビットコインバブルやVR、メタバース、バーチャルユーチューバーなどのテクノロジートレンドの歴史、およびアイスランドのパンクバンドなど音楽の話題が出た。\n- 00:45 ビョークのミュージックビデオから派生したノイズ音楽やアイスランドの宗教団体、さらにはゲームやアニメの話題が出ていた。\n- 00:56 日本語ラップやKJ、キングギドラなどのアーティストについての話題が中心で、サンプリングの時代変化や音楽の好みについても議論された。\n- 01:07 カウボーイビバップの打ち切りと、幻のエンディング曲として日本語ラップグループ・シャカゾンビの楽曲が使われた経緯について話している。\n- 01:18 打ち切り作品の未収録エピソードについて話した後、ヒップホップの地域性やアイデンティティ、アクセントと言語表現に関する議論に移った。\n- 01:29 音楽談義やプロテストソングの性質について話し、ビリー・ジョエルやスティングなどの曲を聴きながら議論した。\n- 01:40 アフリカの国々（アルジェリアなど）の雑談から、エニグマやアニメED曲などの洋楽・アニソンの話題に移り、音楽談義をしていた。\n- 01:50 サンプリングやYouTubeのアルゴリズムに関する音楽トークから、カナダのアーティストのエピソード、さらにアニメリメイクの話題に至った。\n- 02:02 ニコニコ動画やフラッシュ動画の視聴経験、AICC（AI音楽）の曲調や特徴、最近のインムキング人気などについて雑談している。\n- 02:13 配信者がTwitterで見つけたタクヤさん（サーフボード関連？）のピアノ演奏動画に驚き、その腕前や他の動画の有無などについて話した。\n- 02:24 90年代のサンプリング音楽やトリップホップ、ヒーリングミュージックについて語り、癒しや現代社会の問題に言及した。\n- 02:35 菅野よう子のテクノ曲やアニソン、攻殻機動隊のサウンドトラックについての話題。\n- 02:45 アニメ『残響のテロル』の感想やスーパーカーの曲の仕上がり、アニメーターの作画の話、梶浦由記の別名義（ガブリエラ・ロビン）に関する話題から、フジテレビのジャニーズ問題と社長交代への不満、長時間配信で訳がわからなくなっている自嘲まで、雑多な話題が飛び交った。\n- 02:57 画像生成の話やアニメ映画『パプリカ』『千年女優』について語り、配信を終了した。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/arkuc64y8aa408rr"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "zardofficial - 「負けないで」Music Video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/zardofficial/_/%E3%80%8C%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84%E3%81%A7%E3%80%8DMusic+Video"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "03:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kan - Aiwa Katsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "平沢進 - The girl in Byakkoya",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B9%B3%E6%B2%A2%E9%80%B2/_/The+girl+in+Byakkoya"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "\"Jin-Roh\" Original Soundtrack - Grace Omega by Mizoguchi Hajime",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%22Jin-Roh%22+Original+Soundtrack/_/Grace+Omega+by+Mizoguchi+Hajime"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "菅野よう子 / Yoko Kanno - 地球共鳴",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%8F%85%E9%87%8E%E3%82%88%E3%81%86%E5%AD%90+%2F+Yoko+Kanno/_/%E5%9C%B0%E7%90%83%E5%85%B1%E9%B3%B4"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "shy beats - ラッキーカラー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/shy+beats/_/%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "奥井亜紀 - 月の繭",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A5%A5%E4%BA%95%E4%BA%9C%E7%B4%80/_/%E6%9C%88%E3%81%AE%E7%B9%AD"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Deep Forest - Sweet Lullaby (Original Completo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Deep+Forest/_/Sweet+Lullaby+(Original+Completo)"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Q_H_Tanaka - 神々の詩　姫神",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Q_H_Tanaka/_/%E7%A5%9E%E3%80%85%E3%81%AE%E8%A9%A9%E3%80%80%E5%A7%AB%E7%A5%9E"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Enigma - Return to Innocence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Enigma/_/Return+to+Innocence"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲスト - サーフィン筋トレ好きのタクヤさんが夜のストリートピアノを優雅に演奏",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%82%B9%E3%83%88/_/%E3%82%B5%E3%83%BC%E3%83%95%E3%82%A3%E3%83%B3%E7%AD%8B%E3%83%88%E3%83%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E3%82%BF%E3%82%AF%E3%83%A4%E3%81%95%E3%82%93%E3%81%8C%E5%A4%9C%E3%81%AE%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%E3%83%8E%E3%82%92%E5%84%AA%E9%9B%85%E3%81%AB%E6%BC%94%E5%A5%8F"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "超エルモ - 【MV】Akira, Jeans & Chinpo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E8%B6%85%E3%82%A8%E3%83%AB%E3%83%A2/_/%E3%80%90MV%E3%80%91Akira,+Jeans+&+Chinpo"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "YAJU&U   【ﾔｼﾞｭｾﾝﾊﾟｲｲｷｽｷﾞﾝｲｸｲｸｱｯｱｯｱｯｱｰﾔﾘﾏｽﾈ - Cartoon】",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/YAJU&U+++%E3%80%90%EF%BE%94%EF%BD%BC%EF%BE%9E%EF%BD%AD%EF%BD%BE%EF%BE%9D%EF%BE%8A%EF%BE%9F%EF%BD%B2%EF%BD%B2%EF%BD%B7%EF%BD%BD%EF%BD%B7%EF%BE%9E%EF%BE%9D%EF%BD%B2%EF%BD%B8%EF%BD%B2%EF%BD%B8%EF%BD%B1%EF%BD%AF%EF%BD%B1%EF%BD%AF%EF%BD%B1%EF%BD%AF%EF%BD%B1%EF%BD%B0%EF%BE%94%EF%BE%98%EF%BE%8F%EF%BD%BD%EF%BE%88/_/Cartoon%E3%80%91"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "02:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ねこさん - のまのまイェイ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%AD%E3%81%93%E3%81%95%E3%82%93/_/%E3%81%AE%E3%81%BE%E3%81%AE%E3%81%BE%E3%82%A4%E3%82%A7%E3%82%A4"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "美味しんぼ Oishinbo OST - YOU",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%BE%8E%E5%91%B3%E3%81%97%E3%82%93%E3%81%BC+Oishinbo+OST/_/YOU"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daniel Powter - Bad Day",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daniel+Powter/_/Bad+Day"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nelly Furtado - Say It Right",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nelly+Furtado/_/Say+It+Right"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Enigma - Modern Crusaders",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Enigma/_/Modern+Crusaders"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Desert Rose",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Desert+Rose"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "333shouichi - Billy Joel  We Didn't Start The Fire",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/333shouichi/_/Billy+Joel++We+Didn%27t+Start+The+Fire"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "House of Pain - Jump Around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/House+of+Pain/_/Jump+Around"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "カウボーイビバップ#XX - よせあつめブルース",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AB%E3%82%A6%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%93%E3%83%90%E3%83%83%E3%83%97%23XX/_/%E3%82%88%E3%81%9B%E3%81%82%E3%81%A4%E3%82%81%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Buddha Brand - 人間発電所 Original'95 Vinyl Version",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Buddha+Brand/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80+Original%2795+Vinyl+Version"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dragon Ash - Grateful Days Featuring Aco, Zeebra",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dragon+Ash/_/Grateful+Days+Featuring+Aco,+Zeebra"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "01:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dragon Ash - Let Yourself Go, Let Myself Go",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dragon+Ash/_/Let+Yourself+Go,+Let+Myself+Go"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "okaokared - さよならを教えて FULLver.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/okaokared/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6+FULLver."
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Current 93 - Falling - ft, Björk - HÖH Island - Björk, Sings Background Vocals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Current+93/_/Falling+-+ft,+Bj%C3%B6rk+-+H%C3%96H+Island+-+Bj%C3%B6rk,+Sings+Background+Vocals"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MONDO GROSSO - 光 feat.UA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MONDO+GROSSO/_/%E5%85%89+feat.UA"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jim-E Stack - Hyperballad (feat. Jana Hunter)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jim-E+Stack/_/Hyperballad+(feat.+Jana+Hunter)"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "大江裕のなんか一丁魅せたろかい - 香水",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%A7%E6%B1%9F%E8%A3%95%E3%81%AE%E3%81%AA%E3%82%93%E3%81%8B%E4%B8%80%E4%B8%81%E9%AD%85%E3%81%9B%E3%81%9F%E3%82%8D%E3%81%8B%E3%81%84/_/%E9%A6%99%E6%B0%B4"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "それが大事～完全版～ - 大事MANブラザーズオーケストラ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%9D%E3%82%8C%E3%81%8C%E5%A4%A7%E4%BA%8B%EF%BD%9E%E5%AE%8C%E5%85%A8%E7%89%88%EF%BD%9E/_/%E5%A4%A7%E4%BA%8BMAN%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「あの素晴しい愛をもう一度」〜1970年代の懐かしき京都〜　( 歌 - ザ・フォーク・クルセダーズ )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%81%82%E3%81%AE%E7%B4%A0%E6%99%B4%E3%81%97%E3%81%84%E6%84%9B%E3%82%92%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E3%80%8D%E3%80%9C1970%E5%B9%B4%E4%BB%A3%E3%81%AE%E6%87%90%E3%81%8B%E3%81%97%E3%81%8D%E4%BA%AC%E9%83%BD%E3%80%9C%E3%80%80(+%E6%AD%8C/_/%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%BB%E3%83%80%E3%83%BC%E3%82%BA+)"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dot nigou - 柴又",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dot+nigou/_/%E6%9F%B4%E5%8F%88"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本音楽の進化を辿る動画 - 平成時代から現在までの音楽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E5%B9%B3%E6%88%90%E6%99%82%E4%BB%A3%E3%81%8B%E3%82%89%E7%8F%BE%E5%9C%A8%E3%81%BE%E3%81%A7%E3%81%AE%E9%9F%B3%E6%A5%BD"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本音楽の進化を辿る動画 - 昭和時代の音楽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E6%98%AD%E5%92%8C%E6%99%82%E4%BB%A3%E3%81%AE%E9%9F%B3%E6%A5%BD"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "00:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本音楽の進化を辿る動画 - 大正時代の音楽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E5%A4%A7%E6%AD%A3%E6%99%82%E4%BB%A3%E3%81%AE%E9%9F%B3%E6%A5%BD"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本音楽の進化を辿る動画 - 明治時代の音楽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E6%98%8E%E6%B2%BB%E6%99%82%E4%BB%A3%E3%81%AE%E9%9F%B3%E6%A5%BD"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本音楽の進化を辿る動画 - 弥生時代から江戸時代までの音楽",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E5%BC%A5%E7%94%9F%E6%99%82%E4%BB%A3%E3%81%8B%E3%82%89%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%BE%E3%81%A7%E3%81%AE%E9%9F%B3%E6%A5%BD"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TOP 10 - 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TOP+10/_/1"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "top 30 - 11",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/top+30/_/11"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Top 100 - 31",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Top+100/_/31"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "junior kasasagi - 小沢健二 今夜はブギー・バック (\"DISCO TO GO\" LIVE) featuring スチャダラパー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/junior+kasasagi/_/%E5%B0%8F%E6%B2%A2%E5%81%A5%E4%BA%8C+%E4%BB%8A%E5%A4%9C%E3%81%AF%E3%83%96%E3%82%AE%E3%83%BC%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF+(%22DISCO+TO+GO%22+LIVE)+featuring+%E3%82%B9%E3%83%81%E3%83%A3%E3%83%80%E3%83%A9%E3%83%91%E3%83%BC"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pizzicato Five - 東京は夜の七時",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pizzicato+Five/_/%E6%9D%B1%E4%BA%AC%E3%81%AF%E5%A4%9C%E3%81%AE%E4%B8%83%E6%99%82"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "viga - It's VRChat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/viga/_/It%27s+VRChat"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "椎名もた(siinamota) - Young Girl A / 少女A",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F(siinamota)/_/Young+Girl+A+%2F+%E5%B0%91%E5%A5%B3A"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mrs. GREEN APPLE - ライラック",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mrs.+GREEN+APPLE/_/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "レミオロメン - 粉雪",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AC%E3%83%9F%E3%82%AA%E3%83%AD%E3%83%A1%E3%83%B3/_/%E7%B2%89%E9%9B%AA"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "米津玄師 - 感電 Kenshi Yonezu - KANDEN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E6%84%9F%E9%9B%BB+Kenshi+Yonezu+-+KANDEN"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "米津玄師 - さよーならまたいつか！ Kenshi Yonezu - Sayonara, Mata Itsuka !",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/_/%E3%81%95%E3%82%88%E3%83%BC%E3%81%AA%E3%82%89%E3%81%BE%E3%81%9F%E3%81%84%E3%81%A4%E3%81%8B%EF%BC%81+Kenshi+Yonezu+-+Sayonara,+Mata+Itsuka+!"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-25 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "サンボマスター - 世界はそれを愛と呼ぶんだぜ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/_/%E4%B8%96%E7%95%8C%E3%81%AF%E3%81%9D%E3%82%8C%E3%82%92%E6%84%9B%E3%81%A8%E5%91%BC%E3%81%B6%E3%82%93%E3%81%A0%E3%81%9C"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "コロナ禍に流行った曲メドレー - 50曲",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B3%E3%83%AD%E3%83%8A%E7%A6%8D%E3%81%AB%E6%B5%81%E8%A1%8C%E3%81%A3%E3%81%9F%E6%9B%B2%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC/_/50%E6%9B%B2"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "yesofficial - Roundabout (2024 Remaster)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/yesofficial/_/Roundabout+(2024+Remaster)"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "おなじ話 - ハンバート ハンバート",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%8A%E3%81%AA%E3%81%98%E8%A9%B1/_/%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88+%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "青木春香 - 机さする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9D%92%E6%9C%A8%E6%98%A5%E9%A6%99/_/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:17",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信開始しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/117331868837594565"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:17",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信開始しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arkjuns1c3th5bvl"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:17",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信開始しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/arkjuk54lv"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:17",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信開始しました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/arkjuho2autp0dh8"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "22:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jamiroquai - Virtual Insanity (Lyrics in Japanese and English)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+(Lyrics+in+Japanese+and+English)"
+    },
     {
       "date": "2026-09-25",
       "time": "21:44",
@@ -40,6 +707,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%82%A6/_/AI%E5%AE%87%E6%9C%88"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-25 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-25",
@@ -109,6 +786,16 @@
       "text": "2026-09-25 厚い雲 23.3℃ (23.3〜23.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-25",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-25 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-24",
@@ -355,6 +1042,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/I%27ve%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC+I%27ve+selection+6/_/nonstop+mix"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "たしか超寝てた\nなんかアイコン消えてない？\n屋台忘れてて遡って書かないととなってる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F24"
     },
     {
       "date": "2026-09-23",
@@ -982,6 +1679,16 @@
       "url": "https://www.last.fm/music/Nowaki/_/%E4%BA%80%E3%83%A9%E3%83%83%E3%83%97%E3%80%80%E5%8C%97%E7%B1%B3%E7%89%88"
     },
     {
+      "date": "2026-09-23",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "死ぬほど寝てた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F23"
+    },
+    {
       "date": "2026-09-22",
       "time": "23:50",
       "src_id": 18,
@@ -1579,6 +2286,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-09-22",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "何してたか覚えてない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F22"
+    },
+    {
       "date": "2026-09-21",
       "time": "23:50",
       "src_id": 18,
@@ -1984,6 +2701,16 @@
       "url": "https://www.last.fm/music/Music+Star/_/Major+Lazer+&+DJ+Snake+++Lean+On+feat++M%C3%98+Official+Music+Video"
     },
     {
+      "date": "2026-09-21",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "無",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F21"
+    },
+    {
       "date": "2026-09-20",
       "time": "23:50",
       "src_id": 18,
@@ -2079,6 +2806,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "他人事ラジオの収録をした",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F20"
     },
     {
       "date": "2026-09-19",
@@ -3843,6 +4580,16 @@
       "url": "https://www.last.fm/music/Mount+Kimbie/_/Yukka+Tree"
     },
     {
+      "date": "2026-09-18",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "たしか雑談配信をした気がする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F18"
+    },
+    {
       "date": "2026-09-17",
       "time": "23:59",
       "src_id": 4,
@@ -4928,6 +5675,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/dannbo1430/_/%E9%AB%98%E5%80%89%E5%81%A5%E3%80%81%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81"
+    },
+    {
+      "date": "2026-09-17",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "akkomaサーバーをたてました\n　・自宅サーバーでホスティングしている\n　・AI（deepseek-v4-flash）にやってもらった　何も脳みそを動かさずにやってくれたのでよかったです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F17"
     },
     {
       "date": "2026-09-16",
@@ -6127,6 +6884,16 @@
       "url": "https://www.last.fm/music/Jazztronik+Official/_/TIGER+EYES"
     },
     {
+      "date": "2026-09-16",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "個人サイトを更新して、相互リンクを増やした気がする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F16"
+    },
+    {
       "date": "2026-09-15",
       "time": "23:59",
       "src_id": 4,
@@ -7063,6 +7830,16 @@
       "url": "https://tanoshii.site/notes/ar3j2zbxc3th4ww0"
     },
     {
+      "date": "2026-09-14",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "PICO 4 Ultra用の追加モーショントラッカー（PICO Motion Tracker）、いわゆる「腰トラ」を買って、試した\n　・腰が動いて楽しかったです\n　・あと太ももor肘用トラッカーも追加できるらしいんだけど、それはいいやと思った",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F14"
+    },
+    {
       "date": "2026-09-13",
       "time": "23:50",
       "src_id": 18,
@@ -7864,6 +8641,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "saypipなる新しいSNSが話題になっていたので、ちょっとやってた\n　・基本匿名SNSで、会話を促進させるインセンティブ設計をしているようだった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F12"
     },
     {
       "date": "2026-09-11",
@@ -9577,7 +10364,7 @@
       "time": "00:00",
       "src_id": 17,
       "src_type": "scrapbox",
-      "text": "とくになし\n超ねてた",
+      "text": "とくになし\n超ねてた\nツイッターで吉田豪にフォローされてた",
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F08"
@@ -15552,291 +16339,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F08%2F28"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-27",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-27",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 0歩 / 心拍数: 0bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-27",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-27",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-27 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "平沢進 - AURORA TOUR 1994 INTERACTIVE LIVE オーロラ伝説 @ 名古屋・ダイアモンドホール 1994/03/11",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B9%B3%E6%B2%A2%E9%80%B2/_/AURORA+TOUR+1994+INTERACTIVE+LIVE+%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E4%BC%9D%E8%AA%AC+@+%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%89%E3%83%9B%E3%83%BC%E3%83%AB+1994%2F03%2F11"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "散歩 フィローネ地方 - ASMR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%95%A3%E6%AD%A9+%E3%83%95%E3%82%A3%E3%83%AD%E3%83%BC%E3%83%8D%E5%9C%B0%E6%96%B9/_/ASMR"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "metal gear solid 2 - Olga Gurlukovich",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/metal+gear+solid+2/_/Olga+Gurlukovich"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "metal gear solid 2 - Russian Sodiers from Kasatka",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/metal+gear+solid+2/_/Russian+Sodiers+from+Kasatka"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "metal gear solid 2 - Opening Infiltration",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/metal+gear+solid+2/_/Opening+Infiltration"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "21:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "metal gear solid 2 - Metal Gear Solid Main Theme",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/metal+gear+solid+2/_/Metal+Gear+Solid+Main+Theme"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Metal Gear Solid OST - The Best is Yet to Come Instrumental - Extended",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Metal+Gear+Solid+OST/_/The+Best+is+Yet+to+Come+Instrumental+-+Extended"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Can't Say Goodbye To Yesterday (instrumental) - Metal Gear Solid 2 Sons of Liberty",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Can%27t+Say+Goodbye+To+Yesterday+(instrumental)/_/Metal+Gear+Solid+2+Sons+of+Liberty"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:32",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://youtu.be/phYg8FIH1H4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqf0c55cc3th48oa"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "고은 어린이합창단 - 부도덕한 성관계 금지",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%EA%B3%A0%EC%9D%80+%EC%96%B4%EB%A6%B0%EC%9D%B4%ED%95%A9%EC%B0%BD%EB%8B%A8/_/%EB%B6%80%EB%8F%84%EB%8D%95%ED%95%9C+%EC%84%B1%EA%B4%80%EA%B3%84+%EA%B8%88%EC%A7%80"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "고은 어린이합창단 - 피를 먹는 자를 금함",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%EA%B3%A0%EC%9D%80+%EC%96%B4%EB%A6%B0%EC%9D%B4%ED%95%A9%EC%B0%BD%EB%8B%A8/_/%ED%94%BC%EB%A5%BC+%EB%A8%B9%EB%8A%94+%EC%9E%90%EB%A5%BC+%EA%B8%88%ED%95%A8"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "20:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "고은 어린이합창단 - 부도덕한 성관계 금지",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%EA%B3%A0%EC%9D%80+%EC%96%B4%EB%A6%B0%EC%9D%B4%ED%95%A9%EC%B0%BD%EB%8B%A8/_/%EB%B6%80%EB%8F%84%EB%8D%95%ED%95%9C+%EC%84%B1%EA%B4%80%EA%B3%84+%EA%B8%88%EC%A7%80"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "19:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "STIM THEORY - Orbital Summit",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/STIM+THEORY/_/Orbital+Summit"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "17:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://onion.enoki.xyz/ 知ってる人のサイトのリンクが貼られてて面白い",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqethv0sc3th48jw"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "17:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mitch Murder - Hurricane",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mitch+Murder/_/Hurricane"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dj Lostboi - ESPRIT SE",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dj+Lostboi/_/ESPRIT+SE"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "oDDling - Parallax",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/oDDling/_/Parallax"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Electronic Visions - Space Groove",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Electronic+Visions/_/Space+Groove"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Voyage - Hyper",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Voyage/_/Hyper"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mathias Grassow - Wonderful Cloud Deva",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mathias+Grassow/_/Wonderful+Cloud+Deva"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "16:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dark0 - Forever",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dark0/_/Forever"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-27 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-27",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-27 厚い雲 29.1℃ (28.9〜29.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-27",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-27 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
     }
   ]
 }
