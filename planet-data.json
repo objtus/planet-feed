@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-09-27T23:00:01.812018+09:00",
+  "generated_at": "2026-09-28T07:00:01.377497+09:00",
   "timeline": [
+    {
+      "date": "2026-09-28",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-28 強い雨 22.8℃ (22.7〜22.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 1kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-27 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-09-27",
       "time": "19:35",
@@ -103,6 +149,16 @@
     },
     {
       "date": "2026-09-27",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-27 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-27",
       "time": "10:29",
       "src_id": 2,
       "src_type": "misskey",
@@ -159,6 +215,16 @@
       "text": "2026-09-27 小雨 20.6℃ (20.5〜20.6℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-27 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-26",
@@ -14660,764 +14726,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F08%2F30"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-29",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-29",
-      "time": "19:29",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "君主になりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqhsyfejc3th4b19"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "15:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "観る - ACT２ 固体の太陽",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%92+%E5%9B%BA%E4%BD%93%E3%81%AE%E5%A4%AA%E9%99%BD"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "15:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "観る - ACT１ 液体の太陽",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%91+%E6%B6%B2%E4%BD%93%E3%81%AE%E5%A4%AA%E9%99%BD"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-29 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-29 小雨 25.4℃ (25.4〜25.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-29",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-29 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-29 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - Krumville",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Krumville"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Oneohtrix Point Never - World Outside",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/World+Outside"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Skaters - 6",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Skaters/_/6"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Skaters - 5",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Skaters/_/5"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Skaters - 4",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Skaters/_/4"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Skaters - 3",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Skaters/_/3"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Crush",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Crush"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Environments",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Environments"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Bias",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Bias"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - LesAlpx",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/LesAlpx"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "06:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Karakul",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Karakul"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Requiem for CS70 and Strings",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Requiem+for+CS70+and+Strings"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:57",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/internet_aesthetics: Push 1件: 新規作成: インターネット美学の系譜に関する変換スクリプトと各章のHTMLファイルを追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/internet_aesthetics"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Anasickmodular",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Anasickmodular"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:53",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://yuinoid.neocities.org/txt/internet-aesthetic-a-genealogy/ インターネット美学の歴史についての文章です！最後やっつけ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqgzt8qdc3th4an1"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add alternative method for RSS generation in changelog.html",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Last Bloom",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Last+Bloom"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 2件: Refactor CSS styles and update RSS feed / Update lastBuildDate in RSS feed to reflect recent changes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Floating Points - Falaise",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Floating+Points/_/Falaise"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:45",
-      "src_id": 5,
-      "src_type": "rss",
-      "text": "txtにinternet aesthetic: a genealogyを追加",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://yuinoid.neocities.org/txt/internet-aesthetic-a-genealogy/index.html"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Can't Say Goodbye To Yesterday (instrumental) - Metal Gear Solid 2 Sons of Liberty",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Can%27t+Say+Goodbye+To+Yesterday+(instrumental)/_/Metal+Gear+Solid+2+Sons+of+Liberty"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "05:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS2 - Twilight Sniping (extended)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS2/_/Twilight+Sniping+(extended)"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Home™ (Full Cassette Rip)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Home%E2%84%A2+(Full+Cassette+Rip)"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - WonderWorks",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/WonderWorks"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:12",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Sol Air",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Sol+Air"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ふと個人サイトをみてたら、今年最初に立てた目標「2026年末時点でこのアカウントの投稿数を1.5万ノートにする」を今日から達成しようとすると一日70ノートしなきゃいけないって書いてあって笑った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqgw4k0qc3th4am5"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - WebScapes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/WebScapes"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Newsgroup",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Newsgroup"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Neo Spa & Salon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Neo+Spa+&+Salon"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:03",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Beauty Plus",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Beauty+Plus"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Pure",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Pure"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "04:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "PrismCorp Virtual Enterprises - Loading",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Loading"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "03:03",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "明後日VRChatしよ！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqgtrdboc3th4aj0"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Calm & Relaxing Katamari Music Mix",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Calm+&+Relaxing+Katamari+Music+Mix"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Lonely Rolling Star No More",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Lonely+Rolling+Star+No+More"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Royal Academy of Katamari",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Royal+Academy+of+Katamari"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Katamari Stars",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Katamari+Stars"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Katamari Lovemin",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Katamari+Lovemin"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Houston",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Houston"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Que Sera Sera",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Que+Sera+Sera"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Heavan's Rain",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Heavan%27s+Rain"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Commander Jersey - Overture",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Commander+Jersey/_/Overture"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "02:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Windows96 - Near Death Experience",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Windows96/_/Near+Death+Experience"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - Liquid Sun",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/Liquid+Sun"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - メリルとの再会",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E3%83%A1%E3%83%AA%E3%83%AB%E3%81%A8%E3%81%AE%E5%86%8D%E4%BC%9A"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:32",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - ドラム缶入手～情報提供者と合流",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E3%83%89%E3%83%A9%E3%83%A0%E7%BC%B6%E5%85%A5%E6%89%8B%EF%BD%9E%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E8%80%85%E3%81%A8%E5%90%88%E6%B5%81"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - ジョニー佐々木",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E4%BD%90%E3%80%85%E6%9C%A8"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - 民兵アジト～ドレビン接触",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E6%B0%91%E5%85%B5%E3%82%A2%E3%82%B8%E3%83%88%EF%BD%9E%E3%83%89%E3%83%AC%E3%83%93%E3%83%B3%E6%8E%A5%E8%A7%A6"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:26",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - レッドゾーン～MK.II合流",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E3%83%AC%E3%83%83%E3%83%89%E3%82%BE%E3%83%BC%E3%83%B3%EF%BD%9EMK.II%E5%90%88%E6%B5%81"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGS4 マスターコレクション - ACT. 1 - 戦争は変わった",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGS4+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3+-+ACT.+1/_/%E6%88%A6%E4%BA%89%E3%81%AF%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ＣＹＢＥＲＷＡＶＥ　１９８４ // Synthwave - Chillsynth",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%EF%BC%A3%EF%BC%B9%EF%BC%A2%EF%BC%A5%EF%BC%B2%EF%BC%B7%EF%BC%A1%EF%BC%B6%EF%BC%A5%E3%80%80%EF%BC%91%EF%BC%99%EF%BC%98%EF%BC%94+%2F%2F+Synthwave/_/Chillsynth"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "01:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝙈𝙖𝙙 𝘼𝙣𝙞𝙢𝙖𝙡. - Teenage Years",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%99%88%F0%9D%99%96%F0%9D%99%99+%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%9E%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A1./_/Teenage+Years"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝙈𝙖𝙙 𝘼𝙣𝙞𝙢𝙖𝙡. - Midnight Call",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%99%88%F0%9D%99%96%F0%9D%99%99+%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%9E%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A1./_/Midnight+Call"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝙈𝙖𝙙 𝘼𝙣𝙞𝙢𝙖𝙡. - Starlights",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%99%88%F0%9D%99%96%F0%9D%99%99+%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%9E%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A1./_/Starlights"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝗦𝗧𝗘𝗥𝗘𝗢𝗙𝗟𝗢𝗔𝗧 - L.A Dreamin' (feat 𝙈𝙖𝙙 𝘼𝙣𝙞𝙢𝙖𝙡.) (Vaporized)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%A7/_/L.A+Dreamin%27+(feat+%F0%9D%99%88%F0%9D%99%96%F0%9D%99%99+%F0%9D%98%BC%F0%9D%99%A3%F0%9D%99%9E%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A1.)+(Vaporized)"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝗦𝗧𝗘𝗥𝗘𝗢𝗙𝗟𝗢𝗔𝗧 - Forever Tonight",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%A7/_/Forever+Tonight"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝗦𝗧𝗘𝗥𝗘𝗢𝗙𝗟𝗢𝗔𝗧 - Telnet Erotica",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%A7/_/Telnet+Erotica"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝗦𝗧𝗘𝗥𝗘𝗢𝗙𝗟𝗢𝗔𝗧 - Samourai Shampoo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%A7/_/Samourai+Shampoo"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "𝗦𝗧𝗘𝗥𝗘𝗢𝗙𝗟𝗢𝗔𝗧 - Night Interceptor",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A2%F0%9D%97%99%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%A7/_/Night+Interceptor"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:31",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ごめんなさい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqgob8dlc3th4aei"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:31",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://x.com/atashinchi_new/status/2093228199392223306 これみて一瞬へーケラと同級生なんだーって思った",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqgoawyqc3th4aed",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:21",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "雑談配信終了しました。見てくれた方、ありがとうございました。スカイピースという音楽グループのシャルルというバンドのバルーンという曲の歌ってみた動画を聞きました。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/aqgnz0aa3sm40eb7"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kan - Aiwa Katsu",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカイピース - シャルルをスカイピースが歌ってみた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%94%E3%83%BC%E3%82%B9/_/%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB%E3%82%92%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%94%E3%83%BC%E3%82%B9%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Кристина Орбакайте - Тучи в голубом",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0+%D0%9E%D1%80%D0%B1%D0%B0%D0%BA%D0%B0%D0%B9%D1%82%D0%B5/_/%D0%A2%D1%83%D1%87%D0%B8+%D0%B2+%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%BC"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД - Валерий Ободзинский исполняет знаменитый «Вокализ»",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5+%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.+%D0%93%D0%9E%D0%A1%D0%A2%D0%95%D0%9B%D0%95%D0%A0%D0%90%D0%94%D0%98%D0%9E%D0%A4%D0%9E%D0%9D%D0%94/_/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9+%D0%9E%D0%B1%D0%BE%D0%B4%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D1%82+%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8B%D0%B9+%C2%AB%D0%92%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%C2%BB"
-    },
-    {
-      "date": "2026-08-29",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ずっと書いてたインターネット美学の歴史に関する文章を個人サイトで公開した\n　・じつは8月後半はやる気がなくなってほとんど触ってなかったけど\n　・https://yuinoid.neocities.org/txt/internet-aesthetic-a-genealogy/\n他人事ラジオの37回が公開された",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F08%2F29"
     }
   ]
 }
