@@ -1,6 +1,576 @@
 {
-  "generated_at": "2026-09-28T07:00:01.377497+09:00",
+  "generated_at": "2026-09-28T15:00:01.311831+09:00",
   "timeline": [
+    {
+      "date": "2026-09-28",
+      "time": "13:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Perfume_PTAM - Perfume × CAPSULE Medley",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Perfume_PTAM/_/Perfume+%C3%97+CAPSULE+Medley"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "13:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Wish You Were Here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "13:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - King Bromeliad",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/King+Bromeliad"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Marilyn ft. Micachu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Marilyn+ft.+Micachu"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Strawberry Privilege",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Strawberry+Privilege"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kelela - LMK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kelela/_/LMK"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sweet William - Westward",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sweet+William/_/Westward"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Jezebel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Jezebel"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - The Sweetest Taboo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/The+Sweetest+Taboo"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Is It a Crime",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Is+It+a+Crime"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Instrumental Jam",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Instrumental+Jam"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Mr. Wrong",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Mr.+Wrong"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Your Love Is King",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Your+Love+Is+King"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Never as Good as the First Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Never+as+Good+as+the+First+Time"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Fear",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Fear"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Hang On to Your Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Hang+On+to+Your+Love"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Be thankful For What You Got",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Be+thankful+For+What+You+Got"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Smooth Operator",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Smooth+Operator"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Cherry Pie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Cherry+Pie"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Why Can't We Live Together",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Why+Can%27t+We+Live+Together"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "11:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - A Barely Lit Path",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/A+Barely+Lit+Path"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Break Well",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Break+Well"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yves Tumor - Noid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yves+Tumor/_/Noid"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:52",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "でも単に悪ぶってるだけな感じの日本語ラップって特に具体例を出せるわけじゃないけどダサいと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro5pdpcc3th5et0"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:49",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "スティール・ボール・ランのED燃えてるけどあんまりわからなかった ジョジョのアニメファンで洋楽EDを期待してたら怒るのはそうかもしれん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro5mgacc3th5esz"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yung Lean - yung lean live @ the back of the truck",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yung+Lean/_/yung+lean+live+@+the+back+of+the+truck"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:41",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "シティボーイゆるせねえ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro5bln6c3th5ese"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "🐸 Tsutchie - Mute",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%F0%9F%90%B8+Tsutchie/_/Mute"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "🐸 Tsutchie - Skip",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%F0%9F%90%B8+Tsutchie/_/Skip"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:36",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "都会の人って感じ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro551iec3th5es6"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "🐸 Tsutchie - Play First",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%F0%9F%90%B8+Tsutchie/_/Play+First"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:33",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ジムに定期的にいけるやつって家とジムの距離が近いか通勤通学の途中経路にあるやつなんだろうなって思ってる そうだとしてもジムに行っていること自体なんかすごい もしそうじゃなかったら異常だと思う",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro5147ec3th5erv"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Summer Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Summer+Night"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Never Forget",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Never+Forget"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Lights",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Lights"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Dreams",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Dreams"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Into The Dream (Intro)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Into+The+Dream+(Intro)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "『DARK MACHINE THE ANIMATION』第2弾 - 2026年10月フジテレビほかにて放送決定！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8EDARK+MACHINE+THE+ANIMATION%E3%80%8F%E7%AC%AC2%E5%BC%BE/_/2026%E5%B9%B410%E6%9C%88%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%E3%81%BB%E3%81%8B%E3%81%AB%E3%81%A6%E6%94%BE%E9%80%81%E6%B1%BA%E5%AE%9A%EF%BC%81"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Satin PSICODELIC",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Satin+PSICODELIC"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Strands of the Future",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Strands+of+the+Future"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "10:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Summer Blu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Summer+Blu"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Mornin Dew",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Mornin+Dew"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "2025年10月放送開始！TVアニメ - #野生のラスボスが現れた！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/2025%E5%B9%B410%E6%9C%88%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B%EF%BC%81TV%E3%82%A2%E3%83%8B%E3%83%A1/_/%23%E9%87%8E%E7%94%9F%E3%81%AE%E3%83%A9%E3%82%B9%E3%83%9C%E3%82%B9%E3%81%8C%E7%8F%BE%E3%82%8C%E3%81%9F%EF%BC%81"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Baby I Don't Mind",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Baby+I+Don%27t+Mind"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Guava",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Guava"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sunni Colón - Technicolor",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sunni+Col%C3%B3n/_/Technicolor"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pop Crypt - GRRL",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pop+Crypt/_/GRRL"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "アニメ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aro3acnqc3th5eqt"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Time and Place",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Time+and+Place"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Wish You Well",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Wish+You+Well"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Skin",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Skin"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Million Things",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Million+Things"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - 2am (feat. gianna)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/2am+(feat.+gianna)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "09:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Venice Loop",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Venice+Loop"
+    },
     {
       "date": "2026-09-28",
       "time": "09:00",
@@ -9,6 +579,16 @@
       "text": "2026-09-28 強い雨 22.8℃ (22.7〜22.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-09-28",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "朝から人生考えて憂鬱だった",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F28"
     },
     {
       "date": "2026-09-27",
@@ -159,6 +739,96 @@
     },
     {
       "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
       "time": "10:29",
       "src_id": 2,
       "src_type": "misskey",
@@ -227,6 +897,16 @@
       "url": "https://github.com/objtus/planet-feed"
     },
     {
+      "date": "2026-09-27",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "だるい\nずっと寝てた\nアニメを見た",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F27"
+    },
+    {
       "date": "2026-09-26",
       "time": "23:50",
       "src_id": 18,
@@ -262,6 +942,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "21:06",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 追放された転生重騎士はゲーム知識で無双する — エピソード1: 第1話 重騎士エルマ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "21:05",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード12: 決戦！レヴィアターノ",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-26",
@@ -352,6 +1050,51 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-26",
@@ -773,6 +1516,16 @@
       "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A5%BD%E3%81%AE%E9%80%B2%E5%8C%96%E3%82%92%E8%BE%BF%E3%82%8B%E5%8B%95%E7%94%BB/_/%E5%A4%A7%E6%AD%A3%E6%99%82%E4%BB%A3%E3%81%AE%E9%9F%B3%E6%A5%BD"
     },
     {
+      "date": "2026-09-26",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "最近天気悪くて布団を洗濯しようと思ってもやる気になりません",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F26"
+    },
+    {
       "date": "2026-09-25",
       "time": "23:58",
       "src_id": 4,
@@ -1042,6 +1795,15 @@
     },
     {
       "date": "2026-09-25",
+      "time": "21:34",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード12: 片田舎のおっさん、我が家に帰る",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-25",
       "time": "21:19",
       "src_id": 2,
       "src_type": "misskey",
@@ -1062,6 +1824,15 @@
     },
     {
       "date": "2026-09-25",
+      "time": "20:38",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～ — エピソード10: 第10話 「欺瞞 -Veiled Truth-」",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-25",
       "time": "20:18",
       "src_id": 4,
       "src_type": "lastfm",
@@ -1069,6 +1840,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%82%A6/_/AI%E5%AE%87%E6%9C%88"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "20:01",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～ — エピソード9: 第9話 「奪還 -Let Me Pay-」",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-25",
+      "time": "20:00",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ — エピソード24: エクストラスキル",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-25",
@@ -1158,6 +1947,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-25",
+      "time": "00:00",
+      "src_id": 17,
+      "src_type": "scrapbox",
+      "text": "ねてた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://scrapbox.io/stall/2026%2F09%2F25"
     },
     {
       "date": "2026-09-24",
@@ -3025,6 +3824,15 @@
     },
     {
       "date": "2026-09-21",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 東村と西ノ村",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-21",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
@@ -3142,6 +3950,24 @@
     },
     {
       "date": "2026-09-20",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-20",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-20",
       "time": "11:25",
       "src_id": 4,
       "src_type": "lastfm",
@@ -3224,6 +4050,33 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "22:26",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード11: レヴィアターノ、咆哮",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-19",
+      "time": "21:58",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 — エピソード12: これからの１０年もその先も俺に任せろ",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-19",
+      "time": "21:35",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード12: 「辺境領主様と領民０人から始まった物語」",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-19",
@@ -4491,6 +5344,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Mount+Kimbie/_/Break+Well"
+    },
+    {
+      "date": "2026-09-18",
+      "time": "20:27",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード11: 片田舎のおっさん、激しく憤る",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-18",
+      "time": "20:05",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ — エピソード23: 開放者",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-18",
@@ -8164,6 +9035,24 @@
     },
     {
       "date": "2026-09-14",
+      "time": "11:10",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 — エピソード11: １０年戦ったから魔神は余裕で倒せる",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-14",
+      "time": "10:49",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 — エピソード10: 敵陣突入",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-14",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
@@ -8249,6 +9138,24 @@
     },
     {
       "date": "2026-09-13",
+      "time": "21:34",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード10: 第10話 それぞれの役割",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "21:08",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード11: 「辺境領主様とアルナーの兄」",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
       "time": "19:07",
       "src_id": 13,
       "src_type": "misskey",
@@ -8286,6 +9193,33 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-13",
@@ -9487,6 +10421,24 @@
     },
     {
       "date": "2026-09-10",
+      "time": "21:51",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード10: 片田舎のおっさん、新年を迎える",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-10",
+      "time": "20:31",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ — エピソード22: 祈りが満ちて",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-10",
       "time": "15:10",
       "src_id": 4,
       "src_type": "lastfm",
@@ -9504,6 +10456,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-10",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 影森兄弟と黒谷姉弟",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-10",
@@ -10337,6 +11298,24 @@
     },
     {
       "date": "2026-09-09",
+      "time": "20:31",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました — エピソード1: 第1話 異世界トラウト一本釣り！　～鬼さん添えて～",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-09",
+      "time": "20:30",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード9: 第9話 入れ替わりと、アルノルトの苦悩",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-09",
       "time": "20:12",
       "src_id": 2,
       "src_type": "misskey",
@@ -10344,6 +11323,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/aqxkd32bc3th4qlc"
+    },
+    {
+      "date": "2026-09-09",
+      "time": "20:04",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード8: 第8話 雨宿り",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-09",
@@ -10500,6 +11488,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World"
+    },
+    {
+      "date": "2026-09-08",
+      "time": "17:32",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 2001年宇宙の旅(吹替版)",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-08",
@@ -10771,6 +11768,24 @@
     },
     {
       "date": "2026-09-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 潮騒よ聞け、哀しきくノ一の想い",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-07",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 再会は黒き獣の咆哮と共に",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-07",
       "time": "11:59",
       "src_id": 4,
       "src_type": "lastfm",
@@ -10838,6 +11853,15 @@
     },
     {
       "date": "2026-09-06",
+      "time": "21:16",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード9: 片田舎のおっさん、教都に行く",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-06",
       "time": "15:35",
       "src_id": 4,
       "src_type": "lastfm",
@@ -10865,6 +11889,24 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-06",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-06",
@@ -11127,6 +12169,15 @@
     },
     {
       "date": "2026-09-05",
+      "time": "20:02",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード10: 「辺境領主様と息子と娘たち」",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-05",
       "time": "15:00",
       "src_id": 8,
       "src_type": "github",
@@ -11230,6 +12281,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Philip+Glass/_/The+Photographer"
+    },
+    {
+      "date": "2026-09-04",
+      "time": "20:50",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ — エピソード21: ラポルカの魔族たち",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-09-04",
@@ -12863,6 +13923,15 @@
     },
     {
       "date": "2026-09-01",
+      "time": "21:21",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 — エピソード9: 闇に潜む魔獣たち",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-01",
       "time": "20:54",
       "src_id": 13,
       "src_type": "misskey",
@@ -13511,6 +14580,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Turn+A+Gundam/_/Calm+Orchestral+Mix"
+    },
+    {
+      "date": "2026-08-31",
+      "time": "22:23",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード9: 「辺境領主様と結婚式」",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-08-31",
@@ -14716,6 +15794,15 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-08-30",
+      "time": "05:03",
+      "src_id": 20,
+      "src_type": "prime",
+      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード8: 片田舎のおっさん、求婚される",
+      "is_boost": false,
+      "has_media": false
     },
     {
       "date": "2026-08-30",
