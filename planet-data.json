@@ -1,6 +1,593 @@
 {
-  "generated_at": "2026-09-28T23:00:01.192243+09:00",
+  "generated_at": "2026-09-29T07:00:01.653576+09:00",
   "timeline": [
+    {
+      "date": "2026-09-29",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-09-29 小雨 21.4℃ (21.1〜21.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-29",
+      "time": "03:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Naoko Gushima - no. no.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Naoko+Gushima/_/no.+no."
+    },
+    {
+      "date": "2026-09-29",
+      "time": "03:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "03:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - King Bromeliad",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/King+Bromeliad"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aural Imbalance - Astral Forest",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aural+Imbalance/_/Astral+Forest"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Slow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Slow"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - AFTER HOURS  ( s l o w e d   +   r e v e r b )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/AFTER+HOURS++(+s+l+o+w+e+d+++%252B+++r+e+v+e+r+b+)"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bladee + Thaiboy Digital + ECCO2K - Victim",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/bladee+%252B+Thaiboy+Digital+%252B+ECCO2K/_/Victim"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mønic - Deep Summer (Burial Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M%C3%B8nic/_/Deep+Summer+(Burial+Remix)"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "02:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:54",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.youtube.com/watch?v=Xl5XLBXiVlQ オタク感涙プレイリストや",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arp1xv7uc3th5fgj"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sam Wilkes & Jacob Mann - The Cricket Club",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sam+Wilkes+&+Jacob+Mann/_/The+Cricket+Club"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Reiko Kashiwagi - Rain In The City",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Reiko+Kashiwagi/_/Rain+In+The+City"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Takuro Okada - Acute Angle Black Button",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Takuro+Okada/_/Acute+Angle+Black+Button"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sven Wunder - Setting Off",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sven+Wunder/_/Setting+Off"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anna Margarida - If we Lived on Top of a Mountain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anna+Margarida/_/If+we+Lived+on+Top+of+a+Mountain"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Coffee & Cigarettes Band - From C&C With Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Coffee+&+Cigarettes+Band/_/From+C&C+With+Love"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ahwlee - B2 Coin-0p (Moodymann - A3 KDJ-27)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ahwlee/_/B2+Coin-0p+(Moodymann+-+A3+KDJ-27)"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Anamaria E Mauricio - Mandato",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Anamaria+E+Mauricio/_/Mandato"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bruno Berle - até meu violão",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bruno+Berle/_/at%C3%A9+meu+viol%C3%A3o"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Les Baxter - Girl From Uganda",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Les+Baxter/_/Girl+From+Uganda"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jacob Mann Big Band - Flight Screen Solitaire",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jacob+Mann+Big+Band/_/Flight+Screen+Solitaire"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "01:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sweet William - Westward",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sweet+William/_/Westward"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "00:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "矢野顕子 [Akiko Yano] - ただいま。 (Tadaima.)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A2%E9%87%8E%E9%A1%95%E5%AD%90+%5BAkiko+Yano%5D/_/%E3%81%9F%E3%81%A0%E3%81%84%E3%81%BE%E3%80%82+(Tadaima.)"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "00:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "(1987) Yukako Hayase - Polyester",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/(1987)+Yukako+Hayase/_/Polyester"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "00:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sweet William - Westward",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sweet+William/_/Westward"
+    },
+    {
+      "date": "2026-09-29",
+      "time": "00:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Animals (Director's Cut)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Animals+(Director%27s+Cut)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Wish You Were Here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Eclipse",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Eclipse"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "Akamai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aroxd1dmc3th5fe7"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Brain Damage",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Brain+Damage"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Any Colour You Like",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Any+Colour+You+Like"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Us And Them",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Us+And+Them"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Money",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Money"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - The Great Gig In The Sky",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/The+Great+Gig+In+The+Sky"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Time",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Time"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - On The Run",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/On+The+Run"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:12",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "わかものです　ネットを理解しています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/arow50hxig"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "生きる道",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arow3tnac3th5faz"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Breathe (In The Air)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Breathe+(In+The+Air)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 9枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd The Dark Side of the Moon - Speak To Me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd+The+Dark+Side+of+the+Moon/_/Speak+To+Me"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:07",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "procreate使ってるんだけど、数か月まえにアップデートしたらなぜか自作のブラシが全部消えたんだよね‼",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/arovzidxsi"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ねむすぎる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arovum6cc3th5faq"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - A Barely Lit Path",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/A+Barely+Lit+Path"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-28 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "22:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lovely Summer Chan YouTube - 202 feat. 泉まくら (New Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lovely+Summer+Chan+YouTube/_/202+feat.+%E6%B3%89%E3%81%BE%E3%81%8F%E3%82%89+(New+Mix)"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "22:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "22:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - Security!",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/Security!"
+    },
     {
       "date": "2026-09-28",
       "time": "21:55",
@@ -73,6 +660,16 @@
     },
     {
       "date": "2026-09-28",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-28 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-28",
       "time": "14:55",
       "src_id": 2,
       "src_type": "misskey",
@@ -100,6 +697,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "13:05",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 3件: Update index.html and llms.txt with author information and link formatting / Enhance profile and introduction pages with metadata and author details / Update 100phealth_introduction.html to refine metadata and improve accessibility",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-09-28",
@@ -180,6 +787,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Sade/_/Jezebel"
+    },
+    {
+      "date": "2026-09-28",
+      "time": "12:23",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Update index.html, add sitemap generation, and enhance site metadata",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-09-28",
@@ -662,10 +1279,20 @@
     },
     {
       "date": "2026-09-28",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-28 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-09-28",
       "time": "00:00",
       "src_id": 17,
       "src_type": "scrapbox",
-      "text": "朝から人生考えて憂鬱だった",
+      "text": "朝から人生考えて憂鬱だった\n散歩した\nChatGPT（無課金）の音声会話モードで英会話の練習したらすぐに制限きた",
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F28"
@@ -822,25 +1449,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -867,7 +1476,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -876,16 +1485,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -903,7 +1503,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
       "is_boost": false,
       "has_media": false
     },
@@ -1136,7 +1763,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -1154,7 +1781,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
       "is_boost": false,
       "has_media": false
     },
@@ -1164,15 +1800,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -15708,191 +16335,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F08%2F31"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:44",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "できた！これどうすればいいんだ？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqjhjbaoc3th4cq8"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 3kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:19",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ダウンロードにめっちゃ時間かかってんだけど",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqjgn6zkc3th4co0"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "HMD更新してるので待って",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqjg9n66c3th4cnl"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-30 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "22:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "観る - ACT４ 双子の太陽",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%94+%E5%8F%8C%E5%AD%90%E3%81%AE%E5%A4%AA%E9%99%BD"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "22:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "観る - ACT３ 第三の太陽",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%93+%E7%AC%AC%E4%B8%89%E3%81%AE%E5%A4%AA%E9%99%BD"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "22:19",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "23時からvrchatと仲直りする会やりますので暇な人がいたら来てください",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqjeh3koc3th4cg8"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "22:17",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ねたた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqjefdzzc3th4cg2"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-30 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "10:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "観る - ACT３ 第三の太陽",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E8%A6%B3%E3%82%8B/_/ACT%EF%BC%93+%E7%AC%AC%E4%B8%89%E3%81%AE%E5%A4%AA%E9%99%BD"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "10:10",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたし要領が悪いんですよね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqiogchvc3th4bm7"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-08-30 厚い雲 27.8℃ (27.8〜27.8℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-30",
-      "time": "08:25",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "吐息でネット",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqikp4d5c3th4bkd"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-08-30 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-08-30",
-      "time": "05:03",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード8: 片田舎のおっさん、求婚される",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-08-30",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "VRChatをやった\n　・すごい久しぶりに。すしすきーの人がいました。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F08%2F30"
     }
   ]
 }
