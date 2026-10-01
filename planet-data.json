@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-10-01T23:00:01.569364+09:00",
+  "generated_at": "2026-10-02T07:00:01.755172+09:00",
   "timeline": [
+    {
+      "date": "2026-10-02",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-02 晴天 21.6℃ (21.6〜21.7℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-02",
+      "time": "03:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Temzzy - ¥ØU$UK€ ¥UK1MAT$U @ Mainstage, Ultra Music Festival Japan 2026-09-19",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Temzzy/_/%C2%A5%C3%98U$UK%E2%82%AC+%C2%A5UK1MAT$U+@+Mainstage,+Ultra+Music+Festival+Japan+2026-09-19"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "03:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ニートTOKYO - ノリアキ：古屋雄作・水野敬也 プロデューサー陣について",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8B%E3%83%BC%E3%83%88TOKYO/_/%E3%83%8E%E3%83%AA%E3%82%A2%E3%82%AD%EF%BC%9A%E5%8F%A4%E5%B1%8B%E9%9B%84%E4%BD%9C%E3%83%BB%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F+%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC%E9%99%A3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "02:58",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ハッピーハロウィン！が増えてわたしの優位性がなくなってしまいました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/artej6vokm"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "02:55",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "寝てたけど起きた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artefzdic3th5i62"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "23:58",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-01",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 3枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-01",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-01 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-10-01",
       "time": "19:16",
@@ -11,6 +88,16 @@
       "has_media": false,
       "url": "https://tanoshii.site/notes/arsy0vtjc3th5hu7",
       "visibility": "home"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-01 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-01",
@@ -30,6 +117,16 @@
       "text": "2026-10-01 晴天 21.1℃ (21.1〜21.1℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-01",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-01 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-09-30",
@@ -2576,16 +2673,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
       "is_boost": false,
       "has_media": false
     },
@@ -2603,25 +2691,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -2631,6 +2701,24 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -2657,7 +2745,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -2890,25 +2987,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
       "is_boost": false,
       "has_media": false
     },
@@ -2926,7 +3014,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -5787,7 +5884,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -5796,7 +5893,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -11033,6 +11130,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
       "is_boost": false,
       "has_media": false
@@ -11043,15 +11149,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 情と理",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
     },
@@ -13605,7 +13702,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 潮騒よ聞け、哀しきくノ一の想い",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 再会は黒き獣の咆哮と共に",
       "is_boost": false,
       "has_media": false
     },
@@ -13614,7 +13711,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 再会は黒き獣の咆哮と共に",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 潮騒よ聞け、哀しきくノ一の想い",
       "is_boost": false,
       "has_media": false
     },
@@ -15160,324 +15257,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F03"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-02",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-02",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "20:41",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ご機嫌な蝶になっていきたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqnlas2gc3th4gol"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "20:23",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "寝不足だからイライラする",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqnknhi2c3th4gm8"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "15:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "人が”死ねない”未来がくる？ 成毛眞のテレ東経済ニュースアカデミー - テレ東経済ニュースアカデミー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%BA%E3%81%8C%E2%80%9D%E6%AD%BB%E3%81%AD%E3%81%AA%E3%81%84%E2%80%9D%E6%9C%AA%E6%9D%A5%E3%81%8C%E3%81%8F%E3%82%8B%EF%BC%9F+%E6%88%90%E6%AF%9B%E7%9C%9E%E3%81%AE%E3%83%86%E3%83%AC%E6%9D%B1%E7%B5%8C%E6%B8%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC/_/%E3%83%86%E3%83%AC%E6%9D%B1%E7%B5%8C%E6%B8%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "15:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "炙り牛すき焼き風月見 - 月見でたでた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%82%99%E3%82%8A%E7%89%9B%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D%E9%A2%A8%E6%9C%88%E8%A6%8B/_/%E6%9C%88%E8%A6%8B%E3%81%A7%E3%81%9F%E3%81%A7%E3%81%9F"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "15:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "【公式】オードリーさん、ぜひ会ってほしい人がいるんです。 - スーパー人間久々の登場！海外生活で習得した新技披露(オードリーさん、ぜひ会ってほしい人がいるんです。)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82/_/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E4%BA%BA%E9%96%93%E4%B9%85%E3%80%85%E3%81%AE%E7%99%BB%E5%A0%B4%EF%BC%81%E6%B5%B7%E5%A4%96%E7%94%9F%E6%B4%BB%E3%81%A7%E7%BF%92%E5%BE%97%E3%81%97%E3%81%9F%E6%96%B0%E6%8A%80%E6%8A%AB%E9%9C%B2(%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%81%95%E3%82%93%E3%80%81%E3%81%9C%E3%81%B2%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E4%BA%BA%E3%81%8C%E3%81%84%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99%E3%80%82)"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "15:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "MGSPW マスターコレクション - サンディニスタ司令官接触",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/MGSPW+%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%83%8B%E3%82%B9%E3%82%BF%E5%8F%B8%E4%BB%A4%E5%AE%98%E6%8E%A5%E8%A7%A6"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-02 曇りがち 28.1℃ (27.8〜28.3℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-02",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-02 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "06:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Immi Vynati - 1 Upper",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Immi+Vynati/_/1+Upper"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "06:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Immi Vynati - Hazy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Immi+Vynati/_/Hazy"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "06:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Immi Vynati - Power Station",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Immi+Vynati/_/Power+Station"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "06:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Immi Vynati - Ups & Downs",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Immi+Vynati/_/Ups+&+Downs"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Immi Vynati - Go with the flow (feat. Shigeo)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Immi+Vynati/_/Go+with+the+flow+(feat.+Shigeo)"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Saori@destiny | サヨナラ・リヴァイバル - DENPA rmx",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Saori@destiny+%7C+%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%83%BB%E3%83%AA%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%90%E3%83%AB/_/DENPA+rmx"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tommy february6 / Tommy heavenly6 - ｴﾙ･ｵｰ･ｳﾞｨｰ･ｲｰ･ｴﾙ･ﾜｲ...",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tommy+february6+%2F+Tommy+heavenly6/_/%EF%BD%B4%EF%BE%99%EF%BD%A5%EF%BD%B5%EF%BD%B0%EF%BD%A5%EF%BD%B3%EF%BE%9E%EF%BD%A8%EF%BD%B0%EF%BD%A5%EF%BD%B2%EF%BD%B0%EF%BD%A5%EF%BD%B4%EF%BE%99%EF%BD%A5%EF%BE%9C%EF%BD%B2..."
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "my♪ラビッツ - トピック - もっと好きになる。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/my%E2%99%AA%E3%83%A9%E3%83%93%E3%83%83%E3%83%84+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%82%E3%81%A3%E3%81%A8%E5%A5%BD%E3%81%8D%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%82"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Marino - トピック - てんとう虫とチューリップ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Marino+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%81%A6%E3%82%93%E3%81%A8%E3%81%86%E8%99%AB%E3%81%A8%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Plastclip: 2kOPED - 07S1 月面兎兵器ミーナ ED",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Plastclip:+2kOPED/_/07S1+%E6%9C%88%E9%9D%A2%E5%85%8E%E5%85%B5%E5%99%A8%E3%83%9F%E3%83%BC%E3%83%8A+ED"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Off the Wall - Saori@destiny",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Off+the+Wall/_/Saori@destiny"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Meg - HANABI",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Meg/_/HANABI"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "05:04",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://www.youtube.com/playlist?list=PL8uCHzBbEWVROPUxcBfsOkRTGbZvO6DIY なぜかunreleasedなる動画がプレイリストに紛れ込んでいる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqmnuf0pc3th4g1t"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "04:48",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://web.archive.org/web/20120202060500/http://ocn.ne.jp/game/og/index.html あの頃のインターネットを感じた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqmn9ytsc3th4g1r",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "04:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Saoriadestiny - saori@destiny TV",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Saoriadestiny/_/saori@destiny+TV"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "04:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aira Mitsuki (アイラミツキ） - ロボットハニー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aira+Mitsuki+(%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%84%E3%82%AD%EF%BC%89/_/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%8F%E3%83%8B%E3%83%BC"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "04:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Aira Mitsuki (アイラミツキ） - カラフル・トーキョーサウンズ・NO.9",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Aira+Mitsuki+(%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%9F%E3%83%84%E3%82%AD%EF%BC%89/_/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%E3%83%BBNO.9"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "00:27",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "わたしも、そういう感じになりたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqmdy4doc3th4fqg"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "00:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ツイッターで流れてくる島田フミカネのエッチなイラストについてですが、いつも、いいのそれ！ってなります",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqmdx1y8c3th4fqf"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "なにもしてない気がする",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F09%2F02"
     }
   ]
 }
