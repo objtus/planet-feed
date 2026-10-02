@@ -1,6 +1,886 @@
 {
-  "generated_at": "2026-10-02T15:00:01.886639+09:00",
+  "generated_at": "2026-10-02T23:00:01.108088+09:00",
   "timeline": [
+    {
+      "date": "2026-10-02",
+      "time": "22:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "青木春香 - 机さする",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9D%92%E6%9C%A8%E6%98%A5%E9%A6%99/_/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:03",
+      "src_id": 3,
+      "src_type": "mastodon",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://mistodon.cloud/@healthcare/117371451638531800"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "恋するフォーチュンクッキー - AKB48",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%81%8B%E3%81%99%E3%82%8B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%B3%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC/_/AKB48"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mønic - Deep Summer (Burial Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M%C3%B8nic/_/Deep+Summer+(Burial+Remix)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pink Floyd - Wish You Were Here",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pink+Floyd/_/Wish+You+Were+Here"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aural Imbalance - Astral Forest",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aural+Imbalance/_/Astral+Forest"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Weeknd - AFTER HOURS  ( s l o w e d   +   r e v e r b )",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Weeknd/_/AFTER+HOURS++(+s+l+o+w+e+d+++%252B+++r+e+v+e+r+b+)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "21:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "20:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bon Iver - 22, A Million Supercut",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bon+Iver/_/22,+A+Million+Supercut"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Treat (bonus track for japan)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Treat+(bonus+track+for+japan)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Everlane",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Everlane"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - There's a Distance in You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/There%27s+a+Distance+in+You"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Silvered Iris",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Silvered+Iris"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Petroleum Tinged",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Petroleum+Tinged"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Beacon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Beacon"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - The Grit in the Pearl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/The+Grit+in+the+Pearl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Snowbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Snowbird"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Banjo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Banjo"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Sodium Trimmers",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Sodium+Trimmers"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Strength Through Fragility",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Strength+Through+Fragility"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Unfurla",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Unfurla"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Winter Linn",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Winter+Linn"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "19:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Ship Is Flooding",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Ship+Is+Flooding"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - リンギンベル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%83%AA%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%99%E3%83%AB"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - シュチェチン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%82%B7%E3%83%A5%E3%83%81%E3%82%A7%E3%83%81%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - 地蔵",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E5%9C%B0%E8%94%B5"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - スーパースター",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - 少年ヤング (Album Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E5%B0%91%E5%B9%B4%E3%83%A4%E3%83%B3%E3%82%B0+(Album+Mix)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - アルペジ夫とオシ礼太",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%82%A2%E3%83%AB%E3%83%9A%E3%82%B8%E5%A4%AB%E3%81%A8%E3%82%AA%E3%82%B7%E7%A4%BC%E5%A4%AA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - モノノケダンス (Album Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%83%A2%E3%83%8E%E3%83%8E%E3%82%B1%E3%83%80%E3%83%B3%E3%82%B9+(Album+Mix)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - 半分人間だもの",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E5%8D%8A%E5%88%86%E4%BA%BA%E9%96%93%E3%81%A0%E3%82%82%E3%81%AE"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - いちご娘",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%81%84%E3%81%A1%E3%81%94%E5%A8%98"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - ズーディザイア",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%82%BA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%B6%E3%82%A4%E3%82%A2"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - エキスポ ヒロシマ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%9D+%E3%83%92%E3%83%AD%E3%82%B7%E3%83%9E"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "18:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電気グルーヴ - 完璧に無くして",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4/_/%E5%AE%8C%E7%92%A7%E3%81%AB%E7%84%A1%E3%81%8F%E3%81%97%E3%81%A6"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Date of Birth (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Date+of+Birth+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Walking This Dumb (Live) [Remastered]",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Walking+This+Dumb+(Live)+%5BRemastered%5D"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Can't See My Own Face (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Can%27t+See+My+Own+Face+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - You Won't Need Me Where I'm Goin' (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/You+Won%27t+Need+Me+Where+I%27m+Goin%27+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Suicide Dream 2 (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Suicide+Dream+2+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - My Body (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/My+Body+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - Ready for the World (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/Ready+for+the+World+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "How to Dress Well - You Hold the Water (Remastered)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/How+to+Dress+Well/_/You+Hold+the+Water+(Remastered)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "17:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "園田まひる - Regalo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9C%92%E7%94%B0%E3%81%BE%E3%81%B2%E3%82%8B/_/Regalo"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "園田まひる - Eternal Promise",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9C%92%E7%94%B0%E3%81%BE%E3%81%B2%E3%82%8B/_/Eternal+Promise"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "さくら＆ねここ - 任意ラヂヲ オープニングテーマ フルバージョン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%95%E3%81%8F%E3%82%89%EF%BC%86%E3%81%AD%E3%81%93%E3%81%93/_/%E4%BB%BB%E6%84%8F%E3%83%A9%E3%83%82%E3%83%B2+%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E+%E3%83%95%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mitski - Bug Like an Angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mitski/_/Bug+Like+an+Angel"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Клетка",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%9A%D0%BB%D0%B5%D1%82%D0%BA%D0%B0"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Коммерсанты",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Судно (Борис Рыжий)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%A1%D1%83%D0%B4%D0%BD%D0%BE+(%D0%91%D0%BE%D1%80%D0%B8%D1%81+%D0%A0%D1%8B%D0%B6%D0%B8%D0%B9)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Прогноз",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Тоска",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%A2%D0%BE%D1%81%D0%BA%D0%B0"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Волны",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%92%D0%BE%D0%BB%D0%BD%D1%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Фильмы",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - Танцевать",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%A2%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D1%82%D1%8C"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Molchat Doma - На дне",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Molchat+Doma/_/%D0%9D%D0%B0+%D0%B4%D0%BD%D0%B5"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - アメリカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - 東京",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E6%9D%B1%E4%BA%AC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "16:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - どこでもないところ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - JFK空港",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/JFK%E7%A9%BA%E6%B8%AF"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - スルツェイ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%82%B9%E3%83%AB%E3%83%84%E3%82%A7%E3%82%A4"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.daikobo.jp/home/home.html　雰囲気よすぎる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aru60p0dc3th5ifl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "あーち - まじかるマホ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%82%E3%83%BC%E3%81%A1/_/%E3%81%BE%E3%81%98%E3%81%8B%E3%82%8B%E3%83%9E%E3%83%9B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ハローマック - ぽん・ぱ 1997 10",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF/_/%E3%81%BD%E3%82%93%E3%83%BB%E3%81%B1+1997+10"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - 新市街",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E6%96%B0%E5%B8%82%E8%A1%97"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - マルタ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%83%9E%E3%83%AB%E3%82%BF"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - リマ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%83%AA%E3%83%9E"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - ストックホルム",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - 旧市街",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E6%97%A7%E5%B8%82%E8%A1%97"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - レテビーチ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%83%AC%E3%83%86%E3%83%93%E3%83%BC%E3%83%81"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - ベルリン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "15:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - アメリカ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "People In The Box - 東京",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/People+In+The+Box/_/%E6%9D%B1%E4%BA%AC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 翌日",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E7%BF%8C%E6%97%A5"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 愛と理非道",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E6%84%9B%E3%81%A8%E7%90%86%E9%9D%9E%E9%81%93"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 向日葵",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E5%90%91%E6%97%A5%E8%91%B5"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - You say 'No'",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/You+say+%27No%27"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 真空",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E7%9C%9F%E7%A9%BA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 明日を落としても",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E6%98%8E%E6%97%A5%E3%82%92%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - Honolulu★Rock",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/Honolulu%E2%98%85Rock"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - Sonic Disorder",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/Sonic+Disorder"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Syrup16g - 翌日",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Syrup16g/_/%E7%BF%8C%E6%97%A5"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Boy Meets Girl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Boy+Meets+Girl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 乾いた花",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E4%B9%BE%E3%81%84%E3%81%9F%E8%8A%B1"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - シャーロット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Foolish",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Foolish"
+    },
     {
       "date": "2026-10-02",
       "time": "14:05",
@@ -3422,6 +4302,33 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
@@ -3431,7 +4338,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
       "is_boost": false,
       "has_media": false
     },
@@ -3450,42 +4366,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -3727,15 +4607,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
@@ -3755,6 +4626,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -6615,7 +7495,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -6624,7 +7504,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -11870,7 +12750,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
       "is_boost": false,
       "has_media": false
     },
@@ -11879,7 +12759,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
     },
@@ -14433,7 +15313,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 再会は黒き獣の咆哮と共に",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 潮騒よ聞け、哀しきくノ一の想い",
       "is_boost": false,
       "has_media": false
     },
@@ -14442,7 +15322,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 潮騒よ聞け、哀しきくノ一の想い",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 再会は黒き獣の咆哮と共に",
       "is_boost": false,
       "has_media": false
     },
@@ -14557,7 +15437,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
       "is_boost": false,
       "has_media": false
     },
@@ -14566,7 +15446,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
+      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
       "is_boost": false,
       "has_media": false
     },
