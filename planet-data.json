@@ -1,6 +1,546 @@
 {
-  "generated_at": "2026-10-02T07:00:01.755172+09:00",
+  "generated_at": "2026-10-02T15:00:01.886639+09:00",
   "timeline": [
+    {
+      "date": "2026-10-02",
+      "time": "14:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - フラジャイル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%95%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "14:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - アイリス",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 欲望の翼",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E6%AC%B2%E6%9C%9B%E3%81%AE%E7%BF%BC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - サッドマシーン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%B5%E3%83%83%E3%83%89%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - メルトダウン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%A1%E3%83%AB%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 車輪の下",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E8%BB%8A%E8%BC%AA%E3%81%AE%E4%B8%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Diva",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Diva"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - リグレット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Boy Meets Girl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Boy+Meets+Girl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 乾いた花",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E4%B9%BE%E3%81%84%E3%81%9F%E8%8A%B1"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - シャーロット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - シャーロット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Foolish",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Foolish"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - フラジャイル",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%95%E3%83%A9%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - アイリス",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 欲望の翼",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E6%AC%B2%E6%9C%9B%E3%81%AE%E7%BF%BC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - サッドマシーン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%82%B5%E3%83%83%E3%83%89%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - メルトダウン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%A1%E3%83%AB%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "13:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - 車輪の下",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E8%BB%8A%E8%BC%AA%E3%81%AE%E4%B8%8B"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:49",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://youtube.com/playlist?list=PL0psxYvpOprat5kg4yQ4ph_OwNt7iCV3B&si=J43PjWYlN0XJbZ_X　日本ソング再生リストを更新しました！！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artzo0ecc3th5id8"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Diva",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Diva"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - リグレット",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ART-SCHOOL - Boy Meets Girl",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/ART-SCHOOL/_/Boy+Meets+Girl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Infinity Frequencies - A curious orb of light",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Infinity+Frequencies/_/A+curious+orb+of+light"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:32",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ハッピーハロウィン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/artz1yl6dy"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:32",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "誕生日おめでとうございます",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/artz1d31d7"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Silent Yaritori",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Silent+Yaritori"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Nijiiro Darkness",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Nijiiro+Darkness"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Yumegiwa Last Boy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Yumegiwa+Last+Boy"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - I",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/I"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:11",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ポピュラリティ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/artyatkew0"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:11",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ポップな感じになりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/artyac8evk"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Strobolights",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Strobolights"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "12:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Otogi Nation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Otogi+Nation"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Aoharu Youth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Aoharu+Youth"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Storywriter",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Storywriter"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Warning Bell",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Warning+Bell"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Supercar - Starline",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Supercar/_/Starline"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:45",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか最近目が悪くなってきた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artxd8lsc3th5ibl"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:30",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ドクターかめかめのナースちゃんがかわいい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artwth3pc3th5ib8"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "aNDfIvEis - SUPERCAR ①",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/aNDfIvEis/_/SUPERCAR+%E2%91%A0"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:20",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "コーヒーの中に炭酸水を注いでしまいました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artwgt71c3th5ib6"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Denki Groove - Niji",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Denki+Groove/_/Niji"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "11:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aural Imbalance - Astral Forest",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aural+Imbalance/_/Astral+Forest"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "untitled 09 27 - imoutoid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/untitled+09+27/_/imoutoid"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LFO - I Love Acid",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LFO/_/I+Love+Acid"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats - 朝が来るまで終わる事の無いダンスを(2012mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats/_/%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%E3%81%BE%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8B%E4%BA%8B%E3%81%AE%E7%84%A1%E3%81%84%E3%83%80%E3%83%B3%E3%82%B9%E3%82%92(2012mix)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TVアニメ - ジョジョの奇妙な冒険",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TV%E3%82%A2%E3%83%8B%E3%83%A1/_/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "10:05",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "まとまり中ってなんやねん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arttsr31c3th5iae"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "imoutoid Live at SECO LOUNGE  2008 - 06/20",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/imoutoid+Live+at+SECO+LOUNGE++2008/_/06%2F20"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Floating Points - King Bromeliad",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Floating+Points/_/King+Bromeliad"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - Let You In",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/Let+You+In"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Spirit Blue - desire machine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Spirit+Blue/_/desire+machine"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "09:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
+    },
     {
       "date": "2026-10-02",
       "time": "09:00",
@@ -9,6 +549,197 @@
       "text": "2026-10-02 晴天 21.6℃ (21.6〜21.7℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-02",
+      "time": "08:47",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "昨日セルサバイバーダウンロードして1時間くらいやってアンインストールしたよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artr0r0sc3th5i9g"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "08:39",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "さわやかな気持ち",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artqpw3jc3th5i94"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "08:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "VHS - Haibane Renmei Hanenone ORIGINAL SOUNDTRACK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/VHS/_/Haibane+Renmei+Hanenone+ORIGINAL+SOUNDTRACK"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "08:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "J C - Omake",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/J+C/_/Omake"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "08:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "\"Watashi\" no Theme - The Tatami Galaxy (Michiru Oshima)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%22Watashi%22+no+Theme/_/The+Tatami+Galaxy+(Michiru+Oshima)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 米中接近！とりあえず入会しよう！──ゲンロンがお送りする年イチの無限雑談番組がまたまた襲来。いつ入会しても資格は1年、東浩紀の新刊ももらえる友の会17期が10月1日ついに始動！",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E7%B1%B3%E4%B8%AD%E6%8E%A5%E8%BF%91%EF%BC%81%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E5%85%A5%E4%BC%9A%E3%81%97%E3%82%88%E3%81%86%EF%BC%81%E2%94%80%E2%94%80%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%8A%E9%80%81%E3%82%8A%E3%81%99%E3%82%8B%E5%B9%B4%E3%82%A4%E3%83%81%E3%81%AE%E7%84%A1%E9%99%90%E9%9B%91%E8%AB%87%E7%95%AA%E7%B5%84%E3%81%8C%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E8%A5%B2%E6%9D%A5%E3%80%82%E3%81%84%E3%81%A4%E5%85%A5%E4%BC%9A%E3%81%97%E3%81%A6%E3%82%82%E8%B3%87%E6%A0%BC%E3%81%AF1%E5%B9%B4%E3%80%81%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%AE%E6%96%B0%E5%88%8A%E3%82%82%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E5%8F%8B%E3%81%AE%E4%BC%9A17%E6%9C%9F%E3%81%8C10%E6%9C%881%E6%97%A5%E3%81%A4%E3%81%84%E3%81%AB%E5%A7%8B%E5%8B%95%EF%BC%81"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:43",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "canonizeって単語を知って、canonicalがcanonから派生した（？）ことばだって気づいて興奮した",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/artopg5bc3th5i8a",
+      "visibility": "home"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bon Iver - 22, A Million Supercut",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bon+Iver/_/22,+A+Million+Supercut"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "07:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "06:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
     },
     {
       "date": "2026-10-02",
@@ -2673,61 +3404,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -2745,6 +3431,33 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
       "is_boost": false,
       "has_media": false
@@ -2754,7 +3467,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -2987,6 +3718,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
@@ -3015,15 +3755,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -5884,7 +6615,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -5893,7 +6624,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -11130,6 +11861,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
@@ -11140,15 +11880,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
       "is_boost": false,
       "has_media": false
     },
@@ -13826,7 +14557,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
+      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
       "is_boost": false,
       "has_media": false
     },
@@ -13835,7 +14566,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
       "is_boost": false,
       "has_media": false
     },
