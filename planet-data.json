@@ -1,6 +1,353 @@
 {
-  "generated_at": "2026-10-02T23:00:01.108088+09:00",
+  "generated_at": "2026-10-03T07:00:01.334380+09:00",
   "timeline": [
+    {
+      "date": "2026-10-03",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-03 晴天 18.9℃ (18.9〜18.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-03",
+      "time": "00:09",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "寝よう",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arunxovic3th5ipl"
+    },
+    {
+      "date": "2026-10-03",
+      "time": "00:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ステディー・アンド・コー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arunxefac3th5ipi"
+    },
+    {
+      "date": "2026-10-03",
+      "time": "00:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "えぐみ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arunwe6ac3th5ipf"
+    },
+    {
+      "date": "2026-10-03",
+      "time": "00:07",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "# 2026-10-02 配信まとめ（21:58〜00:06）\n\n配信序盤は体調不良や機材トラブルへの対応から始まり、AI技術やWindowsなどのIT機器・規格の変遷についての雑談が続きました。中盤以降は音楽やアニメ、食べ物といった幅広いテーマでリスナーと交流し、最後は制作中のゲームの進捗を報告して締めくくりました。\n\n## タイムライン\n\n- 21:58 猛烈な眠気と体調不良、およびOBSでTwitchのチャット欄が表示されない不具合について。\n- 22:08 音声トラブルの復旧作業と、新しく導入したAIによる字幕・話題表示機能の確認、および最近見たアニメの話。\n- 22:19 クリスタやFANBOXなどの表現規制、AIによる画像生成の変遷、およびYouTubeの懐かしい動画や音楽についての雑談。\n- 22:29 アニメのED曲やジョジョ、R&B歌手のローリン・ヒルについて話し、その後Windowsの歴代OSに関する思い出を語った。\n- 22:39 Windows OSの変遷やWindows Phone、ガラケーの思い出、USB Type-Cなどの周辺機器・規格の歴史について。\n- 22:49 ぷよぷよや音楽、AI関連のニュース、言葉の語源などの雑談\n- 23:00 ポンパ（Pomp）の動画や音楽、およびそのビンテージ感について。\n- 23:10 リスナーから送られた洋楽やモンゴルのバンドについて、歌唱法や文化を交えて話す。\n- 23:20 ステリー&コーやシュガーソウルなどの音楽、およびインディー感のある楽曲についての雑談\n- 23:30 YouTubeで流れてきた動画（CMや音楽など）についての感想\n- 23:44 うどんの種類や美味しさについての雑談\n- 23:57 眠気を感じながら、制作中の個人サイト用キャラメイクゲームの進捗について。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/arunvbqtmuug0e0g"
+    },
+    {
+      "date": "2026-10-03",
+      "time": "00:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kan - Aiwa Katsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "平沢進 - The girl in Byakkoya",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%B9%B3%E6%B2%A2%E9%80%B2/_/The+girl+in+Byakkoya"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "H Jungle with t - Wow War Tonight～時には起こせよムーヴメント～ (Two Million Mix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/H+Jungle+with+t/_/Wow+War+Tonight%EF%BD%9E%E6%99%82%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%81%9B%E3%82%88%E3%83%A0%E3%83%BC%E3%83%B4%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E+(Two+Million+Mix)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Homsiang - 「悲しくてやりきれない ザ」・フォーク・クルセダーズ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Homsiang/_/%E3%80%8C%E6%82%B2%E3%81%97%E3%81%8F%E3%81%A6%E3%82%84%E3%82%8A%E3%81%8D%E3%82%8C%E3%81%AA%E3%81%84+%E3%82%B6%E3%80%8D%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%BB%E3%83%80%E3%83%BC%E3%82%BA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Strawberry Switchblade - Since Yesterday",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Strawberry+Switchblade/_/Since+Yesterday"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "We Are Scientists - Turn It Up",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/We+Are+Scientists/_/Turn+It+Up"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TOP 10 - 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TOP+10/_/1"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "top 30 - 11",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/top+30/_/11"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Top 100 - 31",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Top+100/_/31"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TheFashionVEVO - Roller Disco Inferno",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TheFashionVEVO/_/Roller+Disco+Inferno"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "春夏秋冬 - steady&co.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC/_/steady&co."
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Uuhai - Uuhai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Uuhai/_/Uuhai"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 23枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Join the Club - Dekada (Nakalimutan Ko Na Bang Magmahal) Official Music Video",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Join+the+Club/_/Dekada+(Nakalimutan+Ko+Na+Bang+Magmahal)+Official+Music+Video"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "へる氏ー - ホモと見る月刊ビデオ.ponpa22",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%B8%E3%82%8B%E6%B0%8F%E3%83%BC/_/%E3%83%9B%E3%83%A2%E3%81%A8%E8%A6%8B%E3%82%8B%E6%9C%88%E5%88%8A%E3%83%93%E3%83%87%E3%82%AA.ponpa22"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-02 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mariya Takeuchi - Plastic Love  竹内 まりや - プラスティックラブ 1984",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mariya+Takeuchi/_/Plastic+Love++%E7%AB%B9%E5%86%85+%E3%81%BE%E3%82%8A%E3%82%84+-+%E3%83%97%E3%83%A9%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%A9%E3%83%96+1984"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Red Hot Fire Dance - Original Ver",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Red+Hot+Fire+Dance/_/Original+Ver"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "a-ha - Take on Me",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/a-ha/_/Take+on+Me"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "shy beats - ラッキーカラー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/shy+beats/_/%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Avril Lavigne - Complicated",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Avril+Lavigne/_/Complicated"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lauryn Hill - Doo Wop (That Thing) (Official HD Video)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lauryn+Hill/_/Doo+Wop+(That+Thing)+(Official+HD+Video)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TVアニメ - ジョジョの奇妙な冒険",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TV%E3%82%A2%E3%83%8B%E3%83%A1/_/%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "アニメ - スティール・ボール・ラン ジョジョの奇妙な冒険",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%8B%E3%83%A1/_/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%B3+%E3%82%B8%E3%83%A7%E3%82%B8%E3%83%A7%E3%81%AE%E5%A5%87%E5%A6%99%E3%81%AA%E5%86%92%E9%99%BA"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "千葉 雄喜 (Yuki Chiba) - Shinukaikiruka",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%8D%83%E8%91%89+%E9%9B%84%E5%96%9C+(Yuki+Chiba)/_/Shinukaikiruka"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hiroiro-Dots支店 - Cool TAK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hiroiro-Dots%E6%94%AF%E5%BA%97/_/Cool+TAK"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jamiroquai - Virtual Insanity (Lyrics in Japanese and English)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+(Lyrics+in+Japanese+and+English)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rick Astley - Never Gonna Give You Up  (4K Remaster)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rick+Astley/_/Never+Gonna+Give+You+Up++(4K+Remaster)"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "槇原敬之 - もう恋なんてしない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%A7%87%E5%8E%9F%E6%95%AC%E4%B9%8B/_/%E3%82%82%E3%81%86%E6%81%8B%E3%81%AA%E3%82%93%E3%81%A6%E3%81%97%E3%81%AA%E3%81%84"
+    },
     {
       "date": "2026-10-02",
       "time": "22:07",
@@ -13,6 +360,16 @@
     },
     {
       "date": "2026-10-02",
+      "time": "22:06",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信開始した",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arujjbjcc3th5im7"
+    },
+    {
+      "date": "2026-10-02",
       "time": "22:03",
       "src_id": 3,
       "src_type": "mastodon",
@@ -20,6 +377,26 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://mistodon.cloud/@healthcare/117371451638531800"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:03",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/arujg14ymb"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "22:03",
+      "src_id": 1,
+      "src_type": "misskey",
+      "text": "https://www.twitch.tv/yuinoid　雑談配信はじめた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://misskey.io/notes/arujfkks2zef07ps"
     },
     {
       "date": "2026-10-02",
@@ -110,6 +487,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Bon+Iver/_/22,+A+Million+Supercut"
+    },
+    {
+      "date": "2026-10-02",
+      "time": "20:43",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/100percent-health: Push 1件: Enhance character customization with new accessories and randomization settings",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/100percent-health"
     },
     {
       "date": "2026-10-02",
@@ -4284,43 +4671,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -4338,6 +4689,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
       "is_boost": false,
       "has_media": false
@@ -4347,7 +4716,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -4365,7 +4734,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -4598,7 +4985,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -4616,7 +5003,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -4634,7 +5021,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -12741,15 +13128,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
       "is_boost": false,
       "has_media": false
@@ -12760,6 +13138,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
       "is_boost": false,
       "has_media": false
     },
@@ -16791,83 +17178,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F04"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-03",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-03",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-03 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-03 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "10:14",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "そういえば、みんなインターネット美学の系譜って文章は読んだかな？読んだら感想教えてね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqoecdcsc3th4h5q"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-03 厚い雲 27.8℃ (27.8〜27.8℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-03",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-03 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-03",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F09%2F03"
     }
   ]
 }
