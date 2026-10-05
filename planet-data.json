@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-10-05T23:00:01.278960+09:00",
+  "generated_at": "2026-10-06T07:00:01.732799+09:00",
   "timeline": [
+    {
+      "date": "2026-10-06",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-06 曇りがち 21.4℃ (21.1〜21.6℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-06",
+      "time": "06:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".凛として時雨 - Disco Flight",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8/_/Disco+Flight"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "06:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".9mm Parabellum Bullet - Punishment",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.9mm+Parabellum+Bullet/_/Punishment"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "06:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": ".UPLIFT SPICE - オメガリズム",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/.UPLIFT+SPICE/_/%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%AA%E3%82%BA%E3%83%A0"
+    },
+    {
+      "date": "2026-10-05",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-05",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 3枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-05",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-05 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-10-05",
       "time": "16:49",
@@ -49,6 +116,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/ary1r9zic3th5l4y"
+    },
+    {
+      "date": "2026-10-05",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-05 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-05",
@@ -5123,43 +5200,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -5177,7 +5227,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -5195,7 +5254,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -5204,7 +5263,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
       "is_boost": false,
       "has_media": false
     },
@@ -5437,6 +5514,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
@@ -5465,15 +5551,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -8334,7 +8411,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -8343,7 +8420,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -13589,7 +13666,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
     },
@@ -13598,7 +13675,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
       "is_boost": false,
       "has_media": false
     },
@@ -16203,271 +16280,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F07"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-06 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "21:16",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 片田舎のおっさん、剣聖になるII — エピソード9: 片田舎のおっさん、教都に行く",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "15:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ρυθμογραφία | Rythmography - Australia",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%CE%A1%CF%85%CE%B8%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1+%7C+Rythmography/_/Australia"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "15:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "どうも、朝ドラ俳優の太田光です。 - 太田上田＃５５６①",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%81%A9%E3%81%86%E3%82%82%E3%80%81%E6%9C%9D%E3%83%89%E3%83%A9%E4%BF%B3%E5%84%AA%E3%81%AE%E5%A4%AA%E7%94%B0%E5%85%89%E3%81%A7%E3%81%99%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%95%EF%BC%96%E2%91%A0"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-06 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者クロノア・前編",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: ザシキワラシと東村",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "09:15",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/siftivex: Push 1件: Enhance detail image handling and improve rendering logic in mockup.js",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/siftivex"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "09:13",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/siftivex: Push 1件: Refactor navigation logic in mockup.js for improved index handling",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/siftivex"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "09:09",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/siftivex: Push 8件: Enhance Makefile and documentation for n8n workflows and Phase 1 completion / Finalize Phase 1 and introduce VLM on-demand operations / Enhance mockup layout and API integration for Pixiv works / Update UI design documentation and introduce new decision documents / Enhance mockup functionality and layout for improved user experience",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/siftivex"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-06 小雨 25.0℃ (25.0〜25.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-06",
-      "time": "07:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ユーモアセンスがほしいね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqshs5klc3th4l0r"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-06 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The The - This Is The Day",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+The/_/This+Is+The+Day"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:21",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "中国語圏のらき☆すたに関する投稿が流れてきたんだが「泉此方」って漢字にしたときの名前が美しすぎる",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aqse7e4uc3th4kzz",
-      "visibility": "home"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Blue Öyster Cult - (Don't Fear) The Reaper",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - Rebel Rebel (2016 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/Rebel+Rebel+(2016+Remaster)"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - The Man Who Sold the World (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/The+Man+Who+Sold+the+World+(2015+Remaster)"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bob Dylan - Like a Rolling Stone",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bob+Dylan/_/Like+a+Rolling+Stone"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "05:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - Life On Mars? (Original Ending)  [4K]",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/Life+On+Mars%3F+(Original+Ending)++%5B4K%5D"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "04:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - Five Years (2012 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/Five+Years+(2012+Remaster)"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "04:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - Space Oddity (2015 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/Space+Oddity+(2015+Remaster)"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "04:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "David Bowie - Starman (2012 Remaster)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/David+Bowie/_/Starman+(2012+Remaster)"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "04:31",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/siftivex: Push 2件: Add FastAPI API and Docker support for Siftivex / Update Phase 1 documentation and finalize initial bulk ingestion results",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/siftivex"
-    },
-    {
-      "date": "2026-09-06",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "ねてた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F09%2F06"
     }
   ]
 }
