@@ -1,6 +1,176 @@
 {
-  "generated_at": "2026-10-06T15:00:02.034412+09:00",
+  "generated_at": "2026-10-06T23:00:01.691336+09:00",
   "timeline": [
+    {
+      "date": "2026-10-06",
+      "time": "20:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - I Don't Want To Dream About It Anymore",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/I+Don%27t+Want+To+Dream+About+It+Anymore"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Age Of",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Age+Of"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヘリックス - Arena Boogie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%98%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9/_/Arena+Boogie"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Venice Loop",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Venice+Loop"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - 2am (feat. gianna)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/2am+(feat.+gianna)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Trippin (feat. Luna Avelar)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Trippin+(feat.+Luna+Avelar)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "20:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Little Vice (feat. Aidan)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Little+Vice+(feat.+Aidan)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Lucky (feat. Sølv)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Lucky+(feat.+S%C3%B8lv)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "19:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Cash Fast Interlude",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Cash+Fast+Interlude"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "19:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Pure Vice (feat. Sølv & Aidan)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Pure+Vice+(feat.+S%C3%B8lv+&+Aidan)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "19:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - Hung Up (feat. Aidan & Hannah Yadi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/Hung+Up+(feat.+Aidan+&+Hannah+Yadi)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "19:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jam City - My World (feat. Aidan, Bawo & Ox Eye)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jam+City/_/My+World+(feat.+Aidan,+Bawo+&+Ox+Eye)"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "知られざる - 次回予告",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B/_/%E6%AC%A1%E5%9B%9E%E4%BA%88%E5%91%8A"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "知られざる - 古墳時代の謎の第3集団",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B/_/%E5%8F%A4%E5%A2%B3%E6%99%82%E4%BB%A3%E3%81%AE%E8%AC%8E%E3%81%AE%E7%AC%AC3%E9%9B%86%E5%9B%A3"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "知られざる - 縄文・弥生人の流入ルート",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B/_/%E7%B8%84%E6%96%87%E3%83%BB%E5%BC%A5%E7%94%9F%E4%BA%BA%E3%81%AE%E6%B5%81%E5%85%A5%E3%83%AB%E3%83%BC%E3%83%88"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "知られざる - DNA解析技術の進化",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B/_/DNA%E8%A7%A3%E6%9E%90%E6%8A%80%E8%A1%93%E3%81%AE%E9%80%B2%E5%8C%96"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "知られざる - ダイジェスト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%96%E3%82%8B/_/%E3%83%80%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88"
+    },
     {
       "date": "2026-10-06",
       "time": "14:07",
@@ -10,6 +180,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Dua+Lipa/_/New+Rules"
+    },
+    {
+      "date": "2026-10-06",
+      "time": "14:04",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "なんか暑くね",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/arzs3naqc3th5mll"
     },
     {
       "date": "2026-10-06",
@@ -6100,70 +6280,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -6181,7 +6298,70 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -6423,7 +6603,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -6432,7 +6612,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -14557,6 +14737,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-13",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
@@ -14567,15 +14756,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 黄泉のツガイ: 情と理",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
       "is_boost": false,
       "has_media": false
     },
