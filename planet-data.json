@@ -1,6 +1,646 @@
 {
-  "generated_at": "2026-10-09T15:00:01.925091+09:00",
+  "generated_at": "2026-10-09T23:00:01.869082+09:00",
   "timeline": [
+    {
+      "date": "2026-10-09",
+      "time": "22:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - God (Bladee & Mechatok)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/God+(Bladee+&+Mechatok)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "22:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - I Go I Go (Thaiboy Digital)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/I+Go+I+Go+(Thaiboy+Digital)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "22:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - In The Flesh (Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/In+The+Flesh+(Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "22:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - I'm Fresh (Thaiboy Digital)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/I%27m+Fresh+(Thaiboy+Digital)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "22:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - egobaby (Bladee)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/egobaby+(Bladee)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - IDGAF (Thaiboy Digital)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/IDGAF+(Thaiboy+Digital)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - HOLDMEDOWNLIKEGRAVITY (Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/HOLDMEDOWNLIKEGRAVITY+(Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Victim (Bladee, Thaiboy Digital, & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Victim+(Bladee,+Thaiboy+Digital,+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - B With U (Thaiboy Digital)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/B+With+U+(Thaiboy+Digital)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - White Meadow (Bladee & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/White+Meadow+(Bladee+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Calcium (Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Calcium+(Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Faust (Bladee & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Faust+(Bladee+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Nosebleed (Thaiboy Digital & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Nosebleed+(Thaiboy+Digital+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Thee 9 Is Up (Bladee)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Thee+9+Is+Up+(Bladee)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Lip Service (Thaiboy Digital & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Lip+Service+(Thaiboy+Digital+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - The Flag is Raised (Bladee & Ecco2k)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/The+Flag+is+Raised+(Bladee+&+Ecco2k)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - Western Union (Ecco2k, Bladee, & Thaiboy Digital)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/Western+Union+(Ecco2k,+Bladee,+&+Thaiboy+Digital)"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Drain Gang: Bladee, Ecco2k, Thaiboy - intro",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Drain+Gang:+Bladee,+Ecco2k,+Thaiboy/_/intro"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - CQ · Last Song",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/CQ+%C2%B7+Last+Song"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · AUTOMATION STRUCTURES",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+AUTOMATION+STRUCTURES"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tokyo Shoegazer · Back To My Place",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tokyo+Shoegazer+%C2%B7+Back+To+My+Place"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "21:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · Downfall",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+Downfall"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · Sweet Voyage",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+Sweet+Voyage"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - 揺らぎ · night is young",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/%E6%8F%BA%E3%82%89%E3%81%8E+%C2%B7+night+is+young"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · Newave",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+Newave"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Hana · The Final Smile",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Hana+%C2%B7+The+Final+Smile"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - downy · 春と修羅",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/downy+%C2%B7+%E6%98%A5%E3%81%A8%E4%BF%AE%E7%BE%85"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Citrobal · Signal",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Citrobal+%C2%B7+Signal"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SUPERCAR · STORYWRITER",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SUPERCAR+%C2%B7+STORYWRITER"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Cymbals · Higher than the Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Cymbals+%C2%B7+Higher+than+the+Sun"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - tricot · アナメイン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/tricot+%C2%B7+%E3%82%A2%E3%83%8A%E3%83%A1%E3%82%A4%E3%83%B3"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · DEAR FUTURE",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+DEAR+FUTURE"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tokyo Shoegazer · Tasogare Perspective",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tokyo+Shoegazer+%C2%B7+Tasogare+Perspective"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - kinoue64 · 空間、事情、時間、事象。",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/kinoue64+%C2%B7+%E7%A9%BA%E9%96%93%E3%80%81%E4%BA%8B%E6%83%85%E3%80%81%E6%99%82%E9%96%93%E3%80%81%E4%BA%8B%E8%B1%A1%E3%80%82"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - THE NOVEMBERS · 彼岸で散る青",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/THE+NOVEMBERS+%C2%B7+%E5%BD%BC%E5%B2%B8%E3%81%A7%E6%95%A3%E3%82%8B%E9%9D%92"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "20:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - BiSH · innocent arrogance",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/BiSH+%C2%B7+innocent+arrogance"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yura Yura Teikoku · Listless Dream",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yura+Yura+Teikoku+%C2%B7+Listless+Dream"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - THE NOVEMBERS · Flower of Life",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/THE+NOVEMBERS+%C2%B7+Flower+of+Life"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - honeydip · Suicidal Summer Rider",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/honeydip+%C2%B7+Suicidal+Summer+Rider"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · Summer Gazer '92",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+Summer+Gazer+%2792"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - honeydip · Summer's Gone",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/honeydip+%C2%B7+Summer%27s+Gone"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - High Voltage · UNDERGROUND",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/High+Voltage+%C2%B7+UNDERGROUND"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Coo - ya · ケティ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Coo/_/ya+%C2%B7+%E3%82%B1%E3%83%86%E3%82%A3"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Boris · Luna",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Boris+%C2%B7+Luna"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - The Thrill · Minasoko ni Nemure",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/The+Thrill+%C2%B7+Minasoko+ni+Nemure"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Coaltar of the Deepers · Waterbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Coaltar+of+the+Deepers+%C2%B7+Waterbird"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - honeydip · Deep Sea Water Color",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/honeydip+%C2%B7+Deep+Sea+Water+Color"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "19:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - MASS OF THE FERMENTING DREGS · Dramatic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/MASS+OF+THE+FERMENTING+DREGS+%C2%B7+Dramatic"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - CONDOR44 · db",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/CONDOR44+%C2%B7+db"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - HATSUBOSHI GAKUEN · SUNFADED",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/HATSUBOSHI+GAKUEN+%C2%B7+SUNFADED"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Erio wo Kamattechan · Os-宇宙人",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Erio+wo+Kamattechan+%C2%B7+Os-%E5%AE%87%E5%AE%99%E4%BA%BA"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - CONDOR44 · 00203",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/CONDOR44+%C2%B7+00203"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tokyo Shoegazer · Constellations",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tokyo+Shoegazer+%C2%B7+Constellations"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tsukino Mito · 浮遊感UFO",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tsukino+Mito+%C2%B7+%E6%B5%AE%E9%81%8A%E6%84%9FUFO"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "18:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "17:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Stanley NG - Ballad of Janek Wiśniewski in Man of Iron",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Stanley+NG/_/Ballad+of+Janek+Wi%C5%9Bniewski+in+Man+of+Iron"
+    },
     {
       "date": "2026-10-09",
       "time": "11:48",
@@ -10,6 +650,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/as3xji4fc3th5ojr"
+    },
+    {
+      "date": "2026-10-09",
+      "time": "10:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hideo Yokoyama - 水牛楽団　ポーランド 禁じられた歌",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hideo+Yokoyama/_/%E6%B0%B4%E7%89%9B%E6%A5%BD%E5%9B%A3%E3%80%80%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89+%E7%A6%81%E3%81%98%E3%82%89%E3%82%8C%E3%81%9F%E6%AD%8C"
     },
     {
       "date": "2026-10-09",
@@ -7466,61 +8116,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -7538,7 +8134,61 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -7780,7 +8430,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -7798,7 +8457,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -7808,15 +8467,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10677,7 +11327,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -10686,7 +11336,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -15932,7 +16582,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
       "is_boost": false,
       "has_media": false
     },
@@ -15941,7 +16591,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
       "is_boost": false,
       "has_media": false
     },
