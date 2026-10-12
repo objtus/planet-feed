@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-12T23:00:01.837740+09:00",
+  "generated_at": "2026-10-13T07:00:01.617386+09:00",
   "timeline": [
+    {
+      "date": "2026-10-13",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-13 晴天 18.9℃ (18.9〜18.9℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-12",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-12",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 0kcal / 運動: 1分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-12",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 3,627歩 / 心拍数: 95bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-12",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-10-12",
       "time": "15:39",
@@ -43,12 +88,42 @@
     },
     {
       "date": "2026-10-12",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-12 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-10-12",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-10-12 厚い雲 18.9℃ (18.9〜18.9℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-12",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-12 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "06:06",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/siftivex: Push 4件: Implement Tag Bridge functionality and enhance related documentation / Enhance Tag Bridge functionality and documentation / Implement tag editing functionality and update related documentation / Implement tag editing features and enhance related documentation",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/siftivex"
     },
     {
       "date": "2026-10-12",
@@ -289,6 +364,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Weksi/_/High+Voltage+%C2%B7+UNDERGROUND"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "03:26",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/siftivex: Push 11件: Add tag quality review documentation for design considerations / Update .gitignore to include tag quality review documentation / Update configuration files and documentation for model stack pilot / Add mockup API UX improvement proposal and enhance search functionality / Add d1 tagger UX documentation and enhance filename tag handling",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/siftivex"
     },
     {
       "date": "2026-10-12",
@@ -577,6 +662,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/as7giwbgc3th5q6s"
+    },
+    {
+      "date": "2026-10-11",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-11 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-11",
@@ -10165,42 +10260,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
       "is_boost": false,
       "has_media": false
@@ -10210,7 +10269,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10228,7 +10287,43 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -10479,6 +10574,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
@@ -10488,7 +10592,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10506,16 +10610,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -13376,7 +13471,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -13385,7 +13480,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -18512,176 +18607,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F14"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 3kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,069歩 / 心拍数: 101bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-13 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "21:34",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード10: 第10話 それぞれの役割",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "21:08",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード11: 「辺境領主様とアルナーの兄」",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "19:07",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "はやく正解したい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ar37s5gy1a"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "15:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Cell - Father",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Cell/_/Father"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "15:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "国立情報学研究所 - National Institute of Informatics - 「LLMは何をどのように記憶しているか」乾 健太郎　ムハンマド・ビン・ザイード人工知能大学・教授",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%9B%BD%E7%AB%8B%E6%83%85%E5%A0%B1%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80+-+National+Institute+of+Informatics/_/%E3%80%8CLLM%E3%81%AF%E4%BD%95%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%A8%98%E6%86%B6%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%80%8D%E4%B9%BE+%E5%81%A5%E5%A4%AA%E9%83%8E%E3%80%80%E3%83%A0%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%89%E3%83%BB%E3%83%93%E3%83%B3%E3%83%BB%E3%82%B6%E3%82%A4%E3%83%BC%E3%83%89%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E5%A4%A7%E5%AD%A6%E3%83%BB%E6%95%99%E6%8E%88"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-13 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 魂の在処",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 黄泉のツガイ: 情と理",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 非情の掟! 涙を抱きて義兄を追う",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-13 小雨 25.0℃ (24.4〜25.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-13",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-13 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "02:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "メロつかれたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/ar2751y8c3th4vq7"
-    },
-    {
-      "date": "2026-09-13",
-      "time": "01:55",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "カレー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/ar26xoqjv3"
     }
   ]
 }
