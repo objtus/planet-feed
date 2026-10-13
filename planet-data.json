@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-13T07:00:01.617386+09:00",
+  "generated_at": "2026-10-13T15:00:01.551547+09:00",
   "timeline": [
+    {
+      "date": "2026-10-13",
+      "time": "12:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Do For Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Do+For+Love"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Overture",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Overture"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Nana Pt. II",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Nana+Pt.+II"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Maybe Tomorrow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Maybe+Tomorrow"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "12:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "11:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "11:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "11:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "11:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Caroline Polachek - Ocean of Tears",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Caroline+Polachek/_/Ocean+of+Tears"
+    },
     {
       "date": "2026-10-13",
       "time": "09:00",
@@ -10260,16 +10400,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -10287,16 +10418,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10314,6 +10436,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
       "is_boost": false,
       "has_media": false
@@ -10323,7 +10463,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10592,7 +10732,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -10610,7 +10750,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13471,7 +13611,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -13480,7 +13620,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
