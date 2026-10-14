@@ -1,6 +1,806 @@
 {
-  "generated_at": "2026-10-14T15:00:01.416080+09:00",
+  "generated_at": "2026-10-14T23:00:01.593861+09:00",
   "timeline": [
+    {
+      "date": "2026-10-14",
+      "time": "22:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - CONDOR44 · db",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/CONDOR44+%C2%B7+db"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "22:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - HATSUBOSHI GAKUEN · SUNFADED",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/HATSUBOSHI+GAKUEN+%C2%B7+SUNFADED"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "22:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Erio wo Kamattechan · Os-宇宙人",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Erio+wo+Kamattechan+%C2%B7+Os-%E5%AE%87%E5%AE%99%E4%BA%BA"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - CONDOR44 · 00203",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/CONDOR44+%C2%B7+00203"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tokyo Shoegazer · Constellations",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tokyo+Shoegazer+%C2%B7+Constellations"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Tsukino Mito · 浮遊感UFO",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Tsukino+Mito+%C2%B7+%E6%B5%AE%E9%81%8A%E6%84%9FUFO"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Coastal Brake",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Coastal+Brake"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Blue Train Lines",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Blue+Train+Lines"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Empty And Silent",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+And+Silent"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Delta",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Delta"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Fishbrain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Fishbrain"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "みんな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asbmqb45c3th5s6u"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:04",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "みんな、ごめん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbmmcc1zz"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Shipwreck",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Shipwreck"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:03",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "あと発目明　くさそうだし",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbmkrftxl"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "21:02",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ヒロアカは普通に梅雨ちゃんが好き あとキノコ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbmj9diur"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:59",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "ポケモンパン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbmg5tlfh"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Marilyn",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Marilyn"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Dumb Guitar",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Dumb+Guitar"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - A Figure In The Surf",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/A+Figure+In+The+Surf"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - You Look Certain (I’m Not So Sure)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/You+Look+Certain+(I%E2%80%99m+Not+So+Sure)"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - SP12 Beat",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/SP12+Beat"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Four Years and One Day",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Four+Years+and+One+Day"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:26",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "最近絵を描かなさ過ぎてやばいから落書きしたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbl9i4b9j"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 星間性交",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Reverie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Reverie"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Quiet Keyboard",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Quiet+Keyboard"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Potpourri",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Potpourri"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Invisible Mask",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Invisible+Mask"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Drop Shadow II",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Drop+Shadow+II"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "20:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Drop Shadow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Drop+Shadow"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Coffee News",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Coffee+News"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Carry On",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Carry+On"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Keep Calm",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Keep+Calm"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:48",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "楽しいことがしたいなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjwastzn"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:47",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "職人になりたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjvan0yb"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Promise",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Promise"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:43",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "推し",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjpt5mr0"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:42",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "最近どうだ？ 元気にやっとるか？ 飯はしっかり食べてるか？",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjontuor"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:41",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "こんばんは～",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjnjybn3"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:41",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "こんちは～",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/asbjncagy7"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Contact",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Contact"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - American Beach",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/American+Beach"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Eyeliner - Los Angeles",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Eyeliner/_/Los+Angeles"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Glhf - so be it",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Glhf/_/so+be+it"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tape Arcade - Parallels",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tape+Arcade/_/Parallels"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Sun"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jun Yoruname - Flooshed",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jun+Yoruname/_/Flooshed"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Coastal Brake",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Coastal+Brake"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ブッダブランド (Buddha Brand) - Don't Test Da Master",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%96%E3%83%83%E3%83%80%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89+(Buddha+Brand)/_/Don%27t+Test+Da+Master"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GOD INC - EL DORADO THROW DOWN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GOD+INC/_/EL+DORADO+THROW+DOWN"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Naohirock & Suzukismooth - Everybody Loves The Sunshine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Naohirock+&+Suzukismooth/_/Everybody+Loves+The+Sunshine"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Twigy - 聖戦",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Twigy/_/%E8%81%96%E6%88%A6"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MAKI & TAIKI - 末期症状",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MAKI+&+TAIKI/_/%E6%9C%AB%E6%9C%9F%E7%97%87%E7%8A%B6"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "18:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "シャカゾンビ (Shakkazombie) - 虹",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%A3%E3%82%AB%E3%82%BE%E3%83%B3%E3%83%93+(Shakkazombie)/_/%E8%99%B9"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "石田義則 (ECD) - マス対コア",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%B3%E7%94%B0%E7%BE%A9%E5%89%87+(ECD)/_/%E3%83%9E%E3%82%B9%E5%AF%BE%E3%82%B3%E3%82%A2"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Soul Scream - 蜂と蝶",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Soul+Scream/_/%E8%9C%82%E3%81%A8%E8%9D%B6"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lunch Time Speax - Ground Zero",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lunch+Time+Speax/_/Ground+Zero"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:44",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "楽しいことがしたいなあ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asbfh5mpc3th5s1k"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:40",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "たのしいことがしたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asbfblxuc3th5s1h"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LAMP EYE - 証言",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LAMP+EYE/_/%E8%A8%BC%E8%A8%80"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "17:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ブッダブランド (Buddha Brand) - 人間発電所",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%96%E3%83%83%E3%83%80%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89+(Buddha+Brand)/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "16:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daso - Meine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daso/_/Meine"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "16:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 & DreamStation1986 - Pylon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1+&+DreamStation1986/_/Pylon"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "16:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Voyage - Mosaic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Voyage/_/Mosaic"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "16:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jun Yoruname - Flooshed",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jun+Yoruname/_/Flooshed"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tape Arcade - Parallels",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tape+Arcade/_/Parallels"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Home - Resonance slowed Blade Runner 2049",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Home/_/Resonance+slowed+Blade+Runner+2049"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "NØVMBR - TeleVisions",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/N%C3%98VMBR/_/TeleVisions"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "architecture in tokyo - ヒスイ MARBLE (ft. ULTRA ウルトラ)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/architecture+in+tokyo/_/%E3%83%92%E3%82%B9%E3%82%A4+MARBLE+(ft.+ULTRA+%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9)"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Luxury Elite - s.w.a.k.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Luxury+Elite/_/s.w.a.k."
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Veridis Quo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Veridis+Quo"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Dive",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Dive"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Sun"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ritchard Sonia - Hachimi mr biao tiktok version",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ritchard+Sonia/_/Hachimi+mr+biao+tiktok+version"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Glhf - so be it",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Glhf/_/so+be+it"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "15:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Caligula",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Caligula"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "14:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 星間性交",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%98%9F%E9%96%93%E6%80%A7%E4%BA%A4"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "14:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "t e l e p a t h テレパシー能力者 - 永遠に生きる",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/t+e+l+e+p+a+t+h+%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85/_/%E6%B0%B8%E9%81%A0%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "14:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Macintosh Plus - リサフランク420 / 現代のコンピュー",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Macintosh+Plus/_/%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420+%2F+%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC"
+    },
     {
       "date": "2026-10-14",
       "time": "13:51",
@@ -10589,43 +11389,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -10643,16 +11416,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
       "is_boost": false,
       "has_media": false
     },
@@ -10670,7 +11434,43 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -10921,15 +11721,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
@@ -10940,6 +11731,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13800,7 +14600,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -13809,7 +14609,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
