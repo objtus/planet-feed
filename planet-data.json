@@ -1,6 +1,356 @@
 {
-  "generated_at": "2026-10-16T07:00:02.064573+09:00",
+  "generated_at": "2026-10-16T15:00:01.504828+09:00",
   "timeline": [
+    {
+      "date": "2026-10-16",
+      "time": "12:51",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おれも取り消したいよ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asdzwnioc3th5t5l"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:50",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "緊急地震速報でドでかい警報音なってびっくりして、取り消しでドでかい警報音なってびっくりして、くやしい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asdzv7wpc3th5t5h"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:46",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "セルフホスト管理できる自信がなくてさ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asdzq3fvc3th5t50"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "bitwarden、おれはおまえを信用している",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asdzaqaac3th5t4i"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MF DOOM - Books of War (The Lost Chapters) ft. RZA, Jeru The Damaja, Guru, Talib Kweli, DMX",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MF+DOOM/_/Books+of+War+(The+Lost+Chapters)+ft.+RZA,+Jeru+The+Damaja,+Guru,+Talib+Kweli,+DMX"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Buddha Brand - 人間発電所 Original'95 Vinyl Version",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Buddha+Brand/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80+Original%2795+Vinyl+Version"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Progress (Instrumental)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Progress+(Instrumental)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - The Old Light",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/The+Old+Light"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Apani B Fly ft Nujabes - Laws",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Apani+B+Fly+ft+Nujabes/_/Laws"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Grey Matter (Instrumental)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Grey+Matter+(Instrumental)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Funky DL featuring Nujabes - Life Goes On",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Funky+DL+featuring+Nujabes/_/Life+Goes+On"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Psychological Counterpoint",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Psychological+Counterpoint"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tetsuya 哲 - L-universe Asteroid Love nujabes & verbal hydeout",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tetsuya+%E5%93%B2/_/L-universe+Asteroid+Love+nujabes+&+verbal+hydeout"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Warmth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Warmth"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Funky DL - Day By Day (Nujabes Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Funky+DL/_/Day+By+Day+(Nujabes+Remix)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Funky DL - Loud Noise of Silence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Funky+DL/_/Loud+Noise+of+Silence"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Substantial - If I Was Your Mic (Nujabes remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Substantial/_/If+I+Was+Your+Mic+(Nujabes+remix)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:32",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こんにちは",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asdx344pc3th5t3o"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "11:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pase Rock - It’s About Time (Clean Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pase+Rock/_/It%E2%80%99s+About+Time+(Clean+Version)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "10:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 質問3. 現場でのAI普及のビジョン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E8%B3%AA%E5%95%8F3.+%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%AEAI%E6%99%AE%E5%8F%8A%E3%81%AE%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "10:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 質問2. AI時代の政策決定の方法",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E8%B3%AA%E5%95%8F2.+AI%E6%99%82%E4%BB%A3%E3%81%AE%E6%94%BF%E7%AD%96%E6%B1%BA%E5%AE%9A%E3%81%AE%E6%96%B9%E6%B3%95"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "10:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 質問1. 日本政治でのリバース・アラインメント",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E8%B3%AA%E5%95%8F1.+%E6%97%A5%E6%9C%AC%E6%94%BF%E6%B2%BB%E3%81%A7%E3%81%AE%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 対談5. 民主主義の可能性",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E5%AF%BE%E8%AB%875.+%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 「新幹線デモクラシー」へ向けて",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E3%80%8C%E6%96%B0%E5%B9%B9%E7%B7%9A%E3%83%87%E3%83%A2%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%BC%E3%80%8D%E3%81%B8%E5%90%91%E3%81%91%E3%81%A6"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "「チームみらい」公式チャンネル - 対談4. 民主主義は限界を迎えたのか",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%80%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%80%8D%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/%E5%AF%BE%E8%AB%874.+%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AF%E9%99%90%E7%95%8C%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E3%81%AE%E3%81%8B"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "日本の民主主義は - 3年先を行っている",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%81%AF/_/3%E5%B9%B4%E5%85%88%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Coastal Brake",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Coastal+Brake"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Kanako Ito · Lei Jin Ling Yin Xiang",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Kanako+Ito+%C2%B7+Lei+Jin+Ling+Yin+Xiang"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - See-Saw · Obsession",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/See-Saw+%C2%B7+Obsession"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "09:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
     {
       "date": "2026-10-16",
       "time": "09:00",
@@ -9,6 +359,16 @@
       "text": "2026-10-16 曇りがち 16.3℃ (16.3〜16.3℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-16",
+      "time": "08:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
     },
     {
       "date": "2026-10-16",
@@ -12963,6 +13323,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
       "is_boost": false,
       "has_media": false
@@ -12981,6 +13350,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
       "is_boost": false,
       "has_media": false
@@ -12991,24 +13378,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -13036,15 +13405,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13277,6 +13637,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
@@ -13296,24 +13674,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
       "is_boost": false,
       "has_media": false
     },
