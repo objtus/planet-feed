@@ -1,6 +1,1146 @@
 {
-  "generated_at": "2026-10-16T15:00:01.504828+09:00",
+  "generated_at": "2026-10-16T23:00:01.728117+09:00",
   "timeline": [
+    {
+      "date": "2026-10-16",
+      "time": "22:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "DJシャドウ - Six Days",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/DJ%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6/_/Six+Days"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "22:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Aquarius",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Aquarius"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア - Postman",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2/_/Postman"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ボノボ - Tides (feat. Jamila Woods)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9C%E3%83%8E%E3%83%9C/_/Tides+(feat.+Jamila+Woods)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Boring Angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Boring+Angel"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "チャーリーXCX - party 4 u",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BCXCX/_/party+4+u"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - The Pavements Light (feat. Haruomi Hosono)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/The+Pavements+Light+(feat.+Haruomi+Hosono)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Final Credits (Loaded Honey Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Final+Credits+(Loaded+Honey+Version)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Total Recall (feat. Mike Patton)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Total+Recall+(feat.+Mike+Patton)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Our+Love+Is+Alive+(feat.+Suzanne+Ciani+&+Barry+Can%27t+Swim)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - No bad memories",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/No+bad+memories"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Superfun!™ TV Spot (feat. Haley Joel Osment & Mike Patton)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Superfun!%E2%84%A2+TV+Spot+(feat.+Haley+Joel+Osment+&+Mike+Patton)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Magic Wand (feat. Barry Can't Swim)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Magic+Wand+(feat.+Barry+Can%27t+Swim)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - One More Fantasy (feat. Carly Simon)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/One+More+Fantasy+(feat.+Carly+Simon)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Under Yr Power",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Under+Yr+Power"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - El Dorado TV Spot (feat. Haley Joel Osment)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/El+Dorado+TV+Spot+(feat.+Haley+Joel+Osment)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Highfield (feat. Panda Bear)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Highfield+(feat.+Panda+Bear)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Watch Out! It's Cloudy (feat. Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Watch+Out!+It%27s+Cloudy+(feat.+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Can't Get Over Losing You (feat. Portraits of Tracy)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Can%27t+Get+Over+Losing+You+(feat.+Portraits+of+Tracy)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - He Lives In The Old World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/He+Lives+In+The+Old+World"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Far+Away+(feat.+John+Glacier+&+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Unicorn Quest™ (feat. Ryoji Ikeda)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Unicorn+Quest%E2%84%A2+(feat.+Ryoji+Ikeda)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Vida (feat. Erick the Architect)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Vida+(feat.+Erick+the+Architect)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - 3D Glasses Not Included",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/3D+Glasses+Not+Included"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - All the Time in the World (feat. Vegyn, Baby Marlboro & Rivers Cuomo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/All+the+Time+in+the+World+(feat.+Vegyn,+Baby+Marlboro+&+Rivers+Cuomo)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Like Clockwork / Hit by Traffic (feat. Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Like+Clockwork+%2F+Hit+by+Traffic+(feat.+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "21:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Blue Shadows (feat. Karen O)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Blue+Shadows+(feat.+Karen+O)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Every Single Weekend (feat. Jamie xx)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Every+Single+Weekend+(feat.+Jamie+xx)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/I+Give+Everything+I+Have+2+U+(feat.+Loaded+Honey)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Together+(feat.+Nikki+Nair,+Jessy+Lanza+&+Prentiss)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Bd-R",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Bd-R"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:10",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "The Avalanchesの新譜いまさら聞いたけど、なんか、聴きやすい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/asefk7asc3th5tfn"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "20:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tame Impala - Dracula",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tame+Impala/_/Dracula"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ボノボ - Tides (feat. Jamila Woods)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9C%E3%83%8E%E3%83%9C/_/Tides+(feat.+Jamila+Woods)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア & Kenny Beats - Daria",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2+&+Kenny+Beats/_/Daria"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - We Will Always Love You (feat. Blood Orange)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/We+Will+Always+Love+You+(feat.+Blood+Orange)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "チャーリーXCX - party 4 u",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BCXCX/_/party+4+u"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - The Pavements Light (feat. Haruomi Hosono)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/The+Pavements+Light+(feat.+Haruomi+Hosono)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Final Credits (Loaded Honey Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Final+Credits+(Loaded+Honey+Version)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Total Recall (feat. Mike Patton)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Total+Recall+(feat.+Mike+Patton)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Our Love Is Alive (feat. Suzanne Ciani & Barry Can't Swim)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Our+Love+Is+Alive+(feat.+Suzanne+Ciani+&+Barry+Can%27t+Swim)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - No bad memories",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/No+bad+memories"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Superfun!™ TV Spot (feat. Haley Joel Osment & Mike Patton)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Superfun!%E2%84%A2+TV+Spot+(feat.+Haley+Joel+Osment+&+Mike+Patton)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Magic Wand (feat. Barry Can't Swim)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Magic+Wand+(feat.+Barry+Can%27t+Swim)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - One More Fantasy (feat. Carly Simon)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/One+More+Fantasy+(feat.+Carly+Simon)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Under Yr Power",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Under+Yr+Power"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - El Dorado TV Spot (feat. Haley Joel Osment)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/El+Dorado+TV+Spot+(feat.+Haley+Joel+Osment)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Highfield (feat. Panda Bear)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Highfield+(feat.+Panda+Bear)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Watch Out! It's Cloudy (feat. Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Watch+Out!+It%27s+Cloudy+(feat.+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Can't Get Over Losing You (feat. Portraits of Tracy)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Can%27t+Get+Over+Losing+You+(feat.+Portraits+of+Tracy)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - He Lives In The Old World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/He+Lives+In+The+Old+World"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Far Away (feat. John Glacier & Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Far+Away+(feat.+John+Glacier+&+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Unicorn Quest™ (feat. Ryoji Ikeda)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Unicorn+Quest%E2%84%A2+(feat.+Ryoji+Ikeda)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Vida (feat. Erick the Architect)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Vida+(feat.+Erick+the+Architect)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - 3D Glasses Not Included",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/3D+Glasses+Not+Included"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - All the Time in the World (feat. Vegyn, Baby Marlboro & Rivers Cuomo)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/All+the+Time+in+the+World+(feat.+Vegyn,+Baby+Marlboro+&+Rivers+Cuomo)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Like Clockwork / Hit by Traffic (feat. Khadija Al Hanafi)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Like+Clockwork+%2F+Hit+by+Traffic+(feat.+Khadija+Al+Hanafi)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Blue Shadows (feat. Karen O)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Blue+Shadows+(feat.+Karen+O)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Every Single Weekend (feat. Jamie xx)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Every+Single+Weekend+(feat.+Jamie+xx)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "19:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/I+Give+Everything+I+Have+2+U+(feat.+Loaded+Honey)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Together+(feat.+Nikki+Nair,+Jessy+Lanza+&+Prentiss)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Avalanches - Bd-R",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Avalanches/_/Bd-R"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pafund - The Grim Abbot",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pafund/_/The+Grim+Abbot"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pafund - Old Graveyard",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pafund/_/Old+Graveyard"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Pafund - The Grim Abbot",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Pafund/_/The+Grim+Abbot"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ボノボ - Linked",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9C%E3%83%8E%E3%83%9C/_/Linked"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Roygbiv",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Roygbiv"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Power of Persuasion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Power+of+Persuasion"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kneebody & Daedelus - Drum Battle",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kneebody+&+Daedelus/_/Drum+Battle"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Pigeon Harp",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Pigeon+Harp"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dimlite - Sponsored by the Alphabet",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dimlite/_/Sponsored+by+the+Alphabet"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dorian Concept - Hide (CS01 Version)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dorian+Concept/_/Hide+(CS01+Version)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Super Ink Burst",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost/_/Super+Ink+Burst"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Carbonated",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Carbonated"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "18:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clark - Strength Through Fragility",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clark/_/Strength+Through+Fragility"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ボノボ & Jacques Greene - Fold",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9C%E3%83%8E%E3%83%9C+&+Jacques+Greene/_/Fold"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Boards of Canada - Kid for Today",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Boards+of+Canada/_/Kid+for+Today"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Chrome Country",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Chrome+Country"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio - Awpockes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio/_/Awpockes"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Squarepusher - Nervelevers",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Squarepusher/_/Nervelevers"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dorian Concept - Trophies",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dorian+Concept/_/Trophies"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "FrankJavCee - SimpsonWave1995",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/FrankJavCee/_/SimpsonWave1995"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Home - Head First",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Home/_/Head+First"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "トロ・イ・モア - Girl Like You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%88%E3%83%AD%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%82%A2/_/Girl+Like+You"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Pale Eyes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost/_/Pale+Eyes"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Resonance Hub - A New Light",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Resonance+Hub/_/A+New+Light"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ボノボ - Expander",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9C%E3%83%8E%E3%83%9C/_/Expander"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンオートリックス・ポイント・ネヴァー - Replica",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC/_/Replica"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Pomegranate",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Pomegranate"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "17:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Stratocumulus",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Stratocumulus"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Star Bird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Star+Bird"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - The Unknown",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/The+Unknown"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Sugar Rain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Sugar+Rain"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Pins & Needles",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Pins+&+Needles"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Pearl Net",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Pearl+Net"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Jelly Pencil",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Jelly+Pencil"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Hammock Portal",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Hammock+Portal"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Pigeon Harp",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Pigeon+Harp"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Shame",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Shame"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Lichen Trip",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Lichen+Trip"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "16:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bibio & Dorian Concept - Womb Glow",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bibio+&+Dorian+Concept/_/Womb+Glow"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Led Zeppelin - Babe I’m Gonna Leave You",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Led+Zeppelin/_/Babe+I%E2%80%99m+Gonna+Leave+You"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Led Zeppelin - Good Times Bad Times",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Led+Zeppelin/_/Good+Times+Bad+Times"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "憂鬱 - Sun",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%86%82%E9%AC%B1/_/Sun"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Veridis Quo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Veridis+Quo"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Caligula",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Caligula"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mønic - Deep Summer (Burial Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M%C3%B8nic/_/Deep+Summer+(Burial+Remix)"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "15:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - transcendence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/transcendence"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Peaceland",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Peaceland"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Vanilla - Fuji",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Vanilla/_/Fuji"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Pt5 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Pt5+Instrumentals"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Grand Finale Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Grand+Finale+Instrumentals"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic.) pt 3 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic.)+pt+3+Instrumentals"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "14:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Samurai Champloo - Your Purpose (heard in episode 25)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Samurai+Champloo/_/Your+Purpose+(heard+in+episode+25)"
+    },
     {
       "date": "2026-10-16",
       "time": "12:51",
@@ -40,6 +1180,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/asdzaqaac3th5t4i"
+    },
+    {
+      "date": "2026-10-16",
+      "time": "12:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "East Flatbush Project - A Madman's Dream /Can't Hold It Back",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/East+Flatbush+Project/_/A+Madman%27s+Dream+%2FCan%27t+Hold+It+Back"
     },
     {
       "date": "2026-10-16",
@@ -13323,7 +14473,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13341,34 +14491,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13386,7 +14509,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13404,7 +14554,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -13637,6 +14787,24 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
@@ -13655,25 +14823,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -16534,7 +17684,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -16543,7 +17693,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
