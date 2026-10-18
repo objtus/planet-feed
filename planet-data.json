@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-10-18T23:00:01.669333+09:00",
+  "generated_at": "2026-10-19T07:00:01.819563+09:00",
   "timeline": [
+    {
+      "date": "2026-10-19",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-19 厚い雲 20.0℃ (20.0〜20.0℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 1kcal / 運動: 0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 4,224歩 / 心拍数: 78bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-10-18",
       "time": "15:36",
@@ -79,6 +124,16 @@
       "text": "2026-10-18 曇りがち 16.8℃ (16.8〜16.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-18 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-18",
@@ -257,6 +312,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/asfu9pk8c3th5u0q"
+    },
+    {
+      "date": "2026-10-17",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-17 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-17",
@@ -14905,15 +14970,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
       "is_boost": false,
       "has_media": false
@@ -14923,7 +14979,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
       "is_boost": false,
       "has_media": false
     },
@@ -14932,7 +14988,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
       "is_boost": false,
       "has_media": false
     },
@@ -14959,7 +15015,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -14968,7 +15024,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -14986,7 +15051,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -15219,16 +15284,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
       "is_boost": false,
       "has_media": false
     },
@@ -15246,7 +15302,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -15255,7 +15311,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -18116,7 +18181,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
       "is_boost": false,
       "has_media": false
     },
@@ -18125,7 +18190,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
+      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
       "is_boost": false,
       "has_media": false
     },
@@ -18167,778 +18232,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F20"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 2kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 2,811歩 / 心拍数: 86bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 9枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-19 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "22:26",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 最強出涸らし皇子の暗躍帝位争い — エピソード11: レヴィアターノ、咆哮",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "21:58",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。 — エピソード12: これからの１０年もその先も俺に任せろ",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "21:35",
-      "src_id": 20,
-      "src_type": "prime",
-      "text": "Prime視聴: 領民０人スタートの辺境領主様 — エピソード12: 「辺境領主様と領民０人から始まった物語」",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - 量子コンピュータの未来",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E6%9C%AA%E6%9D%A5"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - カンノ情報局 オススメ書籍紹介",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E3%82%AB%E3%83%B3%E3%83%8E%E6%83%85%E5%A0%B1%E5%B1%80+%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E6%9B%B8%E7%B1%8D%E7%B4%B9%E4%BB%8B"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:33",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - パラレルワールドは存在する",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E3%83%91%E3%83%A9%E3%83%AC%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%81%AF%E5%AD%98%E5%9C%A8%E3%81%99%E3%82%8B"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - 波と粒の性質を持つ量子",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E6%B3%A2%E3%81%A8%E7%B2%92%E3%81%AE%E6%80%A7%E8%B3%AA%E3%82%92%E6%8C%81%E3%81%A4%E9%87%8F%E5%AD%90"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - 波の性質を持つ光",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E6%B3%A2%E3%81%AE%E6%80%A7%E8%B3%AA%E3%82%92%E6%8C%81%E3%81%A4%E5%85%89"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - 光と波の世界",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E5%85%89%E3%81%A8%E6%B3%A2%E3%81%AE%E4%B8%96%E7%95%8C"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:10",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - 電気と磁気の関係",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E9%9B%BB%E6%B0%97%E3%81%A8%E7%A3%81%E6%B0%97%E3%81%AE%E9%96%A2%E4%BF%82"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "スカパー ! [公式] - そもそも物理学とは？",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B9%E3%82%AB%E3%83%91%E3%83%BC+!+%5B%E5%85%AC%E5%BC%8F%5D/_/%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E7%89%A9%E7%90%86%E5%AD%A6%E3%81%A8%E3%81%AF%EF%BC%9F"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-19 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-19 曇りがち 24.1℃ (23.9〜24.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-19",
-      "time": "08:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sade - Hang On To Your Love - Official - 1984",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sade/_/Hang+On+To+Your+Love+-+Official+-+1984"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "08:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tears for Fears - Everybody Wants To Rule The World (Official Archive Video)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+To+Rule+The+World+(Official+Archive+Video)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bronski Beat - Smalltown Boy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kate Bush - Running Up That Hill (A Deal with God)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sting - Russians",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sting/_/Russians"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sting - Englishman in New York",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sting/_/Englishman+in+New+York"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sade - Smooth Operator - Official - 1984",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sade/_/Smooth+Operator+-+Official+-+1984"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sade - The Best Of Sade",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sade/_/The+Best+Of+Sade"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-19 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "06:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sade - The Best Of Sade",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sade/_/The+Best+Of+Sade"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "やくしまるえつこメトロオーケストラ - 少年よ我に帰れ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%84%E3%81%8F%E3%81%97%E3%81%BE%E3%82%8B%E3%81%88%E3%81%A4%E3%81%93%E3%83%A1%E3%83%88%E3%83%AD%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/%E5%B0%91%E5%B9%B4%E3%82%88%E6%88%91%E3%81%AB%E5%B8%B0%E3%82%8C"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Lovely Summer Chan YouTube - 202 feat. 泉まくら (New Mix)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Lovely+Summer+Chan+YouTube/_/202+feat.+%E6%B3%89%E3%81%BE%E3%81%8F%E3%82%89+(New+Mix)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:46",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 2件: Update eyelash images for character customization / Remove outdated nose part from charamaker and add blend mode to mouth layers",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇多田ヒカル - Keep Tryin'",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/Keep+Tryin%27"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇多田ヒカル - One Last Kiss",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/One+Last+Kiss"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "05:22",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 3件: Refactor charamaker parts data and add new blush options / Add color group management to charamaker / Add skin tone color options to charamaker parts data",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:36",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宇宙を感じる宇多田ヒカル - プレイリスト",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%87%E5%AE%99%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB/_/%E3%83%97%E3%83%AC%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "King Krule - Neptune Estate",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/King+Krule/_/Neptune+Estate"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "King Krule - If Only It Was Warmth",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/King+Krule/_/If+Only+It+Was+Warmth"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - How We Got By",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/How+We+Got+By"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:17",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "King Krule - Seaforth",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/King+Krule/_/Seaforth"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - You Look Certain (I’m Not So Sure)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/You+Look+Certain+(I%E2%80%99m+Not+So+Sure)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - Shipwreck",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/Shipwreck"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "04:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - A Figure In The Surf",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/A+Figure+In+The+Surf"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "03:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "03:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - Dumb Guitar",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/Dumb+Guitar"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "03:49",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - Break Well",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/Break+Well"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "03:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Pasocom Music Club - tenk",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Pasocom+Music+Club/_/tenk"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "popopo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aratkdmoc3th52xu"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:45",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "何でも見てやろう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aratcdolc3th52wv"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:43",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "みんなごめん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arataad4c3th52wr"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:42",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Yung Lean & Bladee | Boiler Room - London",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Yung+Lean+&+Bladee+%7C+Boiler+Room/_/London"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:38",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "みんなごめん",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arat3m7dc3th52w8"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:34",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "# 2026-09-18 配信まとめ（22:06〜02:32）\n\n久しぶりの雑談配信では、読み上げ音声の不具合や設定調整のトラブル対応に始まり、VR機器やフルトラッキング環境の紹介、活動記録システムの話へ。後半はボカロ・サブカルチャー、アメリカの地域文化や陰謀論、90年代のオタク文化とクラブシーンの交わりなど、多彩なテーマが飛び交った。\n\n## タイムライン\n\n- 22:06 久しぶりの雑談配信で、最近見た映画の話題や読み上げ機能の不具合について話した。\n- 22:17 読み上げ音声が聞こえない・小さいトラブル解消に向けた設定調整や原因調査を行っている\n- 22:27 配信の音声設定トラブル（聞こえなくなる問題）を解決した後、おすすめ曲の募集やDJ機材の使い方について雑談していた。\n- 22:38 VR機器の購入とフルトラッキング環境の紹介、さらに自身の活動記録システム（聴いた曲や歩数など）について語った。\n- 22:49 AIによる脳シミュレーションやドーパミン操作の話題から、ボカロランキング動画の視聴、新しいSNS「セイピク」の話まで、雑多なテーマが飛び交った。\n- 23:00 ブルースカイのタイムライン仕組みやアイコン識別の話題から、ボカロ曲や音楽ランキングの話になり、最後はキングクルールとマウントキンビーのコラボ曲「ブルートレインラインズ」のミュージックビデオの内容について語った。\n- 23:10 ネイティブアメリカンの部族の最後の生き残りを題材にした音楽ビデオやドキュメンタリー、及びイロコイ連邦のアメリカ政治への影響について話した。\n- 23:21 道路や人形のデザインについて話した後、本店廃業や猫の親子の100年ぶりの発見といったニュース、アジア大会の話題、自宅サーバーや独自ドメイン、連休の予定について話していた。\n- 23:32 データセンターの障害やドローン攻撃の話題から、戦時中のプロパガンダポスターやオベリスクなどのモニュメントについて話した。\n- 23:43 アメリカにある謎の螺旋階段の伝説や、アメリカの地域ごとの文化差について話した後、チャットモンチなどの音楽の話題に移った。\n- 23:54 配信者が2015年の曲を聴きながら、視聴者のコメントからアメリカのラッパーによる少女殺害事件を話題にし、日本とアメリカの芸能界を比較。日本の特撮俳優の闇バイト逮捕などにも言及した。\n- 00:04 アメリカのドラマ（スーパーナチュラル、プリズンブレイク、ヒーローズなど）や、それに出演した日本人俳優（マシオカなど）について話していた。\n- 00:16 Perfumeの成り立ちや中田ヤスタカのプロデュース、アイドル文化の変遷について話した\n- 00:26 山瀬まみやポルノグラフィティのプロデューサーに関するサブカルアイドルの話題、子供向け作品やNANAの連載再開についての雑談\n- 00:37 80〜90年代のサブカルアイドル曲やアーティストについて話題にしている\n- 00:48 モブラユーコ（ブリッコアイドル）のキャラクター性や服装、TikTokでの再流行、銀魂の主題歌、読モ文化やサブカル的な立ち位置について雑談\n- 00:58 古い曲やアニメ（とらドラなど）の話題、9月の季節の話、音声認識ツールWhisperの話\n- 01:09 アズールレン7周年や中国版主題歌、ゲーム音楽（ToBe、サウザンドアームスなど）の話題、そしてスピッツの曲や字幕認識の精度について話していた。\n- 01:20 Backstreet Boys（バックストリートボーイズ）の曲の年代や当時の評判、現在のOne DirectionやK-POPなどのアイドルグループとの比較、および関連ドキュメンタリーの話題。\n- 01:30 1999年のドラマのオープニング曲やドラマ「トリック」「SPEC」、映画「凶気の桜」の話題から、日本語ラップの歴史やアンダーグラウンドな文化についての議論\n- 01:41 映画のオープニングクレジットやデザインスタジオDesigners Republicの作品について話し、90年代のオタク文化とストリートカルチャーの交わりにも言及した。\n- 01:52 90年代オタク文化とクラブカルチャーの関係について語った後、映画『トレインスポッティング』とその続編、音楽『Born Slippy』のバージョン違いや俳優イアン・マクレガーの話題に移った。\n- 02:02 陰謀論系YouTubeチャンネルや動画で使われる音楽、選挙操作、CIAやGHQの支配、ディープステートなどの話題について話していた。\n- 02:13 SDGsグッズや猫の人気から、人工地震や水道水のフッ素といった陰謀論、最後に堀大輔の自己プロモーションや配信行動について語られた。\n- 02:24 ショートスリーパーや人工地震の話題から、愛や社会問題についての雑談まで様々なテーマが飛び交った。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/arasz7yt7p1o09dn"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "02:06",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Naokiman show - 戦後解体された日本人とは？！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Naokiman+show/_/%E6%88%A6%E5%BE%8C%E8%A7%A3%E4%BD%93%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%A8%E3%81%AF%EF%BC%9F%EF%BC%81"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:57",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Underworld - Slow Slippy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Underworld/_/Slow+Slippy"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "The Prodigy - Smack My Bitch Up  (Copyright edit)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/The+Prodigy/_/Smack+My+Bitch+Up++(Copyright+edit)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "WipEout® 2097 OST [PSX]: The Future Sound Of London - We Have Explosive",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/WipEout%C2%AE+2097+OST+%5BPSX%5D:+The+Future+Sound+Of+London/_/We+Have+Explosive"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:43",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Enter The Void - Intro Title Credit Sequence (1080p)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Enter+The+Void/_/Intro+Title+Credit+Sequence+(1080p)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "405 garage - 『凶気の桜』〜平成維新〜",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/405+garage/_/%E3%80%8E%E5%87%B6%E6%B0%97%E3%81%AE%E6%A1%9C%E3%80%8F%E3%80%9C%E5%B9%B3%E6%88%90%E7%B6%AD%E6%96%B0%E3%80%9C"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "中谷美紀 - Chronic Love",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%B8%AD%E8%B0%B7%E7%BE%8E%E7%B4%80/_/Chronic+Love"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Backstreet Boys - Everybody (Backstreet's Back) (Official HD Video)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Backstreet+Boys/_/Everybody+(Backstreet%27s+Back)+(Official+HD+Video)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:19",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Ryuichi Sakamoto (坂本龍一) - Ballet Mécanique",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Ryuichi+Sakamoto+(%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80)/_/Ballet+M%C3%A9canique"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "岡田有希子ポニーキャニオン公式チャンネル - WONDER TRIP LOVER",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B2%A1%E7%94%B0%E6%9C%89%E5%B8%8C%E5%AD%90%E3%83%9D%E3%83%8B%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/_/WONDER+TRIP+LOVER"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "浜崎あゆみ - SURREAL",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%B5%9C%E5%B4%8E%E3%81%82%E3%82%86%E3%81%BF/_/SURREAL"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "伊藤つかさ - 不思議劇場(はてなシアター)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BC%8A%E8%97%A4%E3%81%A4%E3%81%8B%E3%81%95/_/%E4%B8%8D%E6%80%9D%E8%AD%B0%E5%8A%87%E5%A0%B4(%E3%81%AF%E3%81%A6%E3%81%AA%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "01:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Earth, Wind & Fire - September (Official HD Video)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Earth,+Wind+&+Fire/_/September+(Official+HD+Video)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:58",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AMOYAMO - LET'S GO OUT",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AMOYAMO/_/LET%27S+GO+OUT"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:53",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Tommy february6 - MaGic in youR Eyes",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Tommy+february6/_/MaGic+in+youR+Eyes"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:48",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "A_ b - 小倉優子 オンナのコ♡オトコのコ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/A_+b/_/%E5%B0%8F%E5%80%89%E5%84%AA%E5%AD%90+%E3%82%AA%E3%83%B3%E3%83%8A%E3%81%AE%E3%82%B3%E2%99%A1%E3%82%AA%E3%83%88%E3%82%B3%E3%81%AE%E3%82%B3"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kodocha - Ultra Relax",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kodocha/_/Ultra+Relax"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "篠原ともえ - クルクル・ミラクル (Tomoe Shinohara - Kurukuru Mirakuru)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%AF%A0%E5%8E%9F%E3%81%A8%E3%82%82%E3%81%88/_/%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%AB%E3%83%BB%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB+(Tomoe+Shinohara+-+Kurukuru+Mirakuru)"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "山瀬まみ - ゴォ！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%B1%B1%E7%80%AC%E3%81%BE%E3%81%BF/_/%E3%82%B4%E3%82%A9%EF%BC%81"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "宍戸留美 - 地球の危機",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%AE%8D%E6%88%B8%E7%95%99%E7%BE%8E/_/%E5%9C%B0%E7%90%83%E3%81%AE%E5%8D%B1%E6%A9%9F"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Buzy - 鯨",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Buzy/_/%E9%AF%A8"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "井上麻里奈 - ビューティフル・ストーリー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E4%BA%95%E4%B8%8A%E9%BA%BB%E9%87%8C%E5%A5%88/_/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%95%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Meg - OK",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Meg/_/OK"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:11",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Perfume - ポリリズム",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Perfume/_/%E3%83%9D%E3%83%AA%E3%83%AA%E3%82%BA%E3%83%A0"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Perfume - チョコレイト・ディスコ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Perfume/_/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%82%A4%E3%83%88%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%B3"
-    },
-    {
-      "date": "2026-09-19",
-      "time": "00:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Taso Tei - 鳥の詩 Tori no Uta",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Taso+Tei/_/%E9%B3%A5%E3%81%AE%E8%A9%A9+Tori+no+Uta"
     }
   ]
 }
