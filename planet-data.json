@@ -1,6 +1,433 @@
 {
-  "generated_at": "2026-10-19T23:00:01.633185+09:00",
+  "generated_at": "2026-10-20T07:00:01.902029+09:00",
   "timeline": [
+    {
+      "date": "2026-10-20",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-10-20 厚い雲 21.3℃ (21.3〜21.3℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rain Waltz - Yoko Kanno",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rain+Waltz/_/Yoko+Kanno"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tender strength - Yu-Peng Chen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tender+strength/_/Yu-Peng+Chen"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Say My Name - Yu-Peng Chen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Say+My+Name/_/Yu-Peng+Chen"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jatuh Cinta - Tohpati",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jatuh+Cinta/_/Tohpati"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Moon Is Watching - Grisaia no Kajitsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Moon+Is+Watching/_/Grisaia+no+Kajitsu"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Town Where You Are - Grisaia no Kajitsu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Town+Where+You+Are/_/Grisaia+no+Kajitsu"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "04:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Raindrops and Puddles - Katawa Shoujo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Raindrops+and+Puddles/_/Katawa+Shoujo"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "A Guitar's Rhythm - Yoko Kanno",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/A+Guitar%27s+Rhythm/_/Yoko+Kanno"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "La Complainte De La Butte - Avalon Jazz Band",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/La+Complainte+De+La+Butte/_/Avalon+Jazz+Band"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Coquette - Avalon Jazz Band",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Coquette/_/Avalon+Jazz+Band"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ménilmontant - Avalon Jazz Band",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/M%C3%A9nilmontant/_/Avalon+Jazz+Band"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "chanson des jumelles - Pecombo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/chanson+des+jumelles/_/Pecombo"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Kokoro - Pecombo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Kokoro/_/Pecombo"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "03:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - untitled",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/untitled"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oxijinn - とげとげタルめいろスーパードンキーコング2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oxijinn/_/%E3%81%A8%E3%81%92%E3%81%A8%E3%81%92%E3%82%BF%E3%83%AB%E3%82%81%E3%81%84%E3%82%8D%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B02"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Send and Receive (Chachi Jones remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Send+and+Receive+(Chachi+Jones+remix)"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Grand Finale Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Grand+Finale+Instrumentals"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Pt5 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Pt5+Instrumentals"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - transcendence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/transcendence"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Holly Herndon - Interference",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Holly+Herndon/_/Interference"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "02:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Caligula",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Caligula"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Dive",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Dive"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - A Walk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/A+Walk"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sway - The Millia Pink And Green EP",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sway/_/The+Millia+Pink+And+Green+EP"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Nushawn",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Nushawn"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Irreplaceable",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Irreplaceable"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Vanity",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Vanity"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Cheek Bones",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Cheek+Bones"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "01:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Stuck 3 (RATS)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+3+(RATS)"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Niggas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Niggas"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Stuck 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+2"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Eternal Condition",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Eternal+Condition"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Upper East Side Pussy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Upper+East+Side+Pussy"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - City Smells",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/City+Smells"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Stuck 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+1"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Beautiful Jon K.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Beautiful+Jon+K."
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Close Ups",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Close+Ups"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Fake Pain",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Fake+Pain"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Intro",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Intro"
+    },
+    {
+      "date": "2026-10-20",
+      "time": "00:02",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-19",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-10-19",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-19 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
     {
       "date": "2026-10-19",
       "time": "13:09",
@@ -191,6 +618,16 @@
       "has_media": false
     },
     {
+      "date": "2026-10-19",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-19 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
       "date": "2026-10-18",
       "time": "23:50",
       "src_id": 18,
@@ -225,6 +662,16 @@
       "text": "写真 0枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-18",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-18 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-18",
@@ -295,6 +742,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%E3%83%81%E3%83%BC%E3%83%A0%E3%81%BF%E3%82%89%E3%81%84%E3%83%BB%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A/_/%E3%80%8CAI%E3%81%A7%E4%BA%BA%E9%A1%9E%E6%BB%85%E4%BA%A1%E3%80%8D%E3%81%AE%E7%8F%BE%E5%AE%9F%E5%91%B3"
+    },
+    {
+      "date": "2026-10-18",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-18 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-18",
@@ -482,6 +939,16 @@
       "text": "写真 0枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-10-17",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-17 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-17",
@@ -15150,52 +15617,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -15222,6 +15653,33 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
       "is_boost": false,
       "has_media": false
@@ -15232,6 +15690,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
       "is_boost": false,
       "has_media": false
     },
@@ -15464,15 +15931,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
       "is_boost": false,
       "has_media": false
@@ -15483,6 +15941,15 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
@@ -18287,131 +18754,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F09%2F21"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-20",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-20",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-20 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-20 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "14:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "起きた",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arcwy26bc3th54wd"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "12:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "少し仮眠を取りたいと思います",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arctjvkwc3th54s8"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "12:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "日本人は神の子？神国思想の危険性とは - ReHacQ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AF%E7%A5%9E%E3%81%AE%E5%AD%90%EF%BC%9F%E7%A5%9E%E5%9B%BD%E6%80%9D%E6%83%B3%E3%81%AE%E5%8D%B1%E9%99%BA%E6%80%A7%E3%81%A8%E3%81%AF/_/ReHacQ"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 転生したらスライムだった件: 第4期: グランベルの希望",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-20",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 血闘! 崩壊の街に死す",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-20",
-      "time": "11:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "福田和也とは何者だったのか？ - 消された思想",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E7%A6%8F%E7%94%B0%E5%92%8C%E4%B9%9F%E3%81%A8%E3%81%AF%E4%BD%95%E8%80%85%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%EF%BC%9F/_/%E6%B6%88%E3%81%95%E3%82%8C%E3%81%9F%E6%80%9D%E6%83%B3"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-09-20 厚い雲 25.6℃ (25.5〜25.6℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-20",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-09-20 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-09-20",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "他人事ラジオの収録をした",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F09%2F20"
     }
   ]
 }
