@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-10-23T15:00:01.777917+09:00",
+  "generated_at": "2026-10-23T23:00:01.177781+09:00",
   "timeline": [
+    {
+      "date": "2026-10-23",
+      "time": "15:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daphni - Sad Piano House (Kelbin Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daphni/_/Sad+Piano+House+(Kelbin+Remix)"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "15:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Bicep - Equarium (feat. Kehina)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Bicep/_/Equarium+(feat.+Kehina)"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "15:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Thing - Lost In The Haze (atmospheric jungle)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Thing/_/Lost+In+The+Haze+(atmospheric+jungle)"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "14:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Porter Robinson, Vertile - Easier To Love You (Vertile Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Porter+Robinson,+Vertile/_/Easier+To+Love+You+(Vertile+Remix)"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "14:34",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "エロSSって一作も読んだことないかも",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aso3mydpc3th5yp9"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Ecco2K - Aldehydes and Ketones",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Ecco2K/_/Aldehydes+and+Ketones"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - Lifestyles",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Lifestyles"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - eCruising",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/eCruising"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:20",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - Millenium Cinemas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Millenium+Cinemas"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - Palisades",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Palisades"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - SuperMall",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/SuperMall"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - Inventory",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Inventory"
+    },
+    {
+      "date": "2026-10-23",
+      "time": "12:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "PrismCorp Virtual Enterprises - Renegade Theme",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/PrismCorp+Virtual+Enterprises/_/Renegade+Theme"
+    },
     {
       "date": "2026-10-23",
       "time": "12:08",
@@ -16604,7 +16734,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -16613,25 +16743,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
     },
@@ -16641,15 +16753,6 @@
       "src_id": 19,
       "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
       "is_boost": false,
       "has_media": false
     },
@@ -16676,7 +16779,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
       "is_boost": false,
       "has_media": false
     },
@@ -16685,7 +16788,34 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 故郷にとんでもないものが存在した!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: スティール・ボール・ラン ジョジョの奇妙な冒険: 2nd-3rd STAGE: マウンテン・ティムへの依頼",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
       "is_boost": false,
       "has_media": false
     },
@@ -16918,7 +17048,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
       "is_boost": false,
       "has_media": false
     },
@@ -16945,16 +17084,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: スヴェル国へやってきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
+      "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
       "is_boost": false,
       "has_media": false
     },
