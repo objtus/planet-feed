@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-10-25T15:00:01.442350+09:00",
+  "generated_at": "2026-10-25T23:00:01.739582+09:00",
   "timeline": [
+    {
+      "date": "2026-10-25",
+      "time": "15:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ゲンロン【公式】 - 徹底討論・現代詩。批評の未来、そしてポスト令和人文主義について　今週の人文ウォッチ#98",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E5%BE%B9%E5%BA%95%E8%A8%8E%E8%AB%96%E3%83%BB%E7%8F%BE%E4%BB%A3%E8%A9%A9%E3%80%82%E6%89%B9%E8%A9%95%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%83%9D%E3%82%B9%E3%83%88%E4%BB%A4%E5%92%8C%E4%BA%BA%E6%96%87%E4%B8%BB%E7%BE%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%80%80%E4%BB%8A%E9%80%B1%E3%81%AE%E4%BA%BA%E6%96%87%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%2398"
+    },
+    {
+      "date": "2026-10-25",
+      "time": "15:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "太田上田【公式】 - ２７時間テレビの惨劇！？大スベリ事件に飯尾さんが関与していました",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%EF%BC%92%EF%BC%97%E6%99%82%E9%96%93%E3%83%86%E3%83%AC%E3%83%93%E3%81%AE%E6%83%A8%E5%8A%87%EF%BC%81%EF%BC%9F%E5%A4%A7%E3%82%B9%E3%83%99%E3%83%AA%E4%BA%8B%E4%BB%B6%E3%81%AB%E9%A3%AF%E5%B0%BE%E3%81%95%E3%82%93%E3%81%8C%E9%96%A2%E4%B8%8E%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F"
+    },
     {
       "date": "2026-10-25",
       "time": "09:00",
@@ -17547,43 +17567,7 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 野生の温泉が現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-27",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -17601,6 +17585,15 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 天秤のリーブラが現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 野生のラスボスが現れた!: 民衆の暴動が起きた!",
       "is_boost": false,
       "has_media": false
@@ -17610,7 +17603,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: ちょ-5%-マジか!? だった",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 救世主……だった!",
       "is_boost": false,
       "has_media": false
     },
@@ -17628,7 +17639,16 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 其方は何者だ!",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のルファス・マファールと野生のオルムが同時に現れた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 裏で糸を引いていた!",
       "is_boost": false,
       "has_media": false
     },
@@ -17861,24 +17881,6 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
-      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-09-26",
-      "time": "12:00",
-      "src_id": 19,
-      "src_type": "netflix",
       "text": "Netflix視聴: 転生したらスライムだった件: 第4期: 勇者覚醒",
       "is_boost": false,
       "has_media": false
@@ -17897,7 +17899,25 @@
       "time": "12:00",
       "src_id": 19,
       "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: アリエスが攻めてきた!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
       "text": "Netflix視聴: 骸骨騎士様、只今異世界へお出掛け中: シーズン2: 天晴! 悪を蹴散らす骸骨裁き!",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "src_id": 19,
+      "src_type": "netflix",
+      "text": "Netflix視聴: 野生のラスボスが現れた!: 野生のラスボスが現れた!",
       "is_boost": false,
       "has_media": false
     },
