@@ -1,6 +1,196 @@
 {
-  "generated_at": "2026-10-29T15:00:01.954314+09:00",
+  "generated_at": "2026-10-29T23:00:01.993372+09:00",
   "timeline": [
+    {
+      "date": "2026-10-29",
+      "time": "15:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - SiLC · In Heaven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yoko Kanno · Cyberbird",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Yuki Kajiura · shadows and fog",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Takayuki Negishi · 夢",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Relaxing Music Tokyo - 太田光と15人のしゃべり手 ゲスト：有吉弘行 2026.10.26",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Relaxing+Music+Tokyo/_/%E5%A4%AA%E7%94%B0%E5%85%89%E3%81%A815%E4%BA%BA%E3%81%AE%E3%81%97%E3%82%83%E3%81%B9%E3%82%8A%E6%89%8B+%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E6%9C%89%E5%90%89%E5%BC%98%E8%A1%8C+2026.10.26"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Cheek Bones",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Cheek+Bones"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "RONDAN FES 2026 in IZU × - 宮台真司、ダースレイダー、石橋直樹、山下佳也",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/RONDAN+FES+2026+in+IZU+%C3%97/_/%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%E3%80%81%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%E3%80%81%E7%9F%B3%E6%A9%8B%E7%9B%B4%E6%A8%B9%E3%80%81%E5%B1%B1%E4%B8%8B%E4%BD%B3%E4%B9%9F"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Stuck 3 (RATS)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+3+(RATS)"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Niggas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Niggas"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Stuck 2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+2"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Eternal Condition",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Eternal+Condition"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - Upper East Side Pussy",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/Upper+East+Side+Pussy"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:12",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "@IamnotHayato@mastodon.social 日石のロゴがこのまえツイッターで話題になってたな",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aswnhsrxc3th635j"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "James Ferraro - City Smells",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/James+Ferraro/_/City+Smells"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "おれだってエロゲ作りたい",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aswncougc3th635h"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:07",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "時代感じるよね　たしか「不気味の谷」用語の初出もエナジーに寄稿されたエッセイという記憶がある",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/aswnc3yqc3th635d"
+    },
     {
       "date": "2026-10-29",
       "time": "14:07",
