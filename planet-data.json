@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-01T23:00:01.314988+09:00",
+  "generated_at": "2026-11-02T07:00:01.175396+09:00",
   "timeline": [
+    {
+      "date": "2026-11-02",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-11-02 曇りがち 13.8℃ (13.8〜13.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 0秒",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 4,852歩 / 心拍数: 74bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-01",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 4枚",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-01",
+      "time": "22:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "United Snakes - Richard D. James 1991-1998",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/United+Snakes/_/Richard+D.+James+1991-1998"
+    },
+    {
+      "date": "2026-11-01",
+      "time": "22:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "2026 - 11/1OA",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/2026/_/11%2F1OA"
+    },
     {
       "date": "2026-11-01",
       "time": "20:37",
@@ -1151,6 +1207,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/asylxy94c3th64g4"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-30 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-10-30",
@@ -15073,221 +15139,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://scrapbox.io/stall/2026%2F10%2F04"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Mount Kimbie - Empty and Silent (feat. King Krule)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Mount+Kimbie/_/Empty+and+Silent+(feat.+King+Krule)"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 3分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 6,324歩 / 心拍数: 103bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:10",
-      "src_id": 13,
-      "src_type": "misskey",
-      "text": "vrchat会やってるなら私に教えてくださいね",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://sushi.ski/notes/arw19gayq3"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 1枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:03",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ありがとうございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arw1185jc3th5jr9"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:01",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "最近なんかこうあんまりあれや",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arw0y8o1c3th5jqw"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-03 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "22:45",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Sade - The Best Of Sade",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Sade/_/The+Best+Of+Sade"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "22:05",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "みなさま、どのような調子でしょうか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arvyxwrmc3th5jp9"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "16:26",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "アスオラのモブで興奮してしまって、ほんとうにくやしい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arvmuzpoc3th5je7"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-03 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "09:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "ゲンロン【公式】 - 米中接近！とりあえず入会しよう！──ゲンロンがお送りする年イチの無限雑談番組がまたまた襲来。いつ入会しても資格は1年、東浩紀の新刊ももらえる友の会17期が10月1日ついに始動！",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E7%B1%B3%E4%B8%AD%E6%8E%A5%E8%BF%91%EF%BC%81%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E5%85%A5%E4%BC%9A%E3%81%97%E3%82%88%E3%81%86%EF%BC%81%E2%94%80%E2%94%80%E3%82%B2%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%8C%E3%81%8A%E9%80%81%E3%82%8A%E3%81%99%E3%82%8B%E5%B9%B4%E3%82%A4%E3%83%81%E3%81%AE%E7%84%A1%E9%99%90%E9%9B%91%E8%AB%87%E7%95%AA%E7%B5%84%E3%81%8C%E3%81%BE%E3%81%9F%E3%81%BE%E3%81%9F%E8%A5%B2%E6%9D%A5%E3%80%82%E3%81%84%E3%81%A4%E5%85%A5%E4%BC%9A%E3%81%97%E3%81%A6%E3%82%82%E8%B3%87%E6%A0%BC%E3%81%AF1%E5%B9%B4%E3%80%81%E6%9D%B1%E6%B5%A9%E7%B4%80%E3%81%AE%E6%96%B0%E5%88%8A%E3%82%82%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E5%8F%8B%E3%81%AE%E4%BC%9A17%E6%9C%9F%E3%81%8C10%E6%9C%881%E6%97%A5%E3%81%A4%E3%81%84%E3%81%AB%E5%A7%8B%E5%8B%95%EF%BC%81"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-10-03 晴天 18.9℃ (18.9〜18.9℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-03",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-03 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:09",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "寝よう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arunxovic3th5ipl"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:08",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ステディー・アンド・コー",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arunxefac3th5ipi"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:08",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "えぐみ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/arunwe6ac3th5ipf"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:07",
-      "src_id": 1,
-      "src_type": "misskey",
-      "text": "# 2026-10-02 配信まとめ（21:58〜00:06）\n\n配信序盤は体調不良や機材トラブルへの対応から始まり、AI技術やWindowsなどのIT機器・規格の変遷についての雑談が続きました。中盤以降は音楽やアニメ、食べ物といった幅広いテーマでリスナーと交流し、最後は制作中のゲームの進捗を報告して締めくくりました。\n\n## タイムライン\n\n- 21:58 猛烈な眠気と体調不良、およびOBSでTwitchのチャット欄が表示されない不具合について。\n- 22:08 音声トラブルの復旧作業と、新しく導入したAIによる字幕・話題表示機能の確認、および最近見たアニメの話。\n- 22:19 クリスタやFANBOXなどの表現規制、AIによる画像生成の変遷、およびYouTubeの懐かしい動画や音楽についての雑談。\n- 22:29 アニメのED曲やジョジョ、R&B歌手のローリン・ヒルについて話し、その後Windowsの歴代OSに関する思い出を語った。\n- 22:39 Windows OSの変遷やWindows Phone、ガラケーの思い出、USB Type-Cなどの周辺機器・規格の歴史について。\n- 22:49 ぷよぷよや音楽、AI関連のニュース、言葉の語源などの雑談\n- 23:00 ポンパ（Pomp）の動画や音楽、およびそのビンテージ感について。\n- 23:10 リスナーから送られた洋楽やモンゴルのバンドについて、歌唱法や文化を交えて話す。\n- 23:20 ステリー&コーやシュガーソウルなどの音楽、およびインディー感のある楽曲についての雑談\n- 23:30 YouTubeで流れてきた動画（CMや音楽など）についての感想\n- 23:44 うどんの種類や美味しさについての雑談\n- 23:57 眠気を感じながら、制作中の個人サイト用キャラメイクゲームの進捗について。",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://misskey.io/notes/arunvbqtmuug0e0g"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:01",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Kan - Aiwa Katsu",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Kan/_/Aiwa+Katsu"
-    },
-    {
-      "date": "2026-10-03",
-      "time": "00:00",
-      "src_id": 17,
-      "src_type": "scrapbox",
-      "text": "たしか無",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://scrapbox.io/stall/2026%2F10%2F03"
     }
   ]
 }
