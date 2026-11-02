@@ -1,6 +1,136 @@
 {
-  "generated_at": "2026-11-02T07:00:01.175396+09:00",
+  "generated_at": "2026-11-02T15:00:01.442443+09:00",
   "timeline": [
+    {
+      "date": "2026-11-02",
+      "time": "13:13",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "風邪ひいた",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/at2b6a9gc3th66yr"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "11:27",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "グワッグワッ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/at27dxngwb"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "tofubeats - Don't You Know My Love? (feat. HITOMITOI)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/tofubeats/_/Don%27t+You+Know+My+Love%3F+(feat.+HITOMITOI)"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ブッダブランド (Buddha Brand) - Don't Test Da Master",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%96%E3%83%83%E3%83%80%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89+(Buddha+Brand)/_/Don%27t+Test+Da+Master"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "GOD INC - EL DORADO THROW DOWN",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/GOD+INC/_/EL+DORADO+THROW+DOWN"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Naohirock & Suzukismooth - Everybody Loves The Sunshine",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Naohirock+&+Suzukismooth/_/Everybody+Loves+The+Sunshine"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Twigy - 聖戦",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Twigy/_/%E8%81%96%E6%88%A6"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MAKI & TAIKI - 末期症状",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MAKI+&+TAIKI/_/%E6%9C%AB%E6%9C%9F%E7%97%87%E7%8A%B6"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "シャカゾンビ (Shakkazombie) - 虹",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B7%E3%83%A3%E3%82%AB%E3%82%BE%E3%83%B3%E3%83%93+(Shakkazombie)/_/%E8%99%B9"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "石田義則 (ECD) - マス対コア",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%9F%B3%E7%94%B0%E7%BE%A9%E5%89%87+(ECD)/_/%E3%83%9E%E3%82%B9%E5%AF%BE%E3%82%B3%E3%82%A2"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Soul Scream - 蜂と蝶",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Soul+Scream/_/%E8%9C%82%E3%81%A8%E8%9D%B6"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Lunch Time Speax - Ground Zero",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Lunch+Time+Speax/_/Ground+Zero"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "09:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "LAMP EYE - 証言",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/LAMP+EYE/_/%E8%A8%BC%E8%A8%80"
+    },
     {
       "date": "2026-11-02",
       "time": "09:00",
@@ -9,6 +139,36 @@
       "text": "2026-11-02 曇りがち 13.8℃ (13.8〜13.8℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-11-02",
+      "time": "08:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ブッダブランド (Buddha Brand) - 人間発電所",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%96%E3%83%83%E3%83%80%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89+(Buddha+Brand)/_/%E4%BA%BA%E9%96%93%E7%99%BA%E9%9B%BB%E6%89%80"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "08:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "永野にとって爆笑問題・太田は - 東京のお兄ちゃん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B0%B8%E9%87%8E%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%83%BB%E5%A4%AA%E7%94%B0%E3%81%AF/_/%E6%9D%B1%E4%BA%AC%E3%81%AE%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93"
+    },
+    {
+      "date": "2026-11-02",
+      "time": "08:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "弁当井口の再来か！？先輩が収録を見学したいそうです。 - 太田上田＃４８６②",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%BC%81%E5%BD%93%E4%BA%95%E5%8F%A3%E3%81%AE%E5%86%8D%E6%9D%A5%E3%81%8B%EF%BC%81%EF%BC%9F%E5%85%88%E8%BC%A9%E3%81%8C%E5%8F%8E%E9%8C%B2%E3%82%92%E8%A6%8B%E5%AD%A6%E3%81%97%E3%81%9F%E3%81%84%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%94%EF%BC%98%EF%BC%96%E2%91%A1"
     },
     {
       "date": "2026-11-01",
