@@ -1,6 +1,376 @@
 {
-  "generated_at": "2026-11-05T15:00:01.396103+09:00",
+  "generated_at": "2026-11-05T23:00:02.017416+09:00",
   "timeline": [
+    {
+      "date": "2026-11-05",
+      "time": "18:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TURQUOISEDEATH - You Make Me Feel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TURQUOISEDEATH/_/You+Make+Me+Feel"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TURQUOISEDEATH - Binary Garden",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TURQUOISEDEATH/_/Binary+Garden"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "TURQUOISEDEATH - Moss Green",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/TURQUOISEDEATH/_/Moss+Green"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost — Lei•Disk - ᴮʳᵒᵃᵈᶜᵃˢᵗ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+%E2%80%94+Lei%E2%80%A2Disk/_/%E1%B4%AE%CA%B3%E1%B5%92%E1%B5%83%E1%B5%88%E1%B6%9C%E1%B5%83%CB%A2%E1%B5%97"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「¹³」⋯ Geo Sprite Exo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B9%C2%B3%E3%80%8D%E2%8B%AF+Geo+Sprite+Exo"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「¹²」⋯ Dew Signal",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B9%C2%B2%E3%80%8D%E2%8B%AF+Dew+Signal"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "18:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「¹¹」⋯ Germ Chrism",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B9%C2%B9%E3%80%8D%E2%8B%AF+Germ+Chrism"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「¹⁰」⋯ Chlorine•FM (Intermission)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B9%E2%81%B0%E3%80%8D%E2%8B%AF+Chlorine%E2%80%A2FM+(Intermission)"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁹」⋯ Nemat0de",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B9%E3%80%8D%E2%8B%AF+Nemat0de"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁸」⋯ Echo Lace",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B8%E3%80%8D%E2%8B%AF+Echo+Lace"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁷」⋯ Pulse Angel",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B7%E3%80%8D%E2%8B%AF+Pulse+Angel"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁶」⋯ flux•Cocoon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B6%E3%80%8D%E2%8B%AF+flux%E2%80%A2Cocoon"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁵」⋯ Spawn01 ft. Cyst",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B5%E3%80%8D%E2%8B%AF+Spawn01+ft.+Cyst"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「⁴」⋯ Coral Mimic",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%E2%81%B4%E3%80%8D%E2%8B%AF+Coral+Mimic"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「³」⋯ Alloy Flea",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B3%E3%80%8D%E2%8B%AF+Alloy+Flea"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Iglooghost - Tidal Memory Exo - 「²」⋯ New Species",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Iglooghost+-+Tidal+Memory+Exo/_/%E3%80%8C%C2%B2%E3%80%8D%E2%8B%AF+New+Species"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "carpet dust - recycling sale",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/carpet+dust/_/recycling+sale"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "16:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Autechre - Garbage (Full EP)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Autechre/_/Garbage+(Full+EP)"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Warp Records - (Motion)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Warp+Records/_/(Motion)"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Dr Alex Paterson - Loving You Live.52:25",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Dr+Alex+Paterson/_/Loving+You+Live.52:25"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Speedy J - Fill 3.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Speedy+J/_/Fill+3."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Autechre - The Egg.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Autechre/_/The+Egg."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "UP! - Spiritual High.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/UP!/_/Spiritual+High."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Musicology - Premonition.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Musicology/_/Premonition."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Speedy J - De-Orbit.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Speedy+J/_/De-Orbit."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "15:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "I.A.O - The Clan.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/I.A.O/_/The+Clan."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Autechre - Crystel.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Autechre/_/Crystel."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Musicology - Telefone 529.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Musicology/_/Telefone+529."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Dice Man - Polygon Window.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Dice+Man/_/Polygon+Window."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Orb - Sausage Tats Mit Gravy (Dom Mix #1)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Orb/_/Sausage+Tats+Mit+Gravy+(Dom+Mix+%231)"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "okaokared - さよならを教えて FULLver.",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/okaokared/_/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6+FULLver."
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "amu wei - iの数式 (imoutoid's ComplexFunktion Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/amu+wei/_/i%E3%81%AE%E6%95%B0%E5%BC%8F+(imoutoid%27s+ComplexFunktion+Remix)"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:15",
+      "src_id": 13,
+      "src_type": "misskey",
+      "text": "人生つまんない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://sushi.ski/notes/at6np4wxq9"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:14",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "こだわりがない",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/at6nny7mc3th6aqc"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "14:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Frederic - Oddloop",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Frederic/_/Oddloop"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "13:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "バウンダリー - ラブソング",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%80%E3%83%AA%E3%83%BC/_/%E3%83%A9%E3%83%96%E3%82%BD%E3%83%B3%E3%82%B0"
+    },
     {
       "date": "2026-11-05",
       "time": "13:34",
