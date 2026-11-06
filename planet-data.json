@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-06T23:00:01.324643+09:00",
+  "generated_at": "2026-11-07T07:00:01.286276+09:00",
   "timeline": [
+    {
+      "date": "2026-11-07",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-11-07 晴天 13.4℃ (13.4〜13.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-06",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 9時間45分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-06",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 0枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-11-06",
       "time": "21:28",
@@ -43,12 +70,32 @@
     },
     {
       "date": "2026-11-06",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-06 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-11-06",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-11-06 雲 17.2℃ (17.2〜17.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-11-06",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-06 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-11-06",
@@ -13932,85 +13979,6 @@
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-09 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-08 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "20:05",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "ごめんみんな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/as2zvipoc3th5o63"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "15:02",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "散歩いこ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/as2p1hz3c3th5o1s"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-08 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "11:20",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "あの、おはようございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/as2h4lc7c3th5nxo"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "10:25",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "おはようございます",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/as2f5pzvc3th5nwp"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-10-08 晴天 16.7℃ (16.7〜16.7℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-08",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-08 07:00 JST)",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
