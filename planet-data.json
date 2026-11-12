@@ -1,6 +1,236 @@
 {
-  "generated_at": "2026-11-12T07:00:01.777660+09:00",
+  "generated_at": "2026-11-12T15:00:01.906977+09:00",
   "timeline": [
+    {
+      "date": "2026-11-12",
+      "time": "13:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - World's End Rhapsody",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/World%27s+End+Rhapsody"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:49",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - World Without Words",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/World+Without+Words"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - transcendence",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/transcendence"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Haruka Nakamura - Lamp feat.Nujabes",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Haruka+Nakamura/_/Lamp+feat.Nujabes"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Clammbon By Nujabes - Imaginary Folklore",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Clammbon+By+Nujabes/_/Imaginary+Folklore"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (Sic)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(Sic)"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "MF DOOM - Books of War (The Lost Chapters) ft. RZA, Jeru The Damaja, Guru, Talib Kweli, DMX",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/MF+DOOM/_/Books+of+War+(The+Lost+Chapters)+ft.+RZA,+Jeru+The+Damaja,+Guru,+Talib+Kweli,+DMX"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) pt2 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+pt2+Instrumentals"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) pt4 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+pt4+Instrumentals"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Grand Finale Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Grand+Finale+Instrumentals"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Horizon",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Horizon"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Luv(sic) Part6 - Uyama Hiroto Remix featuring Shing02",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Luv(sic)+Part6/_/Uyama+Hiroto+Remix+featuring+Shing02"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv(sic.) Pt3 (feat. Shing02)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02)"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:39",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic.) pt 3 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic.)+pt+3+Instrumentals"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes - Luv (sic) Pt5 Instrumentals",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes/_/Luv+(sic)+Pt5+Instrumentals"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Something About Us",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Something+About+Us"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic) Grand Finale",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)+Grand+Finale"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic) pt5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)+pt5"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "12:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic) pt4",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)+pt4"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "11:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic) pt3",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)+pt3"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "11:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic) pt2",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)+pt2"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "11:48",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Nujabes / Luv (sic) pt1 - Luv (sic)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Nujabes+%2F+Luv+(sic)+pt1/_/Luv+(sic)"
+    },
     {
       "date": "2026-11-12",
       "time": "09:00",
