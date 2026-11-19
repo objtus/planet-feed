@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-11-19T23:00:01.936481+09:00",
+  "generated_at": "2026-11-20T07:00:01.249247+09:00",
   "timeline": [
+    {
+      "date": "2026-11-20",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-11-20 薄い雲 9.4℃ (9.4〜9.4℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-19",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 6時間5分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-19",
+      "time": "23:40",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "消費カロリー: 6kcal / 運動: 61分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-19",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 1,634歩 / 心拍数: 89bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-19",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 3枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-11-19",
       "time": "21:04",
@@ -620,6 +665,16 @@
     },
     {
       "date": "2026-11-18",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-18 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-11-18",
       "time": "22:44",
       "src_id": 2,
       "src_type": "misskey",
@@ -627,6 +682,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://tanoshii.site/notes/atpqlawrc3th6o26"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-18 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-11-18",
@@ -8189,251 +8254,6 @@
       "src_id": 8,
       "src_type": "github",
       "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-22 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-21",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 4kcal / 運動: 1分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-21",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 7,256歩 / 心拍数: 97bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-21",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-21",
-      "time": "23:00",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "なんか大変そう",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aslquz80c3th5xmd"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "22:51",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "脆弱性の話高市早苗まで出てきてワロタ",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aslqie2ic3th5xlr"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "21:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "太田上田【公式】 - ビートたけしさんとの初対面を語りました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91/_/%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E5%88%9D%E5%AF%BE%E9%9D%A2%E3%82%92%E8%AA%9E%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "朝ドラの放送を見て驚愕した、自分の体型。 - 太田上田＃５６２②",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E6%9C%9D%E3%83%89%E3%83%A9%E3%81%AE%E6%94%BE%E9%80%81%E3%82%92%E8%A6%8B%E3%81%A6%E9%A9%9A%E6%84%95%E3%81%97%E3%81%9F%E3%80%81%E8%87%AA%E5%88%86%E3%81%AE%E4%BD%93%E5%9E%8B%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%96%EF%BC%92%E2%91%A1"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:54",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - Metaの新モデルとザッカーバーグの戦略",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/Meta%E3%81%AE%E6%96%B0%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0%E3%81%AE%E6%88%A6%E7%95%A5"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:51",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - LLMの進化か、世界モデルか",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/LLM%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%8B%E3%80%81%E4%B8%96%E7%95%8C%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - 3D制作からロボット操作へ広がるAI",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/3D%E5%88%B6%E4%BD%9C%E3%81%8B%E3%82%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%93%8D%E4%BD%9C%E3%81%B8%E5%BA%83%E3%81%8C%E3%82%8BAI"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:46",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - 高性能で低価格…知識の量には懸念も",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E9%AB%98%E6%80%A7%E8%83%BD%E3%81%A7%E4%BD%8E%E4%BE%A1%E6%A0%BC%E2%80%A6%E7%9F%A5%E8%AD%98%E3%81%AE%E9%87%8F%E3%81%AB%E3%81%AF%E6%87%B8%E5%BF%B5%E3%82%82"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AIで次のAIを開発…Googleの - 自己改善",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AI%E3%81%A7%E6%AC%A1%E3%81%AEAI%E3%82%92%E9%96%8B%E7%99%BA%E2%80%A6Google%E3%81%AE/_/%E8%87%AA%E5%B7%B1%E6%94%B9%E5%96%84"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "19:41",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - Geminiの会話力と独自の表現力",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/Gemini%E3%81%AE%E4%BC%9A%E8%A9%B1%E5%8A%9B%E3%81%A8%E7%8B%AC%E8%87%AA%E3%81%AE%E8%A1%A8%E7%8F%BE%E5%8A%9B"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-21 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:38",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - 家電でAIが自己増殖する未来",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E5%AE%B6%E9%9B%BB%E3%81%A7AI%E3%81%8C%E8%87%AA%E5%B7%B1%E5%A2%97%E6%AE%96%E3%81%99%E3%82%8B%E6%9C%AA%E6%9D%A5"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:34",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "AIの - 悪用を拒む仕組み",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/AI%E3%81%AE/_/%E6%82%AA%E7%94%A8%E3%82%92%E6%8B%92%E3%82%80%E4%BB%95%E7%B5%84%E3%81%BF"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - パスワード変更・2段階認証だけでは防げない理由",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E5%A4%89%E6%9B%B4%E3%83%BB2%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E9%98%B2%E3%81%92%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:23",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - スマホアプリの裏側を狙う攻撃とは",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E8%A3%8F%E5%81%B4%E3%82%92%E7%8B%99%E3%81%86%E6%94%BB%E6%92%83%E3%81%A8%E3%81%AF"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:22",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - AIサイバー攻撃 危ないのはこれから",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/AI%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83+%E5%8D%B1%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:20",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - 相次ぐ情報漏洩とAIの影響",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E7%9B%B8%E6%AC%A1%E3%81%90%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B4%A9%E3%81%A8AI%E3%81%AE%E5%BD%B1%E9%9F%BF"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - OpenAI社員が盗聴で逮捕",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/OpenAI%E7%A4%BE%E5%93%A1%E3%81%8C%E7%9B%97%E8%81%B4%E3%81%A7%E9%80%AE%E6%8D%95"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "「危機は年末」アンソロピック警告の新たな脅威／サイバー攻撃地獄の“先”／ - 「コアウィーブ・ショック」で日経平均暴落",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%80%8C%E5%8D%B1%E6%A9%9F%E3%81%AF%E5%B9%B4%E6%9C%AB%E3%80%8D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E8%AD%A6%E5%91%8A%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E8%84%85%E5%A8%81%EF%BC%8F%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%9C%B0%E7%8D%84%E3%81%AE%E2%80%9C%E5%85%88%E2%80%9D%EF%BC%8F/_/%E3%80%8C%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E3%80%8D%E3%81%A7%E6%97%A5%E7%B5%8C%E5%B9%B3%E5%9D%87%E6%9A%B4%E8%90%BD"
-    },
-    {
-      "date": "2026-10-21",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-10-21 厚い雲 22.4℃ (22.4〜22.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-21",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-21 07:00 JST)",
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
