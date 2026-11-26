@@ -1,6 +1,844 @@
 {
-  "generated_at": "2026-11-26T23:00:01.687265+09:00",
+  "generated_at": "2026-11-27T07:00:01.588860+09:00",
   "timeline": [
+    {
+      "date": "2026-11-27",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-11-27 晴天 7.2℃ (7.2〜7.2℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "オーバー！ - いよわ feat.初音ミク・歌愛ユキ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%EF%BC%81/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BB%E6%AD%8C%E6%84%9B%E3%83%A6%E3%82%AD"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "地球の裏 - いよわ feat.裏命",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%9C%B0%E7%90%83%E3%81%AE%E8%A3%8F/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E8%A3%8F%E5%91%BD"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ラストジャーニー - 初音ミク・flower",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BBflower"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - Time to renew",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/Time+to+renew"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:11",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "春嵐 - 初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%98%A5%E5%B5%90/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "いえない - ひらぎ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%84%E3%81%88%E3%81%AA%E3%81%84/_/%E3%81%B2%E3%82%89%E3%81%8E+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "バーバパパ - ただ浮かぶ脳裏のモーション　重音テト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%90%E3%83%BC%E3%83%90%E3%83%91%E3%83%91/_/%E3%81%9F%E3%81%A0%E6%B5%AE%E3%81%8B%E3%81%B6%E8%84%B3%E8%A3%8F%E3%81%AE%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "05:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "一億年恋してる - ついなちゃん",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%B8%80%E5%84%84%E5%B9%B4%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B/_/%E3%81%A4%E3%81%84%E3%81%AA%E3%81%A1%E3%82%83%E3%82%93"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "吉田楓 - 来訪者たち feat ナースロボ_タイプT (ボカコレ2026冬)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%90%89%E7%94%B0%E6%A5%93/_/%E6%9D%A5%E8%A8%AA%E8%80%85%E3%81%9F%E3%81%A1+feat+%E3%83%8A%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%9C_%E3%82%BF%E3%82%A4%E3%83%97T+(%E3%83%9C%E3%82%AB%E3%82%B3%E3%83%AC2026%E5%86%AC)"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "稲葉曇 - ラグトレイン",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%A8%B2%E8%91%89%E6%9B%87/_/%E3%83%A9%E3%82%B0%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ヘブンズバグ - いよわ feat.初音ミク・歌愛ユキ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%98%E3%83%96%E3%83%B3%E3%82%BA%E3%83%90%E3%82%B0/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BB%E6%AD%8C%E6%84%9B%E3%83%A6%E3%82%AD"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "いよわ/ iyowa - エンゼルケア",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%84%E3%82%88%E3%82%8F%2F+iyowa/_/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B1%E3%82%A2"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:44",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "黄金数（2024 ver.） - いよわ feat.初音ミク・flower",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%BB%84%E9%87%91%E6%95%B0%EF%BC%882024+ver.%EF%BC%89/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BBflower"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "アプリコット - いよわ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "大女優さん - いよわ feat.花隈千冬",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E5%A4%A7%E5%A5%B3%E5%84%AA%E3%81%95%E3%82%93/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E8%8A%B1%E9%9A%88%E5%8D%83%E5%86%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:34",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "電ǂ鯨 - 童話になったらいいのに",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E9%9B%BB%C7%82%E9%AF%A8/_/%E7%AB%A5%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AE%E3%81%AB"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "たぶん終わり - いよわ feat.初音ミク・flower",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%9F%E3%81%B6%E3%82%93%E7%B5%82%E3%82%8F%E3%82%8A/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BBflower"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ポプリさん - いよわ feat.初音ミク・flower",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%9D%E3%83%97%E3%83%AA%E3%81%95%E3%82%93/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%83%BBflower"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "異星にいこうね - いよわ feat.星界",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%95%B0%E6%98%9F%E3%81%AB%E3%81%84%E3%81%93%E3%81%86%E3%81%AD/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E6%98%9F%E7%95%8C"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:21",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "あだぽしゃ - いよわ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%BD%E3%81%97%E3%82%83/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:17",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ワンダー - r-906 feat. 初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC/_/r-906+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "東京真中 - ブレインロット feat. 重音テト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E7%9C%9F%E4%B8%AD/_/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%83%E3%83%88+feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "イガク - 重音テト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A4%E3%82%AC%E3%82%AF/_/%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "なかなおり - いよわ feat. 初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8A%E3%82%8A/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "1000年生きてる - いよわ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/1000%E5%B9%B4%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "04:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ももいろの鍵 - いよわ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%81%AE%E9%8D%B5/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "惑星直列 - いよわ feat. 足立レイV6・足立レイV5",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%83%91%E6%98%9F%E7%9B%B4%E5%88%97/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E8%B6%B3%E7%AB%8B%E3%83%AC%E3%82%A4V6%E3%83%BB%E8%B6%B3%E7%AB%8B%E3%83%AC%E3%82%A4V5"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:56",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "バベル - いよわ feat. 重音テト",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%90%E3%83%99%E3%83%AB/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "泡沫未来 - 初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%B3%A1%E6%B2%AB%E6%9C%AA%E6%9D%A5/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "パジャミィ - いよわ feat.初音ミク",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9F%E3%82%A3/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "きゅうくらりん - いよわ feat.可不",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%8F%AF%E4%B8%8D"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:43",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "散歩の邪魔 - いよわ feat. 春日部つむぎ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%95%A3%E6%AD%A9%E3%81%AE%E9%82%AA%E9%AD%94/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E6%98%A5%E6%97%A5%E9%83%A8%E3%81%A4%E3%82%80%E3%81%8E"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:40",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Slip - いよわ feat.GUMI",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Slip/_/%E3%81%84%E3%82%88%E3%82%8F+feat.GUMI"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "散歩の邪魔 - いよわ feat. 春日部つむぎ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%95%A3%E6%AD%A9%E3%81%AE%E9%82%AA%E9%AD%94/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E6%98%A5%E6%97%A5%E9%83%A8%E3%81%A4%E3%82%80%E3%81%8E"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:33",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "熱異常 - いよわ feat.足立レイ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E7%86%B1%E7%95%B0%E5%B8%B8/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E8%B6%B3%E7%AB%8B%E3%83%AC%E3%82%A4"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "散歩の邪魔 - いよわ feat. 春日部つむぎ",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E6%95%A3%E6%AD%A9%E3%81%AE%E9%82%AA%E9%AD%94/_/%E3%81%84%E3%82%88%E3%82%8F+feat.+%E6%98%A5%E6%97%A5%E9%83%A8%E3%81%A4%E3%82%80%E3%81%8E"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ぷらいまり - いよわ feat.可不",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%81%B7%E3%82%89%E3%81%84%E3%81%BE%E3%82%8A/_/%E3%81%84%E3%82%88%E3%82%8F+feat.%E5%8F%AF%E4%B8%8D"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Je Veux Un Vieux - Kahimi Karie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Je+Veux+Un+Vieux/_/Kahimi+Karie"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "You Make Me Blue (ユー・メイク・ミー・ブルー) - Toshihiro Nakanishi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/You+Make+Me+Blue+(%E3%83%A6%E3%83%BC%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC)/_/Toshihiro+Nakanishi"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "In Your Maze (イン・ユア・メイズ) - Toshihiro Nakanishi, Yoko Kanno",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/In+Your+Maze+(%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%A6%E3%82%A2%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%BA)/_/Toshihiro+Nakanishi,+Yoko+Kanno"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "03:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Love Is... - POiSON GiRL FRiEND",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Love+Is.../_/POiSON+GiRL+FRiEND"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Minasoko ni Nemure (水底に眠れ) - The Thrill, Yukarie",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Minasoko+ni+Nemure+(%E6%B0%B4%E5%BA%95%E3%81%AB%E7%9C%A0%E3%82%8C)/_/The+Thrill,+Yukarie"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:51",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hiver / Interview - Taeko Onuki",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hiver+%2F+Interview/_/Taeko+Onuki"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Wakaki Hi No Bourou (若き日の望楼) - Taeko Onuki",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Wakaki+Hi+No+Bourou+(%E8%8B%A5%E3%81%8D%E6%97%A5%E3%81%AE%E6%9C%9B%E6%A5%BC)/_/Taeko+Onuki"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Everything - The Black Skirts",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Everything/_/The+Black+Skirts"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:35",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Rise - Sugar Plant",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Rise/_/Sugar+Plant"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "My Favourite Things - Hi-Posi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/My+Favourite+Things/_/Hi-Posi"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Disillusion - Tainaka Sachi",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Disillusion/_/Tainaka+Sachi"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:23",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Winter Lane - DSK",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Winter+Lane/_/DSK"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "02:03",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:58",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "happyender girl - 死と腐敗",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/happyender+girl/_/%E6%AD%BB%E3%81%A8%E8%85%90%E6%95%97"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "01:13",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:54",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:30",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Her Tv - 空木ねいろ 解説",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Her+Tv/_/%E7%A9%BA%E6%9C%A8%E3%81%AD%E3%81%84%E3%82%8D+%E8%A7%A3%E8%AA%AC"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Illyuziya",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Illyuziya"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Cathode Rays",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Cathode+Rays"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:15",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Hypnosis",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Hypnosis"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Hello Earth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Hello+Earth"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:07",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Venus Aire",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Venus+Aire"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:04",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Exordium",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Exordium"
+    },
+    {
+      "date": "2026-11-27",
+      "time": "00:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Hazy Trip",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Hazy+Trip"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Windows96 - Deep Swim",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Windows96/_/Deep+Swim"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Something About Us",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Something+About+Us"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 4時間20分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:47",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Instant Crush  ft. Julian Casablancas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Instant+Crush++ft.+Julian+Casablancas"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yapoos - 赤い戦車 = Red Tank",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yapoos/_/%E8%B5%A4%E3%81%84%E6%88%A6%E8%BB%8A+=+Red+Tank"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:38",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Haniwa Chan - ウェイトレス = Waitress",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Haniwa+Chan/_/%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88%E3%83%AC%E3%82%B9+=+Waitress"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "kidorikko - マイコン・マイム・マリオネット = Microcomputer Mime Marionette",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/kidorikko/_/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%A0%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%83%E3%83%88+=+Microcomputer+Mime+Marionette"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:29",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Susan - Ah! Soka",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Susan/_/Ah!+Soka"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:25",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yapoos - 3つ数えろ = Count To Three",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yapoos/_/3%E3%81%A4%E6%95%B0%E3%81%88%E3%82%8D+=+Count+To+Three"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "23:11",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "愛知県は田舎臭い",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/au173ffac3th6u4q"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Apogee & Perigee - 逆さ賢人・イーガス = Igas the Inverted Sage",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Apogee+&+Perigee/_/%E9%80%86%E3%81%95%E8%B3%A2%E4%BA%BA%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%AC%E3%82%B9+=+Igas+the+Inverted+Sage"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:16",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Susan - シャボン・ドール = Savon Doll",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Susan/_/%E3%82%B7%E3%83%A3%E3%83%9C%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BC%E3%83%AB+=+Savon+Doll"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:12",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Taeko Ohnuki - Labyrinth",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Taeko+Ohnuki/_/Labyrinth"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:08",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Miharu Koshi - Scandal Night",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Miharu+Koshi/_/Scandal+Night"
+    },
     {
       "date": "2026-11-26",
       "time": "22:05",
@@ -210,6 +1048,16 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/Sade/_/Keep+Looking"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:10",
+      "src_id": 5,
+      "src_type": "rss",
+      "text": "healthy charamaker を idoko.org 18+ へ移転（Neocities 上は案内ページ）",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://yuinoid.neocities.org/game/charamake/"
     },
     {
       "date": "2026-11-26",
@@ -490,12 +1338,32 @@
     },
     {
       "date": "2026-11-25",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-25 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-11-25",
       "time": "09:00",
       "src_id": 7,
       "src_type": "weather",
       "text": "2026-11-25 晴天 5.5℃ (5.5〜5.5℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-11-25",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-25 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-11-24",
@@ -8367,291 +9235,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-28",
-      "time": "23:40",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "消費カロリー: 0kcal / 運動: 0分",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-28",
-      "time": "23:30",
-      "src_id": 9,
-      "src_type": "health",
-      "text": "歩数: 3,582歩 / 心拍数: 86bpm",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-28",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 0枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-28",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-28 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-28 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-10-28 晴天 15.0℃ (15.0〜15.0℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-28",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-28 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "04:43",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 3件: Enhance character customization UI and functionality / Refactor category rendering logic in character customization / Refactor character customization controls and enhance UI elements",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "03:49",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 1件: Add changelog entry for site design updates",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "03:46",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/100percent-health: Push 6件: Enhance character customization UI and interactions / Implement preview transition effects in character customization / Enhance character customization preview performance and visual feedback / Add image preloading functionality for character customization / Remove obsolete sample data for character customization",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/100percent-health"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "02:05",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - PEAK TIME",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/PEAK+TIME"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "02:00",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - CITY2CITY",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/CITY2CITY"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - NOBODY",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/NOBODY"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - パソコン音楽クラブ −  Panorama",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92++Panorama"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Dirty Androids - On The West Coastline (feat. ぷにぷに電機)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Dirty+Androids/_/On+The+West+Coastline+(feat.+%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB%E9%9B%BB%E6%A9%9F)"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:37",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Jazztronik Official - TIGER EYES",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Jazztronik+Official/_/TIGER+EYES"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - Don't You Know My Love? (feat. HITOMITOI)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/Don%27t+You+Know+My+Love%3F+(feat.+HITOMITOI)"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - SOMEBODY TORE MY P",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/SOMEBODY+TORE+MY+P"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:18",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "パソコン音楽クラブ - wonders",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96/_/wonders"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:13",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - パソコン音楽クラブ − wonders (Official Visualiser)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92+wonders+(Official+Visualiser)"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:09",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - パソコン音楽クラブ − Hello feat.Cwondo",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92+Hello+feat.Cwondo"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "01:04",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "パソコン音楽クラブ / PASOCOM MUSIC CLUB - パソコン音楽クラブ − Day After Day feat. Mei Takahashi",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%2F+PASOCOM+MUSIC+CLUB/_/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%9F%B3%E6%A5%BD%E3%82%AF%E3%83%A9%E3%83%96+%E2%88%92+Day+After+Day+feat.+Mei+Takahashi"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - Angels On The Dancefloor",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/Angels+On+The+Dancefloor"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Bladee & Mechatok - Rainbow",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Bladee+&+Mechatok/_/Rainbow"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "tofubeats - 陰謀論 (CONSPIRACY THEORY)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/tofubeats/_/%E9%99%B0%E8%AC%80%E8%AB%96+(CONSPIRACY+THEORY)"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "電気グルーヴ OFFICIAL YOUTUBE CHANNEL - DENKI GROOVE DECADE 2008～2017 DIGEST",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4+OFFICIAL+YOUTUBE+CHANNEL/_/DENKI+GROOVE+DECADE+2008%EF%BD%9E2017+DIGEST"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:25",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "hakaihan - 錆びた斧を磨いたり研いだりしました",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/hakaihan/_/%E9%8C%86%E3%81%B3%E3%81%9F%E6%96%A7%E3%82%92%E7%A3%A8%E3%81%84%E3%81%9F%E3%82%8A%E7%A0%94%E3%81%84%E3%81%A0%E3%82%8A%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "00:15",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "hakaihan - 寛永通宝磨き2025(冬)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/hakaihan/_/%E5%AF%9B%E6%B0%B8%E9%80%9A%E5%AE%9D%E7%A3%A8%E3%81%8D2025(%E5%86%AC)"
     }
   ]
 }
