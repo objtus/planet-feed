@@ -1,6 +1,386 @@
 {
-  "generated_at": "2026-11-26T15:00:01.883030+09:00",
+  "generated_at": "2026-11-26T23:00:01.687265+09:00",
   "timeline": [
+    {
+      "date": "2026-11-26",
+      "time": "22:05",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Yukihiro Takahashi - 使いすてハート = Disposable Love",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Yukihiro+Takahashi/_/%E4%BD%BF%E3%81%84%E3%81%99%E3%81%A6%E3%83%8F%E3%83%BC%E3%83%88+=+Disposable+Love"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:02",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mariah - 心臓の扉 = The Door To The Heart",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mariah/_/%E5%BF%83%E8%87%93%E3%81%AE%E6%89%89+=+The+Door+To+The+Heart"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chiemi Manabe - うんととおく= Very, Very Far Away",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chiemi+Manabe/_/%E3%81%86%E3%82%93%E3%81%A8%E3%81%A8%E3%81%8A%E3%81%8F=+Very,+Very+Far+Away"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "22:00",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Hiromi Otha - ランドリー = Laundry",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Hiromi+Otha/_/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC+=+Laundry"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:59",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "HANIWA - 見合の鯉心 = A Koi’s Heart During a Matchmaking Meeting",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/HANIWA/_/%E8%A6%8B%E5%90%88%E3%81%AE%E9%AF%89%E5%BF%83+=+A+Koi%E2%80%99s+Heart+During+a+Matchmaking+Meeting"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:52",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - when sunday comes around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/when+sunday+comes+around"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:41",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - #19",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/%2319"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - Blackbox Life Recorder 21f",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/Blackbox+Life+Recorder+21f"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:32",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - No Nightmares",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/No+Nightmares"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:26",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tycho - Send and Receive (Chachi Jones remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tycho/_/Send+and+Receive+(Chachi+Jones+remix)"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:22",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - Animals (Director's Cut)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/Animals+(Director%27s+Cut)"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:18",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - A Barely Lit Path",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/A+Barely+Lit+Path"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "21:06",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Oneohtrix Point Never - R Plus Seven",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Oneohtrix+Point+Never/_/R+Plus+Seven"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:55",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "G. Cook - The Darkness (Megamix) feat. Sarah Bonito & Hannah Diamond",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/G.+Cook/_/The+Darkness+(Megamix)+feat.+Sarah+Bonito+&+Hannah+Diamond"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Chic - I Want Your Love (Tour-Maubourg Edit)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Chic/_/I+Want+Your+Love+(Tour-Maubourg+Edit)"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:46",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "bôa - Duvet",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:42",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sting - Englishman in New York",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sting/_/Englishman+in+New+York"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:36",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウォーレス・コレクション - Daydream",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/Daydream"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:27",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Jimmy Ponder - Peace Movement",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Jimmy+Ponder/_/Peace+Movement"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "サンバースト (Sunburst) - Gentle Talk",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%B5%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88+(Sunburst)/_/Gentle+Talk"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Keep Looking",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Keep+Looking"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:09",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - Maureen",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/Maureen"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "20:01",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "The Jones Girls - Nights Over Egypt (Groovefunkel Remix)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/The+Jones+Girls/_/Nights+Over+Egypt+(Groovefunkel+Remix)"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "19:57",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Tears for Fears - Everybody Wants to Rule the World",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "19:53",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Grimes - Oblivion",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Grimes/_/Oblivion"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "19:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Instant Crush  ft. Julian Casablancas",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Instant+Crush++ft.+Julian+Casablancas"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "19:10",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Something About Us",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Something+About+Us"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "18:29",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "きわどいやつ消して再審査メールを送るかそのままにするか悩む",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/au0x1azsc3th6tws"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "18:10",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "私の個人サイトですが、最近neocitiesに自動でnsfwフラグを立てられてしまったみたいで、現在neocities内の検索とかブラウズ機能からはじかれています",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/au0wcav2c3th6twh"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "17:45",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Sade - the best of ( on vinyl)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Sade/_/the+best+of+(+on+vinyl)"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "14:08",
+      "src_id": 2,
+      "src_type": "misskey",
+      "text": "ボトムズ映画観る",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://tanoshii.site/notes/au0noq6dc3th6ts7"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:37",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Aphex Twin - 1",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Aphex+Twin/_/1"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:31",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Daft Punk - Veridis Quo",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Daft+Punk/_/Veridis+Quo"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:28",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Depresión Sonora - Ya No Hay Verano",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Depresi%C3%B3n+Sonora/_/Ya+No+Hay+Verano"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:24",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Mount Kimbie - Marilyn ft. Micachu",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Mount+Kimbie/_/Marilyn+ft.+Micachu"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:19",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "Marlon Funaki - when sunday comes around",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/Marlon+Funaki/_/when+sunday+comes+around"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:14",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "ウォーレス・コレクション - Daydream",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/_/Daydream"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "11:50",
+      "src_id": 4,
+      "src_type": "lastfm",
+      "text": "予備校のノリで学ぶ「大学の数学・物理」 - 聞いてください、リーマン予想が証明された可能性が極めて高いです",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://www.last.fm/music/%E4%BA%88%E5%82%99%E6%A0%A1%E3%81%AE%E3%83%8E%E3%83%AA%E3%81%A7%E5%AD%A6%E3%81%B6%E3%80%8C%E5%A4%A7%E5%AD%A6%E3%81%AE%E6%95%B0%E5%AD%A6%E3%83%BB%E7%89%A9%E7%90%86%E3%80%8D/_/%E8%81%9E%E3%81%84%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%81%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E4%BA%88%E6%83%B3%E3%81%8C%E8%A8%BC%E6%98%8E%E3%81%95%E3%82%8C%E3%81%9F%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%8C%E6%A5%B5%E3%82%81%E3%81%A6%E9%AB%98%E3%81%84%E3%81%A7%E3%81%99"
+    },
     {
       "date": "2026-11-26",
       "time": "09:00",
