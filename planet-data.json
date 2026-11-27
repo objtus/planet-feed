@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-27T23:00:01.988682+09:00",
+  "generated_at": "2026-11-28T07:00:02.071478+09:00",
   "timeline": [
+    {
+      "date": "2026-11-28",
+      "time": "09:00",
+      "src_id": 7,
+      "src_type": "weather",
+      "text": "2026-11-28 適度な雨 12.8℃ (12.8〜12.8℃)",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-27",
+      "time": "23:50",
+      "src_id": 18,
+      "src_type": "screen_time",
+      "text": "スクリーンタイム: 15時間0分",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-27",
+      "time": "23:30",
+      "src_id": 9,
+      "src_type": "health",
+      "text": "歩数: 3,168歩 / 心拍数: 93bpm",
+      "is_boost": false,
+      "has_media": false
+    },
+    {
+      "date": "2026-11-27",
+      "time": "23:10",
+      "src_id": 10,
+      "src_type": "photo",
+      "text": "写真 24枚",
+      "is_boost": false,
+      "has_media": false
+    },
     {
       "date": "2026-11-27",
       "time": "14:20",
@@ -19,6 +55,16 @@
       "text": "2026-11-27 晴天 7.2℃ (7.2〜7.2℃)",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-11-27",
+      "time": "07:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-27 07:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-11-27",
@@ -1161,6 +1207,16 @@
     },
     {
       "date": "2026-11-26",
+      "time": "15:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-26 15:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
+    },
+    {
+      "date": "2026-11-26",
       "time": "14:08",
       "src_id": 2,
       "src_type": "misskey",
@@ -1265,6 +1321,16 @@
       "text": "写真 1枚",
       "is_boost": false,
       "has_media": false
+    },
+    {
+      "date": "2026-11-25",
+      "time": "23:00",
+      "src_id": 8,
+      "src_type": "github",
+      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-11-25 23:00 JST)",
+      "is_boost": false,
+      "has_media": false,
+      "url": "https://github.com/objtus/planet-feed"
     },
     {
       "date": "2026-11-25",
@@ -8908,343 +8974,6 @@
       "is_boost": false,
       "has_media": false,
       "url": "https://www.last.fm/music/%EF%BC%92%E5%B9%B4%E3%81%B6%E3%82%8A%EF%BC%81%E3%81%88%E3%81%AA%E3%82%8A%E3%81%8B%E3%81%9A%E3%81%8D%E3%81%95%E3%82%93%E3%81%8C%E4%B8%8A%E7%94%B0%E3%81%95%E3%82%93%E3%81%B8%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%92%E4%BC%9D%E3%81%88%E3%81%AB%E3%81%8D%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/_/%E5%A4%AA%E7%94%B0%E4%B8%8A%E7%94%B0%EF%BC%83%EF%BC%95%EF%BC%96%EF%BC%94%E2%91%A0"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "23:50",
-      "src_id": 18,
-      "src_type": "screen_time",
-      "text": "スクリーンタイム: 0秒",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-29",
-      "time": "23:10",
-      "src_id": 10,
-      "src_type": "photo",
-      "text": "写真 2枚",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-29",
-      "time": "23:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-29 23:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:55",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - SiLC · In Heaven",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/SiLC+%C2%B7+In+Heaven"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Toshiyuki O'mori · Gibbous Moon",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Toshiyuki+O%27mori+%C2%B7+Gibbous+Moon"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:47",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Yoko Kanno · Cyberbird",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Yoko+Kanno+%C2%B7+Cyberbird"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:44",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Yuki Kajiura · shadows and fog",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Yuki+Kajiura+%C2%B7+shadows+and+fog"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:40",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Maaya Sakamoto · Yakusoku wa Iranai",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Maaya+Sakamoto+%C2%B7+Yakusoku+wa+Iranai"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:39",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Takayuki Negishi · 夢",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Takayuki+Negishi+%C2%B7+%E5%A4%A2"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Weksi - Ichiko Hashimoto · yume no tamago",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Weksi/_/Ichiko+Hashimoto+%C2%B7+yume+no+tamago"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "15:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-29 15:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:35",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "Relaxing Music Tokyo - 太田光と15人のしゃべり手 ゲスト：有吉弘行 2026.10.26",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/Relaxing+Music+Tokyo/_/%E5%A4%AA%E7%94%B0%E5%85%89%E3%81%A815%E4%BA%BA%E3%81%AE%E3%81%97%E3%82%83%E3%81%B9%E3%82%8A%E6%89%8B+%E3%82%B2%E3%82%B9%E3%83%88%EF%BC%9A%E6%9C%89%E5%90%89%E5%BC%98%E8%A1%8C+2026.10.26"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:31",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Cheek Bones",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Cheek+Bones"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "RONDAN FES 2026 in IZU × - 宮台真司、ダースレイダー、石橋直樹、山下佳也",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/RONDAN+FES+2026+in+IZU+%C3%97/_/%E5%AE%AE%E5%8F%B0%E7%9C%9F%E5%8F%B8%E3%80%81%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC%E3%80%81%E7%9F%B3%E6%A9%8B%E7%9B%B4%E6%A8%B9%E3%80%81%E5%B1%B1%E4%B8%8B%E4%BD%B3%E4%B9%9F"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:29",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Stuck 3 (RATS)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+3+(RATS)"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:24",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Niggas",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Niggas"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:21",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Stuck 2",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+2"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:16",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Eternal Condition",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Eternal+Condition"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:14",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Upper East Side Pussy",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Upper+East+Side+Pussy"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:12",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "@IamnotHayato@mastodon.social 日石のロゴがこのまえツイッターで話題になってたな",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aswnhsrxc3th635j"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:08",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - City Smells",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/City+Smells"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:08",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "おれだってエロゲ作りたい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aswncougc3th635h"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:07",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "時代感じるよね　たしか「不気味の谷」用語の初出もエナジーに寄稿されたエッセイという記憶がある",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aswnc3yqc3th635d"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:07",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Stuck 1",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Stuck+1"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:02",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Beautiful Jon K.",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Beautiful+Jon+K."
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13:59",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Close Ups",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Close+Ups"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13:56",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - QR JR",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/QR+JR"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13:52",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Fake Pain",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Fake+Pain"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13:50",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "James Ferraro - Intro",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/James+Ferraro/_/Intro"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "12:49",
-      "src_id": 2,
-      "src_type": "misskey",
-      "text": "https://melkdo.jp/collection/%e3%82%a8%e3%83%8a%e3%82%b8%e3%83%bc　https://www.mitsubachi-books.com/43304/　エッソって、かっこいい",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://tanoshii.site/notes/aswkjnuvc3th6348"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "10:30",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "25年後の - 多種多様なリズムと社会的な喧噪",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/25%E5%B9%B4%E5%BE%8C%E3%81%AE/_/%E5%A4%9A%E7%A8%AE%E5%A4%9A%E6%A7%98%E3%81%AA%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E7%A4%BE%E4%BC%9A%E7%9A%84%E3%81%AA%E5%96%A7%E5%99%AA"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "10:27",
-      "src_id": 4,
-      "src_type": "lastfm",
-      "text": "25年後の - 奇妙なルソーの参照",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://www.last.fm/music/25%E5%B9%B4%E5%BE%8C%E3%81%AE/_/%E5%A5%87%E5%A6%99%E3%81%AA%E3%83%AB%E3%82%BD%E3%83%BC%E3%81%AE%E5%8F%82%E7%85%A7"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "09:00",
-      "src_id": 7,
-      "src_type": "weather",
-      "text": "2026-10-29 晴天 10.4℃ (10.4〜10.4℃)",
-      "is_boost": false,
-      "has_media": false
-    },
-    {
-      "date": "2026-10-29",
-      "time": "07:00",
-      "src_id": 8,
-      "src_type": "github",
-      "text": "objtus/planet-feed: Push 1件: Update planet feed (2026-10-29 07:00 JST)",
-      "is_boost": false,
-      "has_media": false,
-      "url": "https://github.com/objtus/planet-feed"
     }
   ]
 }
